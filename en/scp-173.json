@@ -1,0 +1,19 @@
+{
+  "slug": "scp-173",
+  "lang": "en",
+  "hook": "This is where it all started: a few short paragraphs and a single rule built around something you do thousands of times a day without noticing. Read it slowly and notice how little it actually tells you. The fear isn't in the description of the creature; it's in what the rule demands of the people standing in the room.",
+  "whyItMatters": "SCP-173 first appeared in 2007 as an anonymous post on 4chan's paranormal board, and the layout it used (item number, object class, containment procedures, description) became the template that thousands of later articles follow. The detached, report-style voice that defines the whole wiki was set here, in one of its shortest entries.\n\nThe image history matters too. The sculpture photo long associated with the article is a real artwork, Izumi Kato's \"Untitled 2004\", which the artist allowed fans to use for non-commercial purposes only. Neither the English nor the Japanese page currently displays it, and the licensing notes explain why fan projects can't freely reuse it.",
+  "thingsToNotice": "Notice that the containment procedures are written for the staff rather than the object: a minimum headcount, two designated watchers, a warning before every blink. The horror lives in the logistics. The description then undercuts its own calm with small unexplained details, such as sounds from an empty cell and a fixed cleaning schedule, that make you picture what happens when nobody is watching without ever showing it.\n\nThe brevity is the technique: origin and purpose are left blank, and the article trusts you to fill the gap yourself. Later articles often build depth with interviews and addenda; this one shows how far a single well-chosen constraint can carry a story.",
+  "related": [
+    {
+      "slug": "scp-096",
+      "note": "The mirror image of 173's rule: here, looking is exactly what you must not do."
+    },
+    {
+      "slug": "scp-087",
+      "note": "Another early, compact file that gets its effect from restraint and implication."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

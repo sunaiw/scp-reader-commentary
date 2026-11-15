@@ -1,0 +1,19 @@
+{
+  "slug": "scp-096",
+  "lang": "en",
+  "hook": "SCP-096 is built around a single trigger, and the article makes sure you understand how easy it is to set off. The most memorable part isn't the description but the interview at the end: the voice of someone who was there, and the one small moment that kept him alive.",
+  "whyItMatters": "Alongside 173, 096 is one of the wiki's best-known rule-based anomalies, defined less by what it is than by the condition that sets it off. A premise you can explain in one sentence travels well, and 096 spread far beyond the site through fan art, videos and games such as the free horror game SCP - Containment Breach.\n\nIt also shows how bureaucracy can become part of the story. A termination request moves from petition to approval within a few lines, and the outcome is handed off to an incident report that the article never includes.",
+  "thingsToNotice": "Look at what the containment procedures forbid: not weapons or open doors, but cameras and photographs. Because the hazard is information about the face, the document treats images themselves as dangerous, and then notes almost in passing that artistic depictions are an exception. That one aside sets up the final exchange of the interview.\n\nThe interview does the emotional work the clinical sections refuse to do. The captain's rough, profane voice cuts sharply against the report's measured tone, and his answer to the last question lands harder than any statistic in the file.",
+  "related": [
+    {
+      "slug": "scp-173",
+      "note": "The opposite rule: a creature you must never stop looking at."
+    },
+    {
+      "slug": "scp-055",
+      "note": "Another anomaly where perceiving it is the problem, this time through memory rather than sight."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

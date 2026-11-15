@@ -1,0 +1,19 @@
+{
+  "slug": "scp-999",
+  "lang": "en",
+  "hook": "Not every SCP is out to frighten you. SCP-999 is a deliberate change of pace: a Safe-class object whose containment procedures read more like pet-care instructions. If you have just come from the heavier Series I classics, this is a good one to read next.",
+  "whyItMatters": "999 shows the range of the format. The same clinical template used for monsters is applied here to something warm and harmless, and the humor works precisely because the voice never changes. It has become one of the wiki's best-loved lighthearted entries and a common counterweight to the Foundation's darker side in fan works.\n\nIts best-known scene is a crossover with SCP-682, an early example of articles treating other SCPs as a shared cast of characters.",
+  "thingsToNotice": "See how the procedures invert the usual priorities: staff are encouraged to visit, the pen exists for its own safety, and boredom is treated as a containment concern. Small specifics, such as favorite sweets, changing scents and a reprimand over a soft drink, do the characterization that dialogue does elsewhere.\n\nThe 682 addendum is a tonal experiment. It plays the encounter for comedy without pretending there are no consequences, and the researcher's closing memo tells you exactly how the article wants you to feel. Notice also the line about its interest in people who are hurting; it gives the creature a purpose beyond being cute.",
+  "related": [
+    {
+      "slug": "scp-682",
+      "note": "Read the monster's own file to appreciate how strange its appearance here really is."
+    },
+    {
+      "slug": "scp-500",
+      "note": "Another Safe-class object that is, at heart, about healing."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

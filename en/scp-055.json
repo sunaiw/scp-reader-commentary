@@ -1,0 +1,19 @@
+{
+  "slug": "scp-055",
+  "lang": "en",
+  "hook": "SCP-055 is about something you can't keep in your head, and it is written so that you feel that rather than just read about it. Go in expecting a puzzle rather than a monster, and pay as much attention to how the sentences are built as to what they say.",
+  "whyItMatters": "055 is one of the wiki's foundational anti-meme articles, built on the idea of information that actively removes itself from memory. Co-author qntm is also the writer behind the Antimemetics Division stories, which take the concept much further, so this file is a natural starting point for that whole thread.\n\nIt is also a good example of conceptual horror. Its Keter classification isn't about any demonstrated physical danger; the document openly admits it cannot tell whether there is any, and that uncertainty is the threat.",
+  "thingsToNotice": "The description is built as a list of unknowns, and the repetition is the point. By the time it mentions people periodically rediscovering this very file, the article has quietly turned its attention to you. The self-reference is light but effective.\n\nThe debriefing is the clever turn: instead of trying to remember what the object is, the team holds on to what it isn't, and the dialogue loops as the trick works and fails in real time. The link at the bottom continues the story and is worth reading straight afterward.",
+  "related": [
+    {
+      "slug": "scp-096",
+      "note": "Another anomaly where perceiving it is the danger, there through sight, here through memory."
+    },
+    {
+      "slug": "scp-173",
+      "note": "The opposite relationship to attention: an object you must never stop observing."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "scp-087",
+  "lang": "en",
+  "hook": "SCP-087 is a staircase, and the main file tells you little more than that. The real experience is in the linked exploration logs, so read them in order, ideally somewhere quiet. Each descent begins the same way, which is exactly why the small differences land.",
+  "whyItMatters": "087 is one of the wiki's clearest examples of horror built from space and sound rather than a visible monster: a repeating geometry, a light that won't reach far enough, and a voice that never gets any closer. It shows how much dread a document can generate through structure and withholding alone.\n\nIt is also a good example of the wiki's multi-page format. The core file is short, and the exploration documents (087-I to 087-III) carry the narrative, so the full experience depends on clicking through to them.",
+  "thingsToNotice": "Track the numbers. Each exploration logs flights, landings and elapsed minutes, and the counts turn into a countdown as you start anticipating the landing where something changed last time. The researcher's polite, repetitive instructions escalate quietly too; notice how often the subjects ask to stop, and how the answer never changes.\n\nThe ending is handled almost entirely through omission: the final exploration is expunged, and what remains is a brief note about sounds from behind the door and the padding added in response. That one practical detail tells you more than a full account would.",
+  "related": [
+    {
+      "slug": "scp-3008",
+      "note": "Another interior far larger than its building allows, explored in a very different, almost comic voice."
+    },
+    {
+      "slug": "scp-173",
+      "note": "An early, minimal file that also draws its fear from what isn't shown."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

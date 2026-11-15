@@ -1,0 +1,19 @@
+{
+  "slug": "scp-049",
+  "lang": "en",
+  "hook": "SCP-049 talks: politely, eloquently, and with complete conviction that it is helping. Expect a character study more than a creature feature. One question is worth carrying through the whole article: what does it actually believe it is curing?",
+  "whyItMatters": "The version you read today is a 2018 rewrite by djkaktus and the original author Gabriel Jade, replacing the first version from 2009. It's a clear example of how the wiki revisits its classics: the core image stays, while interviews, audio logs and a fuller arc are added to meet modern expectations.\n\nThe plague-doctor silhouette made 049 instantly recognizable, and it became one of the franchise's stock faces in fan art and fan games such as SCP - Containment Breach. The rewrite gives that familiar figure an inner life to match.",
+  "thingsToNotice": "The article is shaped as an arc: discovery, a cordial first interview, careful observation logs, and then an incident that changes the tone completely. The early logs make 049 almost likable, fussy, proud and generous with its notes, so that the later turn hits harder.\n\nRead the footnotes; they quietly answer questions the main text leaves open, including one about its journals. The attending researcher's note at the end of the observation addendum plants the idea that 049 may understand more than it admits, which reframes the final interviews. The last line leaves the story open rather than resolved.",
+  "related": [
+    {
+      "slug": "scp-682",
+      "note": "Another intelligent, hostile entity revealed through interviews, driven by open contempt rather than conviction."
+    },
+    {
+      "slug": "scp-035",
+      "note": "A different talkative, persuasive anomaly that tests how far staff should trust what they are told."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

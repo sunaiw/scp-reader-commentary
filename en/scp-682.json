@@ -1,0 +1,19 @@
+{
+  "slug": "scp-682",
+  "lang": "en",
+  "hook": "SCP-682 is the Foundation's least solvable problem, and the article admits it from the very first sentence of its containment procedures. Read it as a portrait of an organization facing something it cannot beat, and pay attention to how calmly the paperwork records that fact.",
+  "whyItMatters": "682 is one of the most famous Keter-class entries on the wiki, and it became a kind of shared stage. The article itself brings in several other SCPs, and its linked termination log turned the question of what might finally work against it into a long-running parade of crossovers through which many readers first meet other anomalies.\n\nThe credits name Dr Gears and Epic Phail Spy, and a \"Dr. Gears\" also appears inside the file as a researcher making suggestions. Early authors writing themselves into the setting is a small but characteristic habit of the wiki's first series.",
+  "thingsToNotice": "Notice the ordering: the instruction to destroy it comes before any explanation of how to hold it. The breach list then tells a story through formatting alone; the names, ranks and repeated casualty markers convey the cost without a single dramatic sentence.\n\nThe interview fragment is short but carefully placed. 682 barely speaks, and what it does say sums up its view of humanity. The termination addendum shows it adapting to an attack, which quietly changes the rules for every future attempt and sets up the separate termination log.",
+  "related": [
+    {
+      "slug": "scp-999",
+      "note": "Contains a famous and very different encounter with 682, the same monster seen through comedy."
+    },
+    {
+      "slug": "scp-079",
+      "note": "The machine intelligence 682 is noted to have communicated with, a quieter kind of hostile mind."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}
