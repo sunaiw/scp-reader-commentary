@@ -1,0 +1,19 @@
+{
+  "slug": "scp-4999",
+  "lang": "en",
+  "hook": "This is a quiet, short article with no breach, no monster and very little action. Read the description of the entity's behavior slowly; the details are small and deliberate. It's also worth noticing who the document says this happens to, and how that list makes you feel.",
+  "whyItMatters": "It's a well-known example of an SCP that sets out to move the reader rather than frighten them. The file is technically classed Keter and uncontained, yet nothing in it is a threat in the usual sense, which says something about how awkwardly the Foundation's labels fit some of the things they're attached to. The opening photo caption is a small masterpiece of setup in a single line.",
+  "thingsToNotice": "The list of traits that make a visit more likely is the emotional center of the piece. It reads like a clinical profile, but it describes people society has stopped noticing, and the entity seems to seek them out for exactly that reason. The cigarette left behind is the only physical trace, a detail that works both as a forensic clue and as a kind of keepsake. The last section, about depictions across history, widens the frame from individual deaths to something that has apparently always been with us.",
+  "related": [
+    {
+      "slug": "scp-999",
+      "note": "Another entity whose whole purpose seems to be comfort."
+    },
+    {
+      "slug": "scp-3001",
+      "note": "The opposite situation: a man facing the end with no one at all."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "scp-426",
+  "lang": "en",
+  "hook": "Keep an eye on the pronouns. The whole document is narrated in a voice that shouldn't be there, and once you notice why, every line of the containment procedures reads differently. It's short enough to read twice, and the second pass is worth it.",
+  "whyItMatters": "426 is one of the wiki's best-known pieces of linguistic weirdness: a mundane kitchen appliance made strange purely through grammar. Its central gimmick has become a familiar running joke in the community. It also showed early on that an article's prose style could itself be the anomalous property, not just the way the anomaly is reported.",
+  "thingsToNotice": "The humor and the horror sit side by side. The first-person framing is funny on its face, yet the discovery section describes a family tragedy in flat, matter-of-fact terms, and the joke never lets you laugh comfortably. In the experiment logs, watch the test where only a tiny piece of the object is shown to a subject: it quietly suggests that destroying the thing would not end the problem. The researcher's closing note works as a punchline and as a sign of how far the effect has already spread.",
+  "related": [
+    {
+      "slug": "scp-2521",
+      "note": "Another article where the way you describe the anomaly is the whole problem."
+    },
+    {
+      "slug": "scp-3999",
+      "note": "A far darker experiment in a document losing control of its own voice."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "scp-3001",
+  "lang": "en",
+  "hook": "Almost the entire article is one man's audio log, recorded alone in total darkness with only a small indicator light for company. It's long and emotionally heavy, and it doesn't hurry. Give it an uninterrupted sitting, and listen for how the way he talks changes over time.",
+  "whyItMatters": "3001 is one of the most widely read psychological horror pieces on the site, and the bond between a stranded researcher and an inanimate light is the part most readers remember. It also adds to the wiki's reality-science vocabulary, with Hume levels and early reality-anchor technology at the center of the story. A footnote tying the failed prototype to later anchor designs quietly connects it to the wider canon.",
+  "thingsToNotice": "The first and last lines of the log mirror each other, and the repetition hits very differently the second time. Track the time stamps too: the gaps between entries tell their own story, especially where the panel only reads out dates. The personality Robert gives the light is a coping device that slowly becomes a real character for the reader as well. The closing scene is told entirely through other voices, which keeps the worst of it offscreen and makes it harder to shake.",
+  "related": [
+    {
+      "slug": "scp-3999",
+      "note": "Another researcher trapped with something that unmakes reality, told in a far stranger register."
+    },
+    {
+      "slug": "scp-087",
+      "note": "A different descent into a dark space with no visible bottom."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

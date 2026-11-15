@@ -1,0 +1,19 @@
+{
+  "slug": "scp-5000",
+  "lang": "en",
+  "hook": "The premise arrives almost immediately, and it's a shocking one: the Foundation has turned on the world it was built to protect. What the article withholds is the reason. You follow a low-level technician with a stealth suit and no answers, so expect a long, bleak journey rather than a tidy explanation.",
+  "whyItMatters": "Holding the milestone 5000 slot, it's widely discussed largely because of how firmly it refuses to explain itself. It pulls in a huge range of existing articles and groups of interest, turning the Foundation's own catalogue into weapons, so long-time readers will spot many familiar names. Arguments about what the ending really means are a big part of its reputation.",
+  "thingsToNotice": "The recurring tables of anomalies do more than build the world: their tone slides from shock to exhausted sarcasm as Pietro wears down. Watch the deleted-file gaps and the briefcase he can't remember acquiring, which hint that someone wanted him to make this trip. The interrogation and the meeting in the abandoned shop are the closest the story comes to clues, and both repay a reread once you've finished. The final entry is deliberately fragmentary, so go back afterwards to the opening paragraph about where the suit turned up.",
+  "related": [
+    {
+      "slug": "scp-579",
+      "note": "The destination of Pietro's journey, whose own file is almost entirely withheld."
+    },
+    {
+      "slug": "scp-2000",
+      "note": "A Foundation safeguard for humanity that becomes a target in this story."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

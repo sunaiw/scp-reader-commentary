@@ -1,0 +1,19 @@
+{
+  "slug": "scp-2317",
+  "lang": "en",
+  "hook": "The article is presented as a series of terminal logins, each by a staff member with higher clearance than the last. Read it in order and resist scrolling ahead. Pay attention to who is logging in at each level and to what changes between one screen and the next.",
+  "whyItMatters": "2317 is one of the best-known articles connected to the Scarlet King, and a common starting point for readers looking for cosmic horror on the wiki. Its clearance-by-clearance reveal is an effective way of showing how much the Foundation keeps from its own people. Even the object class is hidden in the public layer, which sets the tone before anything else does.",
+  "thingsToNotice": "Each layer revises the one below it, so the same paragraphs reappear with small but meaningful edits, and the differences are where the story lives. The procedure grows more elaborate and more ritualistic as clearance rises, which makes the final screen land harder. Human touches such as weak passwords and a fumbled login keep the bureaucracy believable. The last access, and the cleanup command that follows it, reframe the whole document as something designed to be believed.",
+  "related": [
+    {
+      "slug": "scp-5000",
+      "note": "Another story where the O5 Council knows something its staff are never told."
+    },
+    {
+      "slug": "scp-093",
+      "note": "A different gateway to another realm, governed by its own strict testing ritual."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

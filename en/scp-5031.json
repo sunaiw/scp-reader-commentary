@@ -1,0 +1,19 @@
+{
+  "slug": "scp-5031",
+  "lang": "en",
+  "hook": "Don't let the opening fool you. The first section reads like a stock creature file, and the title, Yet Another Murder Monster, leans into that on purpose. Keep reading into the research correspondence: the real subject is what happens when someone decides to treat the thing in the box differently.",
+  "whyItMatters": "5031 is a well-known example of the wiki poking fun at its own conventions. The shadow-only anatomy, the bladed limb and the endless screaming are all familiar ingredients from countless predator-in-a-cell articles, and the piece uses that familiarity as setup for something much warmer. It's a good entry point for anyone curious about how the site's tropes can be turned against themselves.",
+  "thingsToNotice": "The article is a sequence of test summaries, each building on the last, so the progress feels earned rather than announced. Huxtable's notes to the site director carry the emotion, moving from irritation at the original write-up to open pride, while the tables stay completely deadpan. Notice how the safety rules tied to the observation effect, like the blindfolds, keep returning in new and gentler roles. Even the review banner at the top hints that this document is about to be rewritten.",
+  "related": [
+    {
+      "slug": "scp-173",
+      "note": "The classic observation rule that this creature riffs on, played completely straight."
+    },
+    {
+      "slug": "scp-999",
+      "note": "If you liked the warmth here, this is the wiki's go-to friendly anomaly."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

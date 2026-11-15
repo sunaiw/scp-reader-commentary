@@ -1,0 +1,19 @@
+{
+  "slug": "scp-093",
+  "lang": "en",
+  "hook": "The main page is mostly setup: a small stone disc, its odd attachment to mirrors, and a testing framework. The real payoff is in the color-coded test logs, which you're told to read in the order listed. Keep track of what the disc's color is supposed to reveal about the person holding it.",
+  "whyItMatters": "093 is a classic portal-exploration story, the kind of article that rewards clicking through its linked documents like chapters. It's tagged as a rewrite and keeps the original documentation inside the current version, so you can see how the file grew from a vague curio into a structured mystery. It's also a good showcase of the exploration-log style, where procedure and dread build up together.",
+  "thingsToNotice": "Look closely at the field kit. Details such as a hidden knife the subject has to discover alone, or the rules about when the firearm is issued and taken back, tell you what the Foundation expects to happen on the other side without saying it outright. The accidental discovery during a squabble over a lunch bill is a rare light moment that makes the surrounding procedures feel grimmer. And because the color is linked to guilt or regret, the tests become as much a study of the D-class subjects as of the place they enter.",
+  "related": [
+    {
+      "slug": "scp-2935",
+      "note": "Another expedition into a world where something has gone badly wrong."
+    },
+    {
+      "slug": "scp-2317",
+      "note": "A different doorway to another realm, with its own tightly scripted procedure."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

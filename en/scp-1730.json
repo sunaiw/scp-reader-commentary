@@ -1,0 +1,19 @@
+{
+  "slug": "scp-1730",
+  "lang": "en",
+  "hook": "This is a long one, built from recovered logs and exploration transcripts, and it reads more like an action-horror novella than a standard file. Go in knowing that the Site-13 of the title shouldn't exist according to the Foundation's own records. The question in the title is the thread to hold on to.",
+  "whyItMatters": "1730 is a showcase for the wiki's large-scale exploration format, complete with several task forces, maps and illustrations. It also matters to readers following Mobile Task Force Tau-5 and recurring figures such as Bobble the Clown, both of whom turn up here. Above all, it's a memorable take on the dark-mirror idea: a Foundation from somewhere else that kept the mission and lost everything else.",
+  "thingsToNotice": "The early logs build dread through scrawled warnings and broken-off messages, and later revelations change what those words on the walls mean. Compare what the recovered research notes treat as routine with how the visiting teams react; that gap is the real horror, and it's handled more through implication than detail. The debriefing at the end finally answers the title question, and the answer is less about monsters than about an institution under pressure. Notice too that the machine which brought the site here also decides how it leaves.",
+  "related": [
+    {
+      "slug": "scp-5000",
+      "note": "Another vision of the Foundation turned into something monstrous."
+    },
+    {
+      "slug": "scp-3001",
+      "note": "Another story that begins with untested reality technology going wrong at a Foundation site."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

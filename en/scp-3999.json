@@ -1,0 +1,19 @@
+{
+  "slug": "scp-3999",
+  "lang": "en",
+  "hook": "Know before you start that this is not a conventional document. The page opens with a content warning for good reason, and what follows deliberately falls apart, repeats itself and wanders into places a containment file shouldn't go. It's best read as an experiment in form, with some genuinely upsetting passages along the way.",
+  "whyItMatters": "3999 is one of the most divisive and most discussed metafiction pieces on the site, sitting in the 3000 range and openly nodding to the contest culture around it. Its Apollyon class and its collapse of the line between character and writer make it a reference point whenever readers argue about how far the format can stretch. Many people finish it unsure whether they loved it or hated it, which seems to be part of the intent.",
+  "thingsToNotice": "Researcher Talloran is both the focal point of the anomaly and, increasingly, a stand-in for the person writing about him. The procedures lurch between absurd jokes, pop-culture intrusions and disturbing cruelty, and that whiplash is the point: it's a picture of a creative process turning on itself. The long, rambling author section near the end is part of the fiction, not an aside. Watch the final tidy report and the way it explains everything away; its calm is a different kind of horror.",
+  "related": [
+    {
+      "slug": "scp-2432",
+      "note": "The hotel-room anomaly this article borrows and spins into its own strange ecosystem."
+    },
+    {
+      "slug": "scp-3001",
+      "note": "A more grounded story of a researcher left alone while reality comes apart."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}
