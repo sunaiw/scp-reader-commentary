@@ -1,0 +1,23 @@
+{
+  "slug": "scp-294",
+  "lang": "en",
+  "hook": "A coffee machine that will pour any liquid you can name is one of the most instantly graspable ideas in the archive. The fun is in the test log: read each request and guess the outcome before you see it. Most entries are light and playful, though a couple take a sudden dark turn.",
+  "whyItMatters": "Widely known as the Coffee Machine, it is a classic of the infinite-possibilities type of SCP, where the pleasure comes from watching researchers probe the rules. Its break-room setting gives it a slice-of-life charm that balances the site's heavier files. Requests involving other objects, such as SCP-085 and SCP-075, also show how small crossovers can make the archive feel connected.",
+  "thingsToNotice": "Notice how the machine interprets requests: it responds to intent, wordplay and even the user's memories rather than literal chemistry, and that is where both the jokes and the scares come from. The pun behind the very first incident establishes early that phrasing matters.\n\nThe log alternates whimsy with entries hinting at limits, range and something like self-preservation, which keeps you unsure what the machine really is. The short entry about a perfect drink is one of the most quietly devastating moments on the site, precisely because it is so understated.",
+  "related": [
+    {
+      "slug": "scp-914",
+      "note": "Another machine whose output depends on how you set the input, with a famously inventive test log."
+    },
+    {
+      "slug": "scp-085",
+      "note": "Shows up in one of the log's friendliest entries."
+    },
+    {
+      "slug": "scp-075",
+      "note": "A request here reaches into its containment, a neat cross-file moment."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

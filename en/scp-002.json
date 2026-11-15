@@ -1,0 +1,19 @@
+{
+  "slug": "scp-002",
+  "lang": "en",
+  "hook": "A fleshy lump that fell from orbit with an ordinary apartment inside it is a strange, vivid premise. The article is short and reads quickly. Pay attention to the furniture list, because it does most of the storytelling.",
+  "whyItMatters": "With one of the lowest numbers on the site, it is among the first files many readers open, and it shows the early taste for compact, eerie premises over long documentation. Often called the Living Room, it remains a reference point for body horror told almost entirely through implication.",
+  "thingsToNotice": "The horror lives in the inventory: lamps, a rug, toys and a plant are listed matter-of-factly, and the reader connects them to the missing personnel without being told. The window that has no opening on the outside is a small detail that makes the space feel like a trap dressed up as a home.\n\nThe discovery report adds a second, human horror, a commander whose choices are as alarming as the object, and the expunged sections leave his end to the imagination. The rule about staying in physical contact with a partner is a quietly unsettling hint at what proximity does to perception.",
+  "related": [
+    {
+      "slug": "scp-087",
+      "note": "Another short classic built around an ordinary-looking space that is anything but."
+    },
+    {
+      "slug": "scp-3008",
+      "note": "A much larger take on a mundane interior that swallows people."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "scp-2000",
+  "lang": "en",
+  "hook": "The central idea is simple and enormous: a hidden facility built to restart human civilization if the world ends. What makes it memorable is that the file seems to argue with its own reader, as short lines keep breaking into the official text. Expect a technical document that slowly turns into something more unsettling.",
+  "whyItMatters": "It is a cornerstone Thaumiel, often pointed to when people explain that the Foundation is more than a containment agency; this is the backup plan behind every other file. Its suggestion that history may already have been rebuilt at least once has fed a lot of fan theorizing about how often the world has quietly ended. Recurring staff such as Gears, Clef and Xyank appear in its notes, which ties it to the wider cast of the wiki.",
+  "thingsToNotice": "Watch the interjections between paragraphs: they begin as cryptic asides and grow more urgent, until they read like a warning from someone who has lived through this already. The procedure hides its sharpest detail in plain view, in the clause about rebuilding key staff from stored scans, and the file stops to make sure you caught it.\n\nNotes about picking a restart date and keeping the number of world wars down hint that our timeline is a revision rather than an original. The final addendum, with very old remains carrying familiar credentials, reframes everything as a loop whose beginning nobody can find.",
+  "related": [
+    {
+      "slug": "scp-1000",
+      "note": "Also built on the idea that the history we know was rewritten on purpose."
+    },
+    {
+      "slug": "scp-3000",
+      "note": "A Thaumiel with a hidden cost, and another look at the Foundation's reliance on memory editing."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

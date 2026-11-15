@@ -1,0 +1,19 @@
+{
+  "slug": "scp-231",
+  "lang": "en",
+  "hook": "This is one of the most notorious files on the wiki, and it carries an adult content warning for good reason. Most of its weight comes from what is withheld, through redactions, implication and the reader's own imagination. If dark material centered on a vulnerable person is not something you want to sit with, skipping it is entirely reasonable.",
+  "whyItMatters": "Its central procedure is never explained, and that deliberate silence has kept it one of the most debated open questions in the community. It is often cited as the starkest version of the Foundation's necessary-evil theme, where containment itself is the horror. It is also an important early source for the Scarlet King and his followers, figures later writers expanded into a much larger mythos.",
+  "thingsToNotice": "Notice the two voices running through the file: the dry clinical record, and the lowercase rhyming verses woven between its lines, which tell a parallel story in a completely different register. The staffing rules arguably reveal more than the description does, because they show what kind of people the organization believes this duty requires.\n\nA memo from an O5 tries to steady morale, and an unsigned line right after it quietly undercuts that reassurance. The closing addenda read like a study in institutional language: the more clinical the phrasing gets, the heavier the implications become.",
+  "related": [
+    {
+      "slug": "scp-3000",
+      "note": "Another file where the Foundation keeps doing something it finds abhorrent because it fears the alternative."
+    },
+    {
+      "slug": "scp-2316",
+      "note": "Also lets voices slip between the lines to suggest the official record hides something."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

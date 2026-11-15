@@ -2,6 +2,14 @@
   "updatedAt": "2026-11-16",
   "items": [
     {
+      "slug": "scp-002",
+      "status": "ai-checked"
+    },
+    {
+      "slug": "scp-035",
+      "status": "ai-checked"
+    },
+    {
       "slug": "scp-049",
       "status": "ai-checked"
     },
@@ -22,6 +30,10 @@
       "status": "ai-checked"
     },
     {
+      "slug": "scp-1000",
+      "status": "ai-checked"
+    },
+    {
       "slug": "scp-106",
       "status": "ai-checked"
     },
@@ -34,11 +46,35 @@
       "status": "ai-checked"
     },
     {
+      "slug": "scp-1981",
+      "status": "ai-checked"
+    },
+    {
+      "slug": "scp-2000",
+      "status": "ai-checked"
+    },
+    {
+      "slug": "scp-231",
+      "status": "ai-checked"
+    },
+    {
+      "slug": "scp-2316",
+      "status": "ai-checked"
+    },
+    {
       "slug": "scp-2317",
       "status": "ai-checked"
     },
     {
       "slug": "scp-2521",
+      "status": "ai-checked"
+    },
+    {
+      "slug": "scp-294",
+      "status": "ai-checked"
+    },
+    {
+      "slug": "scp-3000",
       "status": "ai-checked"
     },
     {

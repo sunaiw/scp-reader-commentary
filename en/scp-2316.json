@@ -1,0 +1,23 @@
+{
+  "slug": "scp-2316",
+  "lang": "en",
+  "hook": "Read this one on a full screen and take your time, because the formatting is part of the experience. It presents itself as a classified file that has to check whether you are fit to read it, and that framing becomes the story. It deals with loss in a dark way, but its power is psychological rather than graphic.",
+  "whyItMatters": "It is a standout among the wiki's meta-styled cognitohazard articles, where the document behaves as though it is reacting to the person reading it. It carries the class-of-76 tag, linking it to a small group of related works. The combination of an interactive format and quiet grief is a big part of why it stays with readers.",
+  "thingsToNotice": "The repeated phrase works like a mantra the file needs you to accept, and each repetition makes it sound less like a fact and more like an instruction. Watch the small intrusions: footnotes that contradict the main text, automated edits, a speaker label that changes partway through an interview.\n\nOnce verification fails, the article stops being a report and becomes a direct appeal, forcing you to choose which voice to trust. That ambiguity is the core: is the second voice a survivor telling the truth, or the anomaly reaching for one more person?",
+  "related": [
+    {
+      "slug": "scp-3000",
+      "note": "Another cognitohazard story about water, darkness and memories that may not belong to you."
+    },
+    {
+      "slug": "scp-231",
+      "note": "Also lets voices slip between the lines to hint that the official record hides something."
+    },
+    {
+      "slug": "scp-1981",
+      "note": "A shorter piece where the anomaly seems to look back at the viewer."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

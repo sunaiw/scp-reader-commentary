@@ -1,0 +1,23 @@
+{
+  "slug": "scp-3000",
+  "lang": "en",
+  "hook": "SCP-3000 is long, slow and quiet, and it rewards patience. It opens like a deep-sea creature feature about an enormous eel in the Bay of Bengal, but its real subject is memory and the fear of being forgotten. Read it somewhere calm, and keep track of who is speaking in each section, because that question ends up mattering a lot.",
+  "whyItMatters": "Co-written by A Random Day, djkaktus and Joreth, it sits among the site's top-rated articles and is a common reference for how a Thaumiel can be framed: not a heroic tool, but a necessity the Foundation is ashamed of. By tying one creature to the amnestics that show up casually in countless other files, it lets its moral weight spread across the whole setting. The mix of Hindu cosmology, cosmic dread and workplace psychology makes it a frequent pick for readers who want horror that lingers instead of shocking.",
+  "thingsToNotice": "The file moves from procedure to field audio to a therapy session to private journals, so the voice gets more personal just as the narrators become less reliable about their own lives. The dive log teaches you the effect through muddled call signs, which primes you to watch for slips later. Small objects in Mannava's early entries, a statue and a family photo, are set up quietly and then turn into the twist on the final page: the life he mourns was never his.\n\nThe blunt cost-benefit memo from the site director sits between the two journals and states the ethical bargain outright before the story makes it personal. The ending refuses to decide whether the eel is a god, and that refusal is the point.",
+  "related": [
+    {
+      "slug": "scp-2000",
+      "note": "Another Thaumiel whose value comes wrapped in uneasy questions about memory and history."
+    },
+    {
+      "slug": "scp-231",
+      "note": "A different bargain the Foundation keeps making because it fears the alternative more."
+    },
+    {
+      "slug": "scp-2316",
+      "note": "Cognitohazard horror built around water and recollections that may not be your own."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

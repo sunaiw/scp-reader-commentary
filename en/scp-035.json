@@ -1,0 +1,19 @@
+{
+  "slug": "scp-035",
+  "lang": "en",
+  "hook": "A porcelain theatre mask that wants to be worn is a classic horror image, and this file uses it well. The mask talks, flatters and bargains, so the real threat is persuasion rather than force. It is a dark read with several unpleasant incidents, but they are summarized in report style rather than lingered on.",
+  "whyItMatters": "A well-known Series I Keter, it helped set the template of the charming, highly intelligent anomaly that staff must be protected from simply talking to. Its comedy-and-tragedy look and the possessive-mask idea make it an easy icon, and it turns up often in fan art.",
+  "thingsToNotice": "The addenda escalate steadily: first the mask is a source of knowledge, then a manipulator, then something whose influence leaks out even while it sits unused. Each containment fix, especially the one that borrows another anomaly, solves one problem while worsening another, so the file reads like a record of a losing battle.\n\nThe repeated proposal to give the mask a host again, denied every time, hints at how far its persuasion has reached into the staff. The final note about possibly abandoning the cell leaves the story open rather than resolved.",
+  "related": [
+    {
+      "slug": "scp-049",
+      "note": "Another articulate anomaly where interviews test how far staff can trust what they hear."
+    },
+    {
+      "slug": "scp-682",
+      "note": "Named as a host the mask would very much like to have."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}
