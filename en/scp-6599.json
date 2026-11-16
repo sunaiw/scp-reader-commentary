@@ -1,0 +1,19 @@
+{
+  "slug": "scp-6599",
+  "lang": "en",
+  "hook": "This is a loud, profane comedy article about an all-caps internet troll who can show up at your door. Expect a lot of crude language, cartoon violence, and pages styled like real forums and subreddits. If you can take the swearing in stride, it is one of the more purely fun reads in the 6000s.",
+  "whyItMatters": "It turns a very familiar online type, the aggressive reply guy who picks fights in hobby communities, into a literal anomaly with consequences. The joke is that the Foundation treats a cartoonish bully with full procedural seriousness, complete with tracking software and failed containment tests. It also builds on another Foundation asset from a separate file, showing how a crossover can be used for an over-the-top showdown.",
+  "thingsToNotice": "The early incidents are basically escalating sketches, each set on a niche hobby board, and much of the humor comes from how specific and petty each argument is. The mock forum layouts do real work here, since the format sells the setting before the punchline lands.\n\nThe fight log is staged like a wrestling match, and it pivots from absurd violence to an odd mutual respect between two loudmouths. The final addenda then quietly turn the article into a redemption story, as the troll starts seeking advice and help instead of fights. The closing email and its changed signature are the payoff for the whole arc.",
+  "related": [
+    {
+      "slug": "scp-5175",
+      "note": "The knife-wielding agent's own file, which this article draws on for its big fight."
+    },
+    {
+      "slug": "scp-447",
+      "note": "A very different kind of SCP comedy, built on deadpan repetition instead of volume."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

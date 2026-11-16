@@ -1,0 +1,19 @@
+{
+  "slug": "scp-447",
+  "lang": "en",
+  "hook": "This one is funnier than its object class suggests. A small green ball oozes a harmless, even useful slime, and there is exactly one thing it must never touch. Read it with an ear for repetition, because the joke builds sentence by sentence.",
+  "whyItMatters": "It shows how comedy can be carried out entirely in the clinical Foundation voice. Instead of breaking format for a gag, it keeps every line deadpan and lets one restriction recur until it becomes absurd. It also plays with the idea of an anomaly being a useful resource, with salad dressing and fuel efficiency sitting next to grim warnings.",
+  "thingsToNotice": "Count how many times the same condition is restated, often tacked onto otherwise reassuring sentences. The rhythm works like a running gag, and it also makes the reader more and more curious about what actually happens.\n\nThat curiosity is never satisfied. The key passage is cut off by an expunging notice so overblown that it becomes part of the joke, and the referenced appendices and experiment logs do not appear in the text. The downgrade from Keter to Safe, with a familiar caveat attached, is the final punchline.",
+  "related": [
+    {
+      "slug": "scp-999",
+      "note": "Another friendly slime, if you want the gentler side of gooey anomalies."
+    },
+    {
+      "slug": "scp-500",
+      "note": "A short entry about an anomaly valued mostly for its practical uses."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

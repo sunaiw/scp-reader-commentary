@@ -1,0 +1,19 @@
+{
+  "slug": "scp-513",
+  "lang": "en",
+  "hook": "The object here is about as plain as anomalies get: a rusted old cowbell. The article is brief, and most of its weight sits in the containment procedures, so do not skim them. It is the kind of piece that works best read late at night, then thought about the next time you pass a mirror.",
+  "whyItMatters": "It shows how much dread a short Euclid file can generate from a mundane item and a single rule about hearing it. Rather than a monster you can study, it gives you something that only exists in glimpses for the people affected. That focus on exhaustion and paranoia instead of spectacle is what keeps it effective.",
+  "thingsToNotice": "Look at how strict the procedures are compared with how small the bell is: gelatin, deafened handlers, a rule against letting anyone sleep. Each odd requirement is a clue, and the description later explains them one by one.\n\nThe entity is never described with confidence, because the only witnesses are worn down by it, and that unreliability is part of the horror. The duct tape on the clapper and the recovered note hint that someone met this bell before the Foundation did, and the note's three short lines reframe everything as an escalating sequence you do not want to complete.",
+  "related": [
+    {
+      "slug": "scp-4975",
+      "note": "Another stalker announced by a sound that only its target can sense."
+    },
+    {
+      "slug": "scp-173",
+      "note": "A different take on what happens when you look away or blink at the wrong moment."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

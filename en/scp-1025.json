@@ -1,0 +1,19 @@
+{
+  "slug": "scp-1025",
+  "lang": "en",
+  "hook": "A medical encyclopedia that gives you whatever you read about sounds like a doomsday object, and the article starts by treating it that way. Pay attention to the object class line and the very first revision, because they hint at where things are going. It reads like a lab report that slowly loses its composure.",
+  "whyItMatters": "It is a sharp example of an article whose real subject is the Foundation's own paranoia rather than the anomaly. Instead of escalating the threat, it escalates the staff's reactions, and the payoff comes from an administrator looking back at the whole effort. Its nods to other infectious SCPs also make it a playful commentary on how readers and researchers alike imagine the worst.",
+  "thingsToNotice": "Watch the research notes change tone across the test log. They start clinical, then turn anxious and speculative, and the redacted summary in the middle quietly tells you how many subjects the project used. The mid-sentence corrections, such as numbers swapped out for vaguer wording, show the writers' certainty slipping.\n\nThe twist reframes every symptom you have read as possibly imagined, which makes the earlier vivisection entries look grimly wasteful. The final memo is both the punchline and a judgment on the institution, and the downgraded class at the top was telling you this from the start.",
+  "related": [
+    {
+      "slug": "scp-008",
+      "note": "One of the infectious threats the panicking researchers fear they have caught."
+    },
+    {
+      "slug": "scp-217",
+      "note": "Another disease anomaly name-checked during the facility's breakdown."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

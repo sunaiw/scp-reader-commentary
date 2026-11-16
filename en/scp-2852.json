@@ -1,0 +1,19 @@
+{
+  "slug": "scp-2852",
+  "lang": "en",
+  "hook": "A friendly, slightly crude relative who turns up at every baptism, wedding, and funeral sounds like a family joke, and that is exactly the disguise this article uses. Be warned that it is one of the heavier reads in this list: its rituals and aftermath are disturbing, and it deals with harm to families and children. Go in expecting religious and folk horror rather than a monster chase.",
+  "whyItMatters": "It takes the most familiar social rituals, the ones that mark birth, marriage, and death, and treats them as the vector of an anomaly. Instead of a creature that attacks, it is one that is welcomed, and that warm acceptance is what makes it so unsettling. It is a strong example of horror built from the gap between how an event feels to its participants and what the record shows.",
+  "thingsToNotice": "The three event levels are named by color, and the article walks through them in life order, so the structure itself mirrors a family history. Each ceremony keeps its outward shape while something wrong happens inside it, and the guests' fondness for the visitor never wavers.\n\nThe cicada imagery threads through every stage, from the entity's body to the sounds people make, and hints at cycles and long dormancy. The long-term statistics hit harder than the rituals themselves, because they show the damage spreading quietly for years. The final reference to another file suggests this is part of something larger, without explaining it.",
+  "related": [
+    {
+      "slug": "scp-3004",
+      "note": "The file this article points to at the very end for related phenomena."
+    },
+    {
+      "slug": "scp-303",
+      "note": "Another humanoid intruder in everyday spaces, told mostly through incident records."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "scp-4975",
+  "lang": "en",
+  "hook": "This is a short read built around a sound: a steady, rhythmic clicking that you will start to imagine yourself by the end. It is a creature file in the old folk-tale mold, a bird-like thing from German forests. Read it straight through, and save the closing nursery rhyme for last.",
+  "whyItMatters": "Its tags place it in the 2019 cliché-themed batch, and it leans into a familiar setup on purpose: a stalking predator safely locked in a cell. What makes it stand out is how it uses that comfortable premise to set a trap for the reader. It is a good example of a familiar monster story made fresh through one well-chosen rule.",
+  "thingsToNotice": "The containment section quietly tells you the whole problem in advance: personnel are told to wait it out alone rather than told how to fight. The note that sightings keep coming in despite the entity sitting in its cell is the hinge, and the struck-through investigation line shows the Foundation giving up in real time.\n\nThe bodycam log works because it is silent and split across two places at once, the forest and the cell, joined only by timestamps. The rhyme then turns the clicking into a cuckoo clock and a heartbeat, so the moment it stops becomes the scariest beat in the piece.",
+  "related": [
+    {
+      "slug": "scp-513",
+      "note": "Another stalker that only its chosen target can perceive, triggered by a sound."
+    },
+    {
+      "slug": "scp-096",
+      "note": "A pursuer that will reach its target no matter how far away they are."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

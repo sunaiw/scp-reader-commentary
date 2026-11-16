@@ -1,0 +1,19 @@
+{
+  "slug": "scp-6999",
+  "lang": "en",
+  "hook": "This is a very short, quiet article about a piece of music the Foundation made on purpose. There is almost no danger on the page, and that restraint is the point. Read the header details and the email at the top carefully, then read it to the end in one sitting; it takes only a few minutes.",
+  "whyItMatters": "The page credits it as a SCP-6000 Contest entry, and it stands out by doing the opposite of what a big-number contest piece might be expected to do. Instead of spectacle, it offers a gentle, Foundation-made cognitohazard whose only effect is to calm people down. It is a good example of an article where a single framing line recontextualizes everything before it.",
+  "thingsToNotice": "The three test subjects form a small anthology: a parent, an estranged daughter, and an eccentric researcher, each nudged toward a conversation they had been avoiding. The Mann entry is the emotional peak, because someone defined by isolation ends up sharing a table.\n\nThe final briefing is short, and its wording about who gets access and when is what changes the tone. Once you know why the video exists, the hymn's title, the secondary class, and the broadcast towers in the procedures all read differently. The tenderness of the test results becomes bittersweet rather than simply warm.",
+  "related": [
+    {
+      "slug": "scp-513",
+      "note": "A sound-based anomaly that does the reverse, filling listeners with dread."
+    },
+    {
+      "slug": "scp-999",
+      "note": "Another anomaly whose main effect is making people feel better."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

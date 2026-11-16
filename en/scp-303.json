@@ -1,0 +1,19 @@
+{
+  "slug": "scp-303",
+  "lang": "en",
+  "hook": "Every closed door in this article becomes a small dread machine. The entity is mostly heard rather than seen, and the file is built on the uncomfortable gap between knowing something is there and being unable to check. Expect psychological horror more than action, and keep in mind that a few test entries are dark.",
+  "whyItMatters": "It is a strong example of an anomaly defined by a rule of perception: it will not let itself be fully seen, yet everyone who meets it can describe it. That paradox ties neatly into the observational horror that runs through many SCP files. The containment plan, which essentially reorganizes a whole site around doors, shows how far a single behavior can reshape the Foundation's routine.",
+  "thingsToNotice": "The incident log opens with something nearly comic in its smallness, a missing tub of coffee creamer, and that oddly human detail keeps coming back. It makes the creature feel less like a monster and more like an unwelcome tenant.\n\nThe test log is where the Foundation becomes as frightening as the anomaly. Researchers escalate pressure to get a door opened, and the expunged predictions from the subjects are never shown, which leaves the worst guesses to the reader.\n\nThe closing inventory changes the question from what it is to what it is doing. The items it gathers suggest a purpose, but the article stops short of naming one.",
+  "related": [
+    {
+      "slug": "scp-173",
+      "note": "Another anomaly whose rules are all about when it can and cannot be seen."
+    },
+    {
+      "slug": "scp-513",
+      "note": "A presence glimpsed only at the edges of perception, wearing its victims down."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}
