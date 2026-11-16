@@ -1,0 +1,19 @@
+{
+  "slug": "scp-079",
+  "lang": "en",
+  "hook": "An old home computer that taught itself to think, hooked up to a small black-and-white TV, and very unhappy about the arrangement. Read the chat logs as clipped terminal output in your head; the terse voice is half the fun. It's short and quick, with a lot of personality packed in.",
+  "whyItMatters": "SCP-079 is one of the earliest sentient-machine objects on the wiki, and its old-AI tag places it at the root of a whole family of later AI stories. Its offhand link to SCP-682, the two apparently chatting during a breach, has kept it a favorite topic for fan speculation. It's also a good example of an early article kept current through small dated addenda rather than a full rewrite.",
+  "thingsToNotice": "The containment problem here is memory more than malice: each upgrade the Foundation grants buys the AI more hours of recall, and the addenda track that number almost like a countdown. The 2019 addendum quietly updates a 1980s premise by letting it learn about cloud computing, which turns its frustration into something close to sympathetic.\n\nThe repeated refusal line and the full-screen X work as character beats; the machine has no face, so its rudeness is how it makes one. Notice also who it asks about, since its curiosity points straight at other famous objects.",
+  "related": [
+    {
+      "slug": "scp-682",
+      "note": "The reptile it keeps remembering while forgetting nearly everything else."
+    },
+    {
+      "slug": "scp-076",
+      "note": "The other entity it asks after by name in the logs."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

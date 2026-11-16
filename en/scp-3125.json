@@ -1,0 +1,23 @@
+{
+  "slug": "scp-3125",
+  "lang": "en",
+  "hook": "This one is by qntm and connects to the Antimemetics Division stories its tags point to. The readable file is very short, and then the page seems to break. Don't skim past the strange parts; the article is built so that you have to work for what it's hiding.",
+  "whyItMatters": "SCP-3125 belongs to qntm's antimemetics material, a well-known thread on the wiki, and the page sits under a tale-series hub. It pushes the format hard: the article behaves like a containment measure, guarding its own content from the reader. The tags, running from cosmic horror to uncontained, hint at the scale of what the hidden text is about.",
+  "thingsToNotice": "The procedures describe an airlock that clears the memory of anyone leaving, so the short file you can read is exactly the amount considered safe to carry out; the form mirrors the procedure. What follows is deliberately scrambled, and the keypad turns reading into an act of entering the room.\n\nThat puts you in the position of the staff member who has to go in alone, which is the article's quiet trick. If you do work your way through, the challenge is less about decoding the text than about holding on to what it says.",
+  "related": [
+    {
+      "slug": "scp-055",
+      "note": "Another antimemetic object, defined by what you cannot hold in your head."
+    },
+    {
+      "slug": "scp-3930",
+      "note": "A different take on a threat that grows through human perception."
+    },
+    {
+      "slug": "scp-140",
+      "note": "A book whose danger also spreads through the act of reading."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "scp-085",
+  "lang": "en",
+  "hook": "Meet Cassy, a sketched young woman who lives on paper and talks through sign language and writing. The article is short and gentle, but keep the bittersweet tag in mind as you go. Pay attention to what the Foundation chooses to give her, and what it holds back.",
+  "whyItMatters": "SCP-085 grew out of an experiment combining two other objects, SCP-067 and SCP-914, an early example of the wiki's objects feeding into each other. She's one of the early sapient Safe entities that readers tend to treat as a character rather than a hazard. Cassy even has her own tag, a sign of how firmly she settled into the canon.",
+  "thingsToNotice": "The Escher test plays as comedy, since she sees nothing wrong with an impossible staircase, but it also hints that her world runs on different rules from ours. The incident report is the emotional center: an earlier policy of keeping her inside a comforting fiction collapsed through a simple paperwork slip, and the file is frank about what that cost her.\n\nThe car project at the end is a lovely image of patience and distraction. That each diversion needs high-level approval says a lot about how the institution handles kindness.",
+  "related": [
+    {
+      "slug": "scp-914",
+      "note": "The machine whose Fine setting brought her to life."
+    },
+    {
+      "slug": "scp-067",
+      "note": "The pen behind the original sketch."
+    },
+    {
+      "slug": "scp-1762",
+      "note": "Another bittersweet story told through paper and messages."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

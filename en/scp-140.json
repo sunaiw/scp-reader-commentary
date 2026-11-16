@@ -1,0 +1,19 @@
+{
+  "slug": "scp-140",
+  "lang": "en",
+  "hook": "A history book that is still being written, and not by its author. It's a slow-burn document; the dread comes from how the procedures are worded rather than from anything happening on the page. Keep an eye on what the containment rules are trying to keep away from it.",
+  "whyItMatters": "SCP-140 is the starting point for the Daevite civilization, a setting its tags link to a wider body of work on the wiki. It's an early example of an anomaly that threatens history itself rather than any particular person, and its K-class-scenario tag puts that threat alongside the site's end-of-the-world entries. It also shows how much menace a book can carry purely through implication.",
+  "thingsToNotice": "The scariest detail is a quiet one: after each expansion, defeats in the book's past soften into mere setbacks, so every leak rewrites what the Foundation thought was settled history. The addenda widen the scale step by step, from one scholar's obsession to an incident at a dig site to projections about modern civilization.\n\nThe text also stresses that readers find the book fascinating, which makes curiosity the real point of entry. And the missing author, whose signature matches someone still at large, leaves the most frightening question open.",
+  "related": [
+    {
+      "slug": "scp-3125",
+      "note": "Another threat that spreads by being read and understood."
+    },
+    {
+      "slug": "scp-1762",
+      "note": "A far gentler world that also reaches ours only through written messages."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

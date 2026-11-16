@@ -1,0 +1,19 @@
+{
+  "slug": "scp-529",
+  "lang": "en",
+  "hook": "A grey tabby who is missing her back half and doesn't mind in the slightest. The whole file is only a few paragraphs long. It makes a perfect palate cleanser between heavier entries.",
+  "whyItMatters": "SCP-529, better known as Josie, is a fan-favorite feel-good Safe object with a tag of her own, which tells you how attached readers became. She's a reminder that the early site had room for anomalies that are simply odd and lovable rather than dangerous.",
+  "thingsToNotice": "The humor comes from a deadpan clinical voice applied to a cat behaving exactly like a cat; the report dutifully notes that she still goes through every motion as though nothing were gone. The containment section is really a care note, and the cheese rule is a small joke about staff clearly spoiling her.\n\nThe final clarification, that the missing part isn't invisible but simply absent, is a precise little distinction that feels very Foundation.",
+  "related": [
+    {
+      "slug": "scp-999",
+      "note": "Another Safe-class comfort read where the anomaly is mostly affection."
+    },
+    {
+      "slug": "scp-6001",
+      "note": "A whole world where talking cats run the science departments."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

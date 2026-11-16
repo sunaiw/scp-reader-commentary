@@ -1,0 +1,19 @@
+{
+  "slug": "scp-1762",
+  "lang": "en",
+  "hook": "A cardboard box, a coat of silver paint, a hand-lettered warning on the lid, and a flock of folded-paper dragons. That's the whole setup, and it turns out to be plenty. Go in expecting something gentle at first; the bittersweet tag is earned. Pay attention to the voice of the notes the box leaves behind.",
+  "whyItMatters": "With a rating above two thousand, this is one of the site's most loved Safe-class stories, and it shows how much feeling a document-and-letters format can hold with almost no Foundation drama. There's no breach and no villain on our side of the box, only a widening distance between two worlds. Later works seem to remember it too: SCP-6001 includes paper dragons that read like a nod to this one.",
+  "thingsToNotice": "The capitalized words in the messages do quiet work: Room, Family, Belief and Forgotten read like terms in a treaty only one side still remembers signing. Watch how the condition of the dragons tracks the story, fewer of them each time, then walking instead of flying, then arriving damaged, so the documents barely need to explain what's happening.\n\nThe last change to the lid's wording is the entire elegy compressed into a shift of tense. The short coda in the researcher's office keeps the ending from being pure loss, while carefully refusing to promise a return.",
+  "related": [
+    {
+      "slug": "scp-085",
+      "note": "Another Safe-class being made of drawing and paper, lonely in a world built for three dimensions."
+    },
+    {
+      "slug": "scp-6001",
+      "note": "A long, warm visit to a kinder world that seems to tip its hat to these paper dragons."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

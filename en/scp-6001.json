@@ -1,0 +1,23 @@
+{
+  "slug": "scp-6001",
+  "lang": "en",
+  "hook": "Written by T Rutherford, this long piece is framed as a late-night email from a Foundation researcher who has just had an extraordinary day. Most of it is a travelogue with a talking cat as tour guide, so settle in and let it be warm. Knowing the wider wiki adds a lot of extra jokes, but none of it is required.",
+  "whyItMatters": "Tagged as part of the 6000 range, SCP-6001 works as a love letter to the whole setting, turning the Foundation's universe into a gentler mirror image. Almost every major group of interest on the wiki shows up in reworked form, which explains its enormous tag list. In a canon better known for dread, it stands out as an openly hopeful, utopian story.",
+  "thingsToNotice": "The structure alternates between the sightseeing and short council speeches, and the running tally turns a pleasant day out into a ticking vote, which gives a gentle story real stakes. The scientist keeps hunting for the catch, a hidden prison or a weapon, and the story lets him find some history without ever making the utopia a lie.\n\nPrimrose's slips and pauses are planted early, so the reveal about why he was invited lands as a payoff rather than a twist. Watch for the reimagined versions of famous objects, especially the statue and the giant reptiles, which quietly question containment itself.",
+  "related": [
+    {
+      "slug": "scp-173",
+      "note": "The original of the statue that gets a startling, artful makeover here."
+    },
+    {
+      "slug": "scp-682",
+      "note": "The monster that this world's giant reptiles are clearly riffing on."
+    },
+    {
+      "slug": "scp-1762",
+      "note": "Its paper dragons seem to get a cameo in the library passage."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "scp-076",
+  "lang": "en",
+  "hook": "This file opens with an angry internal memo before you even reach the item number, and that framing matters. Read the containment procedures as a story of their own: every measure answers something that went wrong before. It's an action-heavy entry, but the language stays clinical throughout.",
+  "whyItMatters": "SCP-076 is one of the wiki's signature humanoid Keter entities, and its tags tie it to the Able material and the military-fiction side of the site. The current text is a rewrite, and it leans into the Foundation's own failure rather than just the creature's strength. Readers who catch the mythological echo in its nickname will enjoy pairing it with another early object, SCP-073.",
+  "thingsToNotice": "The opening memo tells you the redactions cover an institutional embarrassment, so each black bar reads as something a person chose to bury. The facility design escalates logically, from depth to seawater to a corridor built for one purpose, and the final contingency makes plain that the staff are treated as expendable.\n\nNotice how the abilities and the deaths are listed in the same dry register; that flatness is what makes it unsettling. The file stops at the heading about Project Able and Omega-7, leaving the most important history as a door you can see but not open.",
+  "related": [
+    {
+      "slug": "scp-073",
+      "note": "The other half of the biblical pairing hinted at by this entity's nickname."
+    },
+    {
+      "slug": "scp-079",
+      "note": "The old AI that asks after SCP-076-2 in its own logs."
+    },
+    {
+      "slug": "scp-682",
+      "note": "Another nearly unkillable hostile, managed by containing its returns rather than ending them."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

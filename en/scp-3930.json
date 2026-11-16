@@ -1,0 +1,19 @@
+{
+  "slug": "scp-3930",
+  "lang": "en",
+  "hook": "The opening is a flat denial, repeated until it starts to sound like a chant. Take the containment section seriously even when it seems to contradict itself; the contradictions are deliberate. Best read slowly, in one sitting.",
+  "whyItMatters": "SCP-3930 gave the wiki a memorable shape for a specific kind of dread: something produced by the human habit of finding patterns where none exist. It belongs to the esoteric-class, concept-horror end of the site, where the anomaly is less a monster than an argument about perception. The idea stuck well enough that it carries its own tag, pattern-screamer.",
+  "thingsToNotice": "The exploration log works because you learn the radio is dead before the conversation is half over, yet the voice keeps talking, and you keep reading it. Small domestic wrongness carries the horror: curtains that won't stay open, a door that has become a window, a phone ringing on both ends of the line.\n\nThe interview then reframes everything. The danger scales with how many people know, which turns the limit of ten into grim arithmetic. Notice too that the file itself is part of the containment, since every reader is, in a sense, one more person who now knows.",
+  "related": [
+    {
+      "slug": "scp-3125",
+      "note": "Another idea-shaped threat where knowing about it is the dangerous part."
+    },
+    {
+      "slug": "scp-055",
+      "note": "A counterpoint: an object defined by what you cannot keep in mind, not what you cannot stop seeing."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}
