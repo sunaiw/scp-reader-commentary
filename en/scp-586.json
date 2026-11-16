@@ -1,0 +1,19 @@
+{
+  "slug": "scp-586",
+  "lang": "en",
+  "hook": "This is a joke article, and the joke is the text. Read slowly, because almost every sentence hides a deliberate slip, starting before the procedures even begin. It is short enough to read twice, and a second pass is worth it.",
+  "whyItMatters": "It shows the playful side of the site: an anomaly that exists only in how its own document is written, with even the object class caught in the effect. Format and content are the same thing here, which makes it a tidy example of a meta piece. Translations face a special challenge, since each wrong word has to be rebuilt in another language rather than copied.",
+  "thingsToNotice": "The errors are not random typos but real words dropped into the wrong place, so each one lands as a small punchline. The tests escalate the gag: a control sentence written right next to the object stays clean, while any try at describing it goes astray.\n\nThe closing reprimand is the best part, a researcher insisting the effect does not spread while every line of the complaint is visibly sabotaged. Try reconstructing what each sentence meant to say; that is half the fun.",
+  "related": [
+    {
+      "slug": "scp-2521",
+      "note": "Another anomaly that reacts to how it is written about, played for dread instead of laughs."
+    },
+    {
+      "slug": "scp-055",
+      "note": "A serious cousin: an object that resists being described or remembered."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

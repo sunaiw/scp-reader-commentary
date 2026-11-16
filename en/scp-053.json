@@ -1,0 +1,19 @@
+{
+  "slug": "scp-053",
+  "lang": "en",
+  "hook": "A short file about a three-year-old girl kept in a room full of toys. The procedures read like childcare instructions at first, and the contrast with the warnings that follow is deliberate. It is brief, so read it straight through in one go.",
+  "whyItMatters": "It is a classic of the innocent-seeming anomaly, where the danger comes from how people react rather than from the subject's intent. The file carries its own tag, which gathers the material connected to her, so this is the base reference for that thread. Its restraint, a few paragraphs with no narrative, is part of why it lingers.",
+  "thingsToNotice": "Notice how the procedures balance care and caution: bedding, snacks and rotating toys sit right beside steel safety lines and a strict time limit.\n\nThe effect turns the adults around her into the threat, while she herself is unhurt and unaware, which makes her the most sympathetic figure in the file. Her unease around groups is a small detail that hints at what she has lived through. The last line, that she cannot answer questions about the effect, keeps her inner life closed.",
+  "related": [
+    {
+      "slug": "scp-096",
+      "note": "Another file where simply making eye contact sets off a deadly reaction."
+    },
+    {
+      "slug": "scp-239",
+      "note": "A different young girl whose anomalous nature shapes everyone around her."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

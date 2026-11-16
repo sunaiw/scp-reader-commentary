@@ -1,0 +1,19 @@
+{
+  "slug": "scp-1504",
+  "lang": "en",
+  "hook": "Read this one top to bottom and avoid skipping ahead. It starts as a modest recovered record about a man who cannot be hurt, and the way the document is assembled matters more than it first seems. Small, slightly awkward moments in the interview are worth noticing.",
+  "whyItMatters": "It is a compact showcase for the meta tag: the anomaly lives in the record as much as in the man, so the reader ends up among the people being misled. A Keter, uncontained file that begins by describing something almost dull makes a strong contrast. It shows how much a short article can achieve by revising its own evidence partway through.",
+  "thingsToNotice": "The structure is a before and after. The same interview appears twice, and the second copy restores what was filtered out, while Dr. Loyd's lines stay word for word the same; his polite replies turn chilling once you see what they were answering.\n\nThe handwritten note in the middle shows the effect from inside, a staff that gradually stopped questioning its own losses. The subject's despair adds a second layer, since being overlooked is a torment for him as well. Details like the ban on automated systems in the new containment area quietly confirm how far his influence reaches.",
+  "related": [
+    {
+      "slug": "scp-055",
+      "note": "Another anomaly defined by what people fail to register about it."
+    },
+    {
+      "slug": "scp-2521",
+      "note": "Pairs well for its play with how the document itself is written."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

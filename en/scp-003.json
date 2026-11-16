@@ -1,0 +1,19 @@
+{
+  "slug": "scp-003",
+  "lang": "en",
+  "hook": "This is a dense, technical-feeling file about an ancient piece of circuitry and the stone slab it rests on. The first half is procedures and biology, so be patient; the payoff sits in the later addenda and the testimony that closes the page.",
+  "whyItMatters": "As a very low number it is an early stop for many readers, and the current text carries the rewrite tag, so it reads as a newer treatment of a classic slot. It handles a K-class scenario in an unusual key: the threat is not ruin but a well-meant remaking of the world. Its tags also tie it to Director Moose, who appears here in a pivotal role.",
+  "thingsToNotice": "Return to the containment procedures after finishing. The order to keep skin contact during a power loss only makes sense once you learn that living minds slow the growth and also serve as its templates.\n\nThe two components form a jailer and prisoner story, with the slab's dwindling power running underneath everything. The removal of O5-10 and the unnamed figure acting in their name hint at politics the file never fully explains. Moose's testimony reframes the danger: a paradise is on offer, but shaped for whichever complex mind reaches it first.",
+  "related": [
+    {
+      "slug": "scp-1512",
+      "note": "Named in the file as sharing unexplained biological traits with SCP-003-1."
+    },
+    {
+      "slug": "scp-2756",
+      "note": "Also cited as having elements in common with SCP-003-1's biology."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

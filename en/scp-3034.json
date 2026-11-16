@@ -1,0 +1,19 @@
+{
+  "slug": "scp-3034",
+  "lang": "en",
+  "hook": "A remote radio station, a child's voice counting backwards, and one simple instruction for how to reply. The original page includes audio, but the text stands on its own. Go in knowing as little as possible and let the attachments unfold in order.",
+  "whyItMatters": "Credited to The Great Hippo, it uses the Cold War numbers station as the frame for a slow mystery. It also belongs to the GRU Division P thread, the Soviet anomaly group the file points to, and offers a grim corner of that group's history. The containment here is a single reassuring phrase repeated for decades, a memorable kind of procedure.",
+  "thingsToNotice": "The half-burned audio log answers questions the researchers never ask, so the reader ends up knowing more than the Foundation does; treat it as the key to the file.\n\nThe email chain is a textbook curiosity trap, a sensible request for more data that ends with a one-line reversal. The two incident reports close on a tiny numerical change suggesting the countdown has begun to move, which is more unsettling than any explicit outcome. Notice too how the words carved into a desk became the whole containment protocol, inherited from people who fled without explanation.",
+  "related": [
+    {
+      "slug": "scp-2664",
+      "note": "The file the footnote cites for more on GRU Division P."
+    },
+    {
+      "slug": "scp-2399",
+      "note": "Another case where containment means controlling what a signal is allowed to say."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

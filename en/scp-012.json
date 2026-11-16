@@ -1,0 +1,19 @@
+{
+  "slug": "scp-012",
+  "lang": "en",
+  "hook": "A very short early file about an unfinished, handwritten piece of music. The theme is disturbing, but the text is brief and clinical rather than graphic. Read the procedures closely, since they quietly tell you what the object does before the description does.",
+  "whyItMatters": "It is an early, influential take on the cognitohazard: one idea, a composition that compels people to try to complete it, carried by a handful of paragraphs. The score's title, On Mount Golgotha, is also used as a site tag, so this file is the starting point for related material. It shows how much menace a short entry can hold when procedures and description reinforce each other.",
+  "thingsToNotice": "The containment rules tell the story in reverse: darkness, an iron box and suspension away from the walls all make sense once you learn what seeing the score does.\n\nThe detail about the ink shifts the object from eerie relic to something with a long list of victims. The belief that it cannot be finished, together with the failed performance, suggests a work that was never meant to be music at all. The religious title is left unexplained, inviting interpretation without settling on one.",
+  "related": [
+    {
+      "slug": "scp-882",
+      "note": "Another object that compels people to feed it at their own expense."
+    },
+    {
+      "slug": "scp-4001",
+      "note": "A very different place where writing carries an enormous cost."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

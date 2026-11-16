@@ -1,0 +1,19 @@
+{
+  "slug": "scp-882",
+  "lang": "en",
+  "hook": "A short file about a silent heap of gears that has to be kept rusting in seawater. Read it as a mood piece; much of the unease comes from the precise, oddly specific procedures. The tags link it to the Broken God, but you need no background to enjoy it.",
+  "whyItMatters": "It is a compact way into the clockwork imagery tied to the Broken God, a theme that recurs across the site. A machine that grows by swallowing metal, and draws people toward it with noises only they can hear, is a strong and simple hook. It also shows how a featured article can work with just a few paragraphs and some well-chosen loose threads.",
+  "thingsToNotice": "The central contradiction is the best touch: the object makes no sound at all, yet those who linger near it hear grinding and clicking that only eases when they feed it.\n\nThe recovery notes do a lot with little, a circle scrubbed clean of metal and a small town left empty nearby, and let you fill in the rest. Rust itself is the containment, so decay is the one thing keeping the machine still. The cross-references at the end point to a wider web without stopping to explain it.",
+  "related": [
+    {
+      "slug": "scp-217",
+      "note": "The containment note warns to keep anyone touched by it away from this machine."
+    },
+    {
+      "slug": "scp-2519",
+      "note": "Played on loop during recovery to calm the mechanism enough to approach."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

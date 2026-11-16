@@ -1,0 +1,19 @@
+{
+  "slug": "scp-009",
+  "lang": "en",
+  "hook": "Red water with backwards physics: it freezes when warm and melts in the cold. Read it as slow-burn chemistry horror; the strict cooling rules click into place once you reach the description. The file ends with an odd experiment borrowed from another universe, so read all the way down.",
+  "whyItMatters": "It is one of the low numbers many readers meet early, and its inverted-thermodynamics premise is easy to grasp and hard to shake. The contamination angle connects it to the site's large family of spreading hazards, scaled up to a possible extinction-level event that the file mentions almost in passing. The O5 memo keeping it at Euclid shows how classification can be a judgment call rather than a pure measure of danger.",
+  "thingsToNotice": "The danger is laid out as a staged process that gets more redacted the further it goes, so the gaps carry the dread.\n\nA later addendum notes how near the world came to disaster at the recovery site, which recasts every cooling unit as the only barrier left. The O5 memo's offhand tone, and its aside about an earlier research mishap, add dry humor. The closing experiment, carried over from another reality by a universe-hopping object, leaves the substance's origin as an open question.",
+  "related": [
+    {
+      "slug": "scp-507",
+      "note": "The object through which the closing experiment record was obtained."
+    },
+    {
+      "slug": "scp-107",
+      "note": "Used alongside 009 in that cross-universe test."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}
