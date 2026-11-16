@@ -1,0 +1,19 @@
+{
+  "slug": "scp-1313",
+  "lang": "en",
+  "hook": "An uncontained Keter that is, technically, a math problem. The file is short and dry, and it asks you to keep a straight face about grizzly bears behaving like numbers. Read it slowly, because the best jokes hide in the footnote and the set notation.",
+  "whyItMatters": "It sits under the absurdism tag and shows the Foundation voice doing comedy: nothing in the procedures winks at you, which is exactly why it is funny. The idea that understanding something is itself the hazard is a familiar Foundation theme, and here it is pushed into pure deadpan. The author listed for it is MaliceAforethought.",
+  "thingsToNotice": "Notice the inverted containment logic: staff may keep copies of the problem but must never fully grasp it, and solving it is a disciplinary matter. The list of findings treats bears as mathematical objects with total seriousness, down to roots and primality, so the escalation happens in concepts rather than events.\n\nThe closing notice turns the reader into a possible case, an old trick for a short file that still works. Meanwhile the casualty figures are left as bare numbers, which keeps the darker side in the margins.",
+  "related": [
+    {
+      "slug": "scp-055",
+      "note": "A very different file about a subject that resists being thought about."
+    },
+    {
+      "slug": "scp-4444",
+      "note": "Another comedy that runs entirely on the Foundation's straight face."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

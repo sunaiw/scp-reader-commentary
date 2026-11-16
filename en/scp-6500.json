@@ -1,0 +1,19 @@
+{
+  "slug": "scp-6500",
+  "lang": "en",
+  "hook": "This is a very long, multi-part article that unfolds as a set of separate missions, each in its own format and style, and several are full prose stories. Everything starts from one premise: magic and the anomalous are dying out. Set aside real time for it and expect a tour through many corners of the setting; you don't need to know them all to follow along.",
+  "whyItMatters": "Its tag list reads like an index of the shared setting: Alagadda, the Wanderers' Library, Three Portlands, the Global Occult Coalition, Deer College and more. It flips the Foundation's usual goal by asking what happens when the normalcy it guards arrives on its own, and casts the organization as fighting to keep wonder alive. A co-authored, interactive piece, it works almost as a celebration of the wiki's many subcultures.",
+  "thingsToNotice": "The opening document drops its clinical voice to argue a moral case, a signal that this Foundation has changed its priorities. Each path reads like a different genre: a quest that knows it is a story, a small-town tale, a folklore-flavored confrontation, and a mission through a door into somewhere else.\n\nCharacters keep talking about narrative itself, and the plot acknowledges storytelling rules before bending them. The post-mission reports, in dry procedural language, recast the adventures you just read and are worth comparing with the stories they summarize.",
+  "related": [
+    {
+      "slug": "scp-5923",
+      "note": "The lonely town whose call sets one of the quests in motion."
+    },
+    {
+      "slug": "scp-6140",
+      "note": "Shares the Daevite tag; 6500's opening also reaches into Daevite history."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "scp-4444",
+  "lang": "en",
+  "hook": "This is an alternate-history comedy about the 2000 US presidential election, told through transcripts, a complaint form, campaign ads and phone calls. You don't need to know much about that race to enjoy it, though the late addenda land better if you remember it came down to a disputed recount. Expect broad, profane humor with real public figures played for laughs: this is satire, not a sober containment file.",
+  "whyItMatters": "The article invents its own object class, Ticonderoga, for something the Foundation can neither contain nor really needs to, a neat reversal of the usual Keter setup. Its tags read like a cast list of familiar staff characters, including Clef, Light, Crow and Cimmerian, alongside the FBI's Unusual Incidents Unit, so it plays like a crossover episode. The fun lies less in the anomaly than in watching institutions argue about it.",
+  "thingsToNotice": "The entity's scrambled English drives the jokes, and the file keeps raising the stakes of that word salad, from a private interview to a live televised debate. Notice that almost every Foundation plan is worse than the problem: the smear proposals, the stand-in candidate and the election-night contingency are all darker than the alien itself.\n\nUnder the comedy runs a climate thread: the visitor's real danger is greenhouse emissions, and the concession letter turns that into an oddly sincere ending. The last two addenda reopen the case with an unexplained call and ad, leaving a deliberate loose end.",
+  "related": [
+    {
+      "slug": "scp-8586",
+      "note": "Cited in the election addenda; best read after finishing this one."
+    },
+    {
+      "slug": "scp-1313",
+      "note": "Another file that plays an absurd premise completely straight."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "scp-3003",
+  "lang": "en",
+  "hook": "A habitable planet, a civilization of thirty billion humans, and a portal to Earth. The file opens like a diplomatic dossier, with tabs on biology, technology and society. Its premise involves unsettling bodily ideas delivered in clinical language, and the dread comes from how orderly everything is.",
+  "whyItMatters": "This is a strong example of the alien-society article, closer to speculative anthropology than to a monster file. The procedures hinge on a lie the Foundation keeps telling a culture that has never needed to lie, which puts the Foundation in a grey moral position from the first paragraph. The planet's claims of no violence and no scarcity sit right next to what they cost, so the file is as much a question about values as a threat report.",
+  "thingsToNotice": "The researchers' field notes break the clinical voice: culture shock, irritation and small humiliations show what it takes to study a society organized around one purpose. The file keeps asking whether the inhabitants are drones and answers not quite, which is more unnerving than a simple hive mind.\n\nThe final addendum changes who you think has been speaking all along, and the elevator conversation turns the document's quiet logic into a case for giving up. Its closing line lands because the earlier tabs have already shown how little stands in that logic's way.",
+  "related": [
+    {
+      "slug": "scp-1719",
+      "note": "Mentioned in passing in the biology tab as something the Foundation checked."
+    },
+    {
+      "slug": "scp-4991",
+      "note": "Another insect-driven catastrophe, told in a completely different format."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

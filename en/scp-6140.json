@@ -1,0 +1,19 @@
+{
+  "slug": "scp-6140",
+  "lang": "en",
+  "hook": "Read SCP-140 first if you can; this file is built on it and assumes you know what that book does. It opens with the Foundation bracing for a catastrophic war with a resurrected empire, complete with threat tables and an all-staff bulletin. Don't stop after the first section.",
+  "whyItMatters": "It takes on the Daevite Empire, a long-standing piece of Foundation worldbuilding rooted in SCP-140, and asks who wrote that history and why. Credited to stormbreath and aismallard, it uses the anomaly to talk about Orientalism and how an outsider's account can overwrite a people. It is a strong example of a later article revising an older one rather than simply extending it.",
+  "thingsToNotice": "The two parts mirror each other: one is written from inside the old assumptions, the other from after they collapse. The comparison table is the hinge, so read each row as a correction to something earlier files took for granted. Footnotes about matriarchy and translation do quiet but important work.\n\nThe closing testimony moves the voice from the Foundation to the people it had been describing, and ends on a plea aimed squarely at the Foundation's own habits.",
+  "related": [
+    {
+      "slug": "scp-140",
+      "note": "The book this file is built on; read it first."
+    },
+    {
+      "slug": "scp-076",
+      "note": "Able, one of the older files tied into Daevite lore."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}
