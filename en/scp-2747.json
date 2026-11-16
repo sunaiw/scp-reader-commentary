@@ -1,0 +1,19 @@
+{
+  "slug": "scp-2747",
+  "lang": "en",
+  "hook": "This is an article about fiction that should not exist, assembled as a catalogue of reviews, wiki edits and forum threads about works nobody ever made. Go in expecting a slow list rather than a monster. Read the containment procedures closely, and keep half an eye on the numbers that keep coming up in each entry.",
+  "whyItMatters": "SCP-2747 is a key piece of the wiki's metafiction thread, and it gives a name to a striking idea: an anafabula, a story element that unmakes the very story that contains it. It belongs with the entries that treat layers of narrative as a real, physical structure, where our own world might just be one more layer being read from above.\n\nIts rating suggests how well the central trick lands, turning the document itself into the place where the anomaly happens.",
+  "thingsToNotice": "Every invented work in Appendix A circles something missing: a destination never reached, a last fragment that cannot be found, a villain always mentioned and never seen. Count the parts in each entry and six and seven keep turning up, echoing the size of the artist watchlist in the procedures.\n\nThen comes the payoff. Appendix B, the section the whole file keeps pointing toward, has nothing under its heading. Together with the struck-through class and threat level, the page reads as though it has just been touched by the thing it describes, and the unspoken implication is that our layer could be next.",
+  "related": [
+    {
+      "slug": "scp-3812",
+      "note": "The other side of stacked narratives: something climbing up through them."
+    },
+    {
+      "slug": "scp-2256",
+      "note": "Another file that seems to be losing its own contents as you read."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

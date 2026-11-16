@@ -1,0 +1,19 @@
+{
+  "slug": "scp-3812",
+  "lang": "en",
+  "hook": "SCP-3812 is long and builds slowly through an interview, memos, logs and an essay, so give it a proper sitting. It leans on the idea that realities can be stacked like stories inside stories, but the article explains what it needs as it goes. Keep its subtitle, A Voice Behind Me, in mind the whole way through.",
+  "whyItMatters": "It is one of the major works in the wiki's metafiction thread, concerned with authors, characters and the layers between them. It builds on established Foundation lore such as Dr. Scranton's reality anchors and the Hume scale, then pushes those ideas to their limit.\n\nIts event log also links outward to other articles, so it doubles as a node connecting several corners of the canon.",
+  "thingsToNotice": "The file moves from a frightened, apologetic man in the first interview to something almost beyond description, and it is built so that your sympathy survives the change. A message signed with a single initial recasts everything as a creator's mistake, and the Scranton essay supplies the logic of a being compelled to outrank even itself.\n\nThe climax is a conversation between two voices of the same entity, and it ends not in destruction but in a decision to leave, with a final look down at the person writing it. Read the log entries for cross-links too; one of them explains where a much shorter article came from.",
+  "related": [
+    {
+      "slug": "scp-2719",
+      "note": "The event log names where this strange, terse object turned up."
+    },
+    {
+      "slug": "scp-2747",
+      "note": "Another meta piece where nested stories have real consequences."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

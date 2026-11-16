@@ -1,0 +1,23 @@
+{
+  "slug": "scp-2719",
+  "lang": "en",
+  "hook": "One of the shortest Keter files you will come across: a one-line procedure, a two-sentence description, then a table. There is nothing to explain in advance. Read the table slowly, row by row, and let it build.",
+  "whyItMatters": "SCP-2719 shows how far minimalism can be pushed on the wiki: an odd pair of verbs carries the entire article. Its tags tie it to the hard-to-destroy reptile and to Dr. Reynders.\n\nThe pointer also turns up as a tool in later articles, which says something about how memorable the concept is.",
+  "thingsToNotice": "The table has a rhythm, and the comedy lives in the moments that break it: a parenthetical shrug, a result of Outside, an evacuation that actually works. Watch who is being pointed at as the list climbs, from test subjects to towns to a famous reptile and finally the Overseers themselves.\n\nThe repeated tries on an abstract idea near the end suggest someone aiming at something far bigger than containment, and the last rows imply that the effort has quietly stalled or finished. The one-line procedure only becomes a joke once you reach the bottom.",
+  "related": [
+    {
+      "slug": "scp-682",
+      "note": "The famous reptile that the table tries again and again."
+    },
+    {
+      "slug": "scp-3812",
+      "note": "One line of its event log explains where this object was found."
+    },
+    {
+      "slug": "scp-6820",
+      "note": "Reuses this pointer as a termination tool."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

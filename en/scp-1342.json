@@ -1,0 +1,19 @@
+{
+  "slug": "scp-1342",
+  "lang": "en",
+  "hook": "A quiet science-fiction piece built around a real object: the Voyager probe and the golden record it carried. It helps to remember what the original record held, music, spoken greetings and pictures of life on Earth, because the article answers that gesture directly. Take it slowly; most of its weight sits in the last document.",
+  "whyItMatters": "SCP-1342 shows that an article needs no threat and no breach to hit hard. Its high rating for an entry with essentially zero danger says a lot about how readers took it.\n\nIt belongs to the Project Heimdall cluster and to the science-fiction side of the wiki, where the anomaly is less a monster than a message.",
+  "thingsToNotice": "The first half is deliberately cold: dimensions, recovery details, a catalogue of images. That restraint is what makes the switch into a first-person letter feel like a door opening.\n\nThe letter recasts the probe as a reply sent backward through time, and it never says exactly who did the harm, which leaves you holding an uncomfortable thought about humanity's future. Notice the choice of music on the record, and how the closing line turns what could have been a warning into something closer to thanks.",
+  "related": [
+    {
+      "slug": "scp-2256",
+      "note": "Another story where people end up behind the decline of a gentle species."
+    },
+    {
+      "slug": "scp-1609",
+      "note": "Also asks you to see events from the side of whoever was hurt."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

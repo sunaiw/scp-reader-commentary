@@ -1,0 +1,19 @@
+{
+  "slug": "scp-008",
+  "lang": "en",
+  "hook": "A short, clinical file behind a heavy clearance banner. There are no interviews or incident logs, only a list of properties and contingencies, and most of the tension lives in what the procedures are prepared to sacrifice. It reads in a couple of minutes, so slow down on each line of the procedures.",
+  "whyItMatters": "SCP-008 is the Foundation's version of the zombie outbreak, one of horror's most familiar premises, recast in the dry voice of a biohazard report. Because the idea is so recognisable, it shows neatly how the SCP format can change a genre staple through tone alone.\n\nIt also sits in the early numbering block, and its addendum links it to another early item, a small glimpse of the first articles starting to reference one another.",
+  "thingsToNotice": "The symptoms are laid out as calm bullet points, and the unease comes from how ordinary that format is next to what it describes. Look at what the procedures leave out: there is deliberately no evacuation plan, and the response to a breach is to sterilise the facility whole.\n\nThe line about Soviet cooperation and a sample whose fate is unknown opens a much larger story in one sentence and then walks away. The final addendum about a cure can be read as relief, or as a reminder that the Foundation keeps some answers close.",
+  "related": [
+    {
+      "slug": "scp-500",
+      "note": "Named in the addendum as a complete cure, so the two pair naturally."
+    },
+    {
+      "slug": "scp-610",
+      "note": "Another contagion entry, far less tidy in how it spreads."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

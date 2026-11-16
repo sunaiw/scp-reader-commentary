@@ -1,0 +1,19 @@
+{
+  "slug": "scp-131",
+  "lang": "en",
+  "hook": "A short, light entry about two small, curious creatures who roll around the site. It works best if you already know SCP-173, the very first article, because the addendum leans on that connection. Expect charm rather than danger.",
+  "whyItMatters": "The Eye Pods are among the site's well-loved friendly anomalies, a counterweight to the horror that fills most of the early numbers. The staff nickname recorded in the file itself tells you how the Foundation's people feel about them.\n\nThey show that the clinical report format can carry warmth as easily as menace.",
+  "thingsToNotice": "The fact that they never blink is dropped casually in the description and only pays off in the addendum, a tidy piece of setup. The procedures mostly protect the creatures and the staff's focus, not people from the creatures, which flips the usual direction of an SCP file.\n\nThe proposal to use them as wardens is both sweet and practical, and it suggests that even a harmless anomaly can find a job inside containment.",
+  "related": [
+    {
+      "slug": "scp-173",
+      "note": "The addendum's key moment depends on this first article's rules."
+    },
+    {
+      "slug": "scp-689",
+      "note": "Named in the addendum as another object needing constant watching."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

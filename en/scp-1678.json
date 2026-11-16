@@ -1,0 +1,19 @@
+{
+  "slug": "scp-1678",
+  "lang": "en",
+  "hook": "Expect exploration and slow dread rather than a single creature: a whole buried city, barely mapped, with a recorded voice that greets anyone who walks in. The list of public announcements is the heart of the piece, so do not skim it. It also helps to know that 'Bobby' is old British slang for a police officer.",
+  "whyItMatters": "SCP-1678 is the Foundation's take on the end-of-the-world shelter, filtered through Victorian London and a deeply authoritarian idea of what survival should look like. Its tags place it in the UnLondon setting, and its broadcasts nod to other threats by name, such as the Pattern Screamer.\n\nIt is a strong example of building a place and a whole society almost entirely out of artefacts: posters, recordings and vending machines.",
+  "thingsToNotice": "The welcome speech promises a refuge but ends by announcing a new order under one flag, and the cheerful hourly messages turn cold once you ask who they actually serve. The building flaws multiply with distance from Parliament, neat environmental storytelling about a single mind at the centre.\n\nEvery comfort on offer, food, charity and policing, turns out to be a tool of control. The builder is never identified, so the speaker on the tapes remains the real mystery, and the beggar figures, condemned as traitors in one broadcast, hint at a history of dissent the file never explains.",
+  "related": [
+    {
+      "slug": "scp-2000",
+      "note": "The Foundation's own plan for after the end, a very different vision."
+    },
+    {
+      "slug": "scp-3008",
+      "note": "Another enclosed world where uncanny staff enforce rules on visitors."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}
