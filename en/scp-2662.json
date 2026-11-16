@@ -1,0 +1,19 @@
+{
+  "slug": "scp-2662",
+  "lang": "en",
+  "hook": "Go in expecting a cosmic horror monster and you get the wrong article in the best way. SCP-2662 is a towering, tentacled deity whose biggest problem is that people keep worshipping it. The incident logs are deliberately crude and edge into adult territory, but the joke always lands on the cultists, never on the entity.",
+  "whyItMatters": "It belongs to a well-loved strand of the wiki that takes an eldritch template and turns it into a sitcom: the god is the only reasonable person in the room. The kindness tag says a lot, since the horror lives entirely in the human followers while the anomaly mostly wants newspapers and video games. It shows how far a single reversal can go when the voice stays consistent.",
+  "thingsToNotice": "The comedy comes from friction between the dry timestamped log and the entity's increasingly exasperated complaints.\n\nThe Keter upgrade is the quiet turn. The last incident reveals that its influence over followers is maturing and that the voluntary containment may hold only as long as it chooses, so an offhand remark about breaking out later reframes every earlier gag as a countdown. The cults also learn from each failure despite never meeting, a hint that the real anomaly is a pull it never asked for.",
+  "related": [
+    {
+      "slug": "scp-999",
+      "note": "Another anomaly whose defining trait is goodwill rather than menace."
+    },
+    {
+      "slug": "scp-1440",
+      "note": "A reluctant entity that wants no part of the harm its nature causes."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

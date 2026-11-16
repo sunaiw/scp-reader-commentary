@@ -1,0 +1,19 @@
+{
+  "slug": "scp-1425",
+  "lang": "en",
+  "hook": "SCP-1425 is a self-help bestseller that genuinely works, and that is exactly the problem. Most of the article is a day-by-day timeline covering a few weeks in 2005, so settle in for something closer to a disaster chronicle than a standard object file. It is also a core text for the Fifth Church, a strange cult worth remembering for later reading.",
+  "whyItMatters": "It helped define the Fifthists as a celebrity-driven movement whose weirdness spreads through mass media rather than through a single monster. It also shows the Foundation stretched to its limit: recalls, invented health scares, intercepted broadcasts and the wholesale erasure of a news cycle. The closing memo from the EID director gives the event an unusually candid, human voice.",
+  "thingsToNotice": "The quoted chapters drift from upbeat coaching into grammar that keeps slipping, and that slow decay is the real horror engine. The intercepted TV transcripts escalate one after another, and the use of real public figures makes the wrongness feel uncomfortably close.\n\nThe calendar matters too, since the book's strict reading schedule lets researchers predict exactly when the peak will arrive. Finally, the director's note admits that luck, the cult's own secrecy and betrayal from inside shaped the outcome more than competence did, which undercuts the tidy log above it.",
+  "related": [
+    {
+      "slug": "scp-2521",
+      "note": "Another case where spreading information is itself the threat."
+    },
+    {
+      "slug": "scp-3125",
+      "note": "An ideas-based hazard that the Foundation struggles even to think about."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "scp-7000",
+  "lang": "en",
+  "hook": "SCP-7000 opens as a planet-wide breakdown of probability and quickly narrows onto one extremely unlucky researcher at Site-43. It is long and mostly a comedy, full of slapstick field missions and dry O5 banter, but give it time: the jokes are setting up something more personal. Knowing the Site-43 cast helps, though it is not required.",
+  "whyItMatters": "It leans on the established Site-43 crew and recurring figures such as Dr. Dan, showing how familiar characters can carry a long, sprawling story. Cameos from across the setting, from SCP-179 to Sloth's Pit, reward long-time readers. Above all, it proves a K-class scenario can be told as an intimate character study.",
+  "thingsToNotice": "The early line calling SCP-7000-1 inconsequential is a planted joke that the ending pays off. Follow the clue trail through the interviews with Wettle's colleagues, ex-wife and parents, which gradually flips him from victim to source.\n\nThe two drafted files at the end are the real punchline: the official record hands the credit to the enemy, while the true entry quietly names the man who absorbs everyone else's bad luck. Notice also how the Chaos Insurgency's collapse happens almost entirely offstage, as a side effect.",
+  "related": [
+    {
+      "slug": "scp-179",
+      "note": "The solar sentinel whose strange behavior becomes a key clue here."
+    },
+    {
+      "slug": "scp-4040",
+      "note": "Sloth's Pit's bottomless pit, one of the setting's casualties in this story."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

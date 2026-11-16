@@ -1,0 +1,19 @@
+{
+  "slug": "scp-1048",
+  "lang": "en",
+  "hook": "SCP-1048 is a small teddy bear that wanders a Foundation site hugging people's legs, and everyone adores it. That is the setup, and the article's job is to take it away from you. Be aware that it is a body-horror piece and the later sections are disturbing, though brief.",
+  "whyItMatters": "Often called the Builder Bear, it is one of the most recognizable takes on the cute-thing-turned-nightmare trope on the wiki. Its sharpest choice is that the original bear is never shown doing harm itself; everything awful comes from what it makes, which keeps it ambiguous and lets the dread grow in the reader's head.",
+  "thingsToNotice": "Look at the containment section, which reads like rules written for a harmless mascot and then hastily patched with a ban on every teddy bear on site. The doctor's interjections show how quickly affection among the staff curdled into fear.\n\nEach replica is assembled from something taken, and the article points at the sources only obliquely, which is exactly why they land. The closing cross-reference to a bear with nearly the opposite function is a small gift for readers who want an antidote.",
+  "related": [
+    {
+      "slug": "scp-2295",
+      "note": "The bear the file itself names as its near-opposite."
+    },
+    {
+      "slug": "scp-999",
+      "note": "A purely lovable anomaly, for contrast with the bear's hidden side."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

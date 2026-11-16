@@ -1,0 +1,19 @@
+{
+  "slug": "scp-348",
+  "lang": "en",
+  "hook": "SCP-348 is a small porcelain bowl that fills with soup whenever someone nearby is a little bit sick. That is nearly the whole premise, and it is enough. Read it slowly; the test logs are short, and each entry is a tiny story of its own.",
+  "whyItMatters": "It is a fine example of the gentle, emotional SCP, proof that a Safe-class object with no danger at all can still hit hard. Its strength is restraint: there is no backstory about where the bowl came from, only data that the reader turns into feeling. Telling a whole family relationship through one line of background and one line of result is a technique worth studying.",
+  "thingsToNotice": "The test logs work like flash fiction, pairing a terse background note with a message that seems to answer it.\n\nThe shift to adult subjects changes the mood: the words fade, appear far less often, and in one case the bowl seems to withhold comfort entirely. The file never settles whether the voice belongs to the parents or to the bowl, and that open question lets every reader fill it in from their own life. The final addendum steps outside the testing frame and ends on quiet closure instead of a twist.",
+  "related": [
+    {
+      "slug": "scp-2295",
+      "note": "A patchwork bear that heals children, built on the same tender impulse."
+    },
+    {
+      "slug": "scp-999",
+      "note": "Another harmless anomaly whose whole purpose is comfort."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

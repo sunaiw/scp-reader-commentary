@@ -1,0 +1,19 @@
+{
+  "slug": "scp-184",
+  "lang": "en",
+  "hook": "SCP-184 is a palm-sized metal dodecahedron that makes the inside of any enclosed space keep growing while the outside stays the same. Picture your house quietly getting bigger every night and you have the appeal. The file is short, so read the addenda closely for where the object has been.",
+  "whyItMatters": "It is a compact, early take on the bigger-on-the-inside space anomaly that later writers explored on a much larger scale. An addendum floats the idea that it, or something like it, might explain other strange locations in the setting, turning a small trinket into a possible origin for a whole family of places. Tying it to a real place famous for unchecked growth gives the fiction a grounded anchor.",
+  "thingsToNotice": "The description moves from orderly expansion to breakdown: copies made of the wrong material, doors that open onto walls, corridors that loop back. That decay is more unsettling than the growth, because it suggests the object imitates without understanding.\n\nThe recovery note places it in the Kowloon Walled City and hints that someone was renting its effect to residents, inviting you to imagine the city's maze from the inside. The containment, a magnet disguised as a park statue, is a nicely practical answer to an object that can never be kept in a box.",
+  "related": [
+    {
+      "slug": "scp-3008",
+      "note": "An impossible interior space taken to an enormous scale."
+    },
+    {
+      "slug": "scp-087",
+      "note": "A classic short piece about a space that goes on far longer than it should."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

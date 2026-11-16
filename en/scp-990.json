@@ -1,0 +1,19 @@
+{
+  "slug": "scp-990",
+  "lang": "en",
+  "hook": "SCP-990 is a man in an old-fashioned suit who appears only in the dreams of Foundation staff, usually to tell them that something terrible is coming. The article is brief and built mostly around a single dream interview, so read it as a mood piece rather than a puzzle.",
+  "whyItMatters": "Known informally as the Dream Man, it is a classic example of an uncontainable Keter that is less a monster than a messenger. Its ambiguity is the point: he could be a threat or a warning, and the file refuses to decide.",
+  "thingsToNotice": "The containment section openly invites anyone with an idea to come forward, which conveys the Foundation's helplessness before a word of description. In the interview he deflects every question with playful calm, swapping names on a whim, and answers the accusation of murder by hinting that he is on the Foundation's side.\n\nThe blacked-out designation of an anomaly that does not yet exist is the article's lingering hook. The closing pun about waking up makes the whole exchange feel like a warning rather than a taunt.",
+  "related": [
+    {
+      "slug": "scp-1440",
+      "note": "Another composed, mysterious man whose quiet words foreshadow disaster."
+    },
+    {
+      "slug": "scp-1471",
+      "note": "An entity that inserts itself into individuals' private lives uninvited."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

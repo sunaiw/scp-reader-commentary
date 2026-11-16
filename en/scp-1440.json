@@ -1,0 +1,19 @@
+{
+  "slug": "scp-1440",
+  "lang": "en",
+  "hook": "SCP-1440 is an ageless old man who brings ruin to anything human he stays near for too long, and who would very much like the Foundation to help him stop. He is polite, weary and unhurried. Read the interview all the way through; the article leans on its final line.",
+  "whyItMatters": "It borrows the folk-tale shape of a man who gambled with Death and won, then asks what winning would really cost. Its tag ties it to other stories about the same brothers. As a Keter it flips the usual dynamic: the anomaly is fully cooperative, and the attempt to contain it is what brings the disaster.",
+  "thingsToNotice": "His few belongings, a sack, a worn deck of cards and a small cup, hint at what he once won without the text ever spelling it out. The foreword's list of mishaps comes before the conversation, so every courteous line reads like a countdown.\n\nThe third brother's absence is the cruelest detail, since release depends on the one figure who never shows up. The last addendum turns a personal curse into a global problem simply because the world keeps filling up with people.",
+  "related": [
+    {
+      "slug": "scp-990",
+      "note": "Another calm, enigmatic man whose words carry a warning of catastrophe."
+    },
+    {
+      "slug": "scp-7000",
+      "note": "A very different, comic take on a person bound up with misfortune."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}
