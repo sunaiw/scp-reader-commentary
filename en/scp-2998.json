@@ -1,0 +1,19 @@
+{
+  "slug": "scp-2998",
+  "lang": "en",
+  "hook": "SCP-2998 is told through a chain of document versions, and the notice at the top warns that most of them are not the true file. Read each iteration in order and watch what changes between them, because the edits are the story. It is long and builds slowly, so give it some time.",
+  "whyItMatters": "Its tag list is unusually wide, mixing science fiction, cosmic horror, crime fiction and military fiction, and the piece really does touch all of them. It is a showcase for the revision-chain format, where a report is rewritten as the Foundation learns more, used here to climb from a puzzling signal to something vastly larger. The RAISA notice signed by Maria Jones gives the whole frame an administrative, in-world voice.",
+  "thingsToNotice": "Track the object class from version to version, since each change is a compressed plot beat. The interviews are the core: two people try to describe an alien drama through human gangster comparisons, and that clumsy translation is exactly what makes the scale feel real.\n\nThe repeated praise phrases start as meaningless chatter and slowly turn into a warning sign. Keep the opening notice in mind the whole way through, because the question of which version you can trust never really goes away.",
+  "related": [
+    {
+      "slug": "scp-055",
+      "note": "Another file shaped around information that resists being known."
+    },
+    {
+      "slug": "scp-993",
+      "note": "A broadcast whose true content reaches only a narrow set of viewers."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

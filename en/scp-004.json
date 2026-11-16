@@ -1,0 +1,19 @@
+{
+  "slug": "scp-004",
+  "lang": "en",
+  "hook": "SCP-004 is one of the oldest-numbered files: an old barn door and a ring of twelve rusted keys. Much of it is told as a dated timeline, so it reads more like a case history than a standard report. There are a few grim moments, kept brief, and a lot of escalation driven by institutional ambition.",
+  "whyItMatters": "With such a low number, it is a common early stop for new readers, and it shows the first-generation taste for terse writing full of redactions. It also does setting work, since a Foundation site ends up being built in the space behind the door. The premise of one door leading to different places depending on the key is simple enough to explain in a breath, which is part of why it sticks.",
+  "thingsToNotice": "The timeline lets the scale creep up quietly, from kids trespassing to a permanent installation behind the door, and the cold handling of witnesses and families says as much about the Foundation as about the object. Only one key is truly safe, and the file never stops treating that as a resource to exploit.\n\nThe time anomalies are the eeriest thread, from things returning decades later unchanged to staff who lose track of how long they have been inside. The blackout entry hints that the vast dark room is not empty, and the appendix on SCP-004-12 links that hint to something enormous.",
+  "related": [
+    {
+      "slug": "scp-005",
+      "note": "A key that opens any lock, a neat counterpoint to keys bound to one door."
+    },
+    {
+      "slug": "scp-1983",
+      "note": "Another doorway that leads somewhere hostile and keeps those who enter."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

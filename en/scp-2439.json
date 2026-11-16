@@ -1,0 +1,19 @@
+{
+  "slug": "scp-2439",
+  "lang": "en",
+  "hook": "SCP-2439 is a report scratched onto a wall by D-class personnel, in their own voice, for each other. Expect misspellings, edits by several hands, and plenty of swearing; the rough format is the point. It is short, but read slowly and notice any line that does not sound like the writers.",
+  "whyItMatters": "It throws out the clinical Foundation voice entirely and looks at the organization from the D-class side, as jailers rather than protectors. That shift gives it a sharper edge than most meta pieces, because the setting's usual assumptions are seen by the people who pay for them. It is a good example of how a format experiment can double as commentary on the setting itself.",
+  "thingsToNotice": "The capitalized lines cutting into the text are the real horror: the thing being contained is speaking through the very document meant to hold it in check. Its promises shift from threats to offers tailored to exactly what the writers resent, which makes their plea to wait feel fragile.\n\nThe item number and class line, revised again and again, quietly tell you how long this wall has been handed down. By the end the voices blur, and the article leaves you unsure who wrote the final words.",
+  "related": [
+    {
+      "slug": "scp-1983",
+      "note": "Another in-world report written by personnel trapped with what they describe."
+    },
+    {
+      "slug": "scp-055",
+      "note": "A different anomaly whose containment depends on what people know."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

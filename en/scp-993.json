@@ -1,0 +1,19 @@
+{
+  "slug": "scp-993",
+  "lang": "en",
+  "hook": "SCP-993 takes the most harmless format imaginable, a cheerful educational cartoon for small kids, and turns it into a containment problem. It is short and built around an episode guide, so it reads in a few minutes. The dark content is summarized rather than dwelt on, and the summaries are what carry the chill.",
+  "whyItMatters": "Bobble the Clown has his own tag on the wiki, a sign that the character outgrew this single file. The article is a clear example of the corrupted children's media idea, a premise internet horror keeps coming back to. Its Safe class is also a handy reminder that the label measures how easy something is to hold, not how pleasant it is.",
+  "thingsToNotice": "The age rule is the clever hinge: adults simply black out, so the only way to learn what airs is to show it to young children and ask them, which makes the procedure itself quietly unsettling. The episode list reads like a TV guide, and the gap between the chirpy titles and what they describe does most of the work.\n\nWatch how the list shifts from lessons aimed at the audience toward hostility aimed at the Foundation. The last entry implies the show knows it is being recorded, and the detail of a real doctor wandering through the animation makes the broadcast feel like it is looking back.",
+  "related": [
+    {
+      "slug": "scp-2998",
+      "note": "Another signal whose real content reaches only a narrow group of viewers."
+    },
+    {
+      "slug": "scp-1981",
+      "note": "A different recording whose footage is far more disturbing than its label suggests."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

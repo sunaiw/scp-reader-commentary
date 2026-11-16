@@ -1,0 +1,19 @@
+{
+  "slug": "scp-1983",
+  "lang": "en",
+  "hook": "SCP-1983 opens as a tidy Keter report about an abandoned farmhouse and a front door nobody should walk through. Most of its power sits in a document recovered later, so do not skim the early sections; they set up rules that pay off. It is a horror piece, but the frightening parts are mostly implied rather than lingered on.",
+  "whyItMatters": "It is a strong example of the found-document turn, where a formal report hands the floor to a desperate personal account. The rule that the weapons only work when the prayer is sincere is one of the more memorable twists on monster hunting in the canon. The closing note credits an unlikely person with ending the threat, which reframes the whole file.",
+  "thingsToNotice": "Barclay's report breaks the clinical format on purpose: profane, frightened and practical, it reads like a containment procedure written for the next victim. Notice how he reasons about the shadow creatures through light and darkness while admitting he is only guessing, which makes his advice feel human rather than authoritative.\n\nHis loss of faith is the quiet tragedy, since sincere prayer is the one thing that works. Then the dry Foundation voice returns and tells you, in a sentence or two, who is presumed to have finished what he could not. His Latin sign-off, 'Morituri te salutant', fits the soldier-to-soldier tone.",
+  "related": [
+    {
+      "slug": "scp-2439",
+      "note": "Another file where trapped personnel write the report in their own raw voice."
+    },
+    {
+      "slug": "scp-004",
+      "note": "A plain-looking door that opens onto a space hostile to anyone who enters."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

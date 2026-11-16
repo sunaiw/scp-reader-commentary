@@ -1,0 +1,19 @@
+{
+  "slug": "scp-3002",
+  "lang": "en",
+  "hook": "SCP-3002 opens as an email forwarding a file, and that frame matters more than it first seems. The report inside is short and quiet: a memory shared by many prisoners, about a childhood afternoon that does not quite add up. Read the interview closely, and keep an eye on the page around the document, not just the document.",
+  "whyItMatters": "Its tags point to much bigger stakes than a shared memory, including a K-class scenario, which tells you the calm surface is not the whole story. The epistolary wrapper, a file landing in someone's inbox, makes the reader part of the chain the material travels along. That idea, where the way you receive a document is part of the anomaly, suits memetic horror especially well.",
+  "thingsToNotice": "The interview is built on small slips: names blur between the subject and his old friend, and the blond girl at the center of the memory falls apart the moment he tries to picture her. Her earnest question about whether he remembers her is the detail that lingers.\n\nThe shared details listed afterwards are oddly specific, which makes the memory feel planted rather than coincidental. And the notification at the very end hints that the file you just read was not the last message waiting.",
+  "related": [
+    {
+      "slug": "scp-055",
+      "note": "Another anomaly defined by what people cannot keep hold of in memory."
+    },
+    {
+      "slug": "scp-404-jp",
+      "note": "A document whose subject slips away the harder anyone tries to grasp it."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

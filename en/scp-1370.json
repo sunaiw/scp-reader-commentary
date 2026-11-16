@@ -1,0 +1,19 @@
+{
+  "slug": "scp-1370",
+  "lang": "en",
+  "hook": "SCP-1370 is a small robot built from spare electrical parts that is completely sure it is a terrifying conqueror. This is one of the site's comedy files, and it is short enough for one sitting. Let the test log be the punchline instead of skimming ahead to it.",
+  "whyItMatters": "Funny SCPs are a genre of their own on the wiki, and this is a well-loved example of the hostile-but-harmless type. It proves a Safe file can be memorable purely through character voice, with no real threat in sight. The Ethics Committee's note about giving it room to move adds a small touch of warmth.",
+  "thingsToNotice": "The joke runs on mismatch: grand, apocalyptic speeches coming from a top-heavy machine that can barely stay upright. The random villain names are a running gag, and the fact that staff have started feeding it new ones tells you how the site really feels about it.\n\nThe houseplant test is the set piece, with a researcher playing along through a hidden speaker while trying not to laugh. Little staging notes, like the opaque window that keeps it from picking a fight with its own reflection, are funny because the report never drops its formal tone.",
+  "related": [
+    {
+      "slug": "scp-999",
+      "note": "Another small, beloved entity whose file is more charming than dangerous."
+    },
+    {
+      "slug": "scp-079",
+      "note": "A far less comic take on a self-aware machine that resents everyone."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}
