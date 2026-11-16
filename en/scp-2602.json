@@ -1,0 +1,19 @@
+{
+  "slug": "scp-2602",
+  "lang": "en",
+  "hook": "The joke is in the title, and the article commits to it harder than you'd expect. Read it as a document losing a fight with its own anomaly: the effect is happening to the text in front of you. It's short, so go slowly enough to enjoy how the sentences bend.",
+  "whyItMatters": "2602 is a standard example of the wiki's meta humor, where the anomaly is not an object in the file but something done to the file. Instead of describing an effect, it performs one, so you experience the cognitohazard rather than being told about it. Its swapped-out class header also shows how freely later articles play with the familiar template.",
+  "thingsToNotice": "Watch the compulsion escalate: early sections tuck the reference in politely, while the survey summary and conclusions slide toward pure nonsense. The invented technical terms and the footnote run on the same reflex of explaining everything through the building's past. Underneath the comedy sits a real gap, since nobody can describe the years between the closure and 2004, and the fire damage and odd fixtures hint that something dark happened there. The gag doubles as a cover-up.",
+  "related": [
+    {
+      "slug": "scp-1893",
+      "note": "Another anomaly that rewrites the document reporting on it, used for a sadder effect."
+    },
+    {
+      "slug": "scp-055",
+      "note": "The opposite problem: something that resists being known instead of forcing one fact on you."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-17"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "scp-105",
+  "lang": "en",
+  "hook": "SCP-105 is a person, Iris Thompson, and the file reads best as a short biography written by her captors. Her ability is easy to grasp, so the interest lies in how she is treated and what she is asked to do. Listen closely to her few answers in the interview; they say more than they seem to.",
+  "whyItMatters": "Iris is one of the best-known humanoid characters on the wiki, and her file ties into wider lore through Mobile Task Force Omega-7 and the Pandora's Box program, next to SCP-076-2's Team Able. The final notice points toward a later chapter involving Alpha-9 that the file deliberately withholds, so this page is one piece of a bigger story.",
+  "thingsToNotice": "Notice how the procedures frame her privileges as rewards for good behavior, which quietly sets up the tension of the later addenda. Her acquisition is told flatly, yet it packs a false accusation and a family told she had died into a few lines. Addendum 3 turns on her refusal to take part in lethal missions and on a researcher who tries to help her get free. The closing notice, insisting every rumor about her is false, practically dares you to believe them.",
+  "related": [
+    {
+      "slug": "scp-076",
+      "note": "Its Able led the other headline team of the Pandora's Box program Iris served in."
+    },
+    {
+      "slug": "scp-239",
+      "note": "Another young person with an anomalous gift whose containment raises hard ethical questions."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-17"
+}

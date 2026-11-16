@@ -1,0 +1,19 @@
+{
+  "slug": "scp-6000",
+  "lang": "en",
+  "hook": "SCP-6000 is long, split into dated revisions you pick from, and it leans on the Wanderer's Library and the Serpent's Hand. You don't need deep lore, since the briefings cover the basics, but knowing the Library is usually a beloved and mostly neutral place makes its turn hit much harder. Read the revisions in date order; the later one changes how the earlier one feels.",
+  "whyItMatters": "It gathers several long-running threads of the setting, including Director Moose, the Serpent's Hand and a Foundation-GOC alliance, into a single end-of-the-world story. Casting the Library, usually a sanctuary, as an Apollyon-class force is a bold choice with a well-loved location. The opening notice that none of these events happened in baseline reality adds a layer of doubt about what exactly you're reading.",
+  "thingsToNotice": "SCP-6000-A's talks with Moose are the spine of the piece; each one trades a story for information, and the entity's own fairy tale turns out to be the key. Watch how the passphrase, the fusillade remark and MacMillan's letter all point toward an ending that is less about defeat than about how people meet it. The later revision strips the file down, which lets the quiet final conversation stand out. The last exchange offers Moose two possible replies, so notice how each one colors the closing scene in the Library.",
+  "related": [
+    {
+      "slug": "scp-5000",
+      "note": "Another landmark apocalyptic file in which the familiar Foundation setting comes apart."
+    },
+    {
+      "slug": "scp-2602",
+      "note": "A far lighter library-themed piece about information bending its reader."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-17"
+}

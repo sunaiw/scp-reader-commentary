@@ -1,0 +1,19 @@
+{
+  "slug": "scp-015",
+  "lang": "en",
+  "hook": "SCP-015 is a warehouse packed with plumbing, written up in only a few paragraphs. Read the containment rules carefully before you reach the description; the things staff are forbidden to do hint at what the pipes dislike well before the text says so. It works best as a mood piece, something to picture rather than follow.",
+  "whyItMatters": "It comes from the early stretch of the numbered series, when entries were short, clinical and built around one strong image. There are no interviews and no story arc, just a premise sharp enough to stick. A building that keeps growing its own pipes and quietly reaches toward the neighbors is the kind of urban unease that many later structure articles explore at much greater length.",
+  "thingsToNotice": "The list of pipe materials does a lot of work, and the absence of anything a plumber would recognize is creepier than the strange entries. The ban on repairs is a neat inversion: fixing old pipes is the obvious instinct, yet here even good intentions count as hostility. The last paragraph keeps its numbers plain and lets the missing staff and the noises from inside carry the dread with no explanation at all.",
+  "related": [
+    {
+      "slug": "scp-871",
+      "note": "Another self-copying object where the safe response runs against ordinary instinct."
+    },
+    {
+      "slug": "scp-087",
+      "note": "A different tersely documented structure that leaves its worst parts to the imagination."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-17"
+}

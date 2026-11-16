@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-17",
   "items": [
     {
       "slug": "scp-002",
@@ -7,6 +7,10 @@
     },
     {
       "slug": "scp-004",
+      "status": "ai-checked"
+    },
+    {
+      "slug": "scp-015",
       "status": "ai-checked"
     },
     {
@@ -63,6 +67,10 @@
     },
     {
       "slug": "scp-1048",
+      "status": "ai-checked"
+    },
+    {
+      "slug": "scp-105",
       "status": "ai-checked"
     },
     {
@@ -130,6 +138,10 @@
       "status": "ai-checked"
     },
     {
+      "slug": "scp-1893",
+      "status": "ai-checked"
+    },
+    {
       "slug": "scp-1981",
       "status": "ai-checked"
     },
@@ -170,6 +182,10 @@
       "status": "ai-checked"
     },
     {
+      "slug": "scp-2602",
+      "status": "ai-checked"
+    },
+    {
       "slug": "scp-2662",
       "status": "ai-checked"
     },
@@ -207,6 +223,10 @@
     },
     {
       "slug": "scp-3125",
+      "status": "ai-checked"
+    },
+    {
+      "slug": "scp-3333",
       "status": "ai-checked"
     },
     {
@@ -278,6 +298,10 @@
       "status": "ai-checked"
     },
     {
+      "slug": "scp-6000",
+      "status": "ai-checked"
+    },
+    {
       "slug": "scp-6001",
       "status": "ai-checked"
     },
@@ -295,6 +319,18 @@
     },
     {
       "slug": "scp-701",
+      "status": "ai-checked"
+    },
+    {
+      "slug": "scp-7179",
+      "status": "ai-checked"
+    },
+    {
+      "slug": "scp-7999",
+      "status": "ai-checked"
+    },
+    {
+      "slug": "scp-871",
       "status": "ai-checked"
     },
     {

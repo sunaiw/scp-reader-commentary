@@ -1,0 +1,19 @@
+{
+  "slug": "scp-7179",
+  "lang": "en",
+  "hook": "This is a short file whose effect depends on how you take its final section. It opens like a gentle answer to what happens after death, but its real subject is time. Be aware that the later log entries move into disturbing territory, described briefly but bluntly.",
+  "whyItMatters": "SCP-7179 carries the abcs-of-death tag, and its subtitle, E is for Eternity, names the true subject before you begin. Afterlife and eternity anomalies are common on the wiki, but this one stands out for how little it needs: a single observation log carries the whole piece. Its author, Calibold, also co-wrote SCP-5500.",
+  "thingsToNotice": "The timestamps do most of the storytelling, as the gaps between entries widen until the numbers stop meaning anything on a human scale. The island is designed for comfort, and comfort is exactly what fails first; food, craft and building each buy a stretch of purpose before running dry. The long columns of ellipses are a visual device that makes you scroll through empty time to reach the next line. A footnote quietly adds that data can only flow out, never in, so no one can ever reach him.",
+  "related": [
+    {
+      "slug": "scp-5500",
+      "note": "Co-written by the same author, another piece built around an ending."
+    },
+    {
+      "slug": "scp-4999",
+      "note": "A gentle counterpoint about what waits at the close of a life."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-17"
+}

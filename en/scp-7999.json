@@ -1,0 +1,19 @@
+{
+  "slug": "scp-7999",
+  "lang": "en",
+  "hook": "SCP-7999 is mostly a first-contact story told by a Foundation agent acting as tour guide. It's long but easy going, warm and often funny. Keep an eye on the short unattributed conversations between sections and on the distance figure that keeps shrinking; they run on a different clock from the main narrative.",
+  "whyItMatters": "It belongs to the Site-120 stories about the integration program, where the Foundation is slowly lifting the Veil instead of guarding it, which gives the article a hopeful tone that is rare on the wiki. That makes it a friendly entry point to Dr. Asheworth's corner of the setting. It also shows how far the format can stretch: the containment section is brief and the rest is close to a travelogue.",
+  "thingsToNotice": "Once you work out who is talking in the interludes, the cheerful sightseeing reads very differently. Carteckan treats ordinary things, a leaf, a quick portrait, the brevity of a human life, as marvels, and that shift of perspective is the article's real argument. Notice the small flinch at the mention of war, which pays off on Nest. In the last addendum the narration changes hands without warning, so check who is speaking and who is now called it. The closing line turns the distance counter into a farewell.",
+  "related": [
+    {
+      "slug": "scp-4999",
+      "note": "Another quiet, bittersweet article about not being alone at the end."
+    },
+    {
+      "slug": "scp-2000",
+      "note": "A very different take on what a civilization leaves behind when it ends."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-17"
+}

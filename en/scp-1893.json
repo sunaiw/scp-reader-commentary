@@ -1,0 +1,19 @@
+{
+  "slug": "scp-1893",
+  "lang": "en",
+  "hook": "The page you see may not be the page someone else sees: the article invites you to reload after a minute to get a different version. Try to read at least two. Each one is a short piece of fiction in which characters recite a containment file to one another, and the contrast between versions is the point.",
+  "whyItMatters": "1893 is a strong example of format experiments on the wiki, where the presentation itself is the anomaly. Rather than a report describing an entity that turns messages into stories, you only ever receive its stories, so the plain file never reaches you directly. It's a handy reference point for meta articles that make the reader part of the containment problem.",
+  "thingsToNotice": "Because the original text always survives as dialogue, every version carries the same report wrapped in a different scene, which makes the moods easy to compare. One iteration is a quiet hospital farewell, another turns violent, and a hulking horned figure lurks at the edge of the frame. That figure works as a gauge of the entity's temper, so its distance from the characters tells you how threatened 1893 feels. The iterations also break off at the same moment, right before the termination plan would be read out.",
+  "related": [
+    {
+      "slug": "scp-2602",
+      "note": "Another anomaly that rewrites the document about it, played for laughs instead."
+    },
+    {
+      "slug": "scp-3999",
+      "note": "A longer meta story about a narrative turning on the people inside it."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-17"
+}
