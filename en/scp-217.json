@@ -1,0 +1,19 @@
+{
+  "slug": "scp-217",
+  "lang": "en",
+  "hook": "A classic early Keter about an illness that slowly turns living bodies into clockwork. It is short and clinical, and the unease builds from the calm medical tone rather than from any single scene. A few passages about the disease's progress are uncomfortable, though nothing is dwelt on.",
+  "whyItMatters": "It is one of the clearer early links to the clockwork imagery tied to the Broken God tag, presenting that theme as something contagious rather than built. The idea of a body becoming a machine while the person grows duller and more repetitive is a strong, simple picture of losing yourself. Its cross-references to other numbers hint at a larger web without explaining it.",
+  "thingsToNotice": "The symptom notes are the most effective part: a faint ticking that recording equipment cannot pick up is creepier than any late-stage change.\n\nNotice how often the file returns to how long an infection can stay hidden, especially in mammals, which change on the inside first. That shifts the article from body horror toward a fear of crowded offices and malls. The remark that converted parts can be swapped for ordinary metal or wood without harm is both practical and quietly disturbing.",
+  "related": [
+    {
+      "slug": "scp-882",
+      "note": "The containment notes say anyone infected must be kept well away from it."
+    },
+    {
+      "slug": "scp-229",
+      "note": "Named in an addendum; cross-testing with it needs O5 approval."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

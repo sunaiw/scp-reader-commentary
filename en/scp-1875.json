@@ -1,0 +1,19 @@
+{
+  "slug": "scp-1875",
+  "lang": "en",
+  "hook": "A Victorian chess-playing machine with a very dark secret at its center, told through procedures, an intake report and staff emails. The page uses visual tricks near the end, so read it somewhere they can play out. The subject matter is grim, but it is handled mostly through implication.",
+  "whyItMatters": "It blends a real historical curiosity, the touring chess automaton, with an infohazard that spreads through networked computers. That mix of nineteenth-century showmanship and modern email horror gives it a distinct texture. It also leans on format, letting garbled symbols and a stuck upload bar do work that prose could not.",
+  "thingsToNotice": "The opening note already tells you this ends badly: an exercise marked both in progress and cancelled, plus a new ban on wireless networks. The rest is about learning how things got there.\n\nWatch the speed lever. Each setting is a clean, measurable step until the fastest one, where play slides from brilliant to nonsensical to violent. The intake report treats the vanished twins as an unconnected historical note, even though the description has already made the link for you. The final addenda give up on readable text altogether, which suits a file that is itself being taken over.",
+  "related": [
+    {
+      "slug": "scp-217",
+      "note": "Another blend of clockwork and living tissue, told in a clinical voice."
+    },
+    {
+      "slug": "scp-079",
+      "note": "A machine mind the Foundation also keeps cut off from networks."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

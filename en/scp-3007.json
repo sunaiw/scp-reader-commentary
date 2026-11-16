@@ -1,0 +1,19 @@
+{
+  "slug": "scp-3007",
+  "lang": "en",
+  "hook": "This one is told mostly through an interview and an exploration log with people who keep finding themselves somewhere else. It is a slow, grim piece that works best read in one sitting with the images in view. Expect a deeply unsettling setting.",
+  "whyItMatters": "It is a strong example of the exploration-log format, where the reader only gets what the subject says aloud. The Foundation's side of the conversation is as much a part of the horror as the ruined city, which makes it a good read for anyone interested in how the site portrays its own staff. Its illustrated addenda also show how artwork can carry an article's final beat instead of text.",
+  "thingsToNotice": "The sensory rules are clever: subjects see and smell the other place while only hearing and feeling the lab, so every observation reaches us through someone talking while walking half blind.\n\nWatch the interviewer. His polite requests to keep going grow colder as the subject's distress rises, and his reassurances sound less convincing each time. The paintings along the pillar work as a story within the story, and the subject's growing sense that the city was reshaped on purpose, not simply ruined, changes how everything before it reads. The last image is withheld from the text and handed to the art, leaving the reader to draw the final conclusion.",
+  "related": [
+    {
+      "slug": "scp-2935",
+      "note": "Another dead, empty world explored through careful field logs."
+    },
+    {
+      "slug": "scp-4182",
+      "note": "Also about a place people are drawn toward, with its core kept out of view."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

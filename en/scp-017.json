@@ -1,0 +1,19 @@
+{
+  "slug": "scp-017",
+  "lang": "en",
+  "hook": "A very short early entry about a small figure made of shadow. It takes a minute to read, so pay attention to the containment setup, which tells you most of what you need to know before the description does.",
+  "whyItMatters": "It is a clean example of the one-rule creature common among early Keter entries: a single trigger and a single, total consequence. The image of a cage flooded with light from every side is memorable on its own. Its brevity is part of its staying power, since nothing is explained beyond what is needed to make the rule stick.",
+  "thingsToNotice": "The reflective suits and the warning not to stand in front of working lamps are the real story; the procedures imply what happens long before it is stated.\n\nIts childlike size is mentioned once and never commented on, which makes it more unsettling. The remark that nothing has been found beneath its shroud, without ruling anything out, is a neat loose end. The closing pointer to a restricted document leaves the sense that this file is deliberately incomplete.",
+  "related": [
+    {
+      "slug": "scp-173",
+      "note": "Another early entry whose whole containment rests on one simple rule."
+    },
+    {
+      "slug": "scp-096",
+      "note": "A different trigger-based threat, where a single slip is enough."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

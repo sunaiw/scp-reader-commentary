@@ -1,0 +1,19 @@
+{
+  "slug": "scp-5001",
+  "lang": "en",
+  "hook": "A huge, very old machine lies buried deep under Russia, and the Foundation does not even know what it is holding. Much of the article reads like a history and a technology catalogue, so be patient. It is laying groundwork for a long incident log that makes the wait worthwhile.",
+  "whyItMatters": "It ties several pieces of familiar Foundation background, such as reality anchors and artificial intelligence projects, to one ancient source, giving everyday setting tech a sense of history. Its cast of Groups of Interest, from GRU Division P to the Global Occult Coalition and Marshall, Carter and Dark, makes it a compact tour of the wider setting. The timestamped breach log is a good example of large-scale disaster told through clipped entries.",
+  "thingsToNotice": "The containment procedure opens with a single line telling staff not to let the machine stop, and the rest of the file explains why that sentence weighs so much.\n\nThe breach log runs like a countdown, with the reported breach level dropping step by step while people scramble to help, and in the end the structure mends itself. The farewell message at the close reframes the whole facility, and its wording, together with the article's tags, hints at who built it. There is also a bitter irony in how much of the Foundation's toolkit came from pulling parts out of the very thing holding the threat back.",
+  "related": [
+    {
+      "slug": "scp-079",
+      "note": "Mentioned in the text as an earlier source for Foundation AI research."
+    },
+    {
+      "slug": "scp-2000",
+      "note": "Another enormous hidden Thaumiel machine the Foundation depends on."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

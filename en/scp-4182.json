@@ -1,0 +1,19 @@
+{
+  "slug": "scp-4182",
+  "lang": "en",
+  "hook": "Written by The Great Hippo, this is built around an internal file that keeps throwing errors, with older revisions you can step back through one by one. The format is part of the story, so read each version slowly and compare them. It is a horror piece, but most of the dread comes from what changes between versions.",
+  "whyItMatters": "It is a fine example of the site's habit of using page structure itself to tell a story, here a revision history and a server error. Instead of announcing that something is wrong, it lets the document drift until you notice. The idea of a place that should not exist seeping into paperwork makes it a natural pick for readers who enjoy stories about untrustworthy records.",
+  "thingsToNotice": "Going backward in time, each revision gets more specific and more alarming: the exclusion zone widens, the account of what lies below grows heavier, and the redactions multiply. The oldest version even changes who is affected, moving from altered files to altered people.\n\nThe camera file that fails to load in newer versions is finally in place in the oldest one, a quiet and effective touch. The last page offers a tidy, comforting explanation, and the short message attached to it undoes that comfort in a few words. Because the dates run in reverse, the newest version is also the most sanitized.",
+  "related": [
+    {
+      "slug": "scp-087",
+      "note": "Another descent down stairs into a depth no one has measured."
+    },
+    {
+      "slug": "scp-3211",
+      "note": "Another file whose interactive presentation is part of the scare."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

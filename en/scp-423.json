@@ -1,0 +1,19 @@
+{
+  "slug": "scp-423",
+  "lang": "en",
+  "hook": "A short, gentle file about a character called Fred who lives inside books and hops from one story to the next. Go in expecting whimsy rather than horror. The fun is in how dryly the Foundation manages a resident whose only demand is something new to read.",
+  "whyItMatters": "It is one of the friendlier early entries, a reminder that a Safe object with no threat at all can still become a favorite. Its premise, a being made entirely of text, plays with an idea many SCP articles circle around: that documents themselves can be lived in. Fred reads less like a monster than an odd tenant, and the file treats him with matching patience.",
+  "thingsToNotice": "The containment rules quietly set up the joke: every scrap of paper leaving the room has to be checked, because Fred might have hitched a ride. His nightly stay in a journal reads like a bedtime arrangement, with lost reading time as the only penalty.\n\nHe can rewrite words but never pictures, so illustrations end up contradicting the story around them, a lovely small detail. The best payoff is the reminder to look for notes signed by a guest researcher, which hints that he may already be in the file you are reading. The last addendum, about a possible way to destroy him, casts a faint shadow over an otherwise cozy piece.",
+  "related": [
+    {
+      "slug": "scp-583",
+      "note": "Named in an addendum as a possible way to get rid of Fred."
+    },
+    {
+      "slug": "scp-4182",
+      "note": "Another file about Foundation paperwork gaining content nobody wrote."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}
