@@ -1,0 +1,19 @@
+{
+  "slug": "scp-058",
+  "lang": "en",
+  "hook": "SCP-058 is a short monster file about something shaped like a cow's heart with legs and tentacles, and its most unusual weapon is its voice. Read the interview at the end slowly, because the strangest part of the article is what the creature says rather than what it does.",
+  "whyItMatters": "It is a classic early-series hostile Keter: blunt containment figures, a nuclear fallback and a long casualty count. What lifts it above many creature files is the contrast between a brutal physical description and an endless, dreamlike monologue delivered in a calm voice. The addendum linking its breaches to reactions in other contained items also shows the early habit of quietly connecting files.",
+  "thingsToNotice": "The rule limiting how long staff may listen to it is the first hint that the voice matters, long before the transcript arrives. The file insists its speech has no connection to anything around it, yet the lines are crowded with images of hearts, children and decay, tempting readers to hunt for a meaning the report says is absent. An elderly gentleman's tone attached to a fast, hunting organ is a deliberately jarring pairing. Near the end of the log a sudden loss is only implied, and the gap does the frightening.",
+  "related": [
+    {
+      "slug": "scp-1175",
+      "note": "Named in the addendum as reacting during SCP-058's breaches."
+    },
+    {
+      "slug": "scp-682",
+      "note": "Another famously hostile early Keter creature."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

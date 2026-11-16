@@ -1,0 +1,19 @@
+{
+  "slug": "scp-239",
+  "lang": "en",
+  "hook": "SCP-239 is the file on an eight-year-old girl whose wishes come true, and it is short enough to read in one sitting. Go in knowing that the most important document is not the description but the staff report attached at the end.",
+  "whyItMatters": "It is one of the early series' reality-bender files, and it puts a child at the center of a classic Foundation dilemma: how do you contain someone whose only limit is what she believes? The idea of keeping her in check by telling her she is a witch with a list of approved spells is a memorable piece of containment. Doctor Clef's closing report (the article carries his tag) is a large part of what readers take away from it.",
+  "thingsToNotice": "Notice how the file swings between whimsy and severity: a staff note grumbling about Santa Claus sits right beside an order that she must never be woken. The witch story is clever, but it also means her whole sense of self was built by the Foundation, which colors everything else. Clef's report reframes the article by proposing to end her life while she sleeps and volunteering to do it himself, since a shift in her perception would not sway him. The redacted reason for his immunity is left as a tease, so read it as character work rather than an answer.",
+  "related": [
+    {
+      "slug": "scp-148",
+      "note": "The telekill alloy used in her containment."
+    },
+    {
+      "slug": "scp-953",
+      "note": "Cited by Clef as a warning about trying to control reality-altering anomalies."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

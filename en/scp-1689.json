@@ -1,0 +1,19 @@
+{
+  "slug": "scp-1689",
+  "lang": "en",
+  "hook": "SCP-1689 is a burlap sack of potatoes, and the joke is that it never runs out. The file is short and deadpan, so read the containment notes closely: the exception made for the site cooks is the first wink.",
+  "whyItMatters": "It belongs to the comfortable tradition of mundane objects with bottomless insides, played here for comedy with an edge of unease; its tags include both comedy and horror. It is a neat example of how a single absurd image can be turned into the setup for an expedition, with the mission log itself kept on a separate page.",
+  "thingsToNotice": "The tone shifts in the addendum about the Siberian village: a community that lived on the sack for more than a century turns out to be badly malnourished, which gives a silly premise a sad undertow. The villagers' belief that it was a reward for their labor, from a giver nobody remembers, hints at a story the file never tells. Small details build the scale, from regrowth that doubles every two hours to a special enzyme compound developed for exploring it. A proposal to set up a mobile site inside a sack of potatoes is both very funny and faintly ominous.",
+  "related": [
+    {
+      "slug": "scp-3008",
+      "note": "Another everyday interior that is far too large, played for both laughs and dread."
+    },
+    {
+      "slug": "scp-261",
+      "note": "A food-dispensing anomaly whose humor also comes from deadpan testing."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

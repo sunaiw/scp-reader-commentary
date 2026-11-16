@@ -1,0 +1,19 @@
+{
+  "slug": "scp-738",
+  "lang": "en",
+  "hook": "SCP-738 is a set of antique office furniture that lets you strike a bargain with something that very much wants you to. The test log is the heart of the file, so take your time with it; the later entries reward patience.",
+  "whyItMatters": "It takes the familiar deal-with-the-devil premise of wishes and prices and stages it as an office negotiation across a desk. Turning temptation into paperwork fits the Foundation's own bureaucratic voice neatly. It also brings in Sheldon Katz, a Foundation lawyer character with his own tag on the site.",
+  "thingsToNotice": "Watch how the entity's appearance shifts for each sitter, always matching what that person finds appealing or familiar, so the chair works almost like a mirror. As the tests go on, the prices land on memories, friendships and a cherished toy, and the file keeps each loss brief rather than dwelling on it. Katz's session flips the tone entirely: a contracts lawyer treats the devil as opposing counsel, and the drafting runs until the human side collapses from exhaustion while the entity seems delighted. The closing note, where offers begin reaching the researchers who give the instructions, quietly suggests the entity is learning to slip past the Foundation's safeguards.",
+  "related": [
+    {
+      "slug": "scp-024",
+      "note": "Another anomaly that dangles prizes while hiding what it takes in return."
+    },
+    {
+      "slug": "scp-062-jp",
+      "note": "A Japanese branch article built around an otherworldly legal proceeding."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

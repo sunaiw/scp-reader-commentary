@@ -1,0 +1,23 @@
+{
+  "slug": "scp-6666",
+  "lang": "en",
+  "hook": "SCP-6666 is a very long, multi-part file about a colossal dead tree hanging upside down in a cavern beneath the Amazon, and the trapped giant fused into its side. It leans on a wide web of earlier lore, so expect many unfamiliar names; the main thread is still easy to follow without knowing them all. Set aside real time, take breaks between addenda, and be aware that several passages are intense and disturbing.",
+  "whyItMatters": "It ties together a large ancient-history storyline, bringing the Children of the Night, the faerie goddess Titania, the Primeval Demons and older figures such as Cain and Methuselah into one narrative. Its boldest move is to recast the SCP-1000 file, which gives it weight well beyond its own entity. The staging, from leadership briefings to drone footage and a manned expedition, shows how far the report format can stretch toward an epic.",
+  "thingsToNotice": "Notice how the article alternates testimony with evidence: interviews with an Eshu faerie, Cain and Methuselah each supply part of the history, while the drones and the expedition confirm it on the ground. The staff psychology log works as a quiet countdown, with dreams of a six-eyed figure growing more specific entry by entry. Hector's speech changes how the trapped giant reads, recasting him as a loyal knight still carrying out an ancient command rather than a mindless monster. The closing O5 memo turns the Children of the Night inside out, pointing back to the SCP-1000 file with an uneasy question about who wants them let back in, and ends on a wish that makes the villains look like abandoned children.",
+  "related": [
+    {
+      "slug": "scp-1000",
+      "note": "The file this article reinterprets; reading it first sharpens the ending."
+    },
+    {
+      "slug": "scp-4840",
+      "note": "Source of much of the ancient lore this article builds on."
+    },
+    {
+      "slug": "scp-2932",
+      "note": "Holds the red artifact the article links to Titania."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

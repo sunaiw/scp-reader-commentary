@@ -1,0 +1,19 @@
+{
+  "slug": "scp-024",
+  "lang": "en",
+  "hook": "SCP-024 is an abandoned TV studio where a cheerful announcer runs a game show that nobody can afford to lose. The premise is fun on its own, but read through to the addenda, where most of the real mysteries are tucked away.",
+  "whyItMatters": "It is an early example of borrowing a pop culture format, the glossy game show, as the frame for something deadly. The Foundation's answer, building identical decoy buildings so that even most of the guards do not know which one is real, is a memorable bit of containment thinking. The gap between bright showbiz language and lethal stakes is the core of its appeal.",
+  "thingsToNotice": "The announcer's disappointment when nobody wins is a small, unsettling touch: it seems to want winners, which makes it feel less like a trap and more like a host who truly believes in its show. Pay attention to the tapes left in the mailbox, which show a cheering audience the survivors never saw, and ask who that audience might be. The guardians look like costumed staff on tape but like engulfing shadows from inside, which suggests the recording is a dressed-up version of events. The announcer's small talk about television with a lone researcher hints at where the show learned its manners.",
+  "related": [
+    {
+      "slug": "scp-738",
+      "note": "Another anomaly that tempts people with rewards while hiding the price."
+    },
+    {
+      "slug": "scp-2639",
+      "note": "A later game-themed article told largely through chat logs."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}
