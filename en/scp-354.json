@@ -1,0 +1,19 @@
+{
+  "slug": "scp-354",
+  "lang": "en",
+  "hook": "SCP-354 begins as a creature feature: a red pool in the far north that keeps producing monsters. Read it as a slow shift in what the real danger is. The payoff is in the final documents, not the monster roster.",
+  "whyItMatters": "It's an old-school Keter that reads like a table of random encounters, and it plugs directly into the early shared cast by calling in Mobile Task Force Omega-7 and Able. That link places it in the web of files around SCP-076. It also uses a device later stories return to: containment that fails not because something escaped, but because the staff themselves turned.",
+  "thingsToNotice": "The entity log is deliberately uneven, with a corrupted gap and a few oddly human cases, such as an ordinary man shot on sight or a cooled creature kept as an office ornament. Those details make the staff look careless and the pool look as if it is testing them. The Area Head's worry about a long quiet spell sets up the evacuation.\n\nThe closing interview reframes everything: the instant the staff try to drain the pool, it stops behaving like a spawner and starts behaving like a mind.",
+  "related": [
+    {
+      "slug": "scp-076",
+      "note": "Home of Able and the task force this facility keeps calling for help."
+    },
+    {
+      "slug": "scp-2317",
+      "note": "Another gateway Keter where the fear is what grows stronger on the far side."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

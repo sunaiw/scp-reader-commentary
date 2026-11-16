@@ -1,0 +1,19 @@
+{
+  "slug": "scp-5999",
+  "lang": "en",
+  "hook": "SCP-5999 is a long, Halloween-themed horror collaboration and one of the most disturbing pages in this collection, so check your appetite before you start. The page tries to warn you off and then opens in a reduced format; that framing is part of the effect. Read it as an anthology of horror subgenres stitched into a single containment file.",
+  "whyItMatters": "The co-authored and esoteric-class tags show in its build: each chapter fills a different slot of an SCP file and is credited to a different in-story contributor. It leans into the 5000-series appetite for format play by making the act of reading part of the procedure. Recurring motifs, such as straining chains, a phrase left on surfaces and a twisted nursery tune, bind the chapters together.",
+  "thingsToNotice": "Between chapters, a repeated instruction urges you onward in ever more insistent wording, quietly casting the reader as one of the witnesses the procedure requires. Each chapter changes genre, from haunted house and vengeful ghost to monster-filled town, possession, cursed video game, uncanny doll and crime-scene inventory, yet places and names keep resurfacing across them.\n\nThe final evidence list decays until a repeated line spells out a hidden question, a neat visual collapse. Keep the darkest details at arm's length; the craft is in how the pieces lock together.",
+  "related": [
+    {
+      "slug": "scp-4666",
+      "note": "Another seasonal horror tied to a single stretch of the calendar."
+    },
+    {
+      "slug": "scp-3999",
+      "note": "A meta horror piece where the writing itself becomes the threat."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

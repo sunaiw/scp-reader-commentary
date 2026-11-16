@@ -1,0 +1,19 @@
+{
+  "slug": "scp-1471",
+  "lang": "en",
+  "hook": "SCP-1471 is short and very modern: a free phone app that quietly installs itself into someone's life. Reading it on your own phone adds to the effect. The unease builds through steady accumulation rather than one big scare.",
+  "whyItMatters": "It's one of the better-known entries that moved the classic cursed-media idea into smartphone territory, trading a haunted tape for an app store listing. The tags pair 'uncontained' with a file that reports no hostile acts, an odd combination that keeps you unsure whether this is a haunting or a strange form of company.",
+  "thingsToNotice": "The timeline is the engine: each day the photos come closer in time and space, so dread arrives on a schedule. The store listing at the end recasts everything, because its pitch about loneliness suggests the figure is being offered as a companion.\n\nThe file stresses that no harm has been recorded. What lingers instead is the creature's failed attempts to communicate, which leave you wondering what it wants to say.",
+  "related": [
+    {
+      "slug": "scp-2030",
+      "note": "Another anomaly that spreads by slipping into ordinary media channels."
+    },
+    {
+      "slug": "scp-096",
+      "note": "A different case where an image of a humanoid is the danger point."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

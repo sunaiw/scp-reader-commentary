@@ -1,0 +1,19 @@
+{
+  "slug": "scp-4666",
+  "lang": "en",
+  "hook": "SCP-4666 is a winter holiday horror story and one of the darkest pages in this collection; it centers on harm to families and children. The procedures and description stay calm, but the event and object logs do not, so decide in advance how closely you want to read them. What lifts it above shock value is its folklore structure and its final interview.",
+  "whyItMatters": "It belongs to the Yule Man material named in its tags, reshaping a familiar winter gift-bringer into something predatory. A documented history running back centuries makes the file read like a buried strand of European folklore rather than a single case. The 4000-series number and Christmas tag place it among the site's newer seasonal horror, told in a sober case-file voice.",
+  "thingsToNotice": "The twelve-night window echoes the festive calendar, and the visitor's slow approach, from distant field to window to roof, is a dark mirror of waiting for someone to come down the chimney. The two possible outcomes, ruin or a present, invert the old idea of being judged, and the file pointedly cannot explain the rule.\n\nFootnotes about a fingerprint spanning centuries and a language older than any known one widen the scale. The closing interview supplies the missing link of where the gifts come from, and its restraint is what makes it land.",
+  "related": [
+    {
+      "slug": "scp-5999",
+      "note": "Another horror piece bound to one date on the calendar."
+    },
+    {
+      "slug": "scp-106",
+      "note": "An ancient predatory humanoid that drags victims to its own lair."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

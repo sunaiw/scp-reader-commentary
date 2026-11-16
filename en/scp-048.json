@@ -1,0 +1,19 @@
+{
+  "slug": "scp-048",
+  "lang": "en",
+  "hook": "This is a two-minute joke file, so read it in that spirit. It's built like a short run of memos, and the punchline sits in the final addendum. A rough idea of how the wiki hands out numbers helps, but isn't needed.",
+  "whyItMatters": "SCP-048 is a classic non-entry: a slot that exists mainly to explain why it is empty. It shows the early site's habit of poking fun at its own catalog, and the meta and esoteric-class tags mark it as a story about the archive rather than any object. The 'cursed number' premise turns a numbered list into a small piece of office folklore.",
+  "thingsToNotice": "The file escalates through three voices: flat policy, an arrogant doctor, and a tired administrator doing cleanup. The second addendum is the textbook SCP gag of reporting something absurd as an unrelated workplace accident in the driest possible tone.\n\nThe last note then pulls the rug out, swapping the curse for a filing blunder. It also reads as a wink at writers who drop a half-formed idea into an empty slot.",
+  "related": [
+    {
+      "slug": "scp-033",
+      "note": "Another file whose anomaly is a number that should not be there."
+    },
+    {
+      "slug": "scp-3999",
+      "note": "A much darker take on the writer leaking into the record."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}
