@@ -1,0 +1,19 @@
+{
+  "slug": "scp-500",
+  "lang": "en",
+  "hook": "SCP-500 is a jar of red pills that cure any disease, and there are only a few dozen of them. The article is short and reads like a supply ledger. Keep an eye on the pill count as you go.",
+  "whyItMatters": "It is one of the most recognizable objects in the canon, and the obvious answer whenever someone asks why the Foundation does not just cure everything. Its scarcity is the whole design: a miracle you can count is a miracle people will argue over. It also shows the early wiki's habit of cross-linking, since almost every entry in the log names another anomaly.",
+  "thingsToNotice": "The format does the storytelling: requests and addenda read like an inventory, and the tally slowly drops as researchers spend a miracle on experiments, curiosity, and the occasional hangover. That bureaucratic tone makes the waste feel real.\n\nPay attention to the numbers themselves. They do not always line up neatly from one note to the next, and the stated count at the top hints at how much has already been used. The last addendum adds a dry, slightly unsettling question about why people keep wanting more.",
+  "related": [
+    {
+      "slug": "scp-914",
+      "note": "One of the log's experiments runs a pill through it, with notable results."
+    },
+    {
+      "slug": "scp-427",
+      "note": "The log says it came out of an experiment with one of these pills."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

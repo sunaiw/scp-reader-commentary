@@ -1,0 +1,19 @@
+{
+  "slug": "scp-028",
+  "lang": "en",
+  "hook": "SCP-028 is an empty patch of ground in Michigan that gives anyone who steps into it a sudden, complete piece of knowledge. The catch is that you do not get to choose which piece. It is a short early entry, and its charm is in the lists.",
+  "whyItMatters": "It is a clean example of the early-series habit of building a whole article around one simple rule and a few test logs. The premise, a place with no physical presence at all, makes the Foundation's concrete room and armed guards feel almost comic. It also shows how the old files liked to link anomalies to each other, with an invention from this site feeding into another object's containment.",
+  "thingsToNotice": "The retrieval list swings between the trivial and the cosmic, from where someone left their car keys to secrets the editors have blacked out, and that randomness is the joke and the threat at once. The incident logs then turn the tone, showing that some knowledge is too large for a person to carry calmly.\n\nThe final experiment is a neat closer: a man learns something impossible, cannot pass it on, and the researcher's note admits the Foundation has no idea how it worked either.",
+  "related": [
+    {
+      "slug": "scp-1995",
+      "note": "The file says a design learned here ended up in that object's containment."
+    },
+    {
+      "slug": "scp-500",
+      "note": "Another Safe gift whose real danger is how people choose to use it."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

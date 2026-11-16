@@ -1,17 +1,17 @@
 {
   "slug": "scp-2998",
   "lang": "en",
-  "hook": "SCP-2998 is told through a chain of document versions, and the notice at the top warns that most of them are not the true file. Read each iteration in order and watch what changes between them, because the edits are the story. It is long and builds slowly, so give it some time.",
-  "whyItMatters": "Its tag list is unusually wide, mixing science fiction, cosmic horror, crime fiction and military fiction, and the piece really does touch all of them. It is a showcase for the revision-chain format, where a report is rewritten as the Foundation learns more, used here to climb from a puzzling signal to something vastly larger. The RAISA notice signed by Maria Jones gives the whole frame an administrative, in-world voice.",
-  "thingsToNotice": "Track the object class from version to version, since each change is a compressed plot beat. The interviews are the core: two people try to describe an alien drama through human gangster comparisons, and that clumsy translation is exactly what makes the scale feel real.\n\nThe repeated praise phrases start as meaningless chatter and slowly turn into a warning sign. Keep the opening notice in mind the whole way through, because the question of which version you can trust never really goes away.",
+  "hook": "SCP-2998 opens with an apology from the records office: the file is infected, and you will have to click through several false versions before reaching the real one. Take that at face value and keep going, because each iteration is a different kind of story wearing the same item number. It is long, so set aside a proper sitting.",
+  "whyItMatters": "Its unusually wide tag list, from science fiction and cosmic horror to crime and military fiction, is not decoration; each false iteration really does switch genre. It is one of the most ambitious uses of the revision-chain format, pushing it past simple escalation into alternate timelines, a collapsed civilization, and finally an unreadable page. The appearance of Maria Jones and Researcher Rosen as recurring names gives the chain a human thread to hold onto.",
+  "thingsToNotice": "The early iterations play as first contact by eavesdropping: two test subjects try to explain a vast alien grudge with gangland comparisons, and the clumsy translation sells the scale. Later versions answer the question of what happens when that grudge spills over, first in a bleak invasion file, then in a document rewritten by a fanatical successor to the Foundation.\n\nThe footnote conversation hidden inside the garbled version is the emotional peak, two survivors finding each other on a broken network and reaching for a famous anomaly as a last resort. Then the redacted page, the folksy epigraph, and the dull final version invite you to wonder whether that ending actually worked. The opening notice is the key: the true file is the boring one, and the article quietly suggests why.",
   "related": [
     {
       "slug": "scp-055",
-      "note": "Another file shaped around information that resists being known."
+      "note": "It turns up near the end, and knowing its nature adds weight to the plan."
     },
     {
-      "slug": "scp-993",
-      "note": "A broadcast whose true content reaches only a narrow set of viewers."
+      "slug": "scp-3002",
+      "note": "Another chain of file versions charting a contamination that reaches the Foundation itself."
     }
   ],
   "status": "ai-checked",

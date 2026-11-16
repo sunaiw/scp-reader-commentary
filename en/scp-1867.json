@@ -1,0 +1,19 @@
+{
+  "slug": "scp-1867",
+  "lang": "en",
+  "hook": "SCP-1867 is a small, funny article about a sea slug with the manners and memories of a Victorian adventurer. It is short and light, and the joke works best if you simply let the gentleman talk. Expect pulp-era exploration stories filtered through a very unlikely narrator.",
+  "whyItMatters": "Lord Blackwood has his own tag, which tells you the character outgrew this one file and became a recurring comic voice on the site. The article also uses an esoteric-class style header, with a structured containment block replacing the usual Safe or Euclid line. It shows how much personality an entry can carry while the actual anomaly stays tiny.",
+  "thingsToNotice": "The containment procedure is not about the slug at all; it is a rule for fact-checking its stories, which neatly tells you where the real risk lies. The recovered collection then complicates the joke, since a vault full of impossible specimens suggests at least some of the tall tales were true.\n\nWatch the small absurd details in the inventory, like the planetary globes and the carriage with a note about it being broken. The interview ends on a perfect reversal, with the slug treating the researcher as the one who has lost his grip.",
+  "related": [
+    {
+      "slug": "scp-343",
+      "note": "Another genial entity whose claims about itself are impossible to pin down."
+    },
+    {
+      "slug": "scp-504",
+      "note": "A lighter entry where the comedy comes from deadpan Foundation reporting."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

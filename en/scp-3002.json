@@ -1,17 +1,17 @@
 {
   "slug": "scp-3002",
   "lang": "en",
-  "hook": "SCP-3002 opens as an email forwarding a file, and that frame matters more than it first seems. The report inside is short and quiet: a memory shared by many prisoners, about a childhood afternoon that does not quite add up. Read the interview closely, and keep an eye on the page around the document, not just the document.",
-  "whyItMatters": "Its tags point to much bigger stakes than a shared memory, including a K-class scenario, which tells you the calm surface is not the whole story. The epistolary wrapper, a file landing in someone's inbox, makes the reader part of the chain the material travels along. That idea, where the way you receive a document is part of the anomaly, suits memetic horror especially well.",
-  "thingsToNotice": "The interview is built on small slips: names blur between the subject and his old friend, and the blond girl at the center of the memory falls apart the moment he tries to picture her. Her earnest question about whether he remembers her is the detail that lingers.\n\nThe shared details listed afterwards are oddly specific, which makes the memory feel planted rather than coincidental. And the notification at the very end hints that the file you just read was not the last message waiting.",
+  "hook": "SCP-3002 arrives as a forwarded email, and each later version of the file comes wrapped in another message from higher up. The first report is small and quiet, a shared childhood memory among prison inmates. Read the emails as carefully as the reports, since they are where the second story is told.",
+  "whyItMatters": "It uses the revision format to stage a slow-motion apocalypse: the same item is reclassified upward as the Foundation realizes how badly it misjudged a mild curiosity. The tags for a K-class scenario and Foundation-made point at the twist, which reframes the anomaly as a consequence of the organization's own secrets. The final document's list of replies from other groups of interest is a memorable tour of the wider setting at the end of the world.",
+  "thingsToNotice": "Watch how the memory changes character across versions, from a vivid recollection, to something people defend as their own, to an intelligence that edits records and steers bodies. The girl at its center always asks whether she is remembered, and that question gains a painful meaning once the abandoned facility and its project are found.\n\nThe email signatures carry names drawn from Slavic myth, and the senders' worries shift from side effects to self-protection. By the last version the proposals are being judged by people who may already be compromised, and the blank final entry leaves you unsure who is still deciding anything.",
   "related": [
     {
-      "slug": "scp-055",
-      "note": "Another anomaly defined by what people cannot keep hold of in memory."
+      "slug": "scp-2000",
+      "note": "Named as a last-resort option in the final proposals."
     },
     {
-      "slug": "scp-404-jp",
-      "note": "A document whose subject slips away the harder anyone tries to grasp it."
+      "slug": "scp-2998",
+      "note": "Another version chain that ends with the Foundation overrun from within."
     }
   ],
   "status": "ai-checked",

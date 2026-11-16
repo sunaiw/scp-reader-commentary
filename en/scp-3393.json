@@ -1,0 +1,19 @@
+{
+  "slug": "scp-3393",
+  "lang": "en",
+  "hook": "SCP-3393 is written in the second person, and it means it. Read it straight through from top to bottom without skipping ahead, because the order of the sections is part of how it works. It is short enough to finish in a few minutes.",
+  "whyItMatters": "It belongs to the corner of the site built around the Antimemetics Division, where the hardest problem is simply noticing that something exists. The meta tag is earned: the article treats the act of opening the file as evidence, turning the reader into the subject. It is a compact example of how a format trick can carry an entire entry.",
+  "thingsToNotice": "The section order is the trap. Containment procedures normally come first, but here they sit at the end, and the file itself explains why that placement matters for the person reading it.\n\nThe forged version in the first addendum gives the subject a voice that sounds tired and protective rather than hostile, which makes the closing move feel a little sad. Notice too how every failed operation is described as having been read in advance, so the document has been playing this game with its subject for a while.",
+  "related": [
+    {
+      "slug": "scp-055",
+      "note": "The classic antimemetic entry, defined by what cannot be retained about it."
+    },
+    {
+      "slug": "scp-3125",
+      "note": "A larger Antimemetics Division story about threats that hide from attention."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

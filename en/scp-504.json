@@ -1,0 +1,19 @@
+{
+  "slug": "scp-504",
+  "lang": "en",
+  "hook": "SCP-504 is a tomato that punishes bad jokes, and the article is essentially a test log of puns with a speedometer attached. It is a comedy entry through and through. Read the jokes out loud in your head and try to guess the speed before you see the result.",
+  "whyItMatters": "It is one of the classic humorous entries on the site, a good example to show that the Foundation can be silly. The premise turns a groan into a measurable physical quantity, which captures the early wiki's love for treating absurd ideas with total procedural seriousness. The exasperated researcher notes do as much work as the tomatoes.",
+  "thingsToNotice": "The real comedy is the scoring system: the file treats corniness and pun density as variables, and the tomatoes behave like harsh critics with consistent taste. The results escalate with the quality of the groan, not the length of the joke.\n\nThe researcher's comments give the log a second storyline, a weary scientist trying to keep his colleagues from enjoying the experiment too much. The final entry, pointing at another article, is a wink to regular readers.",
+  "related": [
+    {
+      "slug": "scp-904",
+      "note": "The last test in the log points at it, and it explains the punchline."
+    },
+    {
+      "slug": "scp-1867",
+      "note": "Another light entry carried by its tone more than its threat."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

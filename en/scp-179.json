@@ -1,0 +1,19 @@
+{
+  "slug": "scp-179",
+  "lang": "en",
+  "hook": "SCP-179 is one of the few Thaumiel entries where the useful object is a person, or something shaped like one, and she has no interest in being anyone's tool. The file starts dry and astronomical, then opens up into a single conversation that changes how the earlier data reads. Go in expecting cosmic scale delivered at a very human, almost gentle register.",
+  "whyItMatters": "Thaumiel is usually a story about the Foundation turning one anomaly against others, and this article bends that idea: the asset works on its own terms and the Foundation can only watch where it points. That makes it a rare benevolent cosmic entity, a counterweight to the long list of things in the archive that would erase humanity. The tag carrying its own name suggests it has picked up a small life beyond the original page.",
+  "thingsToNotice": "The log of pointing gestures does a lot with very little: each entry is a short report of an arm rising, and the gaps between them imply a constant traffic of threats nobody on Earth noticed. The deliberate test with a Foundation weapon is a telling moment, showing the institution probing its guardian the way it probes everything else.\n\nIn the interview, her refusal is the point. The researcher keeps asking for exclusive access, and her answers frame the Foundation as one small party among many she watches over. Her closing line about running out of words lands as both a kindness and a door quietly shut.",
+  "related": [
+    {
+      "slug": "scp-1548",
+      "note": "Another stellar-scale entity, but one whose attitude toward humanity is the opposite."
+    },
+    {
+      "slug": "scp-2000",
+      "note": "A different kind of Thaumiel safety net, built by the Foundation rather than offered to it."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}
