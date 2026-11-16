@@ -1,0 +1,19 @@
+{
+  "slug": "scp-3301",
+  "lang": "en",
+  "hook": "SCP-3301 is a rulebook dressed as a containment file: a board game from Dr. Wondertainment that turns a large area into a playable arena. A big share of its length is rules and card lists, and you can skim the mechanics, but don't skip the cards, because most of the jokes live there. Some familiarity with the wider wiki's cast helps, since many cards are in-jokes.",
+  "whyItMatters": "Its tone is affectionate, pulling groups of interest, well-known anomalies and staff characters into one playful package. The cover letter casts the toymaker as an admirer of the Foundation, flipping the usual adversarial relationship. Difficulty settings named after object classes and win conditions named after Foundation-style goals gently tease the site's own vocabulary.",
+  "thingsToNotice": "The memo near the end gives the comedy real stakes: the playtesting clause in the letter becomes leverage, and the Foundation's answer is to turn testing into an employee perk. The sample game log plays out like sports commentary with staff trash talk, showing how the rules behave in practice. Footnotes carry several of the best gags, including a surprise victory condition and a visibly uneasy Librarian. The card list doubles as a tour of the canon, so expect to recognize many names.",
+  "related": [
+    {
+      "slug": "scp-111",
+      "note": "A much smaller Wondertainment product with an equally cheerful instruction sheet."
+    },
+    {
+      "slug": "scp-173",
+      "note": "Shows up here as a card wearing a sombrero, so it helps to know the original."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

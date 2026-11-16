@@ -1,0 +1,19 @@
+{
+  "slug": "scp-3790",
+  "lang": "en",
+  "hook": "SCP-3790 is a walk through a sealed basement, told almost entirely as a room-by-room inventory. Nothing happens in the present tense; the pleasure is in peering through each viewport alongside the report. Take it slowly and let each placard name sit for a second before you read what is behind the door.",
+  "whyItMatters": "The header credits Croquembouche and djkaktus as co-authors. Its premise, a Foundation department the file says left no record anywhere, suggests an organization that has forgotten parts of itself. Rather than explaining any single anomaly, it works as a catalogue of sealed story hooks, each placard pointing at something the reader never gets to see in full.",
+  "thingsToNotice": "The file opens by claiming an Overseer lock has been overridden, so reading on feels a little like trespassing. Placard names mix myth, scripture, history and folklore, but the blank or scratched-off doors are often the most unsettling. One room holds a box with Wondertainment's purple W, a small nod to a familiar toymaker in a very unfriendly setting. The clipboard's locked and unlocked list invites guesses without confirming any, and the last level stays visible but unreachable, keeping the deepest point out of reach on purpose.",
+  "related": [
+    {
+      "slug": "scp-087",
+      "note": "Another descending structure whose bottom stays tantalizingly out of reach."
+    },
+    {
+      "slug": "scp-3301",
+      "note": "Wondertainment's purple W again, this time in a cheerful and chaotic setting."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

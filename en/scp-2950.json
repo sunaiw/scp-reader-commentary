@@ -1,0 +1,19 @@
+{
+  "slug": "scp-2950",
+  "lang": "en",
+  "hook": "SCP-2950 opens as about the dullest file imaginable: a very comfortable folding chair. Read it straight through without scrolling ahead, because the change of voice partway down is the whole point. It is short and works best in one sitting.",
+  "whyItMatters": "The page credits weizhong, and the meta tag fits: its second half comments on how Foundation files are written and read and why some anomalies are described as blandly as possible. It also drags the Serpent's Hand into an uneasy arrangement with the Overseers, which gives a short entry a surprisingly large backstory.",
+  "thingsToNotice": "The deliberately boring first half turns into evidence once the letter explains why it exists: the dullness is itself the containment. That reframes the reader, too, since everyone who takes the chair at face value is quietly helping. The letter reads like a departing boss handing over a secret, ending on congratulations, which makes the burden feel personal. The unanswered question of where the books came from leaves a thread hanging for the next person to worry about.",
+  "related": [
+    {
+      "slug": "scp-055",
+      "note": "Another anomaly whose defense depends on what people know, or fail to know, about it."
+    },
+    {
+      "slug": "scp-3790",
+      "note": "Another file that hints at layers of the Foundation hidden from most of its own staff."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

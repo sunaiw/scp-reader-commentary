@@ -1,0 +1,19 @@
+{
+  "slug": "scp-3004",
+  "lang": "en",
+  "hook": "SCP-3004 is split into tabbed documents, and it is built to be opened in the order they are listed. It deals seriously with religion, ritual and faith, and it contains some very disturbing material, so pick a moment when you are up for something heavy. Take the first tab at face value; that is part of how it works.",
+  "whyItMatters": "Its central idea is that a god-like entity takes its shape and appetite from what people believe, and the horror flows from belief itself rather than from a monster in a cell. Christianity, Irish history and Foundation ethics are not background here but the actual material of the argument. Each tab has a different narrator, a scholar, a field agent and an ethics committee member, and each brings their own faith, or lack of it, to the same problem.",
+  "thingsToNotice": "The first tab's calm, faintly dismissive tone sets up the reversal of the second, where something filed as finished turns out to have found a new audience. The archived author's passing guess that the entity \"became what it was molded by\" becomes the working premise of everything after it. The field report changes register completely, casual and shaken, and pictures the entity as half-asleep, which recasts the earlier events as idle reflexes. The last tab weighs whether erasing a faith to starve a god counts as sacrifice or sin, and its author signs off without pretending to have settled it.",
+  "related": [
+    {
+      "slug": "scp-2852",
+      "note": "Named in an addendum as a phenomenon that stopped appearing once these events began."
+    },
+    {
+      "slug": "scp-3740",
+      "note": "A comic opposite: an ancient god who believes almost anything he is told."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

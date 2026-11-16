@@ -1,0 +1,19 @@
+{
+  "slug": "scp-966",
+  "lang": "en",
+  "hook": "SCP-966 is a short creature report built on a premise that sticks: something you cannot see takes away your ability to sleep, then waits. Look at the image caption and the camera requirements in the containment section first, since they quietly explain how anyone knows what these things look like. It takes a few minutes to read and works best as an idea that keeps unfolding after you finish.",
+  "whyItMatters": "It is a tidy example of the predatory-species entry: a population loose in the world, task forces scanning the news for signs, and a handful of captured specimens in a lead-lined room. The danger is not claws or venom but an ordinary bodily need being switched off, which makes the threat feel quiet until you think it through. Its pairing of an image visible only through a filter with a harm nobody can see is what gives it its staying power.",
+  "thingsToNotice": "The physical description undercuts the monster on purpose: hollow bones, brittle claws, weak muscles. They do not need strength, because the prey wears itself down. The text also admits what it does not know, such as why only some victims get repeated exposure, and offers hunger as a mere hypothesis, which keeps the species feeling observed rather than solved. The final paragraph widens the scale in one plain sentence about how many are still out there.",
+  "related": [
+    {
+      "slug": "scp-939",
+      "note": "Another predatory species where the hunting method, not brute force, is the frightening part."
+    },
+    {
+      "slug": "scp-173",
+      "note": "Another entry where what you can or cannot see shapes the whole containment approach."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "scp-111",
+  "lang": "en",
+  "hook": "SCP-111 is a lighthearted creature entry about small fire-breathing snails, and it ends with the original product leaflet. Read the clinical description first, then enjoy how the leaflet describes the same animals in a completely different voice. It is short and gentle, a good breather between heavier reads.",
+  "whyItMatters": "It is a straightforward example of a Dr. Wondertainment product: a whimsical toy with real hazards and cheerful disclaimers. The report treats the snails with almost zoological care, which makes the contrast with the sales copy funnier. Entries like this show the lighter side of the catalogue, where the main risk is to the household curtains.",
+  "thingsToNotice": "The deadpan science gets small things right, such as the flame being a warning rather than a weapon and refuelling depending on starchy food. The imprinting behavior is explained by the leaflet, turning a biology note into a marketing feature. The six variants read like toy-catalogue copy, and the legal disclaimer, with its list of rights the buyer waives, is the punchline.",
+  "related": [
+    {
+      "slug": "scp-3301",
+      "note": "A far larger and more elaborate Wondertainment toy."
+    },
+    {
+      "slug": "scp-3790",
+      "note": "Wondertainment's purple W turns up briefly in a much darker setting."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "scp-3740",
+  "lang": "en",
+  "hook": "SCP-3740, titled \"God is Dumb\", is a comedy entry about an ancient sky god and the staff who keep him content. The humor is bawdy in places, so expect some crude jokes. Don't skim the containment section; its list of grand pseudonyms is the setup for half the gags.",
+  "whyItMatters": "It turns the usual reality-bender setup inside out: the entity is powerful enough to earn Keter, yet containment rests on staff staying in character. A protocol built on theatre, costumes and props pokes fun at how much machinery the Foundation normally throws at threats of this size. Nods to other parts of the wiki's mythology are scattered through the feast stories for readers who catch them.",
+  "thingsToNotice": "The list of feats that convinced him, from a card trick to a light switch, is the joke structure in miniature, escalating by getting smaller. Footnotes reveal that several of the grandest titles were earned in very petty ways. The final transcript brings in a second god who sees through everything and treats the staff as babysitters, and the closing line turns the hero's gullibility around in a neat reversal.",
+  "related": [
+    {
+      "slug": "scp-3301",
+      "note": "Shares several mythological in-jokes and an equally playful view of the canon's gods."
+    },
+    {
+      "slug": "scp-3004",
+      "note": "A grim, serious take on a god and what people believe about it."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}
