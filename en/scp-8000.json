@@ -1,0 +1,19 @@
+{
+  "slug": "scp-8000",
+  "lang": "en",
+  "hook": "Don't let the giant floating seal fool you: this is a long, character-driven story about burnout and the fear of never measuring up. It is told through transcripts and a guided tour of one man's past, and it swings between silly and sincere very quickly. Give it time; the jokes are doing setup work.",
+  "whyItMatters": "SCP-8000, by PlaguePJP, leans on a large cast of named directors and doctors who clearly share history, plus cameos from other anomalies such as a loud gumball machine on the staff. Readers who already know these characters will get the most out of it. It is also an unusually personal take on the helpful-entity idea, closer to a redemption story than a containment report.",
+  "thingsToNotice": "The structure loops. The opening meeting with Cimmerian, and the first line Lague says in it, return near the end, and the second time the same line goes somewhere different. The empty shelves, the white book missing its back cover, and the 'memory thing' the seal mentions early on all pay off once you understand where it pulled him from.\n\nThe SEEKER finds are played as absurd comedy, but each one is also a small mirror; a contented spaghetti cowboy asks Lague the very question he keeps dodging. Notice how the short description at the end echoes the one at the start, and what the machine turns up once the search is narrowed to a single universe.",
+  "related": [
+    {
+      "slug": "scp-5595",
+      "note": "The heckling gumball machine that steals several scenes here."
+    },
+    {
+      "slug": "scp-3999",
+      "note": "A much darker story of an entity dragging someone through their own failures."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "scp-2295",
+  "lang": "en",
+  "hook": "A short, gentle file about a patchwork teddy bear. The format is the familiar one, procedures then description then a test log, but the temperature shifts quietly as you go. Read it to the very last line; the small document at the end changes how everything above it reads.",
+  "whyItMatters": "Among the wiki's many unsettling toys, SCP-2295 stands out for being purely kind. It is a good example of how the clinical report voice can carry warmth as well as dread: the Foundation's flat language makes the bear's care feel more sincere, not less.",
+  "thingsToNotice": "The test log is built as an escalation: damaged lungs, then a heart, then whole layers of skin, each handled with more confidence. The fourth case breaks the pattern. The bear meets an injury it cannot stitch, and the record shows its reaction purely through what it does, never through any stated feeling.\n\nThe card in the addendum supplies a name and the person the bear was originally for, and its short inscription comments quietly on the bear's limits. Notice also the rule that it always chooses the youngest patient; it makes sense once you know who it was a gift to.",
+  "related": [
+    {
+      "slug": "scp-999",
+      "note": "Another anomaly remembered mostly for being kind to whoever it meets."
+    },
+    {
+      "slug": "scp-500",
+      "note": "A very different, much drier take on an anomalous cure."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

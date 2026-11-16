@@ -1,0 +1,19 @@
+{
+  "slug": "scp-939",
+  "lang": "en",
+  "hook": "A pack of eyeless predators with one memorable trick for luring prey. The file is dense with procedure and biology, and the most frightening parts tend to hide in the small rules. Read it somewhere quiet and pay attention to what staff are instructed to ignore.",
+  "whyItMatters": "SCP-939 is a co-authored Keter creature entry whose central idea, a predator that speaks with borrowed voices, is easy to state and hard to forget. Its layered document keeps pointing outward to further logs and reports, so the article feels like the visible tip of a larger record. It is also a good model of the clinical style, conveying horror through procedure instead of description.",
+  "thingsToNotice": "Look at the pulse-monitor rule in the containment section. It quietly tells you what must have gone wrong before, and what personnel are expected to do when a familiar voice calls for help. The amnestic the creatures exhale adds a second layer, since it explains why survivors cannot be trusted to remember.\n\nThe addenda read as a slow institutional mistake. The Foundation starts treating that amnestic as a useful product, then the dates move toward a breach and an abrupt suspension, with key passages redacted. Much of the story lives in the gaps between those notes and in the documents they link to.",
+  "related": [
+    {
+      "slug": "scp-096",
+      "note": "Another famous predator built around a single sense, sight instead of hearing."
+    },
+    {
+      "slug": "scp-3199",
+      "note": "Another Keter species entry that delivers its fear mostly through procedures and incident notes."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

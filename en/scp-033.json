@@ -1,0 +1,19 @@
+{
+  "slug": "scp-033",
+  "lang": "en",
+  "hook": "A short Euclid file about a formula rather than a creature. The containment procedures are strangely specific about paper shapes and distances, and they are worth reading slowly before you reach the description. The premise is simple enough to explain to a child and unsettling enough to stay with you.",
+  "whyItMatters": "SCP-033 is a compact example of the wiki's mathematical anomalies, where the threat is an idea instead of a thing. It shows how much tension the format can draw from procedure alone: hand-made vellum, uneven edges, a strict timer. Its core concept, a missing integer our systems were never built to hold, leaves a lot of room for the imagination.",
+  "thingsToNotice": "Notice that the professor's commentary carries the explanation, using everyday comparisons like counting and an overstuffed shelf to make an abstract danger feel concrete. The redacted value of the number works as a joke and a scare at once, since the range it falls in is exactly what a reader most wants to know.\n\nThe closing test log is quiet horror told through timestamps. Watch the intervals double and the effect jump onto a sheet nobody wrote on. The idea that human imperfection is the best defence is the article's most memorable twist on ordinary Foundation thinking.",
+  "related": [
+    {
+      "slug": "scp-055",
+      "note": "Another anomaly that is more an idea than an object and resists being pinned down."
+    },
+    {
+      "slug": "scp-3125",
+      "note": "A larger, stranger take on a hazard that lives in concepts and patterns."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

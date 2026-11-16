@@ -1,0 +1,19 @@
+{
+  "slug": "scp-2264",
+  "lang": "en",
+  "hook": "A hidden door beneath a famous London landmark, an alchemist's notes, and a city of masks on the far side. The first half reads like a wry, curious travelogue. Be warned that the later interview turns very dark; it aims to disturb rather than merely set a mood.",
+  "whyItMatters": "SCP-2264 is a key file for Alagadda, the masked city tied to the Hanged King, and its tags place it where that setting meets the Sarkic cults and the Wandsmen. By introducing the Wandsman of Kul-Manas and the four Masked Lords, it lays out much of the vocabulary other stories in this corner of the wiki use. Its framing letter also links the setting to real historical figures from Elizabethan England.",
+  "thingsToNotice": "Pay attention to the narrator's voice. Dr. Narváez writes with opinions and asides, and the Foundation's note asking him to sound more professional is a small joke that also shows how far the city has gotten under his skin. His conversation with the Wandsman is the lighter, scholarly centre of the article.\n\nThe second expedition reverses that tone. The survivor's interview moves from dreamlike confusion to total helplessness, kept largely abstract, and ends with a vision of the King delivered as images rather than facts. The closing letter then reveals that the gate's own builder regretted it, and points toward a play elsewhere in the archive.",
+  "related": [
+    {
+      "slug": "scp-701",
+      "note": "The play the closing letter warns about; the file itself suggests reading it."
+    },
+    {
+      "slug": "scp-2317",
+      "note": "Another sealed door that needs a ritual, with something vast beyond it."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

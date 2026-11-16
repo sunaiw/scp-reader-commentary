@@ -1,0 +1,19 @@
+{
+  "slug": "scp-169",
+  "lang": "en",
+  "hook": "A very short Keter file about something too large to contain at all. There are no tests and no interviews, only scale and the measures used to hide it. Read it with a map of the southern Atlantic in your head and let the numbers do the work.",
+  "whyItMatters": "SCP-169 is a compact take on the kaiju idea, an entity whose main anomaly is simply its size. Since nothing can be built around it, the containment section turns into a plan for suppressing information, a very Foundation-like answer to an impossible problem. The article borrows the old sailors' name of Leviathan and grounds it in satellite imagery and seismic readings.",
+  "thingsToNotice": "The procedures say almost nothing about the creature and nearly everything about secrecy: doctored images, an evacuated archipelago, a handy excuse involving rare birds. One line about the ship that made the discovery is a cold reminder of how far the organisation will go.\n\nThe addendum is the clever part, connecting the anomaly to an ocean sound picked up by a real scientific agency and treating the public attention it drew as a containment problem. Notice the estimated length, too, and what it implies about where the rest of the body must lie.",
+  "related": [
+    {
+      "slug": "scp-3000",
+      "note": "Another enormous sea creature, explored in a far stranger and more personal way."
+    },
+    {
+      "slug": "scp-1128",
+      "note": "Another ocean giant, approached from a very different angle."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}
