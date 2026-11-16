@@ -1,17 +1,17 @@
 {
   "slug": "scp-1730",
   "lang": "en",
-  "hook": "This is a long one, built from recovered logs and exploration transcripts, and it reads more like an action-horror novella than a standard file. Go in knowing that the Site-13 of the title shouldn't exist according to the Foundation's own records. The question in the title is the thread to hold on to.",
-  "whyItMatters": "1730 is a showcase for the wiki's large-scale exploration format, complete with several task forces, maps and illustrations. It also matters to readers following Mobile Task Force Tau-5 and recurring figures such as Bobble the Clown, both of whom turn up here. Above all, it's a memorable take on the dark-mirror idea: a Foundation from somewhere else that kept the mission and lost everything else.",
-  "thingsToNotice": "The early logs build dread through scrawled warnings and broken-off messages, and later revelations change what those words on the walls mean. Compare what the recovered research notes treat as routine with how the visiting teams react; that gap is the real horror, and it's handled more through implication than detail. The debriefing at the end finally answers the title question, and the answer is less about monsters than about an institution under pressure. Notice too that the machine which brought the site here also decides how it leaves.",
+  "hook": "Set aside a long evening: this is a novella-length file assembled from recovered messages, exploration videos and a stack of debriefings, with its own navigation menu at the top. The ruined complex at its center carries Foundation markings, yet the Foundation's own records say it was never built. Hold on to the title question, because the article answers it in full only at the very end.",
+  "whyItMatters": "1730 is one of the wiki's big multi-team exploration epics, sending several task forces into the same ruin across years of in-universe time. It is also a major piece of alternate-history Foundation fiction, imagining what the organization turns into once it loses its independence and its ethics are bent toward someone else's agenda. Readers following Tau-5 \"Samsara\" or Bobble the Clown will find both here, used in ways that feed into their wider stories.",
+  "thingsToNotice": "The first half is fragments: scrawled warnings, a doomed team's final log, and memos that treat cruelty as routine paperwork. The second half becomes a rescue mission, and the calm, almost cheerful Tau-5 operatives set against the worn-down human squads give it a strange rhythm. Dr. Hadley's letter and Dr. Scott's debrief explain the Thresher machine from two sides, one driven by revenge and one by fear. Captain Hollis frames the whole file, vanishing near the start and making the final choice at the machine, and the crater left behind is the answer to where Site-13 goes next.",
   "related": [
     {
       "slug": "scp-5000",
       "note": "Another vision of the Foundation turned into something monstrous."
     },
     {
-      "slug": "scp-3001",
-      "note": "Another story that begins with untested reality technology going wrong at a Foundation site."
+      "slug": "scp-2935",
+      "note": "Another descent into a Foundation site from a reality that went wrong."
     }
   ],
   "status": "ai-checked",

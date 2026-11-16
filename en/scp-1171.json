@@ -1,0 +1,19 @@
+{
+  "slug": "scp-1171",
+  "lang": "en",
+  "hook": "One of the wiki's gentler, funnier entries: a house where someone from another world leaves messages in the fog on the windows. It is short and mostly dialogue. All you need to know is that the researcher is not being entirely honest with his new pen pal.",
+  "whyItMatters": "1171 is a well-loved comedy piece that uses an alien correspondent to poke fun at everyday prejudice. Instead of a menacing extraterrestrial, we get a grumbling neighbor type who complains about humans the way some people grumble about outsiders. The joke works because the phrasing is so familiar.",
+  "thingsToNotice": "Listen to the stock lines it uses about humans; the satire lives in how recognizable they are. The exchange with the agent is the punchline, since the entity is perfectly courteous to an actual human and then boasts afterward about putting him in his place. Notice too how the Foundation's whole containment effort here amounts to keeping a friendly correspondence going. The tiny sketched smiley face is a nice touch.",
+  "related": [
+    {
+      "slug": "scp-1437",
+      "note": "Another narrow doorway to another world and the exchanges across it."
+    },
+    {
+      "slug": "scp-2006",
+      "note": "Another comic entity whose menace is mostly bluster."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

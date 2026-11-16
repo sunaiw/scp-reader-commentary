@@ -1,0 +1,19 @@
+{
+  "slug": "scp-1733",
+  "lang": "en",
+  "hook": "This is about a recording of a real 2010 NBA season opener that comes out a little different every time it is played. You do not need to follow basketball, though it helps to know the game was a hyped matchup. Read the playback table in order, because the table is the story.",
+  "whyItMatters": "1733 is a well-known example of the escalating log, where a plain table charts something getting worse entry by entry. Tying a real sporting event to a closed loop makes the premise unusually concrete and easy to picture. It is also one of the more frequently recommended loop stories on the wiki.",
+  "thingsToNotice": "The early rows are almost funny: booing, sharper defense, commentators shrugging off deja vu. The turning point is when the players stop playing, and from then on the camera never moves again, a single fixed shot that is a chilling formal choice. Watch how the trapped crowd splits into groups, each with its own explanation of what is happening to them. The final redacted row leaves the worst to your imagination, and the reason testing stopped is that each playback harms the people inside.",
+  "related": [
+    {
+      "slug": "scp-3008",
+      "note": "Another crowd stuck in a familiar building, splitting into factions."
+    },
+    {
+      "slug": "scp-895",
+      "note": "Another anomaly where watching the footage is the problem."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "scp-610",
+  "lang": "en",
+  "hook": "A long-standing body-horror classic set in a quarantined region of Siberia. The main text is clinical and restrained, and much of the story lives in field logs that the page only lists by title. Go in expecting creeping unease rather than action, and be aware that the descriptions are unsettling.",
+  "whyItMatters": "610 is one of the wiki's foundational contagion stories and a common reference point for spreading biological threats alongside 008. Its containment strategy, essentially a fenced-off region and a scorched-earth policy, shows the Foundation at its most pragmatic. It is a good example of how much a list of withheld documents can suggest.",
+  "thingsToNotice": "The procedures obsess over distance and remote observation, and the reason becomes clear as you read on. Once infected creatures settle in place and begin reshaping their surroundings, the anomaly stops looking like a disease and starts looking like an ecosystem. The tunnels under the settlements and the restricted final log mean the article ends on a door it refuses to open. A passing hint about a failed operation suggests an origin the file chooses not to explain.",
+  "related": [
+    {
+      "slug": "scp-008",
+      "note": "Another classic of contagious transformation."
+    },
+    {
+      "slug": "scp-2935",
+      "note": "Another remotely surveyed zone where explorers' reports carry the story."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

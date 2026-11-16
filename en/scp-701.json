@@ -1,0 +1,19 @@
+{
+  "slug": "scp-701",
+  "lang": "en",
+  "hook": "This entry reads like a scholarly dossier on an old play, so it helps to know that revenge tragedies traditionally end with a crowded, deadly final act. The horror is not a monster on the loose but the slow, orderly way a production drifts off course. Keep an eye on the rehearsal timeline.",
+  "whyItMatters": "701 is one of the key early appearances of the Hanged King, a figure tied to the wiki's Alagadda stories. It is also a fine example of a memetic hazard told through theatre and publishing history instead of a lab report. The idea of a script that quietly rewrites itself during rehearsals has stuck with many readers.",
+  "thingsToNotice": "The outbreak schedule is laid out like a production calendar, which makes the escalation feel methodical rather than chaotic. The creepiest touch is that the cast insist the altered script was always that way. The publication history shows how hard it is to bury a text once it is in circulation, and the reply from the Overseer at the end states that point with chilling resignation. The fact that only some performances go wrong keeps the threat unpredictable.",
+  "related": [
+    {
+      "slug": "scp-2718",
+      "note": "Another hazard that spreads through information itself."
+    },
+    {
+      "slug": "scp-1733",
+      "note": "A crowd turning on itself inside a staged spectacle."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

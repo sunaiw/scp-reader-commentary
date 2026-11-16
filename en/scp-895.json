@@ -1,0 +1,19 @@
+{
+  "slug": "scp-895",
+  "lang": "en",
+  "hook": "Short and sharp, this is a classic piece of camera-feed horror. The object is an ordinary-looking coffin; what matters is who is watching, and through what. Read the recovery log slowly and picture yourself on the command end of the radio.",
+  "whyItMatters": "895 is an early example of the wiki's fascination with hazards that exist in recordings rather than in the room. It rests on a simple, effective split between what people on site experience and what people on the monitors see. That gap carries the entire article.",
+  "thingsToNotice": "The recovery log is a two-voice exchange in which the field team calmly reports nothing wrong while command grows steadily more alarmed. The worst thing is never described at all; the file only tells you how the viewers reacted. The containment rules make full sense only after you have read the log, and the enlarged safety radius at the end hints at an incident the file will not explain. Even the surveillance overlay at the top helps set the mood.",
+  "related": [
+    {
+      "slug": "scp-096",
+      "note": "Another anomaly where images themselves become dangerous."
+    },
+    {
+      "slug": "scp-1733",
+      "note": "Another case where recorded footage behaves in ways it should not."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

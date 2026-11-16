@@ -1,0 +1,23 @@
+{
+  "slug": "scp-2935",
+  "lang": "en",
+  "hook": "SCP-2935 is an exploration story told almost entirely through mission transcripts, and it rewards a slow, patient read. The setup is simple: a cave in rural Indiana opens onto a version of our world that is quietly wrong. Try to read it in one sitting, and listen to what is missing as closely as to what the team finds.",
+  "whyItMatters": "It sits among the most highly rated articles on the English wiki and is a standout of the dead-world subgenre. Much of its weight comes from the canon itself: the team walks through familiar Foundation sites and checks on anomalies readers already know, and finds them all equally still. It shows how much dread a writer can build with no monster ever appearing on the page.",
+  "thingsToNotice": "The moment the team reaches SCP-682 works as a measuring stick, since the wiki's most unkillable creature is the clearest proof of how total the event was. Agent Keller quietly collects oddities across the logs, from a jammed cell door to a body that does not match the others and a warning posted after everyone should have been gone. The hidden audio file at the end flips the whole expedition into a warning about our own side, and its last line is aimed straight at whoever is listening. Notice how often the logs mention the lack of birdsong and insects.",
+  "related": [
+    {
+      "slug": "scp-682",
+      "note": "Its fate here is the clearest sign of how absolute the event was."
+    },
+    {
+      "slug": "scp-3001",
+      "note": "Another lone voice stranded in a reality with nobody left in it."
+    },
+    {
+      "slug": "scp-1730",
+      "note": "Another trip into a Foundation site from a reality that went wrong."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

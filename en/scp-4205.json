@@ -1,0 +1,23 @@
+{
+  "slug": "scp-4205",
+  "lang": "en",
+  "hook": "This article is laid out like a folder of files left on a researcher's terminal, so open the drafts and journal entries in the order they appear. The images and video are part of the experience, so give the presentation your attention rather than skimming. Expect a character study at least as much as an anomaly report.",
+  "whyItMatters": "4205 is a strong example of the corrupted-document format, where the breakdown of the page itself carries the plot. Instead of the usual detached clinical voice, it centers a junior researcher who doubts himself, so the meta tricks hit emotionally rather than just cleverly. It shows how the wiki's format experiments can be used for something tender and sad.",
+  "thingsToNotice": "Follow the drafts as they shift from a supervisor's corrections to half-finished sections and finally to entries that abandon the template altogether. The journal is written to his father, and what Wade can and cannot recall turns into a slow countdown. The cold final version reads very differently after everything before it, and its closing note about Theodore Quale changes how you look back on Wade's encounters. Also notice the one window the eyes avoided, which ends up shaping the real containment procedures.",
+  "related": [
+    {
+      "slug": "scp-096",
+      "note": "Another anomaly where merely seeing it is the danger."
+    },
+    {
+      "slug": "scp-3999",
+      "note": "A researcher coming apart inside the very file about his anomaly."
+    },
+    {
+      "slug": "scp-2718",
+      "note": "Another file whose own structure is part of the hazard."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

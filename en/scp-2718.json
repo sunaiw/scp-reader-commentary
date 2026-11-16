@@ -1,0 +1,19 @@
+{
+  "slug": "scp-2718",
+  "lang": "en",
+  "hook": "The page begins by ordering you to stop reading, and it is worth playing along with that framing instead of skipping past it. Read it as a document you were never meant to find, one layer at a time. The later material is heavy and existential, so choose a moment when you have room for something bleak.",
+  "whyItMatters": "2718 is one of the best-known articles built on the idea that the knowledge inside the file is itself the hazard, and it is among the bleaker reads on the wiki. The object class field, presented as a system error, sets the tone before any prose does. It also treats the Overseer Council unusually, showing its members as frightened people rather than remote authorities.",
+  "thingsToNotice": "Notice the layers: a warning section, a hurried technician's note, then a recording made by someone with only minutes left. The technician's postscript hints that the idea spreads simply by being understood, and the recording shows that spread happening around a conference table. Listen to how the speaker's composure slips as she talks. The end hands the problem to you, and the short line in Greek at the very bottom adds one last turn about a character's choice.",
+  "related": [
+    {
+      "slug": "scp-106",
+      "note": "The Old Man plays an unexpected part in the closing moments."
+    },
+    {
+      "slug": "scp-055",
+      "note": "Another anomaly defined by what you should not be able to know."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}

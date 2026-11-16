@@ -1,0 +1,19 @@
+{
+  "slug": "scp-2006",
+  "lang": "en",
+  "hook": "A welcome break from heavier fare: a shapeshifter whose only goal in life is to frighten people, and who is hopelessly bad at it. A passing familiarity with cheap 1950s monster movies makes it funnier, though you do not need it. Read it for the jokes first, and notice where the tone changes near the end.",
+  "whyItMatters": "2006 is a favorite example of the comedy-horror blend the wiki does so well. It also makes a neat point about object classes, since Keter here is about how hard something would be to stop, not how scary it currently looks. The closing memo nods at other famous Keters without naming them, which longtime readers will enjoy.",
+  "thingsToNotice": "The interview plays like a sketch, and the doctor's exaggerated panic does as much comic work as the entity itself. Then the director's memo turns the gag inside out by asking what happens if it ever learns what truly terrifies people. The whole containment strategy is simply to keep its taste in horror terrible, including mandatory acting lessons for staff. The humor and the threat grow from exactly the same fact.",
+  "related": [
+    {
+      "slug": "scp-682",
+      "note": "The regenerating lizard the director's memo alludes to."
+    },
+    {
+      "slug": "scp-999",
+      "note": "Another friendly entity that undercuts the wiki's usual dread."
+    }
+  ],
+  "status": "ai-checked",
+  "updatedAt": "2026-11-16"
+}
