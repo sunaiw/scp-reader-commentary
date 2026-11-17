@@ -1,0 +1,19 @@
+{
+  "slug": "scp-3966",
+  "lang": "en",
+  "hook": "Most people know the sudden jolt of falling just as they drift off. This file takes that ordinary experience and investigates it with lab protocols, protein chemistry, and chat logs between researchers who are getting more tired by the day. You don't need a biology background; the characters explain what matters, and the unease builds through their conversations as much as through the data.",
+  "whyItMatters": "It is a strong example of science-driven horror on the wiki, where the dread comes from a result that refuses to make sense rather than from a creature on the loose. The instant-message format gives the research team distinct personalities quickly, which makes the stakes feel personal. Along the way it pulls in other entries such as SCP-848, so the mystery is assembled from pieces of the wider database.",
+  "thingsToNotice": "Notice how experiment entries and chat logs alternate, so each dry result is followed by people reacting to it, and their sleep gets worse as the data piles up. Small recurring images, such as straws, dyes and color, turn up in scenes that seem unrelated at first. The unexplained mass discrepancies are worth tracking, since the head researcher keeps flagging them. The final experiment is deliberately understated; take a moment to think about what it would mean if its result were possible.",
+  "related": [
+    {
+      "slug": "scp-848",
+      "note": "Brought into the investigation partway through; useful context for one of the file's turns."
+    },
+    {
+      "slug": "scp-596",
+      "note": "Mentioned in the testing logs as the source of experimental material."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

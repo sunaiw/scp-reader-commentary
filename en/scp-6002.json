@@ -1,0 +1,19 @@
+{
+  "slug": "scp-6002",
+  "lang": "en",
+  "hook": "Content note: this file touches on historical violence against an Indigenous community, on a death in the workplace, and on grief. On the surface it is a report on an impossibly large tree, but the document has been tampered with: comments keep appearing between its sections, and a monitoring system keeps objecting to them. Read it as two voices competing for the same page, the official record and a person who refuses to let it stand unchallenged.",
+  "whyItMatters": "Credited on the page to bigslothonmyface, it takes on several big ideas the wiki keeps returning to: the Foundation as an institution capable of terrible harm, the price of covering things up, and what it means to rewrite collective memory. It also shows how a long, multi-part document can be paced like a novel, moving through diaries, memos, testing logs and a timeline. The scale is global, but the emotional weight rests on a handful of named researchers.",
+  "thingsToNotice": "Watch how the formats change with the decades: a field diary from the 1910s, terse correspondence with O5, and testing logs that grow colder the more harm they record. The interjected comments are the emotional spine of the piece, and they get sharper and more personal as the file goes on. Keep track of the recurring motif of sound in the tree, which starts as a curiosity and carries far more weight by the end. The access-control frame is not decoration either; notice what it says at the very start and the very end.",
+  "related": [
+    {
+      "slug": "scp-500",
+      "note": "A well-known object whose material is borrowed in one of the testing logs."
+    },
+    {
+      "slug": "scp-1007",
+      "note": "Also drawn into one of the experiments, so it helps to know what it does."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

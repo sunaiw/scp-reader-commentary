@@ -1,0 +1,19 @@
+{
+  "slug": "scp-038",
+  "lang": "en",
+  "hook": "An apple tree that copies whatever touches its bark could easily be a horror premise, but much of this short file reads as office comedy. Keep an eye on the addenda, where a running joke does half the work. Then save some attention for the test log at the end, which pairs the tree with one of the most famous objects on the site.",
+  "whyItMatters": "It is a short Series I Safe entry that finds its humor in staff behavior rather than in the anomaly itself. The exasperated memos from Dr. Klein give the facility a lived-in feel in only a few lines. Its testing log is also a neat example of the crossover test, where one numbered object is used to probe another.",
+  "thingsToNotice": "Notice how the addenda escalate: each request to stop is a little more specific, which lets you picture exactly what the staff have been up to. Beneath the jokes, the description includes a quietly grim detail about what happens to living copies, delivered in the same flat tone as the list of snack foods. The crossover test at the end plays with a rule most readers already know and closes on an observation that is more unsettling than funny.",
+  "related": [
+    {
+      "slug": "scp-173",
+      "note": "The subject of the file's most memorable test."
+    },
+    {
+      "slug": "scp-500",
+      "note": "Named in the documents as something the tree can copy, with a catch."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

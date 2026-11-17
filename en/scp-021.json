@@ -1,0 +1,19 @@
+{
+  "slug": "scp-021",
+  "lang": "en",
+  "hook": "Content note: the file deals frankly with chronic pain and the toll it takes on the people involved. The premise is a living tattoo, an ornate dragon that moves across a person's skin, and the article is short and matter-of-fact. Its strength lies in how calmly it lists details that ought to be alarming.",
+  "whyItMatters": "It is a Series I Safe entry that shows how much the early wiki could do with one striking image and a clinical voice. The Safe label sits uneasily next to what hosting the dragon actually costs, an irony the series often leans on. It also raises a question the file admits it cannot answer: how do you study a creature that exists in only two dimensions?",
+  "thingsToNotice": "Notice how the procedures present hosting the dragon as a kind of reprieve for Class-D personnel, which tells you a lot about the institution before the description even begins. The feeding details are oddly gentle, almost charming, and they sit right beside the descriptions of constant pain. The closing paragraph pulls back from the individual host to the dragon's age and history, inviting you to imagine a long chain of people who carried it.",
+  "related": [
+    {
+      "slug": "scp-069",
+      "note": "Another Safe-class file where the human cost is quietly built into the procedures."
+    },
+    {
+      "slug": "scp-038",
+      "note": "Another short Series I entry whose calm tone hides a grim detail about living subjects."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

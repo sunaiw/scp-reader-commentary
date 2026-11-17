@@ -1,0 +1,19 @@
+{
+  "slug": "scp-1050",
+  "lang": "en",
+  "hook": "An obsidian obelisk carved with the same warning in dozens of scripts, some from known civilizations and some from no one anybody can identify. The file asks you for a little arithmetic and a little history, but the footnotes do most of the heavy lifting. Read them as you go; they are where the article quietly builds its sense of scale.",
+  "whyItMatters": "It is a fine example of the ancient-warning type of article, using real scripts, myths and historical rulers to give an anomaly an enormous depth of time. The numbers in the message are tied to Earth's deep history step by step, so the payoff feels earned rather than asserted. It closes on a policy question rather than an attack, which leaves a thoughtful aftertaste.",
+  "thingsToNotice": "Notice how the obelisk works like a guest book: each era adds an entry signed in the name of a ruler of the time, and the list of signatures becomes a compressed history of its own. The warning text overlaps with myths and literature that the footnotes point out, so those stories start to read like echoes of a single event. Read the research team's signal-fire analogy alongside the record of how often containment policy has flipped; the back-and-forth shows how unsure the Foundation really is.",
+  "related": [
+    {
+      "slug": "scp-1032",
+      "note": "Another object fixated on endings, counting down to them instead of warning about them."
+    },
+    {
+      "slug": "scp-6002",
+      "note": "Mass extinction approached from a very different, far more personal angle."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "scp-069",
+  "lang": "en",
+  "hook": "This is a quiet, melancholy entry rather than a frightening one. The entity at its center takes the place of people who have just died, and the file cares far more about what that is like than about how it works. Go in expecting a short character study dressed up as a containment report.",
+  "whyItMatters": "A featured Series I entry, it shows that the Foundation format can carry grief and identity as easily as horror. Its subject is technically Safe, yet the procedures read like a careful effort to keep someone stable and protected from their own despair. Rather than a threat to be locked away, the humanoid at its center comes across as someone trapped inside a role.",
+  "thingsToNotice": "Notice the note in the procedures insisting that the entity must not be treated as an employee; the fact that this needs saying is the emotional core of the file. The urge to put a life in order is a beautifully specific detail that turns a supernatural ability into something like a ritual of closure. The origin is told through two fires, and the second one hints at the entity's character without spelling it out. The two addenda then show what happens when the Foundation forgets it is dealing with someone who feels.",
+  "related": [
+    {
+      "slug": "scp-2922",
+      "note": "Another file where the dead, and the families they leave behind, are at the heart of the story."
+    },
+    {
+      "slug": "scp-038",
+      "note": "A lighter take on copies of people, with one darker line about how long they last."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

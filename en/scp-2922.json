@@ -1,0 +1,19 @@
+{
+  "slug": "scp-2922",
+  "lang": "en",
+  "hook": "A phone line to someone who is no longer alive is a simple, strong premise, and this file delivers it almost entirely through call transcripts. Treat it as a travelogue told in fragments: a scientist describing a place nobody on the other end can see. Listen for her tone between calls as much as for what she reports.",
+  "whyItMatters": "It sits in the wiki's afterlife corner, carrying both the Corbenic and Three Moons Initiative tags, so readers who follow those threads will recognize some of the landmarks. It is also a strong example of an interview-driven article where the anomaly on paper is a communication method, while the real subject is the person using it. The friction between institutional rules and one modest personal request drives the story more than any creature does.",
+  "thingsToNotice": "Notice how the later calls get shorter; the length of each transcript tracks her patience with the people listening. The landscape is described vividly but sparingly, and the file keeps circling back to a single personal wish that the Foundation treats as a security matter. In the final recordings the balance of power in the conversation shifts noticeably. Read the last line of the file as an opening rather than an ending.",
+  "related": [
+    {
+      "slug": "scp-069",
+      "note": "Another file where the Foundation's handling of a family's grief becomes the sore point."
+    },
+    {
+      "slug": "scp-6002",
+      "note": "Another story where one scientist's personal loyalties pull hard against the organization."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}
