@@ -1,0 +1,23 @@
+{
+  "slug": "scp-4010",
+  "lang": "en",
+  "hook": "SCP-4010 is told almost entirely through a researcher's voice logs over one year, as she tries to build a single timeline out of the whole Foundation database. It helps to have read a handful of well-known files first, because she reacts to many of them in passing, usually with a joke or a complaint. Expect the tone to drift from office comedy toward something much stranger.",
+  "whyItMatters": "The entry is built on the sheer messiness of the SCP canon: dates that disagree, reality shifts that undo one another, and dozens of competing 001 proposals. Instead of treating those inconsistencies as flaws, it turns them into its premise. Its metafiction tag fits, since it asks what the wiki would look like from inside the fiction.",
+  "thingsToNotice": "Watch how small glitches in her logs, like a percentage that jumped overnight or a log that went missing, signal the collapse well before she names it. As the database shrinks, the Foundation contracts with it, site by site and colleague by colleague, until only one familiar statue is left. The final stretch has her post a half-remembered file to a small forum and watch a community grow around it, and the repeated opening messages close the loop. Her closing note calls chaos the fuel of the universe, which recasts every contradiction she grumbled about as something worth keeping.",
+  "related": [
+    {
+      "slug": "scp-173",
+      "note": "Mentioned again and again; reading it first makes the later logs land harder."
+    },
+    {
+      "slug": "scp-140",
+      "note": "The history-rewriting book she names as her favorite reality bender."
+    },
+    {
+      "slug": "scp-055",
+      "note": "She keeps forgetting she already placed it on the timeline, which is the joke."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

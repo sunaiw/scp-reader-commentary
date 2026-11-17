@@ -1,0 +1,19 @@
+{
+  "slug": "scp-3936",
+  "lang": "en",
+  "hook": "A very short Thaumiel entry about a Foundation installation designed to survive changes to reality itself. Read it slowly, especially the list in the addendum, because the details are doing more work than they first appear to. It takes about two minutes, and the payoff depends on noticing things for yourself.",
+  "whyItMatters": "SCP-3936 takes the Scranton Box, a shielded store for records at risk of being rewritten, and scales the idea up to an entire site. Rather than staging a reality-restructuring event directly, it shows only what is left behind afterward. It is a sharp example of a twist delivered through a list of observations instead of a narrative.",
+  "thingsToNotice": "The autopsy list describes ordinary human anatomy as though it were alien, which means the people writing this file are not human and their reality has quietly replaced ours. Each bullet becomes a small joke once you see it, from the single heart to the pork comparison to eyes known only from fossils. The struck-through status line and the wiped archive suggest the original staff saw the shift coming and decided their records were better erased than inherited. Only one curt message survives, and it doubles as a refusal to be studied.",
+  "related": [
+    {
+      "slug": "scp-2000",
+      "note": "Another Thaumiel built around preparing for the end of the world as we know it."
+    },
+    {
+      "slug": "scp-4006",
+      "note": "A Thaumiel entry that also plays with who gets to know what about the world."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}
