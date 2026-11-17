@@ -1,0 +1,23 @@
+{
+  "slug": "scp-4231",
+  "lang": "en",
+  "hook": "SCP-4231 is a long, multi-part story assembled from reports, interviews, essays and prose chapters, and it opens with an adult-content warning covering abuse and violence. Read it only if you are comfortable with that, because the darkness is central rather than decorative. If you do go in, know that at heart it is about a reality bender who survives an abusive relationship, and about how institutions treat survivors.",
+  "whyItMatters": "The entry weaves together several threads of the setting: the Global Occult Coalition's Ichabod campaign, the Montauk procedure from SCP-231, and Scranton's reality anchors. It takes a critical look at how both the Coalition and the Foundation treat Type Greens, insisting on them as people rather than threats. The gap between cold official documents and raw interior narration is itself the argument the piece is making.",
+  "thingsToNotice": "Notice how the clinical documents and the intimate prose chapters alternate, so each official summary is immediately undercut by what it leaves out. B's absurd responses during the annual questioning, from nail polish to a blank microscope slide, read as protest rather than madness once you know what he is being asked to relive. The essay by the codex's translator quietly reveals that she is B's mother, and the closing scenes show who B became under a new name, recasting a familiar Foundation persona as armor. The final vignette, a reality anchor that remembers a house, hints at an uncomfortable link between Scranton's factory and Cornwall.",
+  "related": [
+    {
+      "slug": "scp-231",
+      "note": "Its Procedure 110-Montauk is the ritual this story keeps circling back to."
+    },
+    {
+      "slug": "scp-2317",
+      "note": "Originally found in the tomb beneath this file's drained lake."
+    },
+    {
+      "slug": "scp-239",
+      "note": "Cited here as a test case for raising a young reality bender safely."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

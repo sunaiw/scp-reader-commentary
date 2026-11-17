@@ -1,0 +1,19 @@
+{
+  "slug": "scp-2480",
+  "lang": "en",
+  "hook": "SCP-2480 is a long, multi-part horror piece set in a foggy Massachusetts town, and it is one of the bleaker files around: expect intense violence and disturbing references to a cult's crimes. If you go in, read it in order. It starts as an unremarkable Safe-class file and turns into field logs, experiments and finally a very different kind of document.",
+  "whyItMatters": "Its tags tie it to the Sarkic material, the Global Occult Coalition and Dr. Judith Low, so it reads as part of a larger setting rather than a standalone monster file. The object class line, with its crossed-out entries, tells the story of a threat the Foundation badly misjudged. It is also a showcase for the idea of the Foundation and the GOC being forced to work side by side.",
+  "thingsToNotice": "Watch how perception structures the whole piece. The undercover agents only sense that something is wrong, the drug-assisted test logs describe what the town might really be, and the assistant's running commentary on the same scenes provides a chilling counterpoint. That split between two observers looking at one street is the article's main horror device.\n\nThe documents also change voice as they go: dry procedures, terse personal logs, a scientist's report, then a recruitment speech. Pay attention to the quiet loose ends near the start, such as an overdue report and two agents who never check in; they matter more than they seem.",
+  "related": [
+    {
+      "slug": "scp-2075",
+      "note": "Named in this file's own footnotes as a possibly connected anomaly."
+    },
+    {
+      "slug": "scp-2095",
+      "note": "Also cited in the footnotes as a likely related anomaly."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

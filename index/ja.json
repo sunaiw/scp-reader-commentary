@@ -454,6 +454,10 @@
       "status": "reviewed"
     },
     {
+      "slug": "scp-2480",
+      "status": "reviewed"
+    },
+    {
       "slug": "scp-2521",
       "status": "reviewed"
     },
@@ -731,6 +735,10 @@
     },
     {
       "slug": "scp-423",
+      "status": "reviewed"
+    },
+    {
+      "slug": "scp-4231",
       "status": "reviewed"
     },
     {
