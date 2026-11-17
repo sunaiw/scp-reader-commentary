@@ -1,0 +1,19 @@
+{
+  "slug": "scp-2357",
+  "lang": "en",
+  "hook": "Go in knowing that this file is unusually aware of you, the person reading it. The text is peppered with stray digits and odd misspellings, and a garbled line of capitals sits at the very top; resist the urge to skim past them. It is short, and it reads best in one sitting, start to finish.",
+  "whyItMatters": "SCP-2357 belongs to the meta and esoteric-class corners of the wiki, where the report format itself becomes the anomaly. Instead of describing some object in a locker, the document points at its own text and makes the act of reading the containment problem. It also plays with a familiar Foundation idea, information that is dangerous to know, and asks what happens when that effect is flattering rather than harmful.",
+  "thingsToNotice": "Watch the official register crack. The procedures open in a proper bureaucratic voice, then a chatty aside admits they describe rather than prescribe, and the description keeps breaking off for personal remarks. The digits that creep into words look like typos but read more like glitches, adding to the sense of a document built to act on whoever opens it.\n\nThe footnote deserves a slow read: it explains, from inside the fiction, why nobody can ever tidy this report up, which neatly justifies its unprofessional style. Then notice how the addendum moves from clinical to intensely personal, and how much frustration with Foundation culture comes through once the writer speaks directly.",
+  "related": [
+    {
+      "slug": "scp-426",
+      "note": "Another file whose effect hinges on an unexpected voice inside the report itself."
+    },
+    {
+      "slug": "scp-1425",
+      "note": "A text-based object whose danger also travels through the people who read it."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

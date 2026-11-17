@@ -1,0 +1,19 @@
+{
+  "slug": "scp-946",
+  "lang": "en",
+  "hook": "A plain table, two chairs, and two calm men who turn up to argue politely about almost anything. The file is gentle and talky rather than frightening, so read it the way you would listen in on a good conversation. Keep an eye on the house rules for anyone who wants to join in.",
+  "whyItMatters": "SCP-946 turns civil debate into an anomaly, which is a refreshing premise in a wiki full of monsters. Its stakes come from ideas: an argument can carry real-world consequences, so the quality of reasoning becomes a safety issue. Keeping a skilled debater on call is one of those small procedural touches that make the setting feel lived-in.",
+  "thingsToNotice": "Notice how the table enforces good-faith argument, ejecting anyone who resorts to personal attacks or deliberate falsehoods. That rule quietly sets up the tension in the second addendum, where someone from outside has to win on reasoning alone.\n\nThe first addendum is a neat small detail: the lighting rule came out of one of their own debates, hinting that the pair can shape their surroundings when they reach a conclusion. The ending, with a class upgrade still pending, leaves you thinking about how much was riding on that conversation.",
+  "related": [
+    {
+      "slug": "scp-536",
+      "note": "Its test logs come up mid-debate, showing how far the pair's knowledge reaches."
+    },
+    {
+      "slug": "scp-343",
+      "note": "Another calm, seemingly all-knowing figure kept in a quiet room."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "scp-3166",
+  "lang": "en",
+  "hook": "Yes, this is the Garfield one. The premise is absurd and the file plays it completely straight, which is where most of the comedy comes from. Be aware that it describes a creature attacking people in a cartoonish but physical way, and that real people connected to the comic strip are named throughout.",
+  "whyItMatters": "SCP-3166 shows the wiki's habit of pulling pop culture into the Foundation's world and treating it with total bureaucratic seriousness. Containment procedures that amount to keeping a comic franchise commercially healthy are a strong joke on their own. The pataphysical label adds an uneasy edge, suggesting that the line between a story and the world around it has started to fail.",
+  "thingsToNotice": "Look at how each detail extends the source material: lasagna as both the creature's body and its bait, cat noises during its attacks, and a target list that reads like a roster of the strip's critics and rivals. The footnotes are part of the joke, especially the one spelling out when the creator himself ends up on that list.\n\nThe history section points to one specific week of strips as the moment things went wrong, and the closing addendum turns the absurdity in a darker, stranger direction without fully explaining itself.",
+  "related": [
+    {
+      "slug": "scp-3008",
+      "note": "Another file that takes a familiar real-world brand and plays it for uneasy laughs."
+    },
+    {
+      "slug": "scp-1981",
+      "note": "A far grimmer article built around a real public figure's familiar televised image."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "scp-978",
+  "lang": "en",
+  "hook": "The idea is instantly graspable: a camera whose photos show what the subject would rather be doing. Most of the article is a test log, so read each entry's setup and try to guess the picture before you see the result. The humor is mostly gentle, though a few entries hint at things better left unprinted.",
+  "whyItMatters": "SCP-978 belongs to the family of simple-object, long-test-log articles that let readers play along with the researchers. Its effect is personal rather than dangerous, so the containment file turns into a series of small, revealing portraits of staff and animals alike. The joking staff notes, including a pointed aside signed by an O5, give the Foundation a human, slightly office-comedy texture.",
+  "thingsToNotice": "The log keeps a rigid format (subject, activity, result), and the comedy comes from the gap between identical neutral poses and wildly different outcomes. Pay attention to what is redacted: the expunged entries are never explained, and the brief follow-up remarks leave your imagination to fill them in.\n\nThe animal round is a nice change of angle. Some results are touching, some are blunt about basic instincts, and one is unexpectedly grand for such a tiny creature. The repeated reminder that a picture of a wish is not a plan also shows how uneasy the device makes the people using it.",
+  "related": [
+    {
+      "slug": "scp-294",
+      "note": "Another everyday machine whose file is mostly a playful test log."
+    },
+    {
+      "slug": "scp-261",
+      "note": "A vending machine article best read as a running list of experiments and outcomes."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

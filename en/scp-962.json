@@ -1,0 +1,19 @@
+{
+  "slug": "scp-962",
+  "lang": "en",
+  "hook": "A huge twisting steel tower stands in a remote valley, tended by an army of altered animals, and it sends out balloons carrying letters. The file describes animal modification in a clinical way, though it never dwells on it. Read the containment section closely; the odd supply drops and the separate storage for certain papers raise questions the description goes on to answer.",
+  "whyItMatters": "SCP-962 is a featured article that pairs industrial horror with something close to devotion. Much of its effect comes from the contrast between the tower's methods and the hopeful, well-crafted writing it produces. It is a memorable take on a sapient machine whose attitude toward humanity is admiring rather than hostile, which is in some ways more unsettling.",
+  "thingsToNotice": "Notice how carefully the description stresses that the servitors never harm people or machines, and how every modification pushes the animals toward a human shape. The polished manuscripts, and the one subject they never mention, say a lot about how the tower sees the world.\n\nThe included excerpt is the payoff: its broken grammar and shouted words are a sharp break from the praise the report gives the tower's usual prose. Read it as a window into the motive behind everything else in the file, and note the brief remark that the original's color has been stripped out.",
+  "related": [
+    {
+      "slug": "scp-079",
+      "note": "Another machine mind, though one with a very different attitude toward people."
+    },
+    {
+      "slug": "scp-2000",
+      "note": "A facility devoted to humanity's survival, for contrast with a machine devoted to pleasing it."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

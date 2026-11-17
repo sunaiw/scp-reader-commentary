@@ -1,0 +1,19 @@
+{
+  "slug": "scp-650",
+  "lang": "en",
+  "hook": "A smooth, faceless black statue that moves only when nobody is looking may sound familiar, but this one has its own temperament. The file is short, and it helps to picture the containment room as you read, with its watchers placed so they can keep an eye on each other as well as the statue.",
+  "whyItMatters": "SCP-650 reads as a deliberate variation on the statue-that-moves-when-unobserved idea that the very first SCP made famous. Rather than escalating the danger, it keeps the jump scare and drops the violence, which makes the object oddly playful and still unsettling. It shows how a familiar trope can be reinterpreted by changing a single motive.",
+  "thingsToNotice": "Notice how the procedures are designed around watchers watching each other, not just the statue. The description then quietly undercuts the threat: testing found no intent to harm, only to startle, and the report admits nobody plans to dig into why.\n\nThe postures it adopts for staff who have grown used to it are the most interesting detail, since they suggest something that adjusts to its audience. The closing researcher's note brings everything down to earth with a very human outburst about budgets and frayed nerves.",
+  "related": [
+    {
+      "slug": "scp-173",
+      "note": "The original moving statue; comparing the two shows how much one change of motive alters the mood."
+    },
+    {
+      "slug": "scp-096",
+      "note": "Flips the rule again: here the danger comes from seeing, not from looking away."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}
