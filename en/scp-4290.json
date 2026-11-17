@@ -1,0 +1,19 @@
+{
+  "slug": "scp-4290",
+  "lang": "en",
+  "hook": "SCP-4290 opens with every alarm already ringing: armed task forces, nuclear mines, an orbital strike system, and a sealed entity expected to break loose within a week. Read it as a countdown. It carries the jam-con2019 tag, and it is compact and built toward its final section.",
+  "whyItMatters": "The file draws on several corners of the wider setting: it quotes SCP-1726 as a source, mentions trips into the Wanderer's Library, and names the Daevites among the ancient cultures that maintained the seal. That makes it a good sampler of the wiki's deep-history worldbuilding. It is also a kaiju-tagged Keter played at full volume.",
+  "thingsToNotice": "Notice how the article builds dread almost entirely through preparation and second-hand accounts: an ancient text, cryptic television broadcasts, a ritual that goes wrong and a deserter's note. You never see the entity act in the present. The deserting agent's message is worth reading closely, since it voices the fear the official text keeps out.\n\nPartway through, the file announces that it has been revised. Pay attention to the gap between everything that was prepared and what the last addendum records, and to the small details along the way that seemed slightly off at the time.",
+  "related": [
+    {
+      "slug": "scp-1726",
+      "note": "The record source this file quotes for its ancient account."
+    },
+    {
+      "slug": "scp-140",
+      "note": "A chronicle of the Daevites, one of the cultures this file credits with tending the seal."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

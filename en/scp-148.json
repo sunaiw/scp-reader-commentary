@@ -1,0 +1,19 @@
+{
+  "slug": "scp-148",
+  "lang": "en",
+  "hook": "SCP-148 is a metal that blocks psychic and mind-affecting effects, which sounds like the most useful thing the Foundation could own. The first half reads like a materials data sheet. Keep track of the numbers, especially anything to do with weight.",
+  "whyItMatters": "The alloy is presented less as a threat than as a containment tool, a way of using one anomaly to hold back others. It was recovered from the ruined base facility of Prometheus Labs, which gives the file a wider backstory of commercial plans and missing stock. It carries the rewrite tag, so the text you read is a reworked version.",
+  "thingsToNotice": "Notice how the addenda escalate. The first sounds promising, the second introduces a cost paid by staff who merely cleaned the storeroom, and the later ones turn on a mass that keeps rising when it should not. Even the struck-through figures in the description quietly show numbers being revised upward.\n\nThe incident report is the hinge: a single test shows that the metal does not simply cancel an effect, and the strict procedures at the top of the page make far more sense afterward. The janitors' loss of language is easy to skim past, but it is the most human cost in the file.",
+  "related": [
+    {
+      "slug": "scp-500",
+      "note": "Another short file that reads like an inventory, where the count is worth watching."
+    },
+    {
+      "slug": "scp-140",
+      "note": "Another case where the procedures exist mainly to keep one thing away from something else."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "scp-3671",
+  "lang": "en",
+  "hook": "A cereal box in the Site-19 break room that refills itself every morning sounds like the friendliest object imaginable, and for a while it is. Almost the whole article is a dated log of labels and contents, so read the entries in order and keep an eye on the packaging. It is short, funny and a little nasty, roughly in that order.",
+  "whyItMatters": "SCP-3671 belongs to a well-loved strain of the wiki: the everyday household object with a personality and a grudge. It carries the featured tag, and its rating suggests the joke landed with a lot of readers. The format does most of the work, turning a dry containment log into a running conversation with the staff.",
+  "thingsToNotice": "The first few entries are deliberately boring, just flavors and tasting notes, so the shift in tone hits harder when it arrives. From then on the labels carry the story: the object speaks only through its own packaging, and the contents work as punchlines that grow steadily more alarming. Its voice swings between sulking, bad puns and fake peace offerings, which makes it feel like a petty coworker rather than a monster.\n\nAlso look back at the procedures. The update paragraph quietly records the whole move from shared snack to locked storage before you even reach the log.",
+  "related": [
+    {
+      "slug": "scp-458",
+      "note": "Another food-dispensing object whose fun is in reading the test table row by row."
+    },
+    {
+      "slug": "scp-294",
+      "note": "A drink machine with a test log that starts playful and does not always stay that way."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

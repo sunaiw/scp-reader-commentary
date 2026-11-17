@@ -1,0 +1,19 @@
+{
+  "slug": "scp-013",
+  "lang": "en",
+  "hook": "A very short file about a batch of hand-labelled cigarettes and the woman their smokers begin to see. Nothing frightening happens on the page; the weight sits in a few lines of handwriting at the very end. Read it slowly and let the last part land on its own.",
+  "whyItMatters": "SCP-013 is one of the low-numbered entries, and it shows how much the early series could do with a single strange effect and a scrap of personal backstory. The anomaly changes nothing in the physical world, only how people see themselves, which makes it a quiet example of the mind-affecting and sensory tags. Its appeal lies less in the mechanics than in the sadness wrapped around them.",
+  "thingsToNotice": "Notice how carefully the description pins down the woman's age, height and features while saying nothing about who she was. That clinical precision makes the missing information louder. The file also states that the change is permanent, then moves on as if that were a routine detail.\n\nThe backstory is handled in one dry paragraph about the previous owner's death and the room full of sketches he left. The recovered note is the emotional core: its broken grammar and trailing lines read like someone losing hold of a memory, and they recast the cigarettes as something closer to a keepsake than a hazard. Ask yourself who the 'blue lady' might have been to him.",
+  "related": [
+    {
+      "slug": "scp-012",
+      "note": "Another very short early file where a handwritten object carries all the weight."
+    },
+    {
+      "slug": "scp-085",
+      "note": "A woman who exists only in drawings, written with far more warmth."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "scp-5404",
+  "lang": "en",
+  "hook": "This one is written in a deliberately odd, childlike English, and the strangeness is not there just for laughs. Give the phrasing a few lines to settle and you will start to see why the file has to talk this way. It is short, so read it twice: once for the joke, once for the implications.",
+  "whyItMatters": "SCP-5404 carries the jam-con2020 tag, and it is a strong example of an article whose form is its anomaly. Many files describe a dangerous idea; this one has to avoid naming what it is about, and the whole document bends around that restriction. It sits comfortably beside the wiki's other language and infohazard pieces while being much funnier than most of them.",
+  "thingsToNotice": "Look at the test table, where ordinary words, misspellings and playground-code variants are tried one at a time. It works as a gag, but it also lets you reverse-engineer the rules from the inside. The footnotes are where the researchers' unease leaks through, and the last one is worth a second look.\n\nThe later section hints that the problem is getting worse and that someone else is behind it. Notice how little is explained there; the closing lines lean on names and phrases the reader is left to puzzle over.",
+  "related": [
+    {
+      "slug": "scp-055",
+      "note": "Another file built around something it cannot properly put into words."
+    },
+    {
+      "slug": "scp-3125",
+      "note": "A different take on an idea that is dangerous to know, with a page that makes the reader work."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}
