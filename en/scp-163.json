@@ -1,0 +1,19 @@
+{
+  "slug": "scp-163",
+  "lang": "en",
+  "hook": "A gentle, slow first-contact story told almost entirely through containment logistics and small experiments. There are no breaches and no villains; the interest lies in how two species try to understand each other without any shared language. Pay attention to the specifications of the enclosure, because they describe the alien as much as the description section does.",
+  "whyItMatters": "It is a good example of the wiki's hard-SF streak: a large part of the file is spent on biochemistry, light wavelengths and atmosphere, worked out carefully enough that the creature feels plausible. It also shows the Foundation in an unusually cooperative mood, with staff helping repair equipment and playing board games with the subject. The result is a Safe-class article whose emotional weight comes from loneliness rather than danger.",
+  "thingsToNotice": "The experiment logs borrow the shape of child-development tests, which quietly casts the researchers as parents trying to read a mind they can't reach. The painting session is the turning point, where a routine test becomes the first genuine exchange and the creature's reaction says more than any data table. Notice how the last addendum moves from scientific caution to hope, and ask what that hope means for the subject itself. Small details, like the limbs it had already lost before being found, hint at a history the file never tells.",
+  "related": [
+    {
+      "slug": "scp-3171",
+      "note": "Another first-contact attempt where the real barrier is what the other side values."
+    },
+    {
+      "slug": "scp-1000",
+      "note": "Another article that asks you to see a non-human species from its own side."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

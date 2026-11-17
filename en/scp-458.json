@@ -1,0 +1,19 @@
+{
+  "slug": "scp-458",
+  "lang": "en",
+  "hook": "A light, short entry about an object you would happily keep in your own kitchen. There is no threat anywhere in it; the fun is in the long table of test results, so read it slowly instead of skimming. For each row, think about what the order says about whoever was holding the box.",
+  "whyItMatters": "It is a textbook case of the harmless anomaly put to work: once the Foundation confirms there's no danger, the object simply goes into the staff canteen and morale goes up. The page is tagged as a collaboration, and the reaction table has clearly grown over the years, with rows for much later articles and for entries from the Spanish branch. That turns it into a kind of shared guestbook, where each row gives a one-line character sketch of some other anomaly.",
+  "thingsToNotice": "Read the table as a set of tiny portraits: an order can be funny, ominous or quietly sad depending on who placed it, and some of the most affecting moments hide in the footnotes rather than the rows. The memo threatening compulsory exercise grounds the file in ordinary office life. Notice how the tone shifts when one of the more dangerous subjects takes its turn, which explains why the closing update suddenly asks for supervision.",
+  "related": [
+    {
+      "slug": "scp-4999",
+      "note": "The subject of this file's most touching footnote; its own article shows why."
+    },
+    {
+      "slug": "scp-343",
+      "note": "Its row in the taste table is a small joke that lands better once you know who it is."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "scp-3799",
+  "lang": "en",
+  "hook": "Read this one as a document that keeps contradicting itself. It opens with a short, strange containment file, then hands you a series of recovered versions of that same file, each drifting a little further from the one before. Take them in order, and keep an eye on dates and numbers that don't quite agree.",
+  "whyItMatters": "It belongs to the group of SCP articles that tell their story through revisions of a single document, letting the format itself show reality slipping out of place. The Daevite tag ties it to that setting, and the later versions build an entire alternate history around one anomaly. It is also an argument about the appeal of purity and order, and about why a plan to remove every anomaly from the world might itself be the horror.",
+  "thingsToNotice": "Track how the object class, the scale of the phenomenon and even the name of the organization shift from one version to the next. The stacked, conflicting dates are clues that the timeline is being edited while you read. One version drops the report format entirely for a calm, sermon-like voice, and the contrast with the furious, profane testament at the end is where the article makes its real case. The line at the very top of the page reads differently once you've finished.",
+  "related": [
+    {
+      "slug": "scp-140",
+      "note": "Another history-rewriting document tied to the same ancient civilization glimpsed here."
+    },
+    {
+      "slug": "scp-2935",
+      "note": "Also pieced together from the records of a world that has already ended."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

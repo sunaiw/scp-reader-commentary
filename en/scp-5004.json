@@ -1,0 +1,19 @@
+{
+  "slug": "scp-5004",
+  "lang": "en",
+  "hook": "This is broad political satire, not horror. It recasts real US politicians and judges as wizards, demons and Foundation pawns, with plenty of crude jokes, so go in expecting a comedy that is loud on purpose. Remembering the headlines of the late 2010s helps, but the absurdity mostly carries itself.",
+  "whyItMatters": "The author's note at the top presents it as a descendant of SCP-4444, and that lineage is the right frame: these are alternate-history farces that use Foundation bureaucracy to lampoon real events. It is also a big ensemble piece that pulls in a long roster of familiar staff characters, such as Light, Cairns, Pathos Crow and Glass. Because it mocks living public figures by name, how well it lands will depend a great deal on the individual reader.",
+  "thingsToNotice": "The central joke is structural: a huge covert operation is launched to tip an election, and the planners keep discovering that somebody has already done each job before them. That running gag lets the article poke at the Foundation's self-importance and at the real-world chaos it is parodying at the same time. Notice how often the format switches, from commission reports and old journals to voicemails, memos and a nearly unreadable phone tip, each giving a different comic voice room to work. The finale drops any pretense of restraint, so read it as the payoff of a farce rather than a containment resolution.",
+  "related": [
+    {
+      "slug": "scp-4444",
+      "note": "Named in the author's note as this article's predecessor; another election farce."
+    },
+    {
+      "slug": "scp-2317",
+      "note": "Cited in a footnote here as an example of a place outside our own plane."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

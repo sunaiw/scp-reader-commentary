@@ -1,0 +1,19 @@
+{
+  "slug": "scp-6113",
+  "lang": "en",
+  "hook": "A long, multi-page file that starts as a cold containment document and slowly becomes something far more personal. The page opens with a content warning covering transphobia, abuse and self-harm, and those themes are handled with care rather than for shock. Read the pages in order, and keep track of who gets called by a name and who is reduced to a number.",
+  "whyItMatters": "It is a rare SCP article whose anomaly is almost purely benevolent; the conflict comes entirely from the Foundation's reflex to hide anything unusual. Tagged as both lgbtq and bittersweet, it writes about trans experience from the inside, through a young narrator who is guarded, foul-mouthed and very funny in believable ways. It also hands the Ethics Committee an uncomfortable role, since its insistence on distance between researcher and subject is what drives the sadness of the story.",
+  "thingsToNotice": "Watch the interview logs change register: the early transcripts are flat and procedural, and by the middle they read like two people recognizing themselves in each other. The links that move you between revised versions of the file are part of the plot, so each update shows what the institution decided while the characters were talking. One short line in an unsent email quietly reframes a remark made much earlier. The last revision then changes how the whole file reads, so take your time with it.",
+  "related": [
+    {
+      "slug": "scp-113",
+      "note": "Named in the description as a comparison point for a similar bodily change, minus the gentleness."
+    },
+    {
+      "slug": "scp-4999",
+      "note": "Another quiet entity that appears to people at their loneliest moments."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

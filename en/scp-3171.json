@@ -1,0 +1,19 @@
+{
+  "slug": "scp-3171",
+  "lang": "en",
+  "hook": "A comic first-contact story about talking plants, written in the voice of a dry field report. The early sections set up a serious linguistics project, and the payoff depends on a cultural misunderstanding you're better off not looking up in advance. Expect frank, crude humor rather than horror.",
+  "whyItMatters": "It plays with a classic science-fiction idea: that an alien culture's taboos might attach to something humans find completely ordinary. It is also a story about art and value, since the plants care deeply about their own poetry and wave off everything humans offer, including work by acclaimed poets. The closing memos turn the joke back on the Foundation, showing how fast an institution can convert a misunderstanding into a steady supply.",
+  "thingsToNotice": "Notice how the transcripts escalate: an unauthorized poem, a formal greeting, a recited classic, and finally an accidental late-night ramble, each failing or succeeding for reasons nobody anticipated. The footnotes carry much of the comedy, especially the linguistics lead's worries about what the translation software might be flattening. The punchline is less about the plants than about the people who learn to perform for them. Read the last two memos side by side; the refusal says as much as the complaint.",
+  "related": [
+    {
+      "slug": "scp-163",
+      "note": "A quieter, more hopeful attempt to talk with a mind that shares no language with us."
+    },
+    {
+      "slug": "scp-458",
+      "note": "Another Safe file where the Foundation finds a very practical everyday use for an anomaly."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

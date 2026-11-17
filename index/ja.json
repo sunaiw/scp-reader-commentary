@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17",
+  "updatedAt": "2026-11-18",
   "items": [
     {
       "slug": "scp-002",
@@ -271,6 +271,10 @@
     },
     {
       "slug": "scp-161-jp",
+      "status": "reviewed"
+    },
+    {
+      "slug": "scp-163",
       "status": "reviewed"
     },
     {
@@ -562,7 +566,15 @@
       "status": "reviewed"
     },
     {
+      "slug": "scp-3078",
+      "status": "reviewed"
+    },
+    {
       "slug": "scp-3125",
+      "status": "reviewed"
+    },
+    {
+      "slug": "scp-3171",
       "status": "reviewed"
     },
     {
@@ -627,6 +639,10 @@
     },
     {
       "slug": "scp-3790",
+      "status": "reviewed"
+    },
+    {
+      "slug": "scp-3799",
       "status": "reviewed"
     },
     {
@@ -710,7 +726,15 @@
       "status": "reviewed"
     },
     {
+      "slug": "scp-458",
+      "status": "reviewed"
+    },
+    {
       "slug": "scp-4666",
+      "status": "reviewed"
+    },
+    {
+      "slug": "scp-4966",
       "status": "reviewed"
     },
     {
@@ -739,6 +763,10 @@
     },
     {
       "slug": "scp-5002",
+      "status": "reviewed"
+    },
+    {
+      "slug": "scp-5004",
       "status": "reviewed"
     },
     {
@@ -807,6 +835,10 @@
     },
     {
       "slug": "scp-610",
+      "status": "reviewed"
+    },
+    {
+      "slug": "scp-6113",
       "status": "reviewed"
     },
     {

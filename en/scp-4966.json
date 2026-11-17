@@ -1,0 +1,19 @@
+{
+  "slug": "scp-4966",
+  "lang": "en",
+  "hook": "Don't let the grim tags put you off: this is one of the cuter files on the wiki, starring a gray fabric creature that behaves a lot like a kitten. The containment procedures, including a note about who has to pay for its toys, set the tone right away. Expect warmth and dry humor sitting on top of a slightly morbid premise.",
+  "whyItMatters": "It shows how a Safe-class file can be charming without being trivial. The transformation tests read like a pet video montage, but the idea underneath, an animal that takes on traits from whatever it swallows, is genuinely unsettling. The second half turns the creature into an unlikely investigative asset in a security problem involving the Chaos Insurgency, so comedy and a small spy plot share one document.",
+  "thingsToNotice": "Every test entry follows the same template, and the jokes live in the small departures from it, such as the leaves and the boots, which change nothing about its body but reveal a lot about its personality. The interview is the highlight: the doctor's patience shrinks with every snack request, while the creature's childlike paraphrases hide real intelligence in plain sight. Pay attention to how it labels people by color; you can crack that code before the interviewer does. The footnote about its toes is a nice parting touch.",
+  "related": [
+    {
+      "slug": "scp-999",
+      "note": "Another friendly Safe creature whose care instructions read like a pet manual."
+    },
+    {
+      "slug": "scp-131",
+      "note": "Small, curious companions that the staff clearly grow fond of."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}
