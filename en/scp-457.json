@@ -1,0 +1,19 @@
+{
+  "slug": "scp-457",
+  "lang": "en",
+  "hook": "A living fire that gets smarter the more it burns. The premise is simple, but the article spends most of its length on how hard it is to keep something like this both alive and contained. The interview near the end is the part people remember.",
+  "whyItMatters": "This is one of the older, straightforward creature entries, and it shows the early wiki's taste for heavy engineering in the containment section: fireproofing thickness, airlocks, sprinklers, suit classes. The procedures read like a facility plan, which makes the object feel physically real.\n\nIt also raises a practical problem the Foundation often faces: containment is not just about stopping a threat but about feeding it. The second addendum turns that into a resource question and points to other numbered objects as possible answers.",
+  "thingsToNotice": "Notice that intelligence is tied to size, so every containment choice is also a choice about how clever the subject is allowed to become. The procedures quietly try to keep it small enough to be manageable but large enough to study.\n\nIn the interview, the answers shrink to a few words and then repeat, and the doctor keeps asking about feelings while the subject keeps examining the window. The bracketed stage directions carry the tension more than the dialogue does, right up to the cut.",
+  "related": [
+    {
+      "slug": "scp-124",
+      "note": "Named in the second addendum as a possible fuel source."
+    },
+    {
+      "slug": "scp-1689",
+      "note": "The other object proposed in the same addendum for feeding the fire."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

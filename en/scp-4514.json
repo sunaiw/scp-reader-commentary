@@ -1,0 +1,19 @@
+{
+  "slug": "scp-4514",
+  "lang": "en",
+  "hook": "On paper this is the most ordinary object imaginable: a switch knife whose listed anomaly sounds like no anomaly at all. The joke is deliberate, and working out why such a thing would be filed as anomalous is the whole experience. Fair warning that the experiment log is a list of fatal tests, written in flat clinical language.",
+  "whyItMatters": "The article is part of the End of Death setting, which the page links at the bottom, and it works as a compact entry point into that idea. Instead of explaining the world, it lets one dull report imply how much has changed.\n\nIt is also a good example of an Ethics Committee memo used as the punchline. The tone shifts from the lab to something tired and personal in the last few lines.",
+  "thingsToNotice": "Read the subject lines in the experiment log closely, especially the ages and the job titles as the numbers go up. The jump from the early tests to the later ones, after the hidden section, tells you who has started volunteering and why the committee is worried.\n\nThe footnote and the discovery date are small clues placed early. The final memo then names the real dilemma without stating the premise outright, and the closing link text asks the reader a question instead of giving an answer.",
+  "related": [
+    {
+      "slug": "scp-427",
+      "note": "Another entry about a power over the body and what it costs the people who use it."
+    },
+    {
+      "slug": "scp-series-5",
+      "note": "The series this file belongs to."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

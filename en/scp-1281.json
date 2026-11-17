@@ -1,0 +1,19 @@
+{
+  "slug": "scp-1281",
+  "lang": "en",
+  "hook": "A damaged probe-creature found drifting at the edge of the solar system tries to talk to the people who found it. There is no threat to contain here, only a conversation that costs the speaker something every time it continues. Give it a quiet few minutes; it is short and reads best in one sitting.",
+  "whyItMatters": "This is one of the wiki's gentler, more hopeful pieces, closer to science fiction about first contact than to horror. It shows that an SCP file can be built around a message rather than a danger.\n\nIt also connects to the Foundation's off-world operations: the object was found while another anomaly was being contained out in the Kuiper belt, which gives a glimpse of how far the organization's reach extends.",
+  "thingsToNotice": "Watch the temperature figures between each exchange. They work as a countdown that nobody in the dialogue mentions directly, and they make every question the doctor asks feel heavier.\n\nThe entity keeps returning to one word for the beings who sent it, and the doctor's answers to that question shift by the end. The final administrative note is deliberately dry, and the contrast with the scene before it is the point.",
+  "related": [
+    {
+      "slug": "scp-2362",
+      "note": "The containment operation during which this object was found."
+    },
+    {
+      "slug": "scp-series-2",
+      "note": "The series this file belongs to."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

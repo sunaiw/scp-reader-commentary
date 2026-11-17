@@ -1,0 +1,19 @@
+{
+  "slug": "scp-1111",
+  "lang": "en",
+  "hook": "A large white dog lies under a tree and attacks anyone who comes near the figure hanging from it. The article is short and mostly procedural, but it is less about a monster than about a bond that has outlasted everything else. A heads-up: the central image involves a death by hanging, described in clinical terms.",
+  "whyItMatters": "This is a good example of an entry where the anomaly is a relationship between two numbered parts rather than a single object. Everything the Foundation measures, from the dog's size and glow to the figure's movement, is described as depending on the distance between them.\n\nIt also shows a common Foundation pattern: after costly attempts to remove the threat, the decision is simply to leave it alone and keep people away.",
+  "thingsToNotice": "Watch how the description keeps falling back on proportional language, with one quantity rising as another falls. That dry wording is what makes the first incident log work: when the distance grows too large, both parts react at once, and the dog's choice in that moment says more than any description.\n\nThe second log adds a small detail on the figure's side that reframes the whole file without explaining it. Pay attention to the words read from its lips, and to the tag on the collar.",
+  "related": [
+    {
+      "slug": "scp-096",
+      "note": "Another entity whose violence is set off by a single, specific trigger."
+    },
+    {
+      "slug": "scp-series-2",
+      "note": "The series this file belongs to."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

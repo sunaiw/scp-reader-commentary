@@ -1,0 +1,19 @@
+{
+  "slug": "scp-6670",
+  "lang": "en",
+  "hook": "Most of this article is a young mother's home video tapes, and the anomaly is almost secondary to the story they tell. Content note: it deals with child neglect, confinement and a family history of abuse, and parts of it are distressing even though the worst moments happen off camera. Go in knowing it is a tragedy first and a body-horror entry second.",
+  "whyItMatters": "This is a strong example of a recent style of entry where the Foundation barely acts at all. The containment section is a fence and a cover story, and the real content is a personal record the Foundation simply found and filed.\n\nIt also shows how much horror can come from ordinary circumstances: poverty, fear of losing custody, a family the mother cannot go back to. The anomalous growth is the trigger, but the choices that follow are painfully human.",
+  "thingsToNotice": "Watch the tape titles. The same birthday label repeats across the years, and comparing what changes between them, from the setting to the cake to the measurements in the footnotes, tells the story faster than any narration.\n\nThe early tapes that have nothing to do with the anomaly, such as the job interview and the unsent letter, are there for a reason: they set up why calling for help feels impossible to her. Pay attention to the footnotes as well, since one of them quietly confirms something the tapes only let you hear. The final incident log returns to clinical timestamps, and the last line is placed for maximum weight.",
+  "related": [
+    {
+      "slug": "scp-2571",
+      "note": "Another story told through recordings, where a child's voice carries the horror."
+    },
+    {
+      "slug": "scp-series-7",
+      "note": "The series this file belongs to."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

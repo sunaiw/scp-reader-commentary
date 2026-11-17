@@ -1,0 +1,19 @@
+{
+  "slug": "scp-427",
+  "lang": "en",
+  "hook": "A small silver locket that heals almost anything, made by feeding one well-known anomaly into another. The catch is in the word \"total\": the article is really about a cure you have to ration by the clock. It is short, so you can read it in a few minutes.",
+  "whyItMatters": "SCP-427 sits in a cluster of articles connected through SCP-914, the machine that refines whatever is placed inside it, and SCP-500, the cure-all pills. Seeing what the Foundation does with a by-product of those two tells you a lot about how it treats useful anomalies.\n\nIt is also a classic take on the old idea that a perfect remedy can go too far. Healing here does not stop at healthy; it keeps improving the body past the point of being human.",
+  "thingsToNotice": "Note the asterisk on the object class. The locket itself is rated as harmless, while what it can produce gets a far more serious class, and that split says something about how the Foundation labels risk.\n\nThe numbers climb in steps through the description, from minutes of a cold to percentages of resistance and strength. The closing judgment by Oversight lands differently once you have followed that progression, especially given who is expected to keep the logbook.",
+  "related": [
+    {
+      "slug": "scp-914",
+      "note": "The refining machine the locket came out of."
+    },
+    {
+      "slug": "scp-500",
+      "note": "The pills that went into the machine, and that the locket partly replaces."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "scp-6096",
+  "lang": "en",
+  "hook": "A small figure under a bedsheet, the kind of costume a child might wear, and a containment section that reads as if it was written backwards. The first two paragraphs of procedures are the hook; read them carefully and ask why anyone would write them. Content note: the central log shows a family scene of violence, described plainly but not graphically.",
+  "whyItMatters": "It belongs to a strand of the wiki where the Foundation is not losing a fight so much as being drafted into one. Here the organization's competence is the horror: every skill it has is turned toward helping the thing it is supposed to contain.\n\nThe article also uses a closing letter from a task force commander, a format that lets the bleak premise land as a person's exhaustion rather than as an abstract rule.",
+  "thingsToNotice": "Read the long list of forbidden actions slowly. It keeps closing loopholes one by one, which mirrors the way a reader instinctively starts looking for a way around the rule.\n\nIn the home footage, notice what the parents say rather than what they do; their words show that part of them is still fighting even as their hands obey. The welcome notice then reframes everything you just read through the eyes of the people who do this as a job, and its final sentence is bitter in a way worth sitting with.",
+  "related": [
+    {
+      "slug": "scp-457",
+      "note": "Another entity the Foundation ends up having to keep fed, with a very different tone."
+    },
+    {
+      "slug": "scp-series-7",
+      "note": "The series this file belongs to."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}
