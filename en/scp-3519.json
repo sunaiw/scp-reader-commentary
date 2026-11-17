@@ -1,0 +1,19 @@
+{
+  "slug": "scp-3519",
+  "lang": "en",
+  "hook": "This is one of the bleakest kinds of file, built around a belief that the world will end on a specific date. It is told through shifting containment procedures, media excerpts and a timeline, so pay attention to how each part changes. Read it when you are in a steady frame of mind.",
+  "whyItMatters": "It is a K-class scenario entry in which the anomaly is nothing more than an idea, with no monster and no real catastrophe behind it. The article uses the Foundation's own document format as a clock, and the footnote tying the first broadcast to the Fifth Church links it to that wider thread.",
+  "thingsToNotice": "Look back at the containment procedures after finishing: they are revisions stacked one on another, and the distribution list for the countermeme shrinks each time. The timeline starts in neutral third person and slides into first-person notes as the staff dwindles.\n\nThe Foundation's estimate that nothing special will happen on the date is the cruel center of the piece, because all the harm comes from people acting on the belief. The last two entries say almost nothing, and that near-silence carries the ending.",
+  "related": [
+    {
+      "slug": "scp-1958",
+      "note": "Its diarist also had ties to the Fifth Church, in a single human-sized story."
+    },
+    {
+      "slug": "scp-804",
+      "note": "Another file where people choose their own ruin, and a debate over what drove them."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

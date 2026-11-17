@@ -1,0 +1,19 @@
+{
+  "slug": "scp-7034",
+  "lang": "en",
+  "hook": "This is a long read built almost entirely from one researcher's voice messages, sent from a traffic jam that never ends. It opens with ordinary commuter irritation, and that ordinariness matters later. Be aware that it grows very dark as it goes, so give it an unhurried sitting.",
+  "whyItMatters": "It belongs to the ABCs of Death anthology, with links to neighboring entries at the bottom, yet it stands fully on its own. As the opening notice admits, everything comes from a single witness, so the reader never gets a neutral view of the space, and the format itself becomes part of the trap.",
+  "thingsToNotice": "Track how the messages end: early on he repeats his name, department and exit number, and later those lines give way to words meant for his family. The stretch where drivers step out and cooperate is the emotional high point, and the article deliberately lets it come apart.\n\nThe climb into the clouds plays with the reader's hope as much as the narrator's, and the payoff is a reversal rather than an escape. The closing figure about disappearances recasts the whole account as one case among a great many.",
+  "related": [
+    {
+      "slug": "scp-3008",
+      "note": "Another endless space where trapped people try to build some kind of order."
+    },
+    {
+      "slug": "scp-1958",
+      "note": "A smaller vehicle tragedy told through one traveler's diary."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

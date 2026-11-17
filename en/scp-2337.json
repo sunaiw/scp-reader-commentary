@@ -1,0 +1,19 @@
+{
+  "slug": "scp-2337",
+  "lang": "en",
+  "hook": "A very loud bird that speaks a language only loosely related to English is the whole setup. The interview is the main event, so hear it in your head and enjoy the nonsense. It is short and light, best read purely for fun.",
+  "whyItMatters": "The name the bird answers to matches the doctor-spanko tag on the page, and the article treats that name as part of the joke. It is a compact example of comedy built from one interview, with just enough mystery in the addendum to hint at a bigger world.",
+  "thingsToNotice": "The containment rules hide jokes in plain sight, from the oddly specific ear protection level to the staff advisory against copying its speech, which only makes sense after the interview. Its answers may bury real information under rhyme and wordplay, so the doctor's frustration mirrors the reader's.\n\nThe addendum about dangerous entities wanting to meet it is never explained, which keeps the comedy from feeling weightless. The final exchange shows exactly why that advisory exists.",
+  "related": [
+    {
+      "slug": "scp-1470",
+      "note": "Another talking animal, this one far more tender than funny."
+    },
+    {
+      "slug": "scp-1295",
+      "note": "Another chatty, unassuming group with more power than they let on."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

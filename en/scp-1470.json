@@ -1,0 +1,19 @@
+{
+  "slug": "scp-1470",
+  "lang": "en",
+  "hook": "The subject is a single jumping spider that can talk to researchers telepathically, and the article is far warmer than that premise suggests. Most of it is conversation, with the spider coming through as a cheerful, rough-voiced regional character. Expect a small, character-driven piece rather than a threat.",
+  "whyItMatters": "It is a strong example of a sapient-animal entry written with care, since the real biology of Portia fimbriata shapes every joke and every sad beat. The best-fit translation idea lets the author show an alien mind through human slang while reminding us how much gets lost in the rendering.",
+  "thingsToNotice": "The glossary after the failed courtship does double duty, decoding the slang while quietly showing how different the spider's world is. The mate-versus-wife mix-up starts as a language gag and turns into a sincere wish for someone on its own level.\n\nThe turning point is one simple question about whether the spider can see a researcher waving. Scale, not danger, is what breaks the friendship, and Dr. Westington's answer about fearing larger things herself widens the theme. The closing note on lifespan reframes everything you just read as a whole life.",
+  "related": [
+    {
+      "slug": "scp-2337",
+      "note": "Another talking animal whose speech is hard to follow, played for comedy."
+    },
+    {
+      "slug": "scp-2682",
+      "note": "A telepathic voice struggling with human scale, in a much stranger key."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

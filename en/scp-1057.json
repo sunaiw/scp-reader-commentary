@@ -1,0 +1,19 @@
+{
+  "slug": "scp-1057",
+  "lang": "en",
+  "hook": "A shark-shaped hole swimming through water is a fun, almost cartoonish idea, and the file is very short. Read it slowly anyway, because the last few lines are where the article really lives. The fluorescent-dye detail in the procedures is worth picturing as you go.",
+  "whyItMatters": "The sign-off on the closing note matches the article's are-we-cool-yet tag, which frames the shark as something made to say something rather than a stray animal. It is a neat example of how a few lines of text can change what an object is about.",
+  "thingsToNotice": "The procedures read like an ordinary aquarium manual until the dyes come up: the only way to see the shark's insides is to feed it something it cannot digest. That outline drawn by whatever it has eaten is the article's best image.\n\nThe acquisition log mentions almost in passing that the panic took more lives than the animal did, and the note on the bulletin board turns that number into the point. A handwritten page with no fingerprints is a small, effective chill to end on.",
+  "related": [
+    {
+      "slug": "scp-3519",
+      "note": "Another case where belief and panic do more harm than any real event."
+    },
+    {
+      "slug": "scp-804",
+      "note": "An art installation turned anomaly, for a bleaker take on art with a message."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

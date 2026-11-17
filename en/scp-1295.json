@@ -1,0 +1,19 @@
+{
+  "slug": "scp-1295",
+  "lang": "en",
+  "hook": "Four old men spend every day at a highway diner, and the Foundation's whole job is to keep it that way. It is short and mostly a single conversation, so it reads in a few minutes. Try to work out who they are before the dialogue gives it away.",
+  "whyItMatters": "It is a Keter played for comedy: the danger is real, but the tone is a sitcom about grumpy regulars. It shows how an article can lean on a famous mythological reference without ever naming it, trusting readers to assemble the clues.",
+  "thingsToNotice": "Each man's effect is a deliberate hint, and the first names they use for each other point the same way, toward the Four Horsemen. The containment plan is wonderfully low-key: undercover staff whose main task is simply not to disturb anyone.\n\nThe running question about finishing the plate bookends the log, so the talk ends where it began, just like the endless wait they describe. The mix-up over a mushroom cloud and the grumbling about drones show these figures falling behind the times, which is funny and a little melancholy.",
+  "related": [
+    {
+      "slug": "scp-2337",
+      "note": "Another chatty, unassuming subject with surprising standing among dangerous beings."
+    },
+    {
+      "slug": "scp-3519",
+      "note": "The end of the world handled with no comedy at all."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

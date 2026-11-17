@@ -1,0 +1,19 @@
+{
+  "slug": "scp-1958",
+  "lang": "en",
+  "hook": "A 1950s Volkswagen bus drifting near the orbit of Mars sounds like a joke, and the opening reads a little like one. The real substance is the inventory and the diary that follows it. Take your time with the list of objects before you reach the diary entries.",
+  "whyItMatters": "It touches the Fifthist thread through the diarist's falling-out with the Fifth Church, but you need no background to follow it. It shows how a simple Safe object can carry an entire tragedy through found documents, with the containment section almost an afterthought.",
+  "thingsToNotice": "The inventory works as foreshadowing: the books, the instruments, the seed bank and the lone syringe sketch the crew's dream and its weak points before the diary begins. The diarist's voice slides from beat-era swagger to short, plain entries as the bus empties.\n\nNotice the gulf between the crew's estimate of weeks and the Foundation's calculation of the real journey. The scurvy footnote calmly names what the narrator cannot. The final entry is one line, and its calm is the saddest part of the file.",
+  "related": [
+    {
+      "slug": "scp-3519",
+      "note": "Another file touched by the Fifth Church, on a far larger and darker scale."
+    },
+    {
+      "slug": "scp-7034",
+      "note": "Another doomed road trip told through one traveler's own messages."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

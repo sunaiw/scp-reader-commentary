@@ -1,0 +1,19 @@
+{
+  "slug": "scp-2682",
+  "lang": "en",
+  "hook": "A purple raspberry stuck to flypaper in a Ukrainian hardware store turns out to be very talkative. Most of the file is that voice explaining its history in transcribed documents, and it is funnier and stranger than the dry opening suggests. Keep an eye on what it does and does not understand about its surroundings.",
+  "whyItMatters": "Tagged absurdism and pattern-screamer, it delivers cosmic-scale lore through a narrator who is both godlike and helplessly confused. The contrast between grand claims and a very mundane trap is the engine of the whole piece.",
+  "thingsToNotice": "The single line \"Who is flies?\" is the comic hinge: something that has consumed universes has no idea what a fly is. Its broken English and growing fluency show it learning from the researchers' minds, which sets up the moment it finally makes sense of where it is.\n\nThe transcribed documents drift from bragging to loneliness, then to sudden excitement when it finally sees something. The last addendum never says what came for it, and the hints of laughing watchers beyond its world leave the cosmic dread hanging.",
+  "related": [
+    {
+      "slug": "scp-1470",
+      "note": "Another telepathic mind that learns late how different in scale its listeners are."
+    },
+    {
+      "slug": "scp-1958",
+      "note": "A grand voyage into the unknown seen at a much smaller, human scale."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}
