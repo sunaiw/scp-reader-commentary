@@ -1,0 +1,19 @@
+{
+  "slug": "scp-1739",
+  "lang": "en",
+  "hook": "A short Keter built around an old laptop and three program windows. Most of the story unfolds in chat logs between a researcher and someone who says he is writing from a branched-off timeline. Take the description slowly before reaching the logs; it sets up everything the conversations go on to discuss.",
+  "whyItMatters": "It is a compact example of a cosmic-scale Keter told through dialogue rather than incident reports, and it trusts the reader to stay with clipped, guarded conversation. The time-travel premise is handled with restraint: no paradox diagrams, just two people comparing notes across a gap neither of them fully understands. The ethical weight lands on the Foundation's own experiments, which gives the short page a lingering aftertaste.",
+  "thingsToNotice": "Notice the passphrase that opens each log and how much of the researcher's side is redacted; one half of the conversation is clear while the other is seen through a keyhole. The chat partners are numbered variants of one name, which tells you without comment how many times the procedure has been run.\n\nFollow the shift in tone from log to log, from technical caution toward something closer to confession. The closing addendum is brief, yet it changes how you read the operation named back in the containment procedures.",
+  "related": [
+    {
+      "slug": "scp-970",
+      "note": "Another experiment that keeps producing near-copies of the same people and setting."
+    },
+    {
+      "slug": "scp-7311",
+      "note": "A far lighter article that also lives mostly in chat transcripts."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "scp-1192",
+  "lang": "en",
+  "hook": "A very short file about a cockatoo that writes like a young child. There is nothing violent in it; the weight comes entirely from a few handwritten notes. Read it slowly and pay attention to the spelling, which is preserved on purpose.",
+  "whyItMatters": "SCP-1192 shows how little an SCP article needs in order to affect people: one exchange, one researcher note, and a handful of misspelled lines. It belongs to the wiki's quieter, sadder strand, where the anomaly is someone's situation rather than a threat. Its length makes it easy to recommend to readers who want something that lingers more than it shocks.",
+  "thingsToNotice": "Look at the containment procedures: pencils and paper are listed as a requirement, which tells you how the Foundation has chosen to treat the subject. The researcher keeps a professional distance, yet the closing note slips into a slightly warmer first-person voice.\n\nThe list of drawings and pages is arranged so that each item hits a little harder than the one before. The sign-off from a senior observer leaves it feeling like a case file nobody quite knows how to close.",
+  "related": [
+    {
+      "slug": "scp-2774",
+      "note": "A much darker story about minds unable to act freely."
+    },
+    {
+      "slug": "scp-7311",
+      "note": "A far lighter take on an anomaly defined by its need for attachment."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

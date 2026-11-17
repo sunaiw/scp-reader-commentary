@@ -1,0 +1,19 @@
+{
+  "slug": "scp-178",
+  "lang": "en",
+  "hook": "A short, early-style file about a pair of cardboard 3-D glasses. The entities you see through them are mostly curious rather than hostile, and the whole article turns on a single rule about what you must not do. A brief note: the recovery story involves the loss of a child, mentioned without detail.",
+  "whyItMatters": "It is a classic one-rule anomaly: a harmless-looking object, an unseen population, and a line that must not be crossed. The article also leans on a document the reader never gets to see, a long-standing wiki device for letting absence do the work. Its brevity makes it an easy entry point for readers new to the format.",
+  "thingsToNotice": "Much of the dread comes from the containment procedures rather than the description: remote monitoring only, nobody but the subject in the room, compulsory reading for senior staff. The entities are given gentle, almost endearing habits, which makes the one exception feel sharper.\n\nThe recovery account centres on an agent who simply chose not to engage, and the article quietly treats that restraint as the reason it ended safely. The closing warning is short, but it says a lot about what the unseen report must contain.",
+  "related": [
+    {
+      "slug": "scp-2774",
+      "note": "Another anomaly where some viewers see a watching figure that others cannot."
+    },
+    {
+      "slug": "scp-3515",
+      "note": "Another unassuming object whose danger rests on one precise condition."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

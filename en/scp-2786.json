@@ -1,0 +1,19 @@
+{
+  "slug": "scp-2786",
+  "lang": "en",
+  "hook": "Go in knowing that this file does not sit still. It opens with a warning that its contents may shift between readings, and that warning is worth taking at face value: the shape of the page is part of what you are reading. Expect plenty of dark comedy early on, especially in the list of famous horror stories that get quietly 'fixed'.",
+  "whyItMatters": "SCP-2786 sits in the wiki's metafiction tradition, where both the jokes and the unease come from remembering that these are stories somebody wrote. Its anomaly is a character type rather than a creature: the protagonist who wanders in and rescues everyone, whether or not the story asked for it.\n\nTagged meta, metafiction and narrative, it treats the report format itself as a stage, and the footer of the page points readers toward several companion pieces in the same spirit.",
+  "thingsToNotice": "Watch the struck-through edits in the opening sections: the object class and the description revise themselves before your eyes. The table of altered works is played for laughs, but it also sets up the rule the rest of the article leans on, namely that wherever this figure goes, the plot bends around it.\n\nKeep the hero's interview voice in mind (confident, bored, a little rude), because the page later changes register more than once. The long prose passage is deliberately crammed with fantasy cliche, and it is best enjoyed first as straight genre parody.",
+  "related": [
+    {
+      "slug": "scp-3311",
+      "note": "Listed among the reading suggestions on this article's own page."
+    },
+    {
+      "slug": "scp-7311",
+      "note": "Another file where the anomaly takes over the document you are reading."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

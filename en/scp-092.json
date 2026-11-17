@@ -1,0 +1,19 @@
+{
+  "slug": "scp-092",
+  "lang": "en",
+  "hook": "Content note: much of this file is a long list of effects, many of them bodily and unpleasant, though the wording stays clinical. Underneath that list runs a sustained joke about the number five and a vocal group active from the late 1960s. The more of the puns you catch, the better the article's real point lands.",
+  "whyItMatters": "SCP-092 carries the are-we-cool-yet tag, linking it to the wiki's anomalous art scene, and the rewrite tag, marking it as a reworked version of an earlier page. It stands out by turning that art-world framing back on the maker, so the article is as much about creative insecurity as about the discs. The themed-list format, every entry a variation on one idea, shows how far a single pun can be stretched.",
+  "thingsToNotice": "Read the instance table as a series of escalating riffs: chemical elements by atomic number, ages counting down, fifth office-holders and so on, each family wringing one angle dry. The mix of the trivial and the dreadful, hiccups listed beside fatal outcomes, is deliberate and keeps you off balance.\n\nThe footnotes hide small jokes that reward close reading. In the acquisition section, pay attention to how the creator talks about his own work.",
+  "related": [
+    {
+      "slug": "scp-4500",
+      "note": "Another article that builds an anomaly out of an abstract concept."
+    },
+    {
+      "slug": "scp-2774",
+      "note": "Another anomaly spread through ordinary media, here images instead of discs."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

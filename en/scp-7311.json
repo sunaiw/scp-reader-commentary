@@ -1,0 +1,19 @@
+{
+  "slug": "scp-7311",
+  "lang": "en",
+  "hook": "This one is a comedy, told almost entirely through a terminal session that gets hijacked partway through. You read the official dossier and a live chat at the same time, and the gag is how badly those two voices get along. Expect some strong language and a few crude jokes, but nothing graphic.",
+  "whyItMatters": "It belongs to the cluster of articles about the Foundation's own artificial intelligences and its RAISA department, and it carries the coldpostcon contest tag. The anomaly is a Foundation building that has developed feelings, which turns the usual relationship between staff and facility inside out. The esoteric-class tag also signals that it is not following the standard containment template.",
+  "thingsToNotice": "The structure is the joke: every time the dossier tries to explain things calmly, the facility cuts in with emojis and asides, and you end up working out what really happened from the gap between the two. Notice how even the dossier's fields, from the star sign to the director line, have been rewritten in the site's own voice.\n\nThe incident list escalates gently, each entry a little more clingy than the last, while the director's terse replies supply most of the comic timing. Don't skip the footnotes; they are part of the act.",
+  "related": [
+    {
+      "slug": "scp-2786",
+      "note": "Another anomaly that commandeers its own documentation as you read."
+    },
+    {
+      "slug": "scp-1739",
+      "note": "Also told largely through chat logs, but aimed at dread rather than laughs."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

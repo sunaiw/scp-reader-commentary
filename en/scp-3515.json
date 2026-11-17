@@ -1,0 +1,19 @@
+{
+  "slug": "scp-3515",
+  "lang": "en",
+  "hook": "Content note: this is a long, claustrophobic experiment log with disturbing discoveries along the way; the description stays clinical, but it is heavy going. The object is a charcoal drawing of a hill and a willow tree, and it is classed Safe. Set aside time to read it in one sitting, because the pacing depends on it.",
+  "whyItMatters": "SCP-3515 shows how much tension the wiki can draw out of a single test log and a head-mounted camera. The bond that forms between the subject and the lead researcher carries the piece, and the Safe classification sits uneasily beside what the log records. Tagged illustrated and artistic, it keeps returning to the drawing as its quiet centre.",
+  "thingsToNotice": "Watch the elapsed-time stamps: they do as much storytelling as the dialogue, stretching hours into days. Notice how Dr. Hallard's tone moves between procedure and friendship, and how the subject's mood swings with each new finding.\n\nSmall details in the house, such as a television that only plays recordings and phones that reach nothing but answering machines, build the sense of a place that resembles home without being one. The surface team's reports run in parallel with the subject's, and setting the two side by side is unsettling in itself.",
+  "related": [
+    {
+      "slug": "scp-970",
+      "note": "Another experiment log where a camera records more than the team can explain."
+    },
+    {
+      "slug": "scp-178",
+      "note": "A small, ordinary-looking object whose danger hinges on one exact condition."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

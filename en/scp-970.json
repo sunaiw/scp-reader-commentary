@@ -1,0 +1,19 @@
+{
+  "slug": "scp-970",
+  "lang": "en",
+  "hook": "A spatial anomaly with a simple premise: walk through a line of doors and you come out where you started. The early experiments are almost playful, with dry signed remarks from the lead researcher and a running squabble among the staff. It reads quickly and works best if you go in knowing little else.",
+  "whyItMatters": "SCP-970 is a good example of a location anomaly that turns into a story about experimental method. Its real subject is how researchers try to measure something with only one obvious property, and it uses data cards, a scanner and iteration counts to make that idea concrete. The blend of office comedy and slowly building unease is a familiar flavour of the wiki's experiment-log articles.",
+  "thingsToNotice": "Dr. Jung's short signed notes act as a running commentary, and he changes his mind from one experiment to the next. The four values on the test card are chosen to drift at different speeds, a neat way to show distance without a diagram.\n\nResearch Assistant Boston's note about several versions of the same doctor arguing is the comic high point, and also the clearest explanation of how the loop behaves. Keep an eye on the containment procedures, which were revised in light of what the later tests turned up.",
+  "related": [
+    {
+      "slug": "scp-1739",
+      "note": "Also deals with branching versions of one world and the cost of experimenting with them."
+    },
+    {
+      "slug": "scp-3515",
+      "note": "Another log where a camera carries the story somewhere the team cannot follow."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

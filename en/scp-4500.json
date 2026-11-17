@@ -1,0 +1,19 @@
+{
+  "slug": "scp-4500",
+  "lang": "en",
+  "hook": "Don't expect a standard report: the whole file is staged as a question-and-answer exchange between a Reader and a Narrator, and that format is part of the anomaly. Every question is asked twice, which feels odd at first and then settles into a rhythm. It is short, dry and quietly funny, and a little familiarity with classical philosophy goes a long way.",
+  "whyItMatters": "SCP-4500 sits in the 4000 series and is tagged concept and meta, the kind of article that plays with how SCP documents are written as much as with what they describe. Here the joke is that the containment procedures themselves require the dialogue form. Choosing a Platonic ideal as its subject lets it borrow philosophical vocabulary for things like task forces and clearance tests.",
+  "thingsToNotice": "Notice the small bureaucratic touches that keep it grounded: a qualifying exam with a pass mark, three transcribers who must agree, and newcomers being asked to bring refreshments. The examples use Greek-letter designations and metal-based threat ranks that mirror the Foundation's own conventions, so read them side by side with the modern sections.\n\nThe examples grow stranger and more ambitious as they go, so take them in order. The last one is the shortest, and it lands harder for it.",
+  "related": [
+    {
+      "slug": "scp-2786",
+      "note": "Another file whose own form carries the central idea."
+    },
+    {
+      "slug": "scp-092",
+      "note": "A very different anomaly built out of one abstract concept, the number five."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

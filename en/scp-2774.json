@@ -1,0 +1,19 @@
+{
+  "slug": "scp-2774",
+  "lang": "en",
+  "hook": "Content note: this is a bleak file about people trapped inside their own bodies, and the Foundation's response is disturbing in its own right. The anomaly is an image, yet the article's force comes less from the image than from the voices of the people it has affected. Go in expecting a story with no comfortable way out.",
+  "whyItMatters": "SCP-2774 is a memetic Keter that builds its horror from first-person testimony rather than spectacle. Its premise, a figure that becomes more active as the number of victims rises, leaves the Foundation with nothing but grim options. That makes it a clear example of the wiki's interest in containment as a moral problem rather than a purely technical one.",
+  "thingsToNotice": "Small practical details carry a lot of weight here: the colour-vision requirement for researchers, the struck-through edits in the procedures, a clock taken out of an interview room. The brief lucid windows give every interview a ticking-clock pressure, and each transcript feels more fragmented than the one before.\n\nThe figure itself only ever appears through other people's accounts, which keeps it just out of focus. Comparing the opening procedures with the later sections is worth the effort.",
+  "related": [
+    {
+      "slug": "scp-178",
+      "note": "Another anomaly where only some viewers can see a figure watching them."
+    },
+    {
+      "slug": "scp-1192",
+      "note": "A smaller, quieter story about a mind stuck somewhere it does not belong."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}
