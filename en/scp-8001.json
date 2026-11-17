@@ -1,0 +1,15 @@
+{
+  "slug": "scp-8001",
+  "lang": "en",
+  "hook": "The page opens by calling itself a story about the end of stories, and it means it. The anomaly is a literal edge to the world, with a lighthouse, a library and a single clockwork caretaker on a small island beside it. Give yourself time: this is a long, slow, reflective read built from interviews and old journals rather than incidents.",
+  "whyItMatters": "SCP-8001 (credited on the page to djkaktus) is a quiet counterpoint to the wiki's usual end-of-the-world material: instead of a catastrophe, the 'end' here is a place you can moor at and walk around. It carries the blackwood tag: a journal by Lord Blackwood (SCP-1867) is found in the tower, and he is interviewed about it, which adds an unexpectedly sombre note to his boastful voice. The flat-earth cover story in the procedures is a nice example of the Foundation hiding a secret behind people who already sound unreliable.",
+  "thingsToNotice": "The library is the real structure of the article: the addenda are mostly documents pulled off its shelves, written centuries apart, and they all circle the same question of what it means to reach a place where exploring has to stop. Notice how different voices (a fourteenth-century traveller, a boastful aristocrat, a researcher with a tape recorder) react to the same view.\n\nThe lighthouse detail is worth pausing on, since the caretaker points out that it guides ships toward danger instead of away from it. Dr. Mann's repeated visits over the decades give the piece a human through-line.",
+  "related": [
+    {
+      "slug": "scp-1867",
+      "note": "Lord Blackwood, whose unusually terse journal turns up in the tower and who is interviewed about it."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

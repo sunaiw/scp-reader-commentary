@@ -1,0 +1,10 @@
+{
+  "slug": "scp-4335",
+  "lang": "en",
+  "hook": "A Keter-class entity that lives inside a block-building survival video game, contained by a task force that logs in and builds the cell by hand. Some familiarity with the game's basics (blocks, mob farms, ender pearls, lava) helps, but the footnotes explain the key terms. The page opens with a cognitohazard warning that sets the mood.",
+  "whyItMatters": "SCP-4335 is one of the wiki's video-game anomalies, a niche the field team itself jokes about in the first log. Its main trick is translating the Foundation's familiar containment language into in-game architecture: nested iron cubes, item pipes, water flooding and a lava fail-safe. It also weaves the anomaly into the game's own history, offering an in-universe origin for one of the game's monsters.",
+  "thingsToNotice": "The containment procedures read almost like a build guide, and that is the point: the Foundation's usual cold precision becomes funny and eerie at once when the materials are obsidian and redstone lamps. Contrast that with the contact logs, where the danger crosses from the screen to the people at the keyboard and their hardware.\n\nThe interviews are where the entity's motives come through, and its way of describing our world from outside is worth reading closely. The short researcher note appended at the end is part of the article too.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

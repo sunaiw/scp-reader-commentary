@@ -1,0 +1,10 @@
+{
+  "slug": "scp-884",
+  "lang": "en",
+  "hook": "The object is an antique shaving mirror whose only obvious effect is mild and almost comic. The real question the file asks is why the Chaos Insurgency keeps paying such a high price to get their hands on it. Read the addenda in order, like a case file, and keep that question in mind.",
+  "whyItMatters": "SCP-884 is a featured article tagged with the Chaos Insurgency and Agent Lament, and it is a neat showcase of the 'slow reveal through addenda' style: the description is almost boring, and the story is carried entirely by dated reports. It also gives a glimpse of the Insurgency as patient schemers rather than just raiders, and hints at a wider set of grooming items catalogued under the same number.",
+  "thingsToNotice": "The containment section opens with an odd contradiction: the class line reads both Safe and Euclid, and the procedures mention a dated incident that the addenda only catch up with much later. That is a cue that the header was rewritten after the fact.\n\nTrack the dates and the staff names across the addenda; several people reappear in passing, and the file rewards a second read once you know where it is heading. The tone also shifts from bureaucratic shorthand to a single agent's first-person voice, which changes how the whole file feels.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

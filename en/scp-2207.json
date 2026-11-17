@@ -1,0 +1,15 @@
+{
+  "slug": "scp-2207",
+  "lang": "en",
+  "hook": "The anomaly is a cheap disposable plastic knife that, swung fast enough, slices open a doorway into some random other universe. The bulk of the page is a selection of exploration logs, each a short visit to a different world that goes wrong in its own way. It is an easy, episodic read.",
+  "whyItMatters": "SCP-2207 is a strong example of the 'portal plus exploration log' format, where one simple mechanic becomes a frame for a string of miniature horror stories. The tag list is minimal (safe, portal, tool, extradimensional), which suits how mundane the object is next to what it opens. The file also notes that a few other alternate realities on record, including the one behind SCP-1165, may trace back to earlier tests with this knife.",
+  "thingsToNotice": "Each log runs on the same template (date, test number, equipment, duration, overview), so the variety comes entirely from the worlds on the other side: a corridor that never gets shorter, a sun swallowed from its own centre, a creeping blight, buildings that slump, and patches of reality that simply stop rendering. Notice how the equipment list grows between logs as the researchers learn from each failure, and how the switch to drones changes what the logs can show.\n\nThe rules for how long a rift stays open, and what happens to anything crossing it when it shuts, are set up early and pay off repeatedly.",
+  "related": [
+    {
+      "slug": "scp-1165",
+      "note": "Named in this file as one of the alternate realities that may have been opened by earlier knife tests."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

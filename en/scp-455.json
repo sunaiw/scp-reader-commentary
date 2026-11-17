@@ -1,0 +1,15 @@
+{
+  "slug": "scp-455",
+  "lang": "en",
+  "hook": "A rusted freighter stranded off the Chilean coast, and an interior that refuses to match its hull. The main page is short, so read it as a setup: a handful of salvage-team impressions and a list of rules about staying away. The unsettling part is how much is implied by what the teams managed to report before contact stopped.",
+  "whyItMatters": "SCP-455 carries the featured tag and sits among the wiki's 'bigger on the inside' locations, a trope that works especially well when the shell is something as ordinary as a wrecked cargo ship. It shows the older, compact style of the site: a few paragraphs of description, then pointers to separate exploration and experiment logs where the expeditions are recorded in detail.",
+  "thingsToNotice": "Notice that the containment rules are mostly about people rather than the ship: time limits near the wreck, logging every hallucination, physically stopping anyone who tries to go aboard. That tells you the danger is partly the pull the place exerts. The salvage list mixes body-horror materials with mundane fittings like an engine room and a gym, and that clash of ordinary ship anatomy with wrong materials is where most of the creepiness comes from.\n\nThe ending of the page is just two document titles, which nudges you to keep reading in the linked logs.",
+  "related": [
+    {
+      "slug": "scp-1522",
+      "note": "Another anomalous vessel at sea, but its file reads as something much warmer than a haunted wreck."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

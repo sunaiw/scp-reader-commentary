@@ -1,0 +1,15 @@
+{
+  "slug": "scp-1522",
+  "lang": "en",
+  "hook": "Two decommissioned fishing trawlers turn up refurbished, crewless and apparently alive, and spend their days chasing whales for fun. It is a short file. Go in expecting a quiet, character-driven piece rather than a threat report.",
+  "whyItMatters": "SCP-1522 is a highly rated example of the 'gentle anomaly' entry, where the anomalous objects themselves mean no harm and the emotional weight comes from watching non-human things behave with personality. Its tags also touch the Global Occult Coalition and Pangloss, which links it to recurring groups and figures elsewhere on the wiki, though you do not need to know them to follow it.",
+  "thingsToNotice": "The ships never speak, so all of their personality is carried by behaviour recorded in dry naval terms: foghorn blasts, radar sweeps, hull contact, speed. Notice how much character the author gets out of those signals and how the Arctic episode establishes the bond between the two vessels.\n\nThe incident log is written as a minute-by-minute timeline, and the gaps between timestamps do a lot of the emotional work. The addenda after the log are short; read them slowly.",
+  "related": [
+    {
+      "slug": "scp-455",
+      "note": "Also an anomalous ship, but approached as a place too dangerous to enter rather than as a character."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

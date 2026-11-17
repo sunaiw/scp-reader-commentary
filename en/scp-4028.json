@@ -1,0 +1,15 @@
+{
+  "slug": "scp-4028",
+  "lang": "en",
+  "hook": "The anomaly is a famous literary character who has started wandering out of his own novel and into other people's stories, rewriting them to suit his code of chivalry. You do not need to have read the original book, but knowing the basic premise (an old gentleman who reads too many knightly romances and sets out to be a knight) makes the jokes land harder. The page also presents itself as an archived version of a file, so pay attention to how you move through it.",
+  "whyItMatters": "Written by The Great Hippo and tagged for the Pataphysics Department, metafiction and Fred, SCP-4028 belongs to the corner of the wiki that treats stories and documents as places anomalies can live. It explicitly brings in SCP-423, the wiki's own text-travelling character, and uses him as the comic straight man to a figure far older and stranger than he is. It is a good entry point into how the site plays with the boundary between fiction and the file you are reading.",
+  "thingsToNotice": "The table of altered texts is a set of quick parodies, each one turning a well-known plot toward a single blunt, chivalric outcome; the humour comes from the knight solving every problem the same way. The journal exchange with SCP-423 shifts the tone from gag list to something more uneasy, especially when the question of whether the Foundation itself is virtuous comes up.\n\nThe archive notice framing each version is not just decoration; the way the page asks you to move from one iteration to the next is part of the story.",
+  "related": [
+    {
+      "slug": "scp-423",
+      "note": "The text-travelling construct the Foundation sends in to investigate here; its own file explains how he works."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}
