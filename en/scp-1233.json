@@ -1,0 +1,19 @@
+{
+  "slug": "scp-1233",
+  "lang": "en",
+  "hook": "Every few years something falls from the sky like a meteor, climbs out of its crater in a spacesuit, and introduces itself as Moon Champion. It is mostly a comedy, built around a long café transcript that rewards slow reading. Keep an eye on the procedures section, though, because one dated update there is a promise of something later.",
+  "whyItMatters": "It shows how far an SCP can lean into absurd humour while keeping the Foundation's clinical voice intact; the deadpan list of observed behaviours is half the joke. Its danger comes from carelessness rather than malice, which gives the Keter label an unusual flavour. Under the jokes, it also keeps a genuine mystery open about what is or is not on the Moon.",
+  "thingsToNotice": "In the café scene, the baker's easy patience and the hero's grand nonsense play off each other perfectly, and the slowly rising arm is a fine example of comic timing. The quiet section about the lunar outpost detecting nothing at all plants a real puzzle beneath the humour. The final addendum takes a sarcastic yes literally, and the tone drops abruptly from comedy into something unresolved. That early update forbidding any interaction reads very differently once you know why it was added.",
+  "related": [
+    {
+      "slug": "scp-527",
+      "note": "Another comedic file driven by deadpan dialogue."
+    },
+    {
+      "slug": "scp-387",
+      "note": "Lighthearted on the surface, with an ending that undercuts the cheer."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

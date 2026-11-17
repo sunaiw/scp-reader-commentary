@@ -1,0 +1,19 @@
+{
+  "slug": "scp-166",
+  "lang": "en",
+  "hook": "The subject is a teenage girl with a reindeer's antlers and hooves, raised in an Irish convent, around whom man-made things slowly return to nature. The file looks like a standard humanoid entry at first, but it is really a quiet family story. Pay attention to the request list at the top and to who keeps approving or overruling each item.",
+  "whyItMatters": "The article is tagged as a rewrite, and it turns a simple creature entry into a character piece tied to the wider setting, with the Global Occult Coalition and a Site Director appearing in the record. It places a gentle anomaly inside a much harsher backstory without explaining all of it. The emotional weight comes from the people around her, not from her powers.",
+  "thingsToNotice": "The request list is already telling a story: the back-and-forth over the phone call hints at a conflict among staff. The GOC threat entry is written in the cold language of an enemy file, which contrasts sharply with the gentle interview with the chaplain that follows. Her question about what her father did leads into the redacted disciplinary interview, where someone with enormous reach admits how powerless they feel. The birthday letter closes the loop and recasts the whole file as a parent trying to protect a child he cannot meet.",
+  "related": [
+    {
+      "slug": "scp-2845",
+      "note": "A very different antlered being, overwhelming where this one is gentle."
+    },
+    {
+      "slug": "scp-2599",
+      "note": "Another young subject contained for something she never chose."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "scp-5002",
+  "lang": "en",
+  "hook": "This is a full locked-room murder mystery told entirely through Foundation paperwork: an inventory, interview transcripts, a test video, and a closing presentation where the investigator gathers every suspect in one room. The victim is a crime novelist whose books came true when she reread them, so keep that rule in mind from the first page. Read slowly and take notes on small details; the article plays fair with you, and the clues really are on the page.",
+  "whyItMatters": "Most SCP articles use interviews as texture, but this one turns the format into a classic whodunit, complete with alibis, red herrings and a parlour-room reveal. It carries the meta tag for good reason: the anomaly is about authorship, and the story keeps asking who is writing whom. It is a good example of how the wiki can host a straight genre piece without losing the Foundation's clinical voice.",
+  "thingsToNotice": "Watch how many people are hiding something unrelated to the killing; the solution comes from where their lies contradict each other rather than from one big clue. The night guard's habit of shaking cell doors is mentioned early and casually, and it ends up carrying the whole timeline. The afterword is the real twist: the cut-up blank pages hint that the novelist may have arranged her own death, which makes the neat solution feel staged. The report then turns to address you directly, asking whether this document reads like a report or like a novel, and that question reframes everything you just read.",
+  "related": [
+    {
+      "slug": "scp-3999",
+      "note": "Another meta piece where the line between writer and story collapses; check its content warnings first."
+    },
+    {
+      "slug": "scp-2747",
+      "note": "A larger-scale Foundation file about narratives nested inside narratives."
+    },
+    {
+      "slug": "scp-2599",
+      "note": "Also asks how much of an action belongs to someone when another person's words are steering it."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

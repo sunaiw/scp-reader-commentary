@@ -1,0 +1,19 @@
+{
+  "slug": "scp-2845",
+  "lang": "en",
+  "hook": "Content warning first: the article opens with its own warning, and it is earned. The entity is an antlered being from beyond Earth, and the file is less about what it is than about what it costs to keep it still. Expect a long, formal containment section full of strange ceremonies, followed by a speech explaining why none of them can be changed.",
+  "whyItMatters": "This is a strong example of ritual containment, where the Foundation's usual science gives way to procedures that work only because they are performed exactly. Its unusual classification block, with an extreme containment class and a black hazard rating, signals the scale before the description even begins. The address to the Ethics Committee is the centre of the piece and a memorable statement of the idea that some threats are held back by meaning rather than physics.",
+  "thingsToNotice": "Read the six procedures as a sequence: they move from farce and music to gift-giving and labour before ending in acts the article keeps deliberately clinical. That calm, procedural tone is exactly what makes the final steps land so hard. In the speech, the speaker argues that the Stag neither thinks nor decides, and that containment is a locked pattern rather than a victory, which makes the whole arrangement feel fragile. The timeline at the end reads as a quiet disaster report, and its gaps, such as one expunged day, suggest how close things came.",
+  "related": [
+    {
+      "slug": "scp-231",
+      "note": "Another file where a grim, barely explained procedure is the true subject; read its warnings first."
+    },
+    {
+      "slug": "scp-166",
+      "note": "A very different antlered figure, gentle where this one is overwhelming."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

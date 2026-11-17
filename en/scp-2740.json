@@ -1,0 +1,19 @@
+{
+  "slug": "scp-2740",
+  "lang": "en",
+  "hook": "Something might be in an attic in Indiana, and nobody can reach it, not even on paper. The article is fairly short and built on family interviews, so read it as a domestic drama first and a containment file second. Watch the sentences that follow each interview; they quietly contradict what came before.",
+  "whyItMatters": "It is a good example of psychological horror on the wiki: the anomaly is never seen, and the dread comes from what the family will not say. The title and the hedged phrasing throughout make doubt itself the anomaly. It shows how much a file can unsettle by withholding rather than describing.",
+  "thingsToNotice": "Each interview circles the eldest daughter and an old conflict, and the details shift depending on who is speaking. After each log, the record revises itself: the family was moved, then never moved; entry was attempted, then never attempted. The final interview gives the clearest account, and the note after it says she never existed, which makes her both the most honest voice and the least real one. The attic can be read as the shape of a family's buried anger, and the article never tells you whether that reading is right.",
+  "related": [
+    {
+      "slug": "scp-166",
+      "note": "Another file whose real subject is a broken bond between parent and child."
+    },
+    {
+      "slug": "scp-5002",
+      "note": "A mystery told through interviews in which everyone is holding something back."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}
