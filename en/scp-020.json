@@ -1,0 +1,19 @@
+{
+  "slug": "scp-020",
+  "lang": "en",
+  "hook": "SCP-020 is a mold you cannot see with your own eyes, only through a camera, and it changes how people behave so that they help it spread. The file ends with a short field recording, so expect a tense and abrupt finish. Content note: it mentions large-scale loss of life and a drastic Foundation response, both kept to brief statements.",
+  "whyItMatters": "It is a compact take on infection horror in which the victims are not frightened but welcoming, and that friendliness is the threat. It also shows the Foundation at its most ruthless, which gives the file a cold edge beyond the organism itself.",
+  "thingsToNotice": "Notice how the invisibility rule shapes everything else: containment depends on cameras, and the most disturbing image in the text exists only on video. The behavioral changes, warmer and more humid homes and a sudden urge to host guests, are mundane enough to make the spread feel plausible. The task force's nickname is a quiet joke that fits the visibility theme.",
+  "related": [
+    {
+      "slug": "scp-3626",
+      "note": "Another anomaly that travels through the people it affects, here by invitation instead of by forwarded message."
+    },
+    {
+      "slug": "scp-1374-jp",
+      "note": "Also makes pleasant feelings in those affected part of how the threat works."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

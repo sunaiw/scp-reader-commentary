@@ -1,0 +1,15 @@
+{
+  "slug": "scp-890",
+  "lang": "en",
+  "hook": "SCP-890 is a surgeon whose patients are machines: give him ordinary medical tools and a device opens up on the table like a living body. He even holds consultations with the objects before operating, though they never answer. Content note: the file mentions a fatal incident involving a person, told briefly.",
+  "whyItMatters": "It works as a character study dressed as a containment file, with procedures that read like rules for managing a difficult colleague. The premise mixes surreal transformation with a calm professional voice, and the result sits closer to dark comedy than to a monster story.",
+  "thingsToNotice": "Look at the small perks in the containment procedures, such as handing him deliberately broken equipment to fix, which show how the Foundation keeps him cooperative. The note about his gray eyes, and the instruction never to bring them up, is left unexplained and hints at a history the file declines to tell. In the interview, pay attention to the words he uses for people; that vocabulary does more characterization than the whole description section.",
+  "related": [
+    {
+      "slug": "scp-127",
+      "note": "Approaches the same blurred line between machine and living body, this time in a gun that is organic inside."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

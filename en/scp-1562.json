@@ -1,0 +1,15 @@
+{
+  "slug": "scp-1562",
+  "lang": "en",
+  "hook": "SCP-1562 is an ordinary metal playground slide with one very specific trigger. Most of the article is radio logs, and its horror comes almost entirely from tight spaces and people who are out of reach. If confined spaces bother you, go in prepared: the effect is immediate and physical.",
+  "whyItMatters": "It shows how far a simple premise can travel when the writer keeps the camera switched off: nothing is seen, everything is heard over a radio. The setup links a childhood object to the disappearance of local children without ever spelling out what became of anyone, and the log format does the rest.",
+  "thingsToNotice": "Note the exact body position the anomaly demands, since it shapes how you picture the space the subjects end up in. Small physical details, such as equipment that stops working and air that grows stale, keep the tension concrete without the place ever being described. Dr. Darritz's calm, procedural lines work as a counterweight to the rising panic on the other end of the channel.",
+  "related": [
+    {
+      "slug": "scp-1970-jp",
+      "note": "Also built around radio contact with people trapped somewhere the Foundation cannot pull them back from."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "scp-127",
+  "lang": "en",
+  "hook": "At first glance SCP-127 is just a compact submachine gun, and the procedures even call it no more dangerous than any other weapon of its type. The strangeness is all in the biology: this is a gun that needs feeding and is kept suspended in water. It is a short read, best enjoyed as a small, unsettling curiosity rather than a big story.",
+  "whyItMatters": "It shows the body-horror side of the Foundation's catalogue applied to an everyday object, where the anomaly is less about danger than about wrongness. The dry inventory style, listing fire modes, ammunition and diet, makes the organic details land harder than a dramatic description would.",
+  "thingsToNotice": "Look for the small sensory detail tucked into the line about switching fire modes; it does more to make the gun feel alive than any lab result. The discovery paragraph is oddly precise about the owner's death and the timeline, yet never says how he came to own the weapon, leaving that gap to the reader. The closing reclassification line also invites you to wonder how the object was judged before.",
+  "related": [
+    {
+      "slug": "scp-890",
+      "note": "Comes at the same idea from the other side: machines that become living tissue under a surgeon's hands."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

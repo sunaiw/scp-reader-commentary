@@ -1,0 +1,19 @@
+{
+  "slug": "scp-3626",
+  "lang": "en",
+  "hook": "SCP-3626 speaks to you directly. It is presented as a message you have just opened, with instructions breaking into the text and attachments to open as you go. Read it in one sitting and play along with the format, since it is built to make the reader feel watched and pressured. Content note: one passage is harsh in tone and the mood is bleak and despairing.",
+  "whyItMatters": "Its meta tag says a lot: this is an article that turns the act of reading into part of the anomaly. It grafts the familiar chain-letter mechanic onto the Foundation setting and uses it to ask what courage and loyalty mean when passing a burden along is the easy way out.",
+  "thingsToNotice": "Watch the voice of the document crack: the formal report keeps being interrupted by asides, footnotes and lines that plainly do not come from a neutral author. The list of recipients deserves a close read rather than a skim, especially its stranger entries. Dr. Burke's note is the emotional center, turning a horror gimmick into a short reflection on everyday complicity.",
+  "related": [
+    {
+      "slug": "scp-1374-jp",
+      "note": "Another file where reading the document is itself the point of exposure, framed by procedures imposed on the reader."
+    },
+    {
+      "slug": "scp-020",
+      "note": "Shares the idea of an anomaly that spreads because the people it touches hand it on to others."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}
