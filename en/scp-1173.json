@@ -1,0 +1,19 @@
+{
+  "slug": "scp-1173",
+  "lang": "en",
+  "hook": "SCP-1173 concerns a country that may or may not exist, and the less you know going in, the better it works. Read the description as a careful account of a delusion, and keep track of who is said to hold it. The final addendum changes who the document is talking to.",
+  "whyItMatters": "It is a memetic file where the hazard is not death or obvious madness but a competing picture of the world, complete with history, literature and news coverage. The trigger is a line of ordinary small talk, which makes the spread feel plausible. By the end it has become a story about the Foundation itself splitting in two, with containment turning into internal politics.",
+  "thingsToNotice": "The key ambiguity is the 'passive resistance' of the uninfected: the text never settles whether one group is deluded or the other is simply blind to something. Details such as the old literary references and the dated image caption keep nudging you toward the less comfortable reading. The closing message recruits you by declaring you clean, and its cure is an amnestic, so the resistance it describes amounts to one camp quietly erasing the other. Even the list of approving Overseers hints at how evenly the organization has divided.",
+  "related": [
+    {
+      "slug": "scp-2111",
+      "note": "Another layered file where different groups inside the Foundation hold different versions of the truth."
+    },
+    {
+      "slug": "scp-055",
+      "note": "A foundational anti-meme piece about information the mind cannot keep hold of."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

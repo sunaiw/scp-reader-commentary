@@ -1,0 +1,19 @@
+{
+  "slug": "scp-1193",
+  "lang": "en",
+  "hook": "SCP-1193 starts as a measurement problem and turns into a phone call. Read the numbers in the description with care, because the article quietly expects you to do the scaling in your head. The transcripts at the end are where the tone shifts from dry to oddly funny and uncomfortable.",
+  "whyItMatters": "The page carries the reviewers-spotlight tag, and it shows how much a compact file can do with one description and two short transcripts. It never draws the whole creature; you assemble the picture yourself from depths, elbow counts and offhand complaints. That reliance on inference over reveal is the technique worth taking away from it.",
+  "thingsToNotice": "The list of things the caller mentions works as a second description, written in everyday language: a cast, a jar, a relative on the way. Dr. Iqbal agreeing that he is 'from the hospital' is a small human moment that also shows how the Foundation extracts information. The second call slides from irritation into panic and an apology, which puts the seismic monitoring and the cousin in a far less comfortable light. Check the dates as well; the calls are a year apart, and that gap is part of the story.",
+  "related": [
+    {
+      "slug": "scp-082",
+      "note": "Another subject managed by going along with what it believes about where it is."
+    },
+    {
+      "slug": "scp-3213",
+      "note": "Another file whose core is revealed through tense dialogue with the subject."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

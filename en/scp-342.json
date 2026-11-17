@@ -1,0 +1,19 @@
+{
+  "slug": "scp-342",
+  "lang": "en",
+  "hook": "SCP-342 is a transit ticket, and the whole file is about getting on board. It is long and told mostly through field reports and personal logs, so take the addenda in order; the escalation depends on it. Pay attention to who writes each section, because the voices change as the project wears down the people running it.",
+  "whyItMatters": "The doctor-clef tag might suggest Clef is the lead, but he only appears at the very end to write the closing log; the real protagonist is the research team. The premise is simple: an ordinary object that, once used, commits you to a ride with no exit, told through small wrongnesses in passengers, staff and weather. It also reads as a long record of Foundation research failing, where every attempt to learn something mostly teaches the team how little they control.",
+  "thingsToNotice": "The experiments grow more inventive and more desperate in turn: watchers at the stops, then an agent on board, then a close friend for support, then a hand-picked driver. Gunsther even admits the ticket may have been baiting the team toward that last step. The 'shadow train' idea is the closest the file comes to an explanation, and it is left deliberately incomplete. The ending lands because the ticket breaks its own rule and becomes something other than a transit pass, which undercuts the request to seal the file the moment it is made.",
+  "related": [
+    {
+      "slug": "scp-7819",
+      "note": "Another anomaly that preys on people on the road, set at a roadside motel instead of on board."
+    },
+    {
+      "slug": "scp-087",
+      "note": "A different one-way descent, told through exploration logs that grow more uneasy as they go."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

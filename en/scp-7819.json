@@ -1,0 +1,19 @@
+{
+  "slug": "scp-7819",
+  "lang": "en",
+  "hook": "SCP-7819 is written mostly as a survival guide, addressed to someone who may be reading it on the spot. Take it at the pace it asks for, one space at a time, together with the short accounts from staff who made it out. It is atmospheric rather than violent, and works best if you let the quiet details pile up.",
+  "whyItMatters": "Tagged for the reviewers' spotlight and psychological horror, it is a strong example of describing a place through a set of rules to follow. Its subject is a familiar kind of space, the cheap roadside motel, nudged slightly wrong rather than made monstrous. The personal testimonies give each area a human voice, so the guide never reads like a dry checklist.",
+  "thingsToNotice": "Almost everything inside is an imitation: hollow cars, prop bathrooms, inedible breakfast food, as if assembled by something that has only heard motels described. The friendliest offers tend to be the dangerous ones, and the breakfast scene makes saying no the hardest step of all. Several areas hand back pieces of the visitor's own past, suggesting the place draws on its guests. The closing reflection names the theme outright, and the last line, which forgives anyone who stays, quietly admits how strong the pull is.",
+  "related": [
+    {
+      "slug": "scp-342",
+      "note": "Another anomaly that traps travellers on a journey they cannot step out of."
+    },
+    {
+      "slug": "scp-3008",
+      "note": "Another ordinary commercial space stretched into something endless and subtly wrong."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

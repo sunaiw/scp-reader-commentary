@@ -1,0 +1,19 @@
+{
+  "slug": "scp-089",
+  "lang": "en",
+  "hook": "SCP-089 is short, and most of its weight sits in the containment procedures, so read them slowly instead of skimming ahead to the description. Go in knowing that this is horror about an impossible choice rather than about a monster. The flat, clinical phrasing is doing deliberate work.",
+  "whyItMatters": "The file presents the Foundation as an institution that has to deal with something ancient on that thing's own terms. Its religious-fiction and mythological tags fit: the statue draws on old sacrificial imagery rather than inventing a new creature. What makes it stick is the protocol's insistence on consent, since the Foundation can arrange everything except the one decision that matters.",
+  "thingsToNotice": "The procedures are framed as a polite list of assistance, with the hardest detail folded into a single clause. The ban on coercion or drugs moves the horror away from the loss itself and onto the requirement that it be chosen freely. The table of past events lets numbers argue the case, setting a response measured in hours against delays measured in years. Dr. Patel's suggestion that the statue may only foresee disasters, not cause them, leaves an uneasy question about what is really being paid for.",
+  "related": [
+    {
+      "slug": "scp-231",
+      "note": "Another file where the Foundation accepts a terrible ongoing cost to hold back something worse."
+    },
+    {
+      "slug": "scp-140",
+      "note": "A ruthless ancient civilization reaching into the present through an artifact."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "scp-3213",
+  "lang": "en",
+  "hook": "SCP-3213 is a comedy built on one very specific premise: a man, and a group of animals that cannot stand him. The language in the logs is crude, so expect a lot of swearing. Read the tests in order, because the last one is where the joke picks up an edge.",
+  "whyItMatters": "The author's note on the page says it was written as a contest entry, and it shows how far a single, tightly focused gag can carry a file. Everything around the gag is ordinary procedure and testing, which makes the abuse in the logs land harder. It is a good example of humour that works by escalation rather than by a final punchline.",
+  "thingsToNotice": "Dr. Clifford trying to talk to the seals and being ignored entirely is neat staging: the anomaly only exists in relation to one person. The last log turns insults into an accusation, and the subject's reaction suggests he remembers more than he admits. Since the incident itself is never described and the background check finds nothing, the reader fills the gap, and that is where the comedy turns uneasy. The rule that the attacks stop short of lethal adds a cruel logic to the animals' grudge.",
+  "related": [
+    {
+      "slug": "scp-3521",
+      "note": "Another comedy that plays its absurd premise completely straight."
+    },
+    {
+      "slug": "scp-1193",
+      "note": "Another file whose best moments come from short, awkward dialogue transcripts."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}
