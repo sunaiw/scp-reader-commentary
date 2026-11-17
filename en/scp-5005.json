@@ -1,0 +1,19 @@
+{
+  "slug": "scp-5005",
+  "lang": "en",
+  "hook": "SCP-5005 is a town, nicknamed Lamplight, perched at the farthest edge of the multiverse under a single dim lantern, with nothing but void beyond its light. It is long and literary, built from essays by historians, critics and psychologists rather than a standard description. Go in ready for a slow, melancholy read about artists, obsession and the pull of the unknown, and note that it touches on despair and people who choose to vanish.",
+  "whyItMatters": "It was written for the SCP-5000 contest, and it shows how far the format can stretch: much of the article reads like an anthology of academic writing about a fictional culture. The multiverse here is vast and casually referenced, with whole universes and wars mentioned in passing, which makes the setting feel lived-in rather than explained. It is also an unusually reflective piece about why creative people chase darkness and what that costs them.",
+  "thingsToNotice": "The essays quietly set up a contrast between newcomers who stare outward at the void and long-term residents who turn toward fire, food and community; the festival scene makes that split visible. Junior Researcher Ramirez threads through every section, and her drift can be tracked through how others talk to her and through a supervisor's worried report.\n\nThe big reveal is foreshadowed more than once: a theory dismissed early as a joke, and a half-mad explorer's tale of a pale orb in the dark. The founder's unfinished poem, placed just before the final addendum, supplies the refrain that closes the article, and its use there carries a bleak weight.",
+  "related": [
+    {
+      "slug": "scp-5000",
+      "note": "The slot the 5000 contest was named after."
+    },
+    {
+      "slug": "scp-3001",
+      "note": "Another lone researcher worn down by an endless void at the edge of reality."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

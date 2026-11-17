@@ -1,0 +1,19 @@
+{
+  "slug": "scp-2614",
+  "lang": "en",
+  "hook": "SCP-2614 is a scratched DVD of a real TV drama that lets the viewer steer the camera beyond the edges of the script. You do not need to have seen the show; the article tells you what matters. Most of the page is a list of short exploration logs, so it reads quickly and rewards following the chain from one screen to the next.",
+  "whyItMatters": "It sits in the metafiction corner of the site, where the real subject is less an object than the nature of fiction itself. The idea that every fictional world holds further fictions, each with its own rules and blind spots, is worked out through the specific grammar of television: scene cuts, commercials, cartoon physics. The log format turns that idea into a kind of travelogue.",
+  "thingsToNotice": "The early entries are gentle and even funny, showing unaired moments behind the drama and the quirks of different genres. As the chain moves further from the starting show, the worlds grow emptier and stranger, and the mood slides from curiosity to dread without any single entry announcing the turn.\n\nWatch the handwritten notes found inside the fictions; they read like messages from somewhere past the camera. The terse final lines, with a classification label and a ban on repeating the procedure, suggest the researchers reached a layer they were not meant to see.",
+  "related": [
+    {
+      "slug": "scp-1230",
+      "note": "Another route into stories, through a book that lets its reader live an adventure."
+    },
+    {
+      "slug": "scp-3999",
+      "note": "A far more aggressive metafiction about the relationship between a story and its writer."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

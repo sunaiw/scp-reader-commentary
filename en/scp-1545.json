@@ -1,0 +1,19 @@
+{
+  "slug": "scp-1545",
+  "lang": "en",
+  "hook": "The object here is a llama suit built for two wearers, and the article plays that premise completely straight. It carries both comedy and horror tags and lives right on the line between them: the cheerful mascot voice never cracks, even when it really should. Expect a short read that turns out funnier and bleaker than its size suggests.",
+  "whyItMatters": "It is a compact example of black comedy done in the clinical format, where the absurdity of a llama in rain boots gets the same dry treatment as any dangerous artifact. The threat is not a monster but total commitment to a role, which turns a party prop into something unsettling. Pieces like this show how far the Foundation's deadpan voice can stretch before the joke curdles.",
+  "thingsToNotice": "The discovery paragraph tells you the worst outcome before the interviews start, so the logs read as a slow countdown rather than a surprise. Compare the two transcripts: the first subject still talks as himself while defending \"the illusion\", while the second has vanished into Larry entirely and explains away what has happened to his partner.\n\nThe costume is described as docile, and that is the real horror. Nothing traps the wearers by force; they simply never want to leave, and they remember the experience as perfectly normal.",
+  "related": [
+    {
+      "slug": "scp-035",
+      "note": "Another wearable that slowly overrides the person using it, played far more grimly."
+    },
+    {
+      "slug": "scp-2006",
+      "note": "A different anomaly fixated on performing for people, this time trying to scare them."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

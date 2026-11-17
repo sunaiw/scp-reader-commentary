@@ -1,0 +1,19 @@
+{
+  "slug": "scp-2952",
+  "lang": "en",
+  "hook": "SCP-2952 is a corgi. A very, very long corgi, stretched across continents, and the article is every bit as charming as that sounds. It is a light, whimsical read, best enjoyed without overthinking the logistics. Keep an eye on the footnotes, which carry some of the best jokes.",
+  "whyItMatters": "It shows how the Foundation format can be bent toward pure delight without losing its procedural flavor. The piece borrows from fairy folklore, with offerings, polite apologies and the danger of offending the small folk, and merges it with the mundane world of public transit. That collision of the mythic and the commuter-grade is the engine of the whole article.",
+  "thingsToNotice": "The containment section already tells you something went wrong, since it asks staff to leave out honey and a courteous note in Welsh. The backstory then plays the familiar Foundation move of trying to bury a problem, and lets the anomaly's riders answer in the style of old fairy tales rather than with force.\n\nThe turn into customer-service language is the punchline, and the exploration log that follows becomes a slice-of-life tour of an ordinary train ride: complaints about delays, petitions, a smelly snack. The final gesture on the way out is small, but it is what readers tend to remember.",
+  "related": [
+    {
+      "slug": "scp-2547",
+      "note": "Appears as graffiti inside the train car, an easy thread to follow."
+    },
+    {
+      "slug": "scp-2323",
+      "note": "Name-dropped on a movie poster aboard the train."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "scp-5094",
+  "lang": "en",
+  "hook": "SCP-5094 lives inside a forgotten piece of late-90s educational software, the kind of CD-ROM that came with a cheery cartoon host. If you remember those programs, the setting alone will land. Despite the Safe class and friendly subject, this is less about danger than about what an anomaly can mean to the people it touches.",
+  "whyItMatters": "It is a good example of the gentle, character-driven SCP, where the anomaly is kind and the weight comes from human stories around it. The article also uses the Foundation's usual tools, test logs and an interview, to build feeling rather than fear. The 'abandonware' angle gives it a specific nostalgia: software that outlived its company and its hardware but not its users' memories.",
+  "thingsToNotice": "The test logs set up a pattern of extraordinary results paired with one quiet detail each time: how the subject reacts when the lesson ends. Notice how that small note does more emotional work than the impressive academic outcomes.\n\nThe discovery addendum plants a name early that pays off in the interview, where the clinical frame visibly slips and a researcher talks to a childhood teacher. The advertising paragraph about busy parents also comes back, reframed, in what is said near the end. The closing statement then snaps back to dry procedure, which makes the conversation before it hit harder.",
+  "related": [
+    {
+      "slug": "scp-079",
+      "note": "Another intelligence living in old computer hardware, with a very different attitude toward people."
+    },
+    {
+      "slug": "scp-2295",
+      "note": "Another warm-hearted anomaly whose purpose is caring for children."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

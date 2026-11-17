@@ -1,0 +1,19 @@
+{
+  "slug": "scp-113",
+  "lang": "en",
+  "hook": "SCP-113 is a small red stone that permanently changes the biological sex of whoever touches it. The premise sounds like a one-line gag, but the article handles it as a careful, almost dry biology report. Expect timed stages and exceptions rather than a story.",
+  "whyItMatters": "The page carries a rewrite tag, and the current text reads like an effort to treat its premise with care: it separates bodily change from gender identity and states that people's emotional reactions are natural rather than anomalous. That framing makes it a good example of a simple transformation object grounded in real biology instead of shock value. It also shows the Foundation voice at its most methodical.",
+  "thingsToNotice": "The effect is laid out as a sequence with precise durations, which makes the stone feel like a machine running a fixed program. The animal tests are the quiet highlight, using species with unusual sex-determination systems to probe what the object is really keying on and where its logic breaks down.\n\nThe closing paragraphs turn from curiosity to warning: repeated contact is risky, the outcomes are summarized briefly, and then the record is expunged. That cut-off ending hints that the stone is more than a simple switch.",
+  "related": [
+    {
+      "slug": "scp-217",
+      "note": "Another bodily transformation anomaly, this one turning living tissue into clockwork."
+    },
+    {
+      "slug": "scp-500",
+      "note": "A small, harmless-looking item whose effect on the body is purely beneficial, for contrast."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

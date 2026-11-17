@@ -1,0 +1,19 @@
+{
+  "slug": "scp-1959",
+  "lang": "en",
+  "hook": "SCP-1959 is one of the shortest reads you will find: a handful of paragraphs about a white space suit that should not still be up there. It is uncontained and mostly unexplained, so the pleasure lies in what it leaves out. Read it slowly and pay attention to the small physical details.",
+  "whyItMatters": "It shows how much an SCP article can do with very little, leaning on a real-feeling historical backdrop, the early Soviet space program, instead of elaborate lore. The Foundation here can only watch and suppress witnesses, and the containment unit it has prepared sits empty. That helplessness gives the entry a lonely, elegiac mood that is unusual for such a dry format.",
+  "thingsToNotice": "The suit is called indestructible, yet its visor is cracked and fogged, which keeps the question of who or what is inside permanently open. The behavioral notes are the emotional core: signs of distress, attempts to break the visor, and pauses where it seems to resist something dragging it onward.\n\nThe last addendum shifts the frame from anomaly to missing person by listing possible names, then trails off with a request for more research. Nothing is resolved, and the article trusts you to imagine the rest.",
+  "related": [
+    {
+      "slug": "scp-179",
+      "note": "Another figure seen only from far away in space, whose gestures invite interpretation."
+    },
+    {
+      "slug": "scp-1548",
+      "note": "A much larger presence beyond Earth that the Foundation can only study from below."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

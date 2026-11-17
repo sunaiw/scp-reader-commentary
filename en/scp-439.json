@@ -1,0 +1,19 @@
+{
+  "slug": "scp-439",
+  "lang": "en",
+  "hook": "SCP-439 is a single small insect, and the article begins with containment details so ordinary they almost lull you. Be warned that this is body horror: the anomaly is about what the creature does to a human host. The writing stays clinical throughout, which is exactly what makes it effective.",
+  "whyItMatters": "It is a strong example of the parasite story told through biology rather than spectacle. The horror is built from real-world anchors, a common insect lookalike and an actual rare bone disorder, so the anomaly feels like an extension of nature rather than magic. That grounding is a technique many creature articles on the site rely on.",
+  "thingsToNotice": "Notice the opening image caption and how the description later explains why it was chosen. The middle section reads almost like a nature documentary about a colony's life cycle, and the admiring tone in places is unsettling precisely because of what the colony is living in.\n\nThe whole article is paced toward its short final addendum, which reframes everything that came before with one quiet observation. The flat closing line about testing ending is the Foundation's only visible reaction, and it says plenty.",
+  "related": [
+    {
+      "slug": "scp-610",
+      "note": "Another biological threat that remakes human bodies against their will."
+    },
+    {
+      "slug": "scp-008",
+      "note": "A classic infection anomaly that turns hosts into something else, for comparison."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}
