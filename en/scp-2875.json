@@ -1,0 +1,19 @@
+{
+  "slug": "scp-2875",
+  "lang": "en",
+  "hook": "Don't let the premise talk you into skimming. The file sets up an absurd, almost cartoonish problem and then handles it with complete seriousness, and the payoff is a set of recorded phone messages near the end. Read those one at a time and notice how much changes between them.",
+  "whyItMatters": "SCP-2875 belongs to the family of articles that take a silly concept and play it entirely straight, letting dry Foundation procedure do the comic work. Its tags include a prize-feature mark and an audio tag, and the voicemails are clearly built to be heard as well as read. It is also a compact lesson in how one addendum can recast the document above it.",
+  "thingsToNotice": "The voicemails tell a whole story from one side of a conversation. The caller slides from neighbourly small talk to worry to panic, while the phone number he keeps repeating turns into a grim running gag that survives to the very last message. The footnote is the real turn: it hints that the town's own officials may be tied to the origin of the problem, which makes the earliest calls read like a confession.\n\nAlso look at the rule about weapons. Because guns make things worse, the procedures force a slow, hands-on approach, and the task force lead's note speaks directly to anyone treating the whole thing as a joke.",
+  "related": [
+    {
+      "slug": "scp-3088",
+      "note": "Named in the footnote as a possible link under investigation."
+    },
+    {
+      "slug": "scp-3300",
+      "note": "Another small American town overtaken by an anomaly, seen partly through a recovered personal record."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

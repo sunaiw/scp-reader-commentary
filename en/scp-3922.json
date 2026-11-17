@@ -1,0 +1,19 @@
+{
+  "slug": "scp-3922",
+  "lang": "en",
+  "hook": "SCP-3922 is a small engraved disc that rewrites any fictional video played near it, and the file shows its work through a table of real, well-known films. The premise has a dark comic streak, but the results escalate quickly with each film's rating, and some rows draw on very disturbing source material. Go in knowing the joke has a sharp edge.",
+  "whyItMatters": "The article is tagged metafiction and three-moons-initiative, and it links itself to other files through a shared triple-crescent insignia: both the description and the closing note point to SCP-2578 and SCP-2922. Using real films as test material gives readers a familiar story to measure the object's logic against. The idea of a 'morality filter' taken literally drives the whole piece.",
+  "thingsToNotice": "The central rule is that the intervention scales with the film's rating, so the table works like a ladder: each row raises the stakes, and the response moves further from justice and closer to sheer force. The early rows, with their officious charges against fairy-tale characters, invite you to laugh, which makes the later rows hit harder. In the most extreme case even the end card changes, and that small edit says more about the soldiers than any description does.\n\nRead the closing note as a pivot. It turns the file from a novelty object into a glimpse of a faction with its own base, its own technology and its own idea of what protection means.",
+  "related": [
+    {
+      "slug": "scp-2578",
+      "note": "Shares the triple-moon insignia; the file says research into a link is ongoing."
+    },
+    {
+      "slug": "scp-2922",
+      "note": "Named in the closing note as a file whose connection should be examined."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

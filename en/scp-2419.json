@@ -1,0 +1,19 @@
+{
+  "slug": "scp-2419",
+  "lang": "en",
+  "hook": "SCP-2419 opens as a dry file about a Foundation-built waste facility in Colorado and a set of incinerators that must never go out. It is a horror piece in the strict sense, with hostile entities and a couple of disturbing incidents, so go in prepared. The real weight sits in the documents about the facility's past, so don't stop reading at the description.",
+  "whyItMatters": "The article is a sharp example of a Foundation-made anomaly, where the threat is a direct consequence of the organisation's own routines. It takes something most files treat as background, the everyday use and disposal of D-Class personnel, and puts it at the centre. Its memo-driven structure lets several staff members argue the moral question in their own voices instead of handing the reader a single verdict.",
+  "thingsToNotice": "The documents are deliberately out of chronological order. You see the outcome first, then a psychologist's blunt judgement of the entities, and only afterwards the orientation lecture and memos that explain how they came to be. That order lets the judgement settle in before you learn what was taken from them, so it reads very differently the second time; the lecture alone is worth it for the gap between its cheerful, stumbling delivery and what it describes.\n\nThe interview with Number Five turns on silence and a single photograph. The closing email then turns a technical worry about exhaust gas into a countdown, and its final lines change how you hear the sounds reported in the discovery log.",
+  "related": [
+    {
+      "slug": "scp-022",
+      "note": "A much shorter facility file where the dead also refuse to stay still."
+    },
+    {
+      "slug": "scp-3005",
+      "note": "Another record where routine D-Class testing slides into something the staff can't control."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

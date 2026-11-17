@@ -1,0 +1,19 @@
+{
+  "slug": "scp-022",
+  "lang": "en",
+  "hook": "SCP-022 is a hospital morgue in Great Britain where something has gone wrong in a very procedural way. It is short and direct, so it makes a good quick read. Spend a moment on the containment procedures before the description; they quietly tell you a lot about what has already happened there.",
+  "whyItMatters": "This entry follows the standard shape closely: a clear location, a repeatable effect, a handful of tested rules and two brief addenda. It builds unease mostly through logistics, such as automated incineration and a vault door, rather than through dramatic incident reports. It also cites an incident and an interview log that the page never shows, which leaves gaps for the reader to fill.",
+  "thingsToNotice": "The most unsettling detail is not the moving bodies but the room's refusal to take in anything new. Objects sent inside come back elsewhere, aged and worn, after an exact interval, while people simply don't come back, and the article leaves you to connect that with where the bodies come from. The referenced but missing records make the procedures feel like the residue of events you aren't cleared to see.\n\nNotice also the pending request to open a new entrance through a wall. Coming right after the explanation of why the door doesn't work, it reads as quietly ominous.",
+  "related": [
+    {
+      "slug": "scp-2419",
+      "note": "Another facility where the dead won't stay put, with a much longer backstory."
+    },
+    {
+      "slug": "scp-176",
+      "note": "Another building with a room that can't be entered the ordinary way."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

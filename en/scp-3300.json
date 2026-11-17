@@ -1,0 +1,19 @@
+{
+  "slug": "scp-3300",
+  "lang": "en",
+  "hook": "SCP-3300 starts as a fairly calm report about a Montana town and a yearly stretch of bad weather, then hands the floor to a teenager's journal. Give the journal time: it opens as ordinary diary chatter and the mood shifts gradually. It does include distressing scenes of losing family and friends, told in the first person, so it helps to know that going in.",
+  "whyItMatters": "This is a strong example of the report-plus-found-document structure, where the official text sets the rules and the recovered text shows what living inside them feels like. The description is rich on its own: a whole population quietly swapped out each year, a cognitohazard that dulls outsiders' attention rather than their memory, and records reaching back to the Foundation's beginnings. The journal answers almost none of the official questions, yet makes every one of them personal.",
+  "thingsToNotice": "The dreams are the backbone. They seem to belong to someone else, and each one arrives just before the waking story takes another step, together sketching an origin the report admits it doesn't know. Water is the recurring image throughout: the rain, the river in the dreams, and what turns up inside people when they are hurt.\n\nKeep in mind the report's remark that new residents sometimes share names and traits with earlier ones; it gives the last pages an uncomfortable implication about where those residents come from. The final line also echoes something another character says on leaving, so it lands as both a decision and a refrain.",
+  "related": [
+    {
+      "slug": "scp-2875",
+      "note": "Another small town lost to an anomaly, with the human side told through recovered recordings."
+    },
+    {
+      "slug": "scp-3005",
+      "note": "A recovered record in which the writer's grip on things visibly slips."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

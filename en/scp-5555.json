@@ -1,0 +1,19 @@
+{
+  "slug": "scp-5555",
+  "lang": "en",
+  "hook": "SCP-5555 is a long, multi-part story told through emails, newspaper mastheads, CCTV notes, audio transcripts and a first-person field journal, split by a navigation bar into eight parts and an epilogue. It assumes you already know a few of the Foundation's top figures and the major groups of interest, so it reads best after meeting some of them elsewhere. Expect thriller pacing and plenty of violence, mostly kept at a distance.",
+  "whyItMatters": "As its very long tag list shows, the article pulls a huge cast of established characters into one plot: Foundation staff, the Overseers, and the leaders of several groups of interest. It treats the top of the hierarchy as material for a spy story instead of a distant abstraction, and it is tagged both co-authored and bleak. It shows how far the format can stretch while still hanging on an item number.",
+  "thingsToNotice": "Watch how the item file changes every time it reappears. The first version describes a mysterious grave in a basement, and the later versions turn out to describe something far more organised and deliberate. The narrator's numbered rules from his old trade give the journal its spine, and the to-do line at the end of each entry tracks how his goal keeps shifting.\n\nThe emails from the other side are the counterpoint: their breezy, petty tone tells you what kind of game this is long before anyone says it outright. The question game at the dinner table near the end echoes the chess talk from earlier, and once you reach the final transfer table and epilogue, the cheerful opening email reads very differently.",
+  "related": [
+    {
+      "slug": "scp-3179",
+      "note": "The file Mann assumes is meant by the 'Seed' entry in the pit records."
+    },
+    {
+      "slug": "scp-262",
+      "note": "The greatcoat Mann wears in the Site-67 recording."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}

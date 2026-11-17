@@ -1,0 +1,19 @@
+{
+  "slug": "scp-5242",
+  "lang": "en",
+  "hook": "SCP-INTEGER is a file written under its own rules: the anomaly reacts to being named the wrong way, so the document talks about itself almost entirely in capitalised stand-in words. The first screen or two will look baffling. Treat the vocabulary as part of the puzzle and keep going; the interview in the middle is where the mechanics click.",
+  "whyItMatters": "The article sits among the wiki's semantic and meta anomalies, where the danger lives in language and paperwork rather than in a physical object. Its esoteric-class label and the Department of Miscommunications notice at the top signal that it is playing with the format itself. It works as comedy as much as puzzle, with a running gag built around the Site Director's name.",
+  "thingsToNotice": "Watch for the moment in the interview when a careless word slips out and the list of identifiers at the top of the page changes. The log lets you watch the rule fire in real time, and the interviewer's sudden confusion about his own title is the punchline and the scare at once. The small hover-note asides scattered through the text add another layer, hinting at a mythic reading under the bureaucratic one.\n\nThe closing verse drops the file's flat register entirely. By framing the anomaly as a penalty for naming what should stay unnamed, it ties the clerical comedy to something that feels much older.",
+  "related": [
+    {
+      "slug": "scp-055",
+      "note": "Another anomaly defined by how it resists being described or known."
+    },
+    {
+      "slug": "scp-3005",
+      "note": "A file where the document itself becomes the place the damage shows."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-17"
+}
