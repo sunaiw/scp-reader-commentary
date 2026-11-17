@@ -1,0 +1,19 @@
+{
+  "slug": "scp-407",
+  "lang": "en",
+  "hook": "A tape of an unaccompanied song in an unknown language, described by every listener as beautiful, and the effect it has on living cells nearby. The core of the article is a single timed test log, so read it as a minute-by-minute escalation. Be aware that the log describes bodily changes in some detail, though in a clinical tone.",
+  "whyItMatters": "SCP-407 is a memorable take on the idea of a song of creation, where healing and runaway growth are the same force at different durations. Its class is now listed as Neutralized, and the final addendum ties the file to the Serpent's Hand, a group of interest the wiki returns to often. It also cross-references SCP-507, which links it to a wider web of early articles.",
+  "thingsToNotice": "The structure does the work: the description breaks the effect into stages by minute, and the test log then plays those stages out in real time. The first minutes are miraculous, which makes everything after them feel like a betrayal of that promise.\n\nNotice how the log keeps its detached voice while what it describes turns into an entire ecosystem cycling through growth, predation and decay inside a sealed room. The tape is cut off before its natural end, a detail that hints there was more to the song than anyone heard, and the last addendum explains why nobody will be hearing it again.",
+  "related": [
+    {
+      "slug": "scp-507",
+      "note": "Addendum 407-02 compares the mold from testing to one linked with SCP-507 and limits testing as a result."
+    },
+    {
+      "slug": "scp-4000-jp",
+      "note": "The Serpent's Hand, who remove this song from Foundation systems, are central to that JP article as well."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

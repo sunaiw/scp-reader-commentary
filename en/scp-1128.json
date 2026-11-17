@@ -1,0 +1,10 @@
+{
+  "slug": "scp-1128",
+  "lang": "en",
+  "hook": "This is a creature you only meet once someone has described it to you, which makes the article an interesting puzzle: how do you write about a thing whose description is the hazard? Read it with that question in mind. It is short, and most of its tension comes from what it carefully leaves out.",
+  "whyItMatters": "SCP-1128 is a neat example of an infohazard built into the document itself. The containment procedures are mostly about controlling information, from destroying images to administering amnestics, with a patrol force at sea as a secondary measure. It shows how the wiki can make a monster frightening without ever letting the reader see it.",
+  "thingsToNotice": "Notice that the file never gives the full appearance, even though the description section is where you would expect it. The reader learns the rules of the effect, the aversion to water and the risk of interviewing survivors, but the creature itself stays offscreen.\n\nThe addenda escalate quietly. A practical detail about radio contact turns into a researcher's puzzled note about distance, and the last addendum shows how the effect grows when someone is exposed for too long. The ordinary object involved in that final incident makes it stick in the mind.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

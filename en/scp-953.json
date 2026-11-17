@@ -1,0 +1,15 @@
+{
+  "slug": "scp-953",
+  "lang": "en",
+  "hook": "Content note: this file describes violent and disturbing acts, though briefly. At its center is a nine-tailed fox spirit, a shape-shifter that the Foundation contains partly with steel doors and partly with dogs and old stories. Read it for the collision between folklore and bureaucracy, and for the odd, sharply worded orders from the Overseers at the end.",
+  "whyItMatters": "SCP-953 brings a creature from Korean folklore into the Foundation format, and it is tagged both mythological and the-kumiho. It shows a recurring idea on the site: traditional tales can be read as an older form of containment knowledge. The Overseer notes even insist on the correct name for the creature, treating cultural accuracy as a containment matter.",
+  "thingsToNotice": "The containment procedures mix modern and folkloric tools in the same list: a robotic delivery system, a wide exclusion zone and a corridor lined with kennels. The addenda then move from history to administration, ending with an instruction to follow every traditional rule however strange it seems. That closing line reframes the whole procedure section as a kind of borrowed wisdom.\n\nNotice the tone of the Overseer notes. They are curt, a little exasperated, and focused on getting the creature's identity right, which gives the entity a sense of pride and personality without any interview text. The violence is mostly listed rather than shown, and that listing style is what keeps the file cold.",
+  "related": [
+    {
+      "slug": "scp-1540",
+      "note": "Cited in a footnote as a point of contrast for the fox's control over its shape-shifting."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

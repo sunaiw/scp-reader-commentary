@@ -1,0 +1,19 @@
+{
+  "slug": "scp-5595",
+  "lang": "en",
+  "hook": "A rude, wisecracking gumball machine rolls into a Foundation site claiming to be the substitute Site Director. That is the whole premise, and the article is almost entirely interview logs and short test reports, so it reads quickly. Go in expecting a character comedy carried by banter, with a little office satire on the side.",
+  "whyItMatters": "SCP-5595 is part of a run of articles by PlaguePJP and is tagged as part of the Integration Program, a Foundation initiative to give cooperative anomalies a role on site. It features Director Paul Lague, who has his own tag, and the character the tags call Geoffrey Quincy Harrison. The article shows how the wiki uses a single strong voice to carry an entry with very little danger in it.",
+  "thingsToNotice": "The comedy rests on the machine's all-caps voice and its habit of turning every question into an insult or a tall tale. Watch how the two interviewers handle it differently: one gets dragged into a running joke about his name, the other tries diplomacy and still loses most exchanges.\n\nThe test reports in the middle are written in strict Foundation format, which makes the absurd outcomes funnier, especially the file-review entries where the advice is the same every time. The last interview pivots the joke toward an unexpected talent, and the containment procedures at the top quietly tell you where the machine ended up.",
+  "related": [
+    {
+      "slug": "scp-5596",
+      "note": "One of the files the machine is shown and comments on; it also appears in the author's works list."
+    },
+    {
+      "slug": "scp-5798",
+      "note": "Another file the machine reviews during testing, with characteristically blunt advice."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

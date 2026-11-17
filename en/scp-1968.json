@@ -1,0 +1,10 @@
+{
+  "slug": "scp-1968",
+  "lang": "en",
+  "hook": "A bronze ring pulled from deep Greenland rock, and test subjects who come back remembering a different life: that is the starting point here. The article leans heavily on real physics vocabulary, with footnotes explaining terms like the Casimir effect, so it rewards a slow read. Expect hard science fiction told through a dry incident report.",
+  "whyItMatters": "SCP-1968 shows how the wiki handles anomalies too large for ordinary containment language. Its tags include temporal, memory-affecting and alternate-history labels, and the document is built around a restricted section with its own access warning. The result is a file that reads less like a containment report and more like a slow-building thought experiment.",
+  "thingsToNotice": "Look at how the evidence is assembled. The subject's changing memories are first treated as a mental effect, then tested against a measurable physical prediction, and the measurements only succeed far from the artifact itself. That inversion, where the safest place to stand is right next to the object, is quietly one of the most unnerving ideas in the file.\n\nThe later sections shift from experiment to consequence, and the security measures at the top of the file start to make sense in hindsight. The closing addendum then turns into a moral problem about when, if ever, such an object should be used. Notice that the report never settles this; it simply hands the dilemma to its readers.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}
