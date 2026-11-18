@@ -1,0 +1,10 @@
+{
+  "slug": "scp-3352",
+  "lang": "en",
+  "hook": "SCP-3352 opens like a dry engineering file about a steel beam with a patriotic stamp on it, and then the beam fades into the background. Most of the article is testimony from refinery workers about one night of fires and bad decisions. The interviews are full of swearing and describe deaths and injuries bluntly. Stick with the industrial detail early on; it sets up everything that follows.",
+  "whyItMatters": "It shows how little anomaly an SCP needs. The single impossible fact arrives in the very last line, and everything before it is a disaster that could have happened without anything supernatural at all.\n\nThe weight of the story is carried by operators, an engineer and an emergency team rather than by the Foundation, which barely appears. For a Neutralized entry, it reads more like an accident inquiry than a containment record.",
+  "thingsToNotice": "Every failure feeds the next. A supervisor's shortcut a week earlier had been pushing liquid propane into the fire-water lines, so the hydrant meant to save the unit froze men to the hose before the gas ignited, and the emergency shutdown meant to drown the acid sprayed fuel instead. Daniel Ruhl, beaten with a spanner for refusing to open the line, gives the bitterest account, while Tanya Sullivan's speech about what a refinery owes the people living around it explains why the response team ran toward the fire.\n\nMatthew Watkins, his palms stuck to the valve, describes standing in the flames waiting for the last of six supports to fail and drop half a million gallons of hydrofluoric acid onto the city. It held, and only then does the report confirm that the beam took heat far above steel's melting point without a scratch. The stamped blessing from the opening, which looked like trivia, turns out to be the ending.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "scp-187",
+  "lang": "en",
+  "hook": "SCP-187 is a woman who sees everything in two states at once, and the file is as much about what that costs her as about how useful she is. The procedures already hint at the cost, with restraints, sedatives and padded mittens to keep her from damaging her own eyes. The short dialogue excerpts later on are where it really lands.",
+  "whyItMatters": "It's a precognition story with a sharp, specific rule: she only sees large departures from what counts as normal for whatever she is looking at. That one rule produces both comedy and dread, and the article tests its own logic with something as mundane as an IQ exam.\n\nThe Foundation's interest in her is coldly practical, which is part of the point.",
+  "thingsToNotice": "The IQ test is the cleverest beat: on paper she maxes out every time because she sees the finished answer sheet, but on a keyboard she scores 97, leaving the file to wonder where the correct answers came from at all. The same gift makes a meal look like excrement and water like urine, and people near death appear to her as corpses.\n\nThe prophecy excerpts escalate from a wedding ring that won't be there, to a swollen body, a hole in a man's head and a scream about missing legs, and her own outburst may have pushed one man into the escape attempt that got him shot. The final proposal, to show her indestructible objects so she can see how they will end, comes with the worry that her seeing it might be the only reason it becomes possible.",
+  "related": [
+    {
+      "slug": "scp-120",
+      "note": "SCP-187's prophecy log mentions a D-class who was sent through this object."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

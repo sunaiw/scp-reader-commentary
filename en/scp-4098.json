@@ -1,0 +1,10 @@
+{
+  "slug": "scp-4098",
+  "lang": "en",
+  "hook": "SCP-4098 is short, and within a line or two you'll notice that something is off about the way it's written. The wording is stiff and strange on purpose, and working out why is half the fun. Read it slowly, ideally out loud.",
+  "whyItMatters": "It's an article where the format is the anomaly: instead of being told about the effect, you experience it through the text. Setting it at Site-94, a facility that studied cognitohazards, gives the gimmick an in-world reason to exist.\n\nIts brevity is a strength, since a constraint this tight would wear thin over a longer document.",
+  "thingsToNotice": "The rule is S, C, P: word after word begins with those letters in order, down to headings like 'Specific Collection Position'. In-world, the Foundation built this speech restriction around Site-94 on purpose, hiding SCP-4098-1, a concept that kills any thinking creature who grasps it, inside the very pattern of how people talk there.\n\nThe postscript is the payoff. An exhausted low-clearance worker technically obeys the rule by tacking the three letters onto ordinary words to ask why nobody talks like that, and seventeen people die. The closing line that such conduct is now prohibited is both the punchline and the horror.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

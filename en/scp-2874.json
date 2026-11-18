@@ -1,0 +1,10 @@
+{
+  "slug": "scp-2874",
+  "lang": "en",
+  "hook": "SCP-2874 is short, and at first glance it reads like a straightforward visual hazard: look at the object, and some time later you explode. Read carefully, though, and notice the small inconsistencies that creep in as you go. This is one that rewards a second pass.",
+  "whyItMatters": "It's a file where the document itself shows symptoms, so the anomaly reaches beyond the in-world facts into the way the text is written. The idea that photos and video of the explosions pass the effect along also gives it an ugly, viral quality.\n\nThe short length keeps the trick tight.",
+  "thingsToNotice": "The numbers are a countdown. Two guards becomes 'two (10)', personnel become 9-Class, the site turns into Site-08, a 6 intrudes into the symptom list, then a 5, a 4 and 3 humanoid corpses, and the final sentence breaks off at 0.\n\nThe addendum explains why: during a breach, staff were sent images of the explosions, which suggests the person writing this file has been compromised. Since one of the listed symptoms is hallucinating a countdown, the reader is effectively watching one play out on the page.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "scp-3844",
+  "lang": "en",
+  "hook": "SCP-3844 is presented as a file with a revision history: you step through several versions of the same document, written decades apart. The first one isn't even a proper SCP entry, but an excited letter from a scientist who has just met a dragon. Take your time with each version, because the differences between them are the story.",
+  "whyItMatters": "It uses the Foundation's own record-keeping as the narrative engine, letting the changes from one version to the next do most of the talking. It also offers a glimpse of an early, under-funded Foundation that made a written deal with an anomaly instead of simply locking it away.\n\nUnderneath, it's a story about what scientific understanding does to wonder, told from the side of a creature that has everything to lose.",
+  "thingsToNotice": "With every revision the dragon diminishes: from over 70 meters to about 50 and then about 10, its fire cooler, its languages fewer, its hoard smaller, its scales fading from purple to blue to white. Lester Fegmont goes from letter-writing scientist to O5-2, kept young by thaumaturgy and temporal technology, while the gin, the permission to fly and the visit after the war never quite materialize.\n\nIn the last interview the dragon says it is mourning the death of miracles, breaks the agreement and is shot down, and what's recovered is an ordinary flying lizard, with the vast cavern reduced to a small hole. Then a provisional fifth version loads, listing dragons across five mountain ranges, and the uploader's note echoes the opening line of Lester's first letter.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}
