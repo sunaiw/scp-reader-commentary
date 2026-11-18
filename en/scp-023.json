@@ -1,0 +1,15 @@
+{
+  "slug": "scp-023",
+  "lang": "en",
+  "hook": "A huge black dog kept inside a carefully built imitation of a crossroads. The rule is simple, eye contact, but the consequence plays out over a full year and may fall on a family member instead of the person who looked. Read the containment procedures as closely as the description; they hold much of the story.",
+  "whyItMatters": "This Series I entry takes familiar folklore imagery, a black dog, a crossroads, burning eyes, and turns it into architecture, complete with false doors and eye inserts. Its delayed, partly random consequence gives it a slow, domestic kind of dread rather than an instant one. Addendum 023-004 explicitly ties it to SCP-1111-1, linking the two files.",
+  "thingsToNotice": "The containment layout is the narrative: a walled-off intersection of two corridors, three fake doors, rubber inserts swapped one at a time and only after sunset, and a ban on reflective surfaces added after a later incident. Each rule implies an earlier failure that the file only partly explains. The observation about family size and the observer's own risk is a small, cold detail that changes how you picture every exposure.",
+  "related": [
+    {
+      "slug": "scp-1111",
+      "note": "Addendum 023-004 names SCP-1111-1 as a possible variant of the same phenomenon."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

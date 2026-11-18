@@ -1,0 +1,15 @@
+{
+  "slug": "scp-026",
+  "lang": "en",
+  "hook": "A condemned three-storey public school whose corridors refuse to measure the same way twice. The file is compact and built from fragments: shifting room counts, graffiti that moves, sleepers who cannot be roused while they stay on the grounds. It also points to interview and exploration logs that are not printed here, which gives the sense of a much thicker folder sitting behind it.",
+  "whyItMatters": "It is a short early-numbered entry that shows how much a familiar setting can carry. Hallways, chalkboards and a dress code are ordinary enough that every small distortion registers at once. The file also models the Foundation correcting itself on the page, with an update reversing an earlier conclusion about whether the spatial effects are real.",
+  "thingsToNotice": "Follow the notes and their updates: the first explanation attributes the strange geometry to perception, and a later line quietly takes that back. The recurring phrase about children singing is left completely unexplained, and the file wisely does not try. The most unnerving rule concerns leaving rather than entering, which flips the usual instinct that getting out means getting safe.",
+  "related": [
+    {
+      "slug": "scp-4971",
+      "note": "Another abandoned public building, here a mall, whose interior runs well past its outer walls."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

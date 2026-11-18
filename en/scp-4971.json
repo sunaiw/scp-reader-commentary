@@ -1,0 +1,19 @@
+{
+  "slug": "scp-4971",
+  "lang": "en",
+  "hook": "An abandoned Indiana shopping mall that, past a certain point, stops being a mall. The file is long and assembled like a dossier: staff memos, committee votes, a group's manifesto, an interview and several expedition recordings. Some of the field transcripts are violent and bleak, but they stay in the clipped voice of radio logs rather than dwelling on detail.",
+  "whyItMatters": "The central idea is bureaucratic rather than monstrous: a working containment method is on the table, but its price is judged unacceptable, so the classification committee creates a new esoteric class, Cernnunos, to name that gap. That makes the file a handy entry point to the wiki's alternative classification ideas, where the issue is not a missing procedure but a refusal to use one.\n\nIt also stitches itself into recurring setting material: Site-81, Director Aktus, Dr. Cimmerian's Ethics Committee, Three Portlands and Miskatonic University all appear, so readers who know those names will catch more of the texture.",
+  "thingsToNotice": "Pay attention to time. Two teams enter only hours apart, yet once they reach each other by radio their counts of elapsed days no longer agree, and the unmoving sun on the horizon makes the place feel stuck at dusk. The occult background is layered document by document: the manuscript's chain of owners, the research division's analysis, then a practitioner's interview offering her own reading of what the ritual is for.\n\nThe author's opening anecdote about a childhood rule in the woods sets the tone for everything after it: the fear comes from not understanding what you are meddling with. The closing addendum is just a few dated transmission entries, and its restraint hits harder than the larger set pieces.",
+  "related": [
+    {
+      "slug": "scp-4051",
+      "note": "Dr. Cimmerian and the Ethics Committee also weigh a contested Foundation procedure there."
+    },
+    {
+      "slug": "scp-026",
+      "note": "Another abandoned public building whose interior stretches far beyond its outer walls."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

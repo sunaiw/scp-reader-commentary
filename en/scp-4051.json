@@ -1,0 +1,15 @@
+{
+  "slug": "scp-4051",
+  "lang": "en",
+  "hook": "The page opens with its own warning for themes of abuse and emotional manipulation, and that warning is earned. It follows a young man with a modest-sounding power, opening a small pocket of space and pulling an object out, and the staff assigned to study him. Read the therapy transcripts and the experiment notes against each other; the gap in tone between them is the point.",
+  "whyItMatters": "Rather than treating the anomaly as the danger, the file is interested in how an institution handles a cooperative, sympathetic subject, and in what its own records choose to omit. Dr. Jeremiah Cimmerian appears as the Ethics Committee's liaison, and the many redactions credited to that committee make its after-the-fact judgment part of the reading experience. The final addendum sits behind a clearance prompt, so the event behind the reclassification stays out of reach on the page.",
+  "thingsToNotice": "Look at who writes each note: the project researcher, the therapist and the site director each write for a different reader, and they rarely acknowledge the same facts. The recurring line that marks the rest of a session as irrelevant is a quiet device, because you keep sensing what was cut. The rules of the power, which depend on how well he understands an object, are established early through small tests and shape how the later entries read. The event table near the end compresses months into single lines, and that flat format is what makes it hard to get through.",
+  "related": [
+    {
+      "slug": "scp-4971",
+      "note": "Dr. Cimmerian's Ethics Committee also rules there on whether a containment method's cost is acceptable."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}
