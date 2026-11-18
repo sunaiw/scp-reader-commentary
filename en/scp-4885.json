@@ -1,0 +1,15 @@
+{
+  "slug": "scp-4885",
+  "lang": "en",
+  "hook": "Built around a figure resembling a famous puzzle-book character, this file turns the simple act of finding someone into the hazard itself. It is a Keter entry with long, intricate procedures followed by a field recording. Content note: the description and the log include intense physical violence.",
+  "whyItMatters": "It takes a familiar SCP idea to an extreme: an infohazard where knowing a location triggers the effect, so the Foundation must design containment that no single person fully understands. Randomized vehicles, disguised delivery trucks and an automated camera network stand in for the usual guards and cells. Much of its impact comes from the contrast between a cheerful pop-culture image and the cold logistics around it.",
+  "thingsToNotice": "Read the procedures as a puzzle: each step exists to make sure no individual ever holds the information that would draw the entity to them. The footnote about vague locations is a small rule, but it explains how the document itself can safely exist. In the field log, the team's banter sets a casual tone that the scene then drops, and the inscription on the wall is placed so the reader learns along with them. The closing addendum switches to a personal first-person note, giving the system described earlier a human author.",
+  "related": [
+    {
+      "slug": "scp-4774",
+      "note": "Another file where certainty itself is the danger, so containment means making sure nobody finds out."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

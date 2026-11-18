@@ -1,0 +1,15 @@
+{
+  "slug": "scp-4774",
+  "lang": "en",
+  "hook": "This one is less about an object than about an argument. The file takes the hypothetical Planet Nine and builds its containment around the idea that nobody should ever settle whether it exists. Expect a short, logic-driven read in which the numbered conclusions do most of the work.",
+  "whyItMatters": "It belongs to the kind of SCP writing where the anomaly lives in thought: the effect appears whenever someone considers the planet, and containment is mostly a ban on finding out. The procedures treat evidence itself as the dangerous material, which reverses the usual Foundation habit of studying first. Tags like ad-astra and concept mark it as a space story that never needs to show much of space.",
+  "thingsToNotice": "Compare the two lists of conclusions. The first reads like ordinary scientific caution, while the second moves step by step toward an ethical claim aimed squarely at the Foundation. The voyage addendum attaches a mundane explanation to every strange observation, which keeps the planet's status carefully undecided. The closing sentence hands the reader the same instruction the subjects followed, quietly placing you inside the effect.",
+  "related": [
+    {
+      "slug": "scp-4885",
+      "note": "Another file where knowing too much is the hazard, so containment depends on keeping information from everyone."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "scp-097",
+  "lang": "en",
+  "hook": "An abandoned county fairground swallowed by pumpkins sounds like a Halloween joke, and the article lets you believe that for a while. It reads as a dry site file full of measurements and seasonal schedules before its attention turns to children in the nearby towns. Content note: the later sections deal with harm to children, described in a clinical voice.",
+  "whyItMatters": "This is a location-type entry, where the anomaly is a whole place with its own calendar rather than a single object. Its procedures follow the farming year, with a monitoring window from spring to autumn and a crew with farm tools sent in after the first frost. Tags such as halloween and dream mark it as a seasonal horror piece built from rural Midwestern scenery instead of laboratories.",
+  "thingsToNotice": "Watch how the sleepwalking section escalates in small, specific steps, from the doors on one floor to every door in the house and then the neighbours', so the dread grows out of routine rather than spectacle. Much of the Foundation's effort is aimed at civilians and staff families in the surrounding area, not at the field itself. A brief historical note says instances of SCP-2171 once formed wall-like lines around the site, and the file leaves that unexplained. The age limit and the rule about lone minors near the zone, set out early in the procedures, connect directly to the later description.",
+  "related": [
+    {
+      "slug": "scp-2171",
+      "note": "The 097 file notes that its instances once formed partial walls around this site before the containment wall was built."
+    },
+    {
+      "slug": "scp-956",
+      "note": "Another anomaly whose activation depends on young children coming within reach."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

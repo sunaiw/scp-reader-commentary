@@ -1,0 +1,15 @@
+{
+  "slug": "scp-956",
+  "lang": "en",
+  "hook": "A piñata sounds harmless, and the file plays on that expectation from the first line. It is a compact entry about a party toy whose activation depends on the age of whoever comes near it. Content note: it describes harm to children in a matter-of-fact clinical voice.",
+  "whyItMatters": "It is a strong example of the way SCP horror turns the trappings of childhood, such as toys, sweets and party games, into something predatory. The object class line keeps its reclassification visible, and the closing addendum justifies the change with a single unsettling observation. Tags like toy, food and self-replicating sum up how the anomaly spreads through the very things the toy is meant to hand out.",
+  "thingsToNotice": "The containment rules concentrate on keeping one particular group of people far away, which signals the threat before the description spells it out. The description mixes festive vocabulary with lab terminology, and that clash carries much of the horror. The final addendum works through restraint: it reports no new effect, only the direction the object is facing and a distance.",
+  "related": [
+    {
+      "slug": "scp-097",
+      "note": "Another anomaly whose effects are aimed at young children in the surrounding area."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

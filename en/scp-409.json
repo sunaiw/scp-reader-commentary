@@ -1,0 +1,15 @@
+{
+  "slug": "scp-409",
+  "lang": "en",
+  "hook": "A Keter crystal that spreads by touch: the idea is simple and the file is short. What makes it work is the exactness of its numbers, from the delay before the effect begins to how quickly it travels. It is a quick read for anyone who likes their SCP horror clean and procedural.",
+  "whyItMatters": "It is a straightforward example of the contagion-style Keter, where the danger is not malice but an effect that keeps propagating through anything it reaches. The granite exception gives the procedures one concrete rule to organize everything around. An addendum also pairs it with SCP-500, showing how a file can borrow another anomaly to probe the limits of its own.",
+  "thingsToNotice": "Notice the chain reaction built into the description: every fragment carries the effect onward, so a single accident can multiply. The recovery note mentions heavy staff losses in one sentence and leaves the reader to picture the scene. The final addendum lists open questions rather than answers, which keeps the object mysterious even after extensive testing.",
+  "related": [
+    {
+      "slug": "scp-500",
+      "note": "The 409 file uses it in a recovery test on a crystallized subject."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

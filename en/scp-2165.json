@@ -1,0 +1,10 @@
+{
+  "slug": "scp-2165",
+  "lang": "en",
+  "hook": "One of the shortest files you will find: a few lines of procedures, one paragraph of description and a single-sentence addendum. Read it slowly, because nearly every sentence is a refusal of some kind. It works best as a small study in tone rather than a puzzle with an answer.",
+  "whyItMatters": "Its object class is simply None, and it is tagged as an esoteric-class and meta entry. Instead of describing an anomaly, it describes the absence of any record of one, which makes it a neat example of how far the report format can be stretched. The overall effect is closer to a verdict than a containment file.",
+  "thingsToNotice": "The procedures contain no real action; the only instructions are to leave the subject alone and to keep the reference somewhere outside time and space. Notice the paradox built into the page: it insists the subject is never acknowledged by anything, yet the document is itself an acknowledgement. The repeated phrasing at the end of the procedures and the brief addendum give the piece an almost ritual rhythm.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}
