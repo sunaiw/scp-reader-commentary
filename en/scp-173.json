@@ -1,19 +1,10 @@
 {
   "slug": "scp-173",
   "lang": "en",
-  "hook": "This is where it all started: a few short paragraphs and a single rule built around something you do thousands of times a day without noticing. Read it slowly and notice how little it actually tells you. The fear isn't in the description of the creature; it's in what the rule demands of the people standing in the room.",
-  "whyItMatters": "SCP-173 first appeared in 2007 as an anonymous post on 4chan's paranormal board, and the layout it used (item number, object class, containment procedures, description) became the template that thousands of later articles follow. The detached, report-style voice that defines the whole wiki was set here, in one of its shortest entries.\n\nThe image history matters too. The sculpture photo long associated with the article is a real artwork, Izumi Kato's \"Untitled 2004\", which the artist allowed fans to use for non-commercial purposes only. Neither the English nor the Japanese page currently displays it, and the licensing notes explain why fan projects can't freely reuse it.",
-  "thingsToNotice": "Notice that the containment procedures are written for the staff rather than the object: a minimum headcount, two designated watchers, a warning before every blink. The horror lives in the logistics. The description then undercuts its own calm with small unexplained details, such as sounds from an empty cell and a fixed cleaning schedule, that make you picture what happens when nobody is watching without ever showing it.\n\nThe brevity is the technique: origin and purpose are left blank, and the article trusts you to fill the gap yourself. Later articles often build depth with interviews and addenda; this one shows how far a single well-chosen constraint can carry a story.",
-  "related": [
-    {
-      "slug": "scp-096",
-      "note": "The mirror image of 173's rule: here, looking is exactly what you must not do."
-    },
-    {
-      "slug": "scp-087",
-      "note": "Another early, compact file that gets its effect from restraint and implication."
-    }
-  ],
+  "hook": "A handful of short paragraphs and one rule, built around something you do thousands of times a day without noticing. Read it slowly and notice how little it actually explains. The fear isn't really in the description of the thing; it's in what the rule demands of the staff who have to stand in the room with it.",
+  "whyItMatters": "This is one of the best-known and highest-rated files on the wiki, and its skeleton (item number, object class, containment procedures, description) is the same one nearly every later entry uses. The flat, report-style voice that defines the whole site is already fully formed here, in a page you can read in a minute.\n\nIt also shows how much an entry can do with almost no backstory. There is no interview, no addendum, no explanation of where the statue came from, and it has still become the reference point people reach for when they explain what an SCP is.",
+  "thingsToNotice": "The core mechanic, stated plainly: the statue can only move when nobody is looking at it, and when it does move it kills, either by breaking the victim's neck just below the skull or by strangling them. That is why the procedures are written for the staff rather than the object: at least three people per entry, two of them assigned to keep their eyes on it the whole time, and a spoken warning before anyone blinks, so the horror lives in the logistics.\n\nThe last two paragraphs undercut the calm tone with concrete leftovers of what happens off-screen. Guards hear stone grinding inside the cell when it is empty, and the file treats this as routine. The reddish-brown stain on the floor turns out to be a mix of blood and excrement whose source nobody can explain, and the answer to it is simply a cleaning rota every two weeks.\n\nNotice too what stays blank: it arrived at Site-19 in 1993, it is made of concrete and rebar with traces of Krylon paint, and its origin is unknown, a gap the article trusts you to fill yourself.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

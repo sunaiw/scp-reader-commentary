@@ -1,19 +1,19 @@
 {
   "slug": "scp-5000",
   "lang": "en",
-  "hook": "The premise arrives almost immediately, and it's a shocking one: the Foundation has turned on the world it was built to protect. What the article withholds is the reason. You follow a low-level technician with a stealth suit and no answers, so expect a long, bleak journey rather than a tidy explanation.",
-  "whyItMatters": "Holding the milestone 5000 slot, it's widely discussed largely because of how firmly it refuses to explain itself. It pulls in a huge range of existing articles and groups of interest, turning the Foundation's own catalogue into weapons, so long-time readers will spot many familiar names. Arguments about what the ending really means are a big part of its reputation.",
-  "thingsToNotice": "The recurring tables of anomalies do more than build the world: their tone slides from shock to exhausted sarcasm as Pietro wears down. Watch the deleted-file gaps and the briefcase he can't remember acquiring, which hint that someone wanted him to make this trip. The interrogation and the meeting in the abandoned shop are the closest the story comes to clues, and both repay a reread once you've finished. The final entry is deliberately fragmentary, so go back afterwards to the opening paragraph about where the suit turned up.",
+  "hook": "The premise arrives almost immediately, and it's a shocking one: the Foundation has turned on the world it was built to protect. What the article withholds is the reason. You follow a low-level technician with a stealth suit and no answers, so expect a long, bleak journey rather than a tidy explanation, with mass death described bluntly along the way.",
+  "whyItMatters": "Holding the milestone 5000 slot, it is built almost entirely out of the existing canon: dozens of numbered anomalies and outside groups appear, many of them turned into weapons against the public, so long-time readers will spot familiar names on nearly every page. It is also notable for how firmly it refuses to explain itself, ending on fragments rather than a reveal and leaving the reader to assemble the meaning.",
+  "thingsToNotice": "The first paragraph of the report already holds the ending: the suit flashed into SCP-579's chamber in April 2020 carrying Pietro's body, killed by a long fall, while a Pietro Wilson with no memory of any of this is alive and working at an Exclusionary Site, one of the facilities built to keep information through reality shifts.\n\nThe timeline he digs up at Site-19 is the nearest thing to an explanation: the O5s flag a psychospace-mapping project called PNEUMA, vote unanimously on something redacted, staff resign or kill themselves, and then a batch of files sent with the message 'harden your hearts' ends the dissent overnight. A former senior staffer he meets in a ruined jewelry shop says those encoded images felt less like being controlled than like being released from something. Other scenes show what that release looks like: an MTF commander stabs each of her soldiers in the shoulder and has the one who flinches shot, and a captured Omega-2 agent tells his GOC interrogators that he isn't supposed to feel pain before saying something excised that leaves them screaming amid wet cracking sounds as Ganzir falls.\n\nThe tables of weaponized anomalies slide from shock to exhausted sarcasm while the personal entries darken: the stray cat his father kicked to death, a dead boy whose skin is full of laughing worms wearing his face, a girl he could have saved and didn't. Deleted files and a three-month blank leave him holding a briefcase he can only describe as not round, certain it must reach 579. Cornered by blade-armed statues that move when unwatched, he works out that the only way to hit 579 is to jump into the hole and throw the case on the way down, calls himself the murder victim in someone else's story rather than the detective, and jumps; the last entry is a tangle of overheard voices saying they should never have looked.",
   "related": [
     {
       "slug": "scp-579",
-      "note": "The destination of Pietro's journey, whose own file is almost entirely withheld."
+      "note": "The anomaly at Site-62C that Pietro is trying to reach, and in whose chamber the suit was found."
     },
     {
       "slug": "scp-2000",
-      "note": "A Foundation safeguard for humanity that becomes a target in this story."
+      "note": "Wiped out in this story when the Foundation deliberately sets off Yellowstone."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

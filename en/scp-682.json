@@ -2,18 +2,18 @@
   "slug": "scp-682",
   "lang": "en",
   "hook": "SCP-682 is the Foundation's least solvable problem, and the article admits it from the very first sentence of its containment procedures. Read it as a portrait of an organization facing something it cannot beat, and pay attention to how calmly the paperwork records that fact.",
-  "whyItMatters": "682 is one of the most famous Keter-class entries on the wiki, and it became a kind of shared stage. The article itself brings in several other SCPs, and its linked termination log turned the question of what might finally work against it into a long-running parade of crossovers through which many readers first meet other anomalies.\n\nThe credits name Dr Gears and Epic Phail Spy, and a \"Dr. Gears\" also appears inside the file as a researcher making suggestions. Early authors writing themselves into the setting is a small but characteristic habit of the wiki's first series.",
-  "thingsToNotice": "Notice the ordering: the instruction to destroy it comes before any explanation of how to hold it. The breach list then tells a story through formatting alone; the names, ranks and repeated casualty markers convey the cost without a single dramatic sentence.\n\nThe interview fragment is short but carefully placed. 682 barely speaks, and what it does say sums up its view of humanity. The termination addendum shows it adapting to an attack, which quietly changes the rules for every future attempt and sets up the separate termination log.",
+  "whyItMatters": "682 is one of the most famous Keter-class entries on the wiki, the go-to example of something the Foundation simply cannot kill. It also works as a crossroads: within a few pages it touches 079, 409, 689 and 182, so it doubles as a tour of other anomalies, and it ends by pointing to a separate termination log.\n\nIt is a useful contrast to the quieter early files. Where many of them get their effect from withholding, this one leans on scale, attrition and spectacle, and still keeps the report voice steady throughout.",
+  "thingsToNotice": "Notice the ordering: the instruction to destroy it comes before any explanation of how to hold it, and the method of holding it is to drown it in hydrochloric acid. The irony is spelled out a few lines later, since the gills in its nostrils pull usable matter out of any liquid, so the acid that keeps it down is also what it regenerates from; it has been seen moving and talking with 87% of its body destroyed or rotted.\n\nThe interview is short and brutal: asked why it killed some farmers, it says nothing intelligible until a D-class leans in to point out that its throat is wrecked, at which point it attacks him and finally answers that the farmers were disgusting. The breach list then counts the cost through formatting alone: six escapes, and almost every line ends in a string of KIA tags.\n\nThe SCP-409 test shows how termination attempts backfire. The crystallization tore into it, stalled at 62% and then blew apart, taking limbs and organs with it, yet within hours it was regrowing and promising to kill and eat everyone involved, and it came out immune. From then on any new method has to be tried on a tissue sample first, while SCP-182 does everything it can to avoid even entering the containment area.",
   "related": [
     {
-      "slug": "scp-999",
-      "note": "Contains a famous and very different encounter with 682, the same monster seen through comedy."
+      "slug": "scp-079",
+      "note": "The machine intelligence this file says 682 held a complex exchange with during brief contact."
     },
     {
-      "slug": "scp-079",
-      "note": "The machine intelligence 682 is noted to have communicated with, a quieter kind of hostile mind."
+      "slug": "scp-409",
+      "note": "The anomaly used in the termination attempt logged here, which 682 ended up immune to."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

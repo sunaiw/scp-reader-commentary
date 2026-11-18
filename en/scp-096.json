@@ -1,19 +1,10 @@
 {
   "slug": "scp-096",
   "lang": "en",
-  "hook": "SCP-096 is built around a single trigger, and the article makes sure you understand how easy it is to set off. The most memorable part isn't the description but the interview at the end: the voice of someone who was there, and the one small moment that kept him alive.",
-  "whyItMatters": "Alongside 173, 096 is one of the wiki's best-known rule-based anomalies, defined less by what it is than by the condition that sets it off. A premise you can explain in one sentence travels well, and 096 spread far beyond the site through fan art, videos and games such as the free horror game SCP - Containment Breach.\n\nIt also shows how bureaucracy can become part of the story. A termination request moves from petition to approval within a few lines, and the outcome is handed off to an incident report that the article never includes.",
-  "thingsToNotice": "Look at what the containment procedures forbid: not weapons or open doors, but cameras and photographs. Because the hazard is information about the face, the document treats images themselves as dangerous, and then notes almost in passing that artistic depictions are an exception. That one aside sets up the final exchange of the interview.\n\nThe interview does the emotional work the clinical sections refuse to do. The captain's rough, profane voice cuts sharply against the report's measured tone, and his answer to the last question lands harder than any statistic in the file.",
-  "related": [
-    {
-      "slug": "scp-173",
-      "note": "The opposite rule: a creature you must never stop looking at."
-    },
-    {
-      "slug": "scp-055",
-      "note": "Another anomaly where perceiving it is the problem, this time through memory rather than sight."
-    }
-  ],
+  "hook": "SCP-096 is built around a single trigger, and the article makes sure you understand how easy it is to set off. The most memorable part isn't the description but the interview at the end: the voice of someone who was there, and the one small moment that kept him alive. That interview is profane and describes soldiers being torn apart in plain terms.",
+  "whyItMatters": "096 is a textbook rule-based anomaly, defined less by what it is than by the condition that sets it off. A premise you can explain in one sentence is easy to retell, which goes a long way toward explaining why this file is so widely known.\n\nIt also shows how bureaucracy can become part of the story. A termination request moves from petition to approval within a few lines, and the outcome is handed off to an incident report that the article never includes.",
+  "thingsToNotice": "The trigger is seeing its face, by any means: in person, on video or in a single photograph. The creature then covers its face, screams and weeps, and a minute or two later sprints toward whoever looked, wherever they are, at speeds nothing has managed to stop; when it arrives it kills them, the rest is expunged, and no victim has ever left a trace. That is why the procedures ban cameras rather than weapons, and why the brief note that drawings don't set it off matters later.\n\nThe interview supplies what the clinical sections refuse to. The captain's squad saw the face because it turned while he happened to look away to take a call from a doctor; it then ripped a corporal's leg off, shrugged off roughly a thousand rounds, and kept tearing his men apart with half its torso blown away by an anti-tank launcher. Only once his squad was dead did the backup team get a bag over its head, at which point it simply sat down. When he is offered an artist's drawing of the face at the end, he refuses, and the doctor's very next act is to request its termination.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

@@ -2,18 +2,9 @@
   "slug": "scp-3008",
   "lang": "en",
   "hook": "Almost everyone has been briefly lost in a huge furniture store. SCP-3008 asks what happens when that feeling never ends. The short report is only the doorway; the heart of the article is a recovered journal, so set aside time to read it in full.",
-  "whyItMatters": "3008 is one of the most widely shared articles of Series IV, partly because its premise is instantly relatable and partly because it is genuinely funny. It belongs to a strand of SCP writing that finds dread in ordinary, familiar places, and it has inspired fan games and videos well beyond the wiki.\n\nIt also shows how much an SCP can lean on a single in-universe document. The Foundation's report is brief, and nearly everything readers remember afterward comes from one person's voice.",
-  "thingsToNotice": "The journal's humor is doing real work. The narrator jokes constantly, and the way the jokes thin out over time tells you how things are going better than the events themselves. The Foundation's short interjections are placed at precise moments and recast what he has just written.\n\nNotice how the community inside, named after the signs hanging overhead, becomes the emotional center, and how the journal briefly argues that people are kinder than fiction usually allows. The last line of the journal reframes the whole place, and the closing note explains how the journal got out without dwelling on what that cost.",
-  "related": [
-    {
-      "slug": "scp-087",
-      "note": "Another interior that goes on far longer than it should, told with none of 3008's humor."
-    },
-    {
-      "slug": "scp-106",
-      "note": "Another place you can be pulled into and may not return from, played as pure horror."
-    }
-  ],
+  "whyItMatters": "Written by Mortos, 3008 is one of the most widely shared articles in the 3000s, partly because its premise is instantly relatable and partly because it is genuinely funny. It belongs to a strand of SCP writing that finds dread in ordinary, familiar places, and its subtitle sells the joke before you even start.\n\nIt also shows how much an SCP can lean on a single in-universe document. The Foundation's report is brief, and nearly everything readers remember afterward comes from one person's voice.",
+  "thingsToNotice": "The report tells you the outcome before the journal starts: a man came out of the main entrance after midnight, one of the faceless staff followed him ten seconds later, and it killed him before guards put it down. Everything you then read is the notebook he was carrying, so the jokes are coming from someone you already know is dead.\n\nThe humor thins as the stakes rise: he finds Exchange, a walled town of fifty-odd people named after the sign above it, learns that Chris has been inside for years, stabs staff through holes in the wall and hauls their bodies to a dump called Pickup, where he finds they are nothing but skin all the way through. A town called Trolleys is wiped out except for twelve survivors, Jared bleeds to death because nobody there is a doctor, and his theory that everyone came from slightly different realities is quietly backed up by the Foundation's own notes: the drone overhead was theirs, and no new people had entered from their side while newcomers kept appearing inside.\n\nThe ending is grim and specific. A scrap of staff body hidden in a supply box has been drawing ever larger attacks, the wall finally gives way, and his last line is that his worst fear is dying that night and simply waking up there again the next morning. The closing note guesses he got split from the group while being chased and stumbled onto the exit, which is exactly how he came to die ten seconds outside it.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

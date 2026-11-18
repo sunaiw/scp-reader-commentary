@@ -2,18 +2,9 @@
   "slug": "scp-055",
   "lang": "en",
   "hook": "SCP-055 is about something you can't keep in your head, and it is written so that you feel that rather than just read about it. Go in expecting a puzzle rather than a monster, and pay as much attention to how the sentences are built as to what they say.",
-  "whyItMatters": "055 is one of the wiki's foundational anti-meme articles, built on the idea of information that actively removes itself from memory. Co-author qntm is also the writer behind the Antimemetics Division stories, which take the concept much further, so this file is a natural starting point for that whole thread.\n\nIt is also a good example of conceptual horror. Its Keter classification isn't about any demonstrated physical danger; the document openly admits it cannot tell whether there is any, and that uncertainty is the threat.",
-  "thingsToNotice": "The description is built as a list of unknowns, and the repetition is the point. By the time it mentions people periodically rediscovering this very file, the article has quietly turned its attention to you. The self-reference is light but effective.\n\nThe debriefing is the clever turn: instead of trying to remember what the object is, the team holds on to what it isn't, and the dialogue loops as the trick works and fails in real time. The link at the bottom continues the story and is worth reading straight afterward.",
-  "related": [
-    {
-      "slug": "scp-096",
-      "note": "Another anomaly where perceiving it is the danger, there through sight, here through memory."
-    },
-    {
-      "slug": "scp-173",
-      "note": "The opposite relationship to attention: an object you must never stop observing."
-    }
-  ],
+  "whyItMatters": "055 is one of the wiki's foundational anti-meme articles, built on the idea of information that actively removes itself from memory. It is credited to qntm and CptBellman, and it closes with a link to a follow-up story, so the file reads as the opening of a longer thread rather than a closed case.\n\nIt is also a good example of conceptual horror. Its Keter classification isn't about any demonstrated physical danger; the document openly admits it cannot tell whether there is any, and that uncertainty is the threat.",
+  "thingsToNotice": "The description is built as a list of unknowns, and the repetition is the point. Nobody knows who acquired it, who designed its cell or why guards must not stand outside, and the file even concedes the object might already have killed hundreds of staff with no one aware of it. When it mentions casual readers of this very document periodically rediscovering all this, panicking for a few minutes and then forgetting, it has quietly turned its attention to you.\n\nDocument 055-1 goes further, suggesting the thing was never acquired at all and is an agent planted by some unknown party to watch the Site, the Foundation or humanity, with no countermeasure even conceivable. The debriefing then delivers the clever turn: the team can't hold on to what the object is, but they can remember agreeing that it is not a sphere, and from that negation they reconstruct the fact that it exists. The loop plays out live as the investigator himself loses the thread mid-conversation and has to be reminded by his subject, which leads to the dry closing recommendation to station someone who can remember 055 at every critical site.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

@@ -1,19 +1,10 @@
 {
   "slug": "scp-106",
   "lang": "en",
-  "hook": "Before you even reach the description, SCP-106's file shows its containment procedures being rewritten, and failing. Treat the revision notes as part of the story. They tell you more about the threat than any adjective could.",
-  "whyItMatters": "The Old Man is one of the classic Keter-class pursuers, and his ability to sink into solid surfaces and drag victims into a private pocket dimension is an idea many later entities echo. He is also one of the most recognizable figures from SCP - Containment Breach, which brought him to a wide audience.\n\nThe article is credited to Dr Gears, whose name is also on SCP-914 and, with a co-author, SCP-682. Reading the three together is a good way to see how one early writer moved between clinical horror, menace and dry curiosity.",
-  "thingsToNotice": "The stacked revisions are a clever device: each superseded version is stamped as discontinued with a reason, so you watch the Foundation learn by failing. The final version's odd specifics, such as layered walls, random supports and sudden floodlights, read as lessons paid for in earlier breaches.\n\nNotice the warning that 106 has no docile state and that quiet periods should be treated as a lure. That inversion, calm meaning danger, is the article's core fear. The recovery procedure at the end is deliberately uncomfortable, showing that the Foundation's solution carries a moral cost, stated in exactly the same flat procedural voice as everything else.",
-  "related": [
-    {
-      "slug": "scp-682",
-      "note": "Another Keter whose file is shaped by a history of repeated breaches."
-    },
-    {
-      "slug": "scp-087",
-      "note": "A different impossible space that you should never follow anything into."
-    }
-  ],
+  "hook": "Before you even reach the description, SCP-106's file shows its containment procedures being rewritten, and failing. Treat the revision notes as part of the story; they tell you more about the threat than any adjective could. Be aware that the later sections describe deliberate injury to young people in clinical detail.",
+  "whyItMatters": "106 is one of the classic Keter-class pursuers, and the image at its center, a rotting figure that sinks into walls and floors and drags people into a space only it can reach, is the kind of idea that sticks with readers long after the details fade.\n\nIt is also an early showcase for a structural trick: keeping superseded containment procedures on the page. Instead of one authoritative set of rules, you get a record of attempts, which turns a plain report into a short history of losing.",
+  "thingsToNotice": "The stacked revisions are a clever device: each old version is stamped discontinued with a reason, and in the second case the fluid agitation system actually spread the corrosion and caused several breaches at once. The final version's odd specifics (forty layers of lead-lined steel, randomly spaced struts, sixteen fluid-filled spheres and 80,000 lumens of instant light) read as lessons paid for in earlier escapes.\n\nThe description is blunter than the procedures: it prefers victims aged 10 to 25, cripples them by wrecking organs, muscles or tendons, and pulls them into its pocket dimension, where it hunts for pleasure rather than hunger, keeps many alive for long stretches, plays with them, and sometimes lets them go only to chase them again. The photo caption of an agent who lived for one hour after two hours inside makes that concrete.\n\nThe ending is the real shock. The Foundation's recall protocol is to take someone in that same age range, break a long bone like the femur or cut the Achilles tendon, put them in the restored cell and broadcast their screams across the site, repeating the injuries every twenty minutes until 106 comes for them. It is written in exactly the same flat procedural voice as the rest, which is the point.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }
