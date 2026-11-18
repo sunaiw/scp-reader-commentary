@@ -1,0 +1,15 @@
+{
+  "slug": "scp-2578",
+  "lang": "en",
+  "hook": "A Keter file about something that kills would-be tyrants, after sending them seventy-two hours of countdown emails and a chance to step down. Real political figures are named in its logs, and the deaths are described plainly. Watch what the Foundation actually does in the containment procedures, because stopping the killings is not on the list.",
+  "whyItMatters": "2578 inverts the usual arrangement: the anomaly is openly benevolent by its own standards, and the Foundation's job becomes cleaning up after it, down to framing a condemned D-class for each death. That makes it a moral puzzle more than a monster story, and the file never tells you whether to cheer.\n\nThe three-crescent signature and the tags point to a wider body of related work, but nothing here depends on knowing it.",
+  "thingsToNotice": "The killer is a three-meter spacecraft shaped like a horseshoe crab that usually stays more than 4,000 km up and fires something that bores through the target from crown to groin without damaging anything nearby; afterwards it emails victory notes and words of love, signed with three crescents, to the people it believes it has protected. The procedures are pure cover-up: hypnotic drugs give a D-class false memories of the assassination, and those follow-up emails are scrubbed so civilians can't write back.\n\nThe Lupescu entry is the quiet gut-punch: the hole went through his chest, and the note simply adds that minutes earlier he had grown agitated and insisted on carrying his four-year-old daughter on his shoulders, leaving the reader to draw the conclusion. In Incident 2578-1427 the Foundation's own contact attempt hands the craft information about a stele in North Korea; it kills that object's containment staff, emails apologies to their families, snaps SCP-1427 in two and tows it toward the Sun, then thanks Dr. Naismith as a friend. By the end the O5s are considering it as a tool for neutralizing awkward anomalies.",
+  "related": [
+    {
+      "slug": "scp-1427",
+      "note": "The object at the center of this file's one incident report; worth reading on its own terms."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

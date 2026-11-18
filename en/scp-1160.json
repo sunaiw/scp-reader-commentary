@@ -1,0 +1,19 @@
+{
+  "slug": "scp-1160",
+  "lang": "en",
+  "hook": "A short file about a giant monster bird and the unlikely weapon the Foundation found against it. Read the containment procedures closely, because the punchline is already sitting there. It's mostly funny, though the old island manuscript quoted in the description has a genuinely grim edge.",
+  "whyItMatters": "1160 shows the Foundation solving a problem with marketing instead of firepower: an anomaly that weakens as more people know about it is contained with a children's breakfast cereal. That turns the usual logic of secrecy upside down, since here spreading awareness is the containment.\n\nThe class line, which lists both Keter and Safe, sums up the story in two words.",
+  "thingsToNotice": "The rule is inverse: the more people aware of the bird's nature, the more its body decays and shrinks, from roughly 85 meters at recovery to about 25 centimeters by 2014. The Foundation learned this the hard way in 1943, when a routine amnestic cycle for the D-class at Site 77 was followed by the bird returning larger and killing staff and islanders.\n\nProtocol Tango-77, codenamed Saturday Morning, answered with Super Coco Pows and its mascot Bradbury Buzzard, the box carrying memetic triggers reverse-engineered from other memetic phenomena. The latest survey shows the joke and the risk together: children once called the mascot a mean bird hurting people on a secret island, and now call it a cheeky little bird trying to snatch cereal, which is exactly why a slump in the brand counts as an infohazard emergency.",
+  "related": [
+    {
+      "slug": "scp-2061",
+      "note": "One of the existing memetic phenomena the cereal box's triggers were reverse-engineered from."
+    },
+    {
+      "slug": "scp-2076",
+      "note": "Also cited as raw material for the cereal's memetic triggers."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

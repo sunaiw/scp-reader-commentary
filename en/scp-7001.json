@@ -1,0 +1,19 @@
+{
+  "slug": "scp-7001",
+  "lang": "en",
+  "hook": "SCP-7001 is about Site-19 itself, described here as the largest secure facility the Foundation has built, and it opens with a routine audit call that drifts somewhere strange within a few lines. It is long, assembled from Overseer Council transcripts, infiltration reports and a running series of containment failure reports, and it swings between slapstick and genuine dread. The byline on the page is PlaguePJP.",
+  "whyItMatters": "The file treats the Foundation's own core institutions, Site-19, the Overseer Council and the Administrator, as the anomaly, so it is less about one object than about what the whole organization stands on. It also brings in four staff characters that the report itself calls bombastic and unprofessional, plus a parade of well-known SCP numbers, so part of the fun is recognition.\n\nUnder the jokes it keeps asking what containment actually rests on.",
+  "thingsToNotice": "Site-19 is not a place but a memetic site that hops between real facilities, rewriting memories, documents and floorplans, and every push to contain it makes the wider Foundation come apart: the Site-17 breach, the grid outage, warheads primed at five sites. The construction folder explains why, since the Administrator built himself, the Council and Site-19 as three pillars standing for Secure, Protect and Contain, and after 19 existed, containment success rose as chance fell.\n\nThe silliness is part of the mechanism, from the shrinking potion and the NUH UH UH wall to Clef in novelty glasses and Mercury sent back stamped with the word CONTAINED. O5-1, who pushed hardest for force, meets the Administrator, learns that belief was what made the Foundation work, is told to choose between universal forgetting and a weaker Foundation, and steps into the void at the site's core. The final meeting shows his choice without saying it: someone triggered the dead man's switch, a month of records is missing, and O5-1 casually praises Tilda for running a tight ship at 19.",
+  "related": [
+    {
+      "slug": "scp-173",
+      "note": "Its absence from an inventory checklist is the first crack this file shows."
+    },
+    {
+      "slug": "scp-131",
+      "note": "Makes a brief cameo here doing what it is known for."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

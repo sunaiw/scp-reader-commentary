@@ -1,0 +1,10 @@
+{
+  "slug": "scp-019",
+  "lang": "en",
+  "hook": "A short Keter file about an enormous, unbreakable vase in a Classical Greek style that keeps letting out small, vicious creatures. Most of it is a list of what does and doesn't make things worse, but the brief research log at the end is where it quietly escalates, so don't skim it.",
+  "whyItMatters": "019 is a clean example of a container anomaly: the object itself just sits there, and the danger is whatever keeps coming out of it. Its containment is essentially a cold room and an incinerator on standby, which makes the procedures easy to picture and just as easy to imagine failing. It also shows how much menace a handful of undated log lines can carry.",
+  "thingsToNotice": "The vase's inside doesn't match its outside: looking down shows only darkness, tipping it releases creatures as if it had been packed full, and putting anything in triggers a flood. The creatures mutter something close to Ancient Greek, have almost no internal organs and die within two days outside, which leads Dr. Vaux to suggest they were never meant to live out here.\n\nThen the log turns. One specimen goes partly transparent and slips past the monitors long enough to damage its unit, others start surviving the incinerator, and by the last entry most of them barely notice it. The researchers float the idea that the vase is defending itself and may even be sentient, and the file ends with an acid bath still only under consideration, a containment method visibly losing.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

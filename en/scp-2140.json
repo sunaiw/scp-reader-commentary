@@ -1,0 +1,10 @@
+{
+  "slug": "scp-2140",
+  "lang": "en",
+  "hook": "A three-paragraph Thaumiel file about an image you are never shown. Its whole effect rests on one statistic in the description, so read that sentence slowly and ask what it is really claiming. It takes a couple of minutes, and the second read is where it lands.",
+  "whyItMatters": "2140 is a Foundation-made weapon: something the organization reconstructed from a recovered artifact and now deploys, with the O5s and the Ethics Committee signing off on any wider use. It shows how much a file can do through implication alone, with no test logs and no interviews, only procedures, a description and one footnote.\n\nThe script the image is drawn in is redacted throughout, so the article reads cleanly without any background on where it comes from.",
+  "thingsToNotice": "Everyone who sees the complete image is a loyal, cleared Foundation employee, not because only such people are allowed to look, but because looking rewrites your past until you always were one, witnesses and paperwork included. The dig team guarding the original turned out to be a covert cell inside the Foundation, and the three agents exposed during the raid were later found to be another deep cell, despite coming from three continents and having met less than a year earlier.\n\nThat footnote is the real horror. The Foundation files these people as hidden traitors finally unmasked, while the article's own logic says they were converted after the fact by what they saw. Reread the procedures with that in mind: exposure to SCP-2140 is listed right beside termination and amnestics as a way to handle people who know too much, every member of the project was exposed once it was built, and the loyalty of the organization starts to look partly manufactured by the thing it keeps in deep storage.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

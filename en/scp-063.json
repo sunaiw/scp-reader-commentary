@@ -1,0 +1,15 @@
+{
+  "slug": "scp-063",
+  "lang": "en",
+  "hook": "A very short Safe file about a plastic toothbrush with a misspelled slogan on the side. It's a quick, almost comic read, so watch for the single sentence in the addendum that changes the tone.",
+  "whyItMatters": "063 pushes a mundane object about as far as it will go: the bristles erase any dead or inorganic matter outright, yet the main containment requirement is that someone brushes their teeth with it every day. The file also openly compares it to SCP-2207 and suggests a shared maker without saying more. Its brevity is a large part of the appeal.",
+  "thingsToNotice": "The procedures hide the best detail: skip a day and it starts emitting radiation that slowly warps everything nearby into dust, so the safest containment is daily hygiene, and nobody has checked what that radiation does to living people. The bristles don't cut what they touch but delete it without a trace, while the people who brush with it only report unusually clean teeth.\n\nThe addendum then goes cold. The St. Petersburg thief who used it to crack safes kept insisting he had simply found it, and the questioning continued until he took his own life, for reasons the file still lists as unknown.",
+  "related": [
+    {
+      "slug": "scp-2207",
+      "note": "Named in this file as erasing matter the same way, with a hint at a common origin."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}
