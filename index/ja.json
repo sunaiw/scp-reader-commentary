@@ -62,6 +62,10 @@
       "status": "reviewed"
     },
     {
+      "slug": "scp-018",
+      "status": "reviewed"
+    },
+    {
       "slug": "scp-020",
       "status": "reviewed"
     },
@@ -194,6 +198,10 @@
       "status": "reviewed"
     },
     {
+      "slug": "scp-100-jp",
+      "status": "reviewed"
+    },
+    {
       "slug": "scp-1000",
       "status": "reviewed"
     },
@@ -306,6 +314,10 @@
       "status": "reviewed"
     },
     {
+      "slug": "scp-1360",
+      "status": "reviewed"
+    },
+    {
       "slug": "scp-1370",
       "status": "reviewed"
     },
@@ -359,6 +371,10 @@
     },
     {
       "slug": "scp-1522",
+      "status": "reviewed"
+    },
+    {
+      "slug": "scp-1529",
       "status": "reviewed"
     },
     {
@@ -443,6 +459,10 @@
     },
     {
       "slug": "scp-184",
+      "status": "reviewed"
+    },
+    {
+      "slug": "scp-1845",
       "status": "reviewed"
     },
     {
@@ -575,6 +595,10 @@
     },
     {
       "slug": "scp-240-jp",
+      "status": "reviewed"
+    },
+    {
+      "slug": "scp-2406",
       "status": "reviewed"
     },
     {
@@ -746,7 +770,15 @@
       "status": "reviewed"
     },
     {
+      "slug": "scp-3041",
+      "status": "reviewed"
+    },
+    {
       "slug": "scp-3043",
+      "status": "reviewed"
+    },
+    {
+      "slug": "scp-3045",
       "status": "reviewed"
     },
     {
@@ -827,6 +859,10 @@
     },
     {
       "slug": "scp-348",
+      "status": "reviewed"
+    },
+    {
+      "slug": "scp-3512",
       "status": "reviewed"
     },
     {
@@ -991,6 +1027,10 @@
     },
     {
       "slug": "scp-4500",
+      "status": "reviewed"
+    },
+    {
+      "slug": "scp-451",
       "status": "reviewed"
     },
     {

@@ -1,0 +1,15 @@
+{
+  "slug": "scp-3041",
+  "lang": "en",
+  "hook": "A small, old iron knife that gives whoever holds it long enough a recurring violent nightmare. Before the description even begins, the file warns that its own information may be outdated and inaccurate, so read it with some suspicion. Content note: the dreams and a farewell letter at the end involve violence and a death by the writer's own hand, described in a way that stays mostly impressionistic but is unsettling.",
+  "whyItMatters": "Its tags place it among antimemetic and psychological horror, and it uses the plain test-log format to create dread rather than to inform. The same test is logged again and again with the same wording, so the reader is drawn into comparing entries line by line. That comparing is exactly where the horror lives.",
+  "thingsToNotice": "Small differences between near-identical logs carry the story: a researcher's notes contradict his own instructions, and a lingering smell keeps getting mentioned. The cessation memo then switches to dry administrative language, listing staffing and footage discrepancies in bullet-point calm. The file closes with a personal letter, so the last voice you hear is a private, first-person one after pages of institutional reporting.",
+  "related": [
+    {
+      "slug": "scp-3045",
+      "note": "Same credited author; another file built from a sequence of test iterations, played for laughs instead of dread."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

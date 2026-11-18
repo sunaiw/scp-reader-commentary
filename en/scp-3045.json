@@ -1,0 +1,15 @@
+{
+  "slug": "scp-3045",
+  "lang": "en",
+  "hook": "A file-compression program that shrinks stories by trimming them down to what it decides matters, and can be run again on its own output. The test logs are the whole show: well-known works squeezed pass after pass. It is mostly a comedy, but one test drifts into unpleasant, disturbing territory, so be ready for a change of tone partway through.",
+  "whyItMatters": "The humor depends on what the reader already knows: you need some memory of Hamlet or the Indiana Jones film to enjoy what gets cut and what stubbornly stays. It turns the standard SCP test-log into a joke format, where each iteration is a punchline built on the previous one. The containment procedures also plant a single odd rule up front that the logs later explain.",
+  "thingsToNotice": "Read each compression as a piece of criticism: the program keeps deciding what a story is \"really\" about, and its choices are often funnier than any summary a person would write. The Godot test is short for a reason worth noticing. The final test escalates instead of shrinking, which flips the pattern the earlier logs set up, and the recovery addendum ends on an open question rather than a neat resolution.",
+  "related": [
+    {
+      "slug": "scp-3041",
+      "note": "Same credited author; another file told through repeated test runs that shift a little each time."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}
