@@ -1,19 +1,10 @@
 {
   "slug": "scp-1733",
   "lang": "en",
-  "hook": "This is about a recording of a real 2010 NBA season opener that comes out a little different every time it is played. You do not need to follow basketball, though it helps to know the game was a hyped matchup. Read the playback table in order, because the table is the story.",
-  "whyItMatters": "1733 is a well-known example of the escalating log, where a plain table charts something getting worse entry by entry. Tying a real sporting event to a closed loop makes the premise unusually concrete and easy to picture. It is also one of the more frequently recommended loop stories on the wiki.",
-  "thingsToNotice": "The early rows are almost funny: booing, sharper defense, commentators shrugging off deja vu. The turning point is when the players stop playing, and from then on the camera never moves again, a single fixed shot that is a chilling formal choice. Watch how the trapped crowd splits into groups, each with its own explanation of what is happening to them. The final redacted row leaves the worst to your imagination, and the reason testing stopped is that each playback harms the people inside.",
-  "related": [
-    {
-      "slug": "scp-3008",
-      "note": "Another crowd stuck in a familiar building, splitting into factions."
-    },
-    {
-      "slug": "scp-895",
-      "note": "Another anomaly where watching the footage is the problem."
-    }
-  ],
+  "hook": "SCP-1733 is a DVR recording of the real Celtics versus Heat season opener from October 2010 that plays out a little differently every time it is run. You do not need to follow basketball, though it helps to know this was the first game Miami's new Big Three played together. Read the playback table in order, because the table is the story; be warned that it moves into murder, suicide, sexual content and ritual sacrifice.",
+  "whyItMatters": "The article is a pure escalation log: a dry table where each row is a little worse than the last, and the format does nearly all of the storytelling. Pinning the loop to a real game in a real arena, with real commentators and players, makes the premise unusually concrete. It also raises an uncomfortable question the researchers state plainly, that the people inside seem to be real and suffer, which is why testing is stopped.",
+  "thingsToNotice": "The first rows are almost comic: a crowd booing on cue, a block that never happened in the broadcast, a 0-0 game because both teams have learned each other's plays, commentators shrugging off deja vu. At playback 045 the players refuse to play, everyone gathers on the court, and from then on the camera crew stops working, so every later row is seen through one locked broadcast shot. After that, violence arrives: a man knocked unconscious one playback wakes unharmed in the next and beats one of his attackers to death, the trapped crowd splits into a barricaded team camp, a group of parents and children under a championship flag, and the 'Faithkeepers', who burn phones and wallets as offerings. Later rows record an orgy behind curtains in a loge, people jumping from the balcony, and Paul Pierce and LeBron James ritually killed and disembowelled with their bodies shown on the Jumbotron, which changes nothing. The last legible rows have the Faithkeepers calling for child sacrifice while adults form a wall to protect the children, and the final entry is the arena light turning deep red before the record is expunged. Notice that every reset returns them unharmed but remembering more, so the loop only deepens their awareness.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

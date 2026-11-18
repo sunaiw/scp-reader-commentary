@@ -1,19 +1,10 @@
 {
   "slug": "scp-895",
   "lang": "en",
-  "hook": "Short and sharp, this is a classic piece of camera-feed horror. The object is an ordinary-looking coffin; what matters is who is watching, and through what. Read the recovery log slowly and picture yourself on the command end of the radio.",
-  "whyItMatters": "895 is an early example of the wiki's fascination with hazards that exist in recordings rather than in the room. It rests on a simple, effective split between what people on site experience and what people on the monitors see. That gap carries the entire article.",
-  "thingsToNotice": "The recovery log is a two-voice exchange in which the field team calmly reports nothing wrong while command grows steadily more alarmed. The worst thing is never described at all; the file only tells you how the viewers reacted. The containment rules make full sense only after you have read the log, and the enlarged safety radius at the end hints at an incident the file will not explain. Even the surveillance overlay at the top helps set the mood.",
-  "related": [
-    {
-      "slug": "scp-096",
-      "note": "Another anomaly where images themselves become dangerous."
-    },
-    {
-      "slug": "scp-1733",
-      "note": "Another case where recorded footage behaves in ways it should not."
-    }
-  ],
+  "hook": "Short and sharp, this is camera-feed horror in its simplest form. The object is an ornate oak coffin; what matters is who is looking at it, and whether they are looking through a lens. Read the recovery log slowly and picture yourself at the command end of the radio, watching the monitors.",
+  "whyItMatters": "The whole article rests on one clean split: people standing in the room see nothing unusual, while anyone watching a recording of the same room does. That makes the safety rules read backwards from what you might expect, since the danger is to the observers behind the screens rather than the agents beside the object. It is a compact study in how much a file can imply by leaving its worst detail blank.",
+  "thingsToNotice": "The recovery log is two voices drifting apart: the field team keeps reporting a clean, quiet mortuary while Command sees blood all over the lobby walls and then the coffin itself moving as if alive. When the lid is lifted and the coffin turns out to be empty, the only reply from Command is screaming and retching, and the team leader pulls everyone out. What the watchers actually saw is expunged in the Description too, so the article never shows the image, only its effect. The procedures quietly allow staff showing psychological trauma to be terminated, and the final addendum reveals a later expunged incident that killed three people and doubled the camera-free radius to 10 meters. The live-feed banner at the top of the page puts you in the watcher's chair before you read a word.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

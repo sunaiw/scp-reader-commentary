@@ -1,23 +1,19 @@
 {
   "slug": "scp-2935",
   "lang": "en",
-  "hook": "SCP-2935 is an exploration story told almost entirely through mission transcripts, and it rewards a slow, patient read. The setup is simple: a cave in rural Indiana opens onto a version of our world that is quietly wrong. Try to read it in one sitting, and listen to what is missing as closely as to what the team finds.",
-  "whyItMatters": "It sits among the most highly rated articles on the English wiki and is a standout of the dead-world subgenre. Much of its weight comes from the canon itself: the team walks through familiar Foundation sites and checks on anomalies readers already know, and finds them all equally still. It shows how much dread a writer can build with no monster ever appearing on the page.",
-  "thingsToNotice": "The moment the team reaches SCP-682 works as a measuring stick, since the wiki's most unkillable creature is the clearest proof of how total the event was. Agent Keller quietly collects oddities across the logs, from a jammed cell door to a body that does not match the others and a warning posted after everyone should have been gone. The hidden audio file at the end flips the whole expedition into a warning about our own side, and its last line is aimed straight at whoever is listening. Notice how often the logs mention the lack of birdsong and insects.",
+  "hook": "SCP-2935 is told almost entirely through expedition transcripts: a cave under an old cemetery near Joppa, Indiana opens onto a copy of our world in 2016 in which every living thing stopped at the same moment. The containment procedure is a single line about concrete, and the rest of the file explains why. Read it in one sitting, and keep an ear on what the team does not hear.",
+  "whyItMatters": "It is one of the highest-rated articles on the English wiki, and the author's note above it admits readers tend to finish it with a pile of questions. Its horror is built out of Foundation furniture rather than a monster: the team walks into Site-81 and Site-19, opens cells of anomalies it knows by number, and finds the same stillness behind every door. Automated systems that kept calling for help to nobody do more work here than any creature could.",
+  "thingsToNotice": "The team keeps meeting itself: Agent Roy turns over his own corpse in the Site-81 firing range, and the one body behind a jammed cell door, the only one that has rotted, wears Agent Keller's ID number. SCP-682 lies dead in its container at the bottom of the site, and the agents' disbelief is the article's measure of how total the event was. The encrypted warning Keller finds, posted after the date everything died, turns out to be an audio log by that other Keller, recorded on April 26: he answered a radio signal near Joppa, went through a cave into a dead world, came home to find his own world dead too, concluded he had carried death back with him, and shot himself in the cell he had jammed shut. That recasts the whole expedition, because the team is now in exactly his position. At Site-19, Keller types alone at a terminal and then insists this is not their reality; the on-site nuke is tripped with the team locked inside, he tells Command through the drone camera to seal the cave with them in it, and the drone flies home under a mushroom cloud. The log's closing line, \"You're Death, too,\" is pointed at whoever is listening, which includes the reader. Notice also how the missing birds and insects come up early in Devon's remark and return in the dead man's recording.",
   "related": [
     {
       "slug": "scp-682",
-      "note": "Its fate here is the clearest sign of how absolute the event was."
+      "note": "The team seeks it out in Site-81's lowest containment level; knowing its file sharpens that scene."
     },
     {
-      "slug": "scp-3001",
-      "note": "Another lone voice stranded in a reality with nobody left in it."
-    },
-    {
-      "slug": "scp-1730",
-      "note": "Another trip into a Foundation site from a reality that went wrong."
+      "slug": "scp-079",
+      "note": "Keller tries to wake it during the Site-19 leg of the expedition."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

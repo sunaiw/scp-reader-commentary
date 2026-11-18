@@ -1,19 +1,10 @@
 {
   "slug": "scp-1762",
   "lang": "en",
-  "hook": "A cardboard box, a coat of silver paint, a hand-lettered warning on the lid, and a flock of folded-paper dragons. That's the whole setup, and it turns out to be plenty. Go in expecting something gentle at first; the bittersweet tag is earned. Pay attention to the voice of the notes the box leaves behind.",
-  "whyItMatters": "With a rating above two thousand, this is one of the site's most loved Safe-class stories, and it shows how much feeling a document-and-letters format can hold with almost no Foundation drama. There's no breach and no villain on our side of the box, only a widening distance between two worlds. Later works seem to remember it too: SCP-6001 includes paper dragons that read like a nod to this one.",
-  "thingsToNotice": "The capitalized words in the messages do quiet work: Room, Family, Belief and Forgotten read like terms in a treaty only one side still remembers signing. Watch how the condition of the dragons tracks the story, fewer of them each time, then walking instead of flying, then arriving damaged, so the documents barely need to explain what's happening.\n\nThe last change to the lid's wording is the entire elegy compressed into a shift of tense. The short coda in the researcher's office keeps the ending from being pure loss, while carefully refusing to promise a return.",
-  "related": [
-    {
-      "slug": "scp-085",
-      "note": "Another Safe-class being made of drawing and paper, lonely in a world built for three dimensions."
-    },
-    {
-      "slug": "scp-6001",
-      "note": "A long, warm visit to a kinder world that seems to tip its hat to these paper dragons."
-    }
-  ],
+  "hook": "A cardboard box painted silver, a hand-lettered warning on the lid, and a flock of dragons folded from paper that fly out to play with the staff for a few hours and then go home. That is the whole setup, and it turns out to be plenty. Go in expecting something gentle at first; the bittersweet tag is earned. Pay attention to the voice of the notes the box leaves behind.",
+  "whyItMatters": "It shows how much feeling a document-and-letters format can hold with almost no Foundation drama: the Foundation never acts, it only receives, records and keeps the box safe. There is no breach and no villain on our side of the lid, only a growing distance between two worlds told through objects that come out of a box. Its fantasy vocabulary, with capitalized Rooms, Families and Agreements, gives it a fairy-tale register that sets it apart from most Safe-class files.",
+  "thingsToNotice": "The capitalized words in the messages read like terms of a treaty only one side remembers: the dragons' world, Fantasy, depended on Belief and on Rooms kept up by our Family, and the letters keep asking whether we have Forgotten. Watch the dragons themselves carry the story before the text does: fewer each time, then twenty walking because they cannot fly, then crumpled paper balls that twitch and die, then a single torn red dragon that collapses and unfolds to reveal the words 'War. Goodbye, friends.' What follows is not gentle at all: two-meter flames at 1700 °C and distant roaring from the box, torn paper and dead dragons thrown out, and for six weeks less and less paper and more and more matter that looks like muscle and tissue. The blood-stained parchment that ends the war reports the Giants and Centaurs dead and says the dragons will bury our Room so as not to hurt us, and the last scroll, with one dragon flying away over painted mountains, asks whether we will Forget them. Salt water seeps out, the burns heal, and the lid now reads HERE WERE DRAGONS, the whole elegy compressed into one change of tense. The coda, eight years later in Researcher Takenaka's office, gives one final opening: an amethyst carved with 'One last time', a book cataloguing species that are now likely extinct, and a box that falls to pieces when he touches it.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

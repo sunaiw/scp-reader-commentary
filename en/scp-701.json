@@ -1,19 +1,10 @@
 {
   "slug": "scp-701",
   "lang": "en",
-  "hook": "This entry reads like a scholarly dossier on an old play, so it helps to know that revenge tragedies traditionally end with a crowded, deadly final act. The horror is not a monster on the loose but the slow, orderly way a production drifts off course. Keep an eye on the rehearsal timeline.",
-  "whyItMatters": "701 is one of the key early appearances of the Hanged King, a figure tied to the wiki's Alagadda stories. It is also a fine example of a memetic hazard told through theatre and publishing history instead of a lab report. The idea of a script that quietly rewrites itself during rehearsals has stuck with many readers.",
-  "thingsToNotice": "The outbreak schedule is laid out like a production calendar, which makes the escalation feel methodical rather than chaotic. The creepiest touch is that the cast insist the altered script was always that way. The publication history shows how hard it is to bury a text once it is in circulation, and the reply from the Overseer at the end states that point with chilling resignation. The fact that only some performances go wrong keeps the threat unpredictable.",
-  "related": [
-    {
-      "slug": "scp-2718",
-      "note": "Another hazard that spreads through information itself."
-    },
-    {
-      "slug": "scp-1733",
-      "note": "A crowd turning on itself inside a staged spectacle."
-    }
-  ],
+  "hook": "SCP-701 is written like a scholar's dossier on an obscure seventeenth-century revenge tragedy, complete with a publication history and a list of surviving editions. It helps to know that plays of this kind traditionally end in a final act strewn with bodies. The horror here is not a creature on the loose but a production that slowly and politely goes wrong, so pay attention to the rehearsal timeline.",
+  "whyItMatters": "As its tags show, the article belongs to the wiki's Hanged King and Alagadda material, and the title figure enters here through the medium of theatre. It tells a memetic-hazard story through stage history and book collecting instead of a lab report, which gives the threat the dusty weight of something that has been circulating for centuries. The page itself points to an incident report and the play's text as separate documents, so this main file reads as the overview of a larger set.",
+  "thingsToNotice": "The outbreak pattern is laid out like a production calendar: a week or two out, the cast start performing a different version of the script in perfect unison and insist it has always gone that way; by the end of Act I a strange figure is standing at the edge of the stage; in the Act V banquet it is written into the play as the Hanged King. At that point the actors kill each other or themselves, sometimes with props that were not there a moment earlier, and the audience riots, attacking whoever happens to be in front of them; survivors who leave keep up the violence for about a day, and some end up comatose or permanently psychotic. That only about a third of productions end this way keeps the threat unpredictable. The publication history shows a text that refuses to stay buried, turning up under other titles online and as photocopies in school drama departments. The closing exchange delivers the bleakest line: the Overseer turns down the Keter upgrade and calls it lucky to lose only a hundred or so people a decade, because the secret got out long ago.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

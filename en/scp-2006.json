@@ -1,19 +1,10 @@
 {
   "slug": "scp-2006",
   "lang": "en",
-  "hook": "A welcome break from heavier fare: a shapeshifter whose only goal in life is to frighten people, and who is hopelessly bad at it. A passing familiarity with cheap 1950s monster movies makes it funnier, though you do not need it. Read it for the jokes first, and notice where the tone changes near the end.",
-  "whyItMatters": "2006 is a favorite example of the comedy-horror blend the wiki does so well. It also makes a neat point about object classes, since Keter here is about how hard something would be to stop, not how scary it currently looks. The closing memo nods at other famous Keters without naming them, which longtime readers will enjoy.",
-  "thingsToNotice": "The interview plays like a sketch, and the doctor's exaggerated panic does as much comic work as the entity itself. Then the director's memo turns the gag inside out by asking what happens if it ever learns what truly terrifies people. The whole containment strategy is simply to keep its taste in horror terrible, including mandatory acting lessons for staff. The humor and the threat grow from exactly the same fact.",
-  "related": [
-    {
-      "slug": "scp-682",
-      "note": "The regenerating lizard the director's memo alludes to."
-    },
-    {
-      "slug": "scp-999",
-      "note": "Another friendly entity that undercuts the wiki's usual dread."
-    }
-  ],
+  "hook": "A welcome break from heavier fare: a shapeshifter whose whole purpose in life is to frighten people, and whose favorite costume comes from a cheap 1953 monster movie. Knowing that kind of film helps the jokes, though you do not need it. Read it for laughs first, and notice where the tone shifts near the end.",
+  "whyItMatters": "It is a clean example of the wiki mixing comedy with horror, as its tags suggest. It also makes a useful point about object classes: Keter here describes how hard the thing would be to stop, not how frightening it looks today. The director's memo spells that logic out for staff who have started to laugh at it, which makes the page a handy primer on how classes work.",
+  "thingsToNotice": "The interview plays like a sketch: SCP-2006 jumps out as Ro-Man shouting about eating souls, and Dr. Louef's overacted screaming is exactly what the containment procedures require, since every staffer must take acting classes in looking afraid. The monthly ration of terrible B-movies is not a perk but a containment measure, meant to keep it convinced that this is what horror looks like. Then the director's memo turns the gag around by asking what happens if a being with no known limit on its shape-shifting escapes and learns about war, phobias, nuclear annihilation or the end of the world. The comedy and the threat come from the same fact, and the staff who were disciplined for laughing are the article's punchline.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

@@ -1,19 +1,15 @@
 {
   "slug": "scp-2718",
   "lang": "en",
-  "hook": "The page begins by ordering you to stop reading, and it is worth playing along with that framing instead of skipping past it. Read it as a document you were never meant to find, one layer at a time. The later material is heavy and existential, so choose a moment when you have room for something bleak.",
-  "whyItMatters": "2718 is one of the best-known articles built on the idea that the knowledge inside the file is itself the hazard, and it is among the bleaker reads on the wiki. The object class field, presented as a system error, sets the tone before any prose does. It also treats the Overseer Council unusually, showing its members as frightened people rather than remote authorities.",
-  "thingsToNotice": "Notice the layers: a warning section, a hurried technician's note, then a recording made by someone with only minutes left. The technician's postscript hints that the idea spreads simply by being understood, and the recording shows that spread happening around a conference table. Listen to how the speaker's composure slips as she talks. The end hands the problem to you, and the short line in Greek at the very bottom adds one last turn about a character's choice.",
+  "hook": "SCP-2718 opens by telling you to close the page, and it is worth playing along: imagine you are a staffer who followed a link you were never meant to see. The object class field is an error message and the number itself is a disguise, so the strangeness starts before the first real sentence. Later sections dwell in close physical detail on a body decaying, so pick a moment when you can take something bleak.",
+  "whyItMatters": "The article is built on the idea that a piece of knowledge, once understood, is the hazard, and it stages that idea through the document's own machinery: warnings that change their minds mid-paragraph, a containment scheme that hides the page by constantly swapping its number with other entries, and editors who drug themselves before touching it. It also shows the Overseers as frightened, fallible people in a room, which is unusual for a council normally kept offstage. The tags place it among meta and afterlife stories, and it reads as one of the darkest takes on what death means in the setting.",
+  "thingsToNotice": "The Description is a recording by O5-7 Miriam Prayther, dictated with minutes to live: the Council rebuilt O5-11 Roger Sheldon from bone fragments eighteen years after he died alone on a Galapagos cliff, and he eventually confessed that he had been conscious the entire time he was dead. His testimony is the cognitohazard: he felt his skin blister, insects lay eggs and larvae hatch inside him, his brain being eaten, and as he broke apart into birds, ants and ocean diatoms the pain only grew, with no judge or Hell to give it meaning, simply what being dead is. Watch the idea spread through the Council as he repeats it: one Overseer demands that death be declared a Keter to be contained, another wants dangerous anomalies purged, another collapses, and O5-1 orders amnestic gas for everyone. Prayther slips out of the gassed room, so she knows what awaits her, and as she records she begins to feel the same pull; she begs the listener to keep this knowledge and bring them back before a team breaks in and shoots her. In the radio chatter that follows, Roger has not escaped but walked into SCP-106's containment, seemingly preferring that to dying again, and the soldiers realize too late that her recorder is still running. Andrews, the technician whose editor's note sits above, knew he should not read the Description and read it anyway, which is the article's quiet proof of how irresistible the idea is, and the Greek line at the bottom is addressed to Roger by name.",
   "related": [
     {
       "slug": "scp-106",
-      "note": "The Old Man plays an unexpected part in the closing moments."
-    },
-    {
-      "slug": "scp-055",
-      "note": "Another anomaly defined by what you should not be able to know."
+      "note": "The 'Old Man' mentioned in the closing radio exchange; knowing its containment helps that scene land."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

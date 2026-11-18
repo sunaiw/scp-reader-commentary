@@ -1,23 +1,19 @@
 {
   "slug": "scp-4205",
   "lang": "en",
-  "hook": "This article is laid out like a folder of files left on a researcher's terminal, so open the drafts and journal entries in the order they appear. The images and video are part of the experience, so give the presentation your attention rather than skimming. Expect a character study at least as much as an anomaly report.",
-  "whyItMatters": "4205 is a strong example of the corrupted-document format, where the breakdown of the page itself carries the plot. Instead of the usual detached clinical voice, it centers a junior researcher who doubts himself, so the meta tricks hit emotionally rather than just cleverly. It shows how the wiki's format experiments can be used for something tender and sad.",
-  "thingsToNotice": "Follow the drafts as they shift from a supervisor's corrections to half-finished sections and finally to entries that abandon the template altogether. The journal is written to his father, and what Wade can and cannot recall turns into a slow countdown. The cold final version reads very differently after everything before it, and its closing note about Theodore Quale changes how you look back on Wade's encounters. Also notice the one window the eyes avoided, which ends up shaping the real containment procedures.",
+  "hook": "SCP-4205 is presented as a stack of numbered archive files on a Foundation terminal: report drafts by a junior researcher, his supervisor's review notes, and the private journal he keeps between them. Open the files in order and take your time with the images and video, which are part of how the story is told. The journal is profane and raw, and it reads more like a person unravelling than like a containment report.",
+  "whyItMatters": "The article turns the act of writing an SCP entry into its subject: a nervous newcomer learning the house style, getting it wrong, and being corrected in red ink. That gives it an unusually personal voice for a format that is normally cold and impersonal. The way the drafts themselves decay is the plot, so the page's layout carries as much meaning as its words.",
+  "thingsToNotice": "Wade Dalitz is the only person known to have seen the amber eyes and lived, and the journal he writes to his dead father tracks what that costs him: he is pulled off the project and confined to his house after learning the Foundation has been reading every entry, the eyes appear in every window there except the one in his front door, and they start talking to him and claiming him. His memory goes piece by piece, first his mother's phone number and then the name of Theo Quale, the classmate he admits he loved and never told, until the last entry is broken language about the smell of his father's bread and flocks of birds. The FINAL version, written six years later by another researcher, confirms Wade died and that the thirteen files we have just read were inserted into the database by the anomaly in the hours after his viewing event. The glass in his front door turns out to have been coated in lead glaze, which becomes the basis for the real containment procedure and an 84% drop in deaths. Its last note says no Dr. Theodore Quale exists in Foundation records; the man is a former classmate living in Fargo, so the second survivor Wade clung to, and the comforting talk they had, never happened the way he wrote it. Reread the early occurrence table after that, and notice how the supervisor's harsh notes look once you know where the drafts end up.",
   "related": [
     {
-      "slug": "scp-096",
-      "note": "Another anomaly where merely seeing it is the danger."
+      "slug": "scp-965",
+      "note": "One of the occurrence entries in Wade's drafts takes place in this object's containment facility."
     },
     {
-      "slug": "scp-3999",
-      "note": "A researcher coming apart inside the very file about his anomaly."
-    },
-    {
-      "slug": "scp-2718",
-      "note": "Another file whose own structure is part of the hazard."
+      "slug": "scp-048",
+      "note": "Appears in the occurrence table of the drafts as one of the cases Wade documents."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

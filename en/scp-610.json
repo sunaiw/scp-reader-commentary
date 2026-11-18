@@ -1,19 +1,10 @@
 {
   "slug": "scp-610",
   "lang": "en",
-  "hook": "A long-standing body-horror classic set in a quarantined region of Siberia. The main text is clinical and restrained, and much of the story lives in field logs that the page only lists by title. Go in expecting creeping unease rather than action, and be aware that the descriptions are unsettling.",
-  "whyItMatters": "610 is one of the wiki's foundational contagion stories and a common reference point for spreading biological threats alongside 008. Its containment strategy, essentially a fenced-off region and a scorched-earth policy, shows the Foundation at its most pragmatic. It is a good example of how much a list of withheld documents can suggest.",
-  "thingsToNotice": "The procedures obsess over distance and remote observation, and the reason becomes clear as you read on. Once infected creatures settle in place and begin reshaping their surroundings, the anomaly stops looking like a disease and starts looking like an ecosystem. The tunnels under the settlements and the restricted final log mean the article ends on a door it refuses to open. A passing hint about a failed operation suggests an origin the file chooses not to explain.",
-  "related": [
-    {
-      "slug": "scp-008",
-      "note": "Another classic of contagious transformation."
-    },
-    {
-      "slug": "scp-2935",
-      "note": "Another remotely surveyed zone where explorers' reports carry the story."
-    }
-  ],
+  "hook": "SCP-610 is body horror set in a fenced-off stretch of southern Siberia near Lake Baikal: a contagion that starts as an itchy rash and does not stop at the skin. Expect close description of bodies being overgrown and reshaped. The main page is clinical and restrained, and the field logs it lists appear here only by title, so read it as an overview that keeps its worst material behind closed doors.",
+  "whyItMatters": "The containment section is really a set of rules for never getting close: shoot from range, burn from as far away as possible, treat anyone who touches an infected creature as expendable, and examine possible exposures only by remote methods. That makes the Foundation's response read as triage rather than control, and the tags place it squarely in the body-horror and contagion corners of the wiki. Much of its effect comes from what the file declines to show.",
+  "thingsToNotice": "Track the stages: a rash, then thick scar-like tissue spreading over chest, arms, legs and back within hours, then death for about three minutes before the body restarts at two or three times normal activity and the scar tissue begins moving and growing on its own, sprouting extra arms and legs, stretching or widening the head, and splitting the body open so new branches of flesh can push out. Heat speeds this up until a full infection can take five minutes. Some infected then stop, root themselves in place and spread over everything around them, which turns the disease into something closer to a landscape built for the others. The newly infected run to other people for help, and those further along chase anyone they can see, which explains why the procedures fixate on distance. The file ends on caverns found beneath the infected settlements and a final log called Operation 'Source Point' restricted to the highest clearance, and an expunged failed operation is mentioned as a possible link to the infection's origin, so the article closes on questions it refuses to answer.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

@@ -1,19 +1,10 @@
 {
   "slug": "scp-1171",
   "lang": "en",
-  "hook": "One of the wiki's gentler, funnier entries: a house where someone from another world leaves messages in the fog on the windows. It is short and mostly dialogue. All you need to know is that the researcher is not being entirely honest with his new pen pal.",
-  "whyItMatters": "1171 is a well-loved comedy piece that uses an alien correspondent to poke fun at everyday prejudice. Instead of a menacing extraterrestrial, we get a grumbling neighbor type who complains about humans the way some people grumble about outsiders. The joke works because the phrasing is so familiar.",
-  "thingsToNotice": "Listen to the stock lines it uses about humans; the satire lives in how recognizable they are. The exchange with the agent is the punchline, since the entity is perfectly courteous to an actual human and then boasts afterward about putting him in his place. Notice too how the Foundation's whole containment effort here amounts to keeping a friendly correspondence going. The tiny sketched smiley face is a nice touch.",
-  "related": [
-    {
-      "slug": "scp-1437",
-      "note": "Another narrow doorway to another world and the exchanges across it."
-    },
-    {
-      "slug": "scp-2006",
-      "note": "Another comic entity whose menace is mostly bluster."
-    }
-  ],
+  "hook": "A gentle, funny entry: a house in Queensland where someone from another world writes messages in the condensation on the windows, and the Foundation's answer is to move a doctor in to write back. It is short and almost all dialogue. The one thing to know going in is that the doctor is not entirely honest with his new pen pal about what he is.",
+  "whyItMatters": "The article is a satire of racism told from the other side of the glass. Beauremont, a tentacled being with a brown carapace, talks about humans in the exact stock phrases of real-world bigotry and anti-immigrant talk, so the joke lands because every line is one you have heard before with a different group swapped in. The comedy tag fits, but the target is pointed and specific.",
+  "thingsToNotice": "Beauremont runs through the whole script: it is not racist, some of its best friends are human, humans are taking its jobs and cost it a promotion, violence would just be the natural result, and surely nobody wants a spawnsib marrying one. The doctor survives by simply agreeing and claiming to look the same as it, seven tendrils tall. The punchline is the agent who introduces himself as a human: Beauremont is effusively polite to his face, then tells the doctor it put that lippy gamete in his place. Containment here amounts to keeping a fake identity and a friendly correspondence going, and the hand-drawn smiley face with its oddly placed dots is a small, nice detail.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }
