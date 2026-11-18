@@ -1,19 +1,10 @@
 {
   "slug": "scp-426",
   "lang": "en",
-  "hook": "Keep an eye on the pronouns. The whole document is narrated in a voice that shouldn't be there, and once you notice why, every line of the containment procedures reads differently. It's short enough to read twice, and the second pass is worth it.",
-  "whyItMatters": "426 is one of the wiki's best-known pieces of linguistic weirdness: a mundane kitchen appliance made strange purely through grammar. Its central gimmick has become a familiar running joke in the community. It also showed early on that an article's prose style could itself be the anomalous property, not just the way the anomaly is reported.",
-  "thingsToNotice": "The humor and the horror sit side by side. The first-person framing is funny on its face, yet the discovery section describes a family tragedy in flat, matter-of-fact terms, and the joke never lets you laugh comfortably. In the experiment logs, watch the test where only a tiny piece of the object is shown to a subject: it quietly suggests that destroying the thing would not end the problem. The researcher's closing note works as a punchline and as a sign of how far the effect has already spread.",
-  "related": [
-    {
-      "slug": "scp-2521",
-      "note": "Another article where the way you describe the anomaly is the whole problem."
-    },
-    {
-      "slug": "scp-3999",
-      "note": "A far darker experiment in a document losing control of its own voice."
-    }
-  ],
+  "hook": "Keep an eye on the pronouns. The whole document is narrated by a voice that shouldn't be there, and once you work out why, the containment procedures read very differently. It's short enough to read twice, and the second pass is worth it.",
+  "whyItMatters": "426 turns an ordinary kitchen appliance into an anomaly purely through grammar: the effect is not something the report describes so much as something the report suffers from. That makes it a neat demonstration that an article's prose can itself be the anomalous property.\n\nIt is a very short entry, and almost every sentence pulls double duty as both documentation and evidence of the effect at work.",
+  "thingsToNotice": "The anomaly is a plain toaster that anyone describing it can only refer to in the first person, which is why the file opens with a cheerful hello. The comedy then runs straight into the discovery story, told in the same chirpy voice: the young wife died trying to eat an electric socket, her mother-in-law ate nearly 10 kg of bread until her stomach burst, the husband bled to death after a redacted attempt involving the toaster itself, and the grandfather was found starving, still waiting for toast to pop a week after loading bread. That is the long-exposure effect, people coming to believe they are toasters and hurting themselves trying to work like one.\n\nThe experiments are small and pointed. A D-class who knows nothing guesses a monster is locked in the cell and describes it in the first person without noticing; another, isolated with the toaster for 45 days, hugs it and calls it his brother; a single removed screw becomes 'my screw', so destroying the object would not end the effect. The closing note from the researcher thanks God for the effect's limits in a sentence whose pronouns have already gone wrong, which shows the joke has already reached the staff.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

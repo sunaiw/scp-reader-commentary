@@ -1,19 +1,10 @@
 {
   "slug": "scp-093",
   "lang": "en",
-  "hook": "The main page is mostly setup: a small stone disc, its odd attachment to mirrors, and a testing framework. The real payoff is in the color-coded test logs, which you're told to read in the order listed. Keep track of what the disc's color is supposed to reveal about the person holding it.",
-  "whyItMatters": "093 is a classic portal-exploration story, the kind of article that rewards clicking through its linked documents like chapters. It's tagged as a rewrite and keeps the original documentation inside the current version, so you can see how the file grew from a vague curio into a structured mystery. It's also a good showcase of the exploration-log style, where procedure and dread build up together.",
-  "thingsToNotice": "Look closely at the field kit. Details such as a hidden knife the subject has to discover alone, or the rules about when the firearm is issued and taken back, tell you what the Foundation expects to happen on the other side without saying it outright. The accidental discovery during a squabble over a lunch bill is a rare light moment that makes the surrounding procedures feel grimmer. And because the color is linked to guilt or regret, the tests become as much a study of the D-class subjects as of the place they enter.",
-  "related": [
-    {
-      "slug": "scp-2935",
-      "note": "Another expedition into a world where something has gone badly wrong."
-    },
-    {
-      "slug": "scp-2317",
-      "note": "A different doorway to another realm, with its own tightly scripted procedure."
-    }
-  ],
+  "hook": "The main page is mostly setup: a small red stone disc that insists on resting against mirrors, and the paperwork for testing what happens when someone carries it through one. The expeditions themselves live in five color-coded test logs linked at the bottom, and the file asks you to read them in the order given. Keep in mind what the disc's color is supposed to say about the person holding it.",
+  "whyItMatters": "093 is built like a hub page. The object description is short, and most of the reading happens in linked documents that work like chapters of an expedition story, which makes it a good example of an SCP that grows outward through attachments rather than one long report.\n\nIt carries the rewrite tag and keeps its earlier documentation embedded in the current page, so you can compare a vaguer first version with the more structured file that replaced it.",
+  "thingsToNotice": "The old documentation is stranger and darker than the new one: the disc was found on a Red Sea shore glowing blue, turned that same blue for almost an hour when a body was discovered at a research site, and one person exposed to it reported recurring depression, loss of balance and suicidal thoughts. The rewrite keeps all of this but files it away, which leaves the reader wondering what the blue really means.\n\nThe mirror travel itself is discovered by accident, when one researcher trips another during an argument over who pays for lunch. Then look at the field kit: the subject gets a loaded pistol only once they are through the mirror, it is taken back before they step out, and a knife is hidden in the kit for them to find alone. Those rules tell you the Foundation expects the far side to be dangerous and does not fully trust the D-class coming back from it. Because the color is tied to the subject's guilt, the tests end up probing the prisoners as much as the place they visit.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

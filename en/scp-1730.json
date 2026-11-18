@@ -1,19 +1,10 @@
 {
   "slug": "scp-1730",
   "lang": "en",
-  "hook": "Set aside a long evening: this is a novella-length file assembled from recovered messages, exploration videos and a stack of debriefings, with its own navigation menu at the top. The ruined complex at its center carries Foundation markings, yet the Foundation's own records say it was never built. Hold on to the title question, because the article answers it in full only at the very end.",
-  "whyItMatters": "1730 is one of the wiki's big multi-team exploration epics, sending several task forces into the same ruin across years of in-universe time. It is also a major piece of alternate-history Foundation fiction, imagining what the organization turns into once it loses its independence and its ethics are bent toward someone else's agenda. Readers following Tau-5 \"Samsara\" or Bobble the Clown will find both here, used in ways that feed into their wider stories.",
-  "thingsToNotice": "The first half is fragments: scrawled warnings, a doomed team's final log, and memos that treat cruelty as routine paperwork. The second half becomes a rescue mission, and the calm, almost cheerful Tau-5 operatives set against the worn-down human squads give it a strange rhythm. Dr. Hadley's letter and Dr. Scott's debrief explain the Thresher machine from two sides, one driven by revenge and one by fear. Captain Hollis frames the whole file, vanishing near the start and making the final choice at the machine, and the crater left behind is the answer to where Site-13 goes next.",
-  "related": [
-    {
-      "slug": "scp-5000",
-      "note": "Another vision of the Foundation turned into something monstrous."
-    },
-    {
-      "slug": "scp-2935",
-      "note": "Another descent into a Foundation site from a reality that went wrong."
-    }
-  ],
+  "hook": "Set aside a long evening: this is a novella-length file built from recovered logs, exploration transcripts and a run of debriefings. A ruined complex has turned up in a Texas state park bearing the markings of Site-13, a site the Foundation's own records say was never built, and the title asks the obvious question. Expect a lot of body horror on the way down; the article does not look away from what happens to the people who go in.",
+  "whyItMatters": "1730 combines two things the wiki does well, the doomed exploration log and the alternate-history Foundation, and lets each feed the other. The first half is a dungeon crawl that keeps killing its teams; the second half is a rescue mission whose survivors explain, piece by piece, what the Foundation of their world became.\n\nIt also gives large roles to Mobile Task Force Tau-5 \"Samsara\" and to Bobble the Clown, both tagged on the page, so readers who know those names will find them doing a lot of work here.",
+  "thingsToNotice": "The early teams die in ways that set the rules of the place: leech-like creatures crawl down throats and wear the bodies, people with fire burning from their ears explode at any sound, symbols on the walls spread the same effect to anyone who sees them, and the halls rearrange themselves. Meanwhile the recovered files show the rot from inside: an ethics chair who is also head of the GOC ethics board explaining why humanoid anomalies have no rights, test logs on a reality-bender revived between tortures, and orders to empty the humanoid wing into the body pit.\n\nThe answer comes in layers. Hadley's letter to Director Emerson admits she caused the breach by sparing Elijah, a blood-drinking toddler-minded boy sent to be burned, and dares Emerson to fire the Thresher. Scott's debrief fills in the rest: funding cuts, a GOC takeover, an Ethics chair shot for objecting, vivisections, even the Abrahamic God placed in containment, and Hadley stripped and beaten in a corridor before her revenge. In the rescue, the eerily calm Tau-5 operatives, who are killed and still sit for their debriefs, work beside the broken human squads, and Captain Hollis, who vanished at the Thresher in the first act, walks back to it after a vision she never describes and fires it, laughing and weeping, leaving a 1km crater where Site-13 stood.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

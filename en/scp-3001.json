@@ -1,19 +1,10 @@
 {
   "slug": "scp-3001",
   "lang": "en",
-  "hook": "Almost the entire article is one man's audio log, recorded alone in total darkness with only a small indicator light for company. It's long and emotionally heavy, and it doesn't hurry. Give it an uninterrupted sitting, and listen for how the way he talks changes over time.",
-  "whyItMatters": "3001 is one of the most widely read psychological horror pieces on the site, and the bond between a stranded researcher and an inanimate light is the part most readers remember. It also adds to the wiki's reality-science vocabulary, with Hume levels and early reality-anchor technology at the center of the story. A footnote tying the failed prototype to later anchor designs quietly connects it to the wider canon.",
-  "thingsToNotice": "The first and last lines of the log mirror each other, and the repetition hits very differently the second time. Track the time stamps too: the gaps between entries tell their own story, especially where the panel only reads out dates. The personality Robert gives the light is a coping device that slowly becomes a real character for the reader as well. The closing scene is told entirely through other voices, which keeps the worst of it offscreen and makes it harder to shake.",
-  "related": [
-    {
-      "slug": "scp-3999",
-      "note": "Another researcher trapped with something that unmakes reality, told in a far stranger register."
-    },
-    {
-      "slug": "scp-087",
-      "note": "A different descent into a dark space with no visible bottom."
-    }
-  ],
+  "hook": "After a short setup, almost the entire article is one man's audio log, recorded alone in total darkness with a small red indicator light as his only company. It is long, slow and emotionally heavy, and it gets very physical: expect body horror and repeated talk of suicide. Give it an uninterrupted sitting and pay attention to how his voice changes over time.",
+  "whyItMatters": "3001 is a survival story told almost entirely in one voice, and it shows how much an SCP can do with a single transcript and a few lines of framing. It also leans hard on the Foundation's reality-science vocabulary, with Hume levels, Kejel's laws and a footnote saying the prototype stabilizer at the heart of the accident became the basis of the later Reality Anchor project.\n\nThe attachment Robert forms to the light is the emotional engine, and it is what most of the piece's power runs on.",
+  "thingsToNotice": "The log opens with Robert reciting his name, age, favorite song and his wife Anna's name to hold himself together, and the article ends by playing that same recitation back. In between, the panel's time stamps become a story of their own: weeks, then months, then long stretches where only the machine speaks. He works out that the low Hume field will dissolve him within about three years, walks for months and finds no wall and no bottom, and slowly comes apart: Anna's photo fades, his thumb comes off, his hands pass through his own body, and he admits to 184 suicide attempts that the place would not let succeed.\n\nRed starts as a joke and becomes his best friend, and the late hope that waves from another reality are opening a way home turns into agony, because their pull is tearing him apart. The final scene is told by others: on December 23, 2005, the panel reappears in Reality Lab A covered in blood and remains, Anna recognizes his grey eye and his ring in the mess, unlocks the log with their old private joke as a password, and collapses as his first recording starts to play. Nothing of Robert is shown directly, which makes it worse.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

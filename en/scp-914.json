@@ -1,19 +1,10 @@
 {
   "slug": "scp-914",
   "lang": "en",
-  "hook": "SCP-914 is a machine, a dial with five settings and a test log, and that is all it needs. Before reading the results, try guessing what each setting does to an ordinary object. Half the fun is checking your guesses.",
-  "whyItMatters": "914 is one of the most influential experiment-log SCPs. Its simple input and output structure invites readers to imagine their own tests, and the article itself opens that door with a closing note asking for more test data and a link to a separate experiment log hub. It also became a hands-on mechanic in SCP - Containment Breach, where players feed items into the machine.\n\nIt is credited to Dr Gears, who is also credited on SCP-106 and SCP-682, and the closing note quotes an in-universe \"Dr. Gears\" setting the testing rules, another case of an early author stepping into the setting.",
-  "thingsToNotice": "The test log is paced like a joke with a building punchline: steel becomes screws, then tacks, then something impossible. The machine's idea of refinement is literal and unpredictable, which is why a phone of a different model or a mouse of a different color is as unsettling as it is funny.\n\nThen the biological tests change the tone. The article doesn't dwell on details; it reports the outcomes in a few dry lines and shuts the program down. That restraint lets you understand why the warning at the top exists without needing to show more.",
-  "related": [
-    {
-      "slug": "scp-294",
-      "note": "Another simple-interface machine whose appeal lies in imagining what you would ask of it."
-    },
-    {
-      "slug": "scp-106",
-      "note": "Also credited to Dr Gears; the same era's writing turned toward pure horror."
-    }
-  ],
+  "hook": "SCP-914 is a room-sized clockwork machine with an intake booth, an output booth, and a dial with five settings from Rough to Very Fine. Before reading the test log, try guessing what each setting would do to something ordinary, then check your guesses. Note the warning near the top banning biological tests; the article will show you why.",
+  "whyItMatters": "914 is a pure input-and-output premise, and it practically asks the reader to design their own experiments. The article leans into that openly: its closing note invites any qualified researcher to run mundane, non-living tests and points to a separate experiment log for the results, so the file reads as the start of an ongoing project rather than a finished report.\n\nIt is also a clean example of how much an SCP can do with a test log alone, with almost no narrative around it.",
+  "thingsToNotice": "The steel tests build like a joke: Rough gives laser-cut chunks, 1:1 gives screws, Fine gives carpet tacks, and Very Fine gives a gram of an impossible metal that can't be bent and conducts almost perfectly. The everyday items are funnier and stranger, since 'refinement' means a watch taken fully apart, a phone swapped for a different model, or a white mouse returned brown. A revolver on Very Fine produces something redacted that disintegrates everything in its line of fire.\n\nThen the living tests turn grim. One chimp comes out of Rough as a crushed, heat-cut corpse; a D-class put through 1:1 emerges as a different man, confused and violent, and is shot. The Very Fine subject breaks out, kills eight guards and both researchers, causes three other containment breaches, wipes part of the response team's memories, and finally dissolves into blue ash that blinds the people nearby. The log answers that with a single line ending biological testing, and the flat tone makes it hit harder.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

@@ -1,19 +1,10 @@
 {
   "slug": "scp-2317",
   "lang": "en",
-  "hook": "The article is presented as a series of terminal logins, each by a staff member with higher clearance than the last. Read it in order and resist scrolling ahead. Pay attention to who is logging in at each level and to what changes between one screen and the next.",
-  "whyItMatters": "2317 is one of the best-known articles connected to the Scarlet King, and a common starting point for readers looking for cosmic horror on the wiki. Its clearance-by-clearance reveal is an effective way of showing how much the Foundation keeps from its own people. Even the object class is hidden in the public layer, which sets the tone before anything else does.",
-  "thingsToNotice": "Each layer revises the one below it, so the same paragraphs reappear with small but meaningful edits, and the differences are where the story lives. The procedure grows more elaborate and more ritualistic as clearance rises, which makes the final screen land harder. Human touches such as weak passwords and a fumbled login keep the bureaucracy believable. The last access, and the cleanup command that follows it, reframe the whole document as something designed to be believed.",
-  "related": [
-    {
-      "slug": "scp-5000",
-      "note": "Another story where the O5 Council knows something its staff are never told."
-    },
-    {
-      "slug": "scp-093",
-      "note": "A different gateway to another realm, governed by its own strict testing ritual."
-    }
-  ],
+  "hook": "The article is a series of terminal sessions, each by a staff member with higher clearance than the last, all pulling up the same file. Read it in order and don't scroll ahead. Watch who is logging in, how much they are allowed to see, and what quietly changes between one screen and the next.",
+  "whyItMatters": "2317 uses the clearance system as its whole structure. Each login peels back another layer of the same document, so the article is less about a door to another world than about what the Foundation chooses to tell its own people at each rank. Even the object class is withheld at the lowest level, which sets the tone immediately.\n\nIts tags put it among the Scarlet King stories, and the ritual at its center invokes that name directly, which makes the final layer all the more pointed.",
+  "thingsToNotice": "At Level 1 a murderer from the D-class pool is sent through the door every month for a ritual; at Level 3 that line is quietly revised, and the 'assistant' turns out to be a Level 4 staffer who must not be shot if they disobey. Level 4 finally shows the ritual: a chicken killed with an obsidian knife, holy water and blood scattered around seven pillars, a chant to the Scarlet King, and a kiloton nuke on standby. Below the pillars sits a jawless, horned giant over 200 km tall, held by seven chains, six of them already broken, each break tied to a mass-death event on Earth.\n\nThe O5 layer pulls the floor out. The prisoner is a Devourer of Worlds whose chains cannot be repaired, failure is expected within the century, and Procedure 220-Calabasas is a fake built from borrowed rituals, religious rites, unrelated occult names and the staff's faith in nukes, kept running only to stop the people performing it from despairing. The overseer then wipes the access logs and shuts the terminal down. Small human details along the way, like the clumsy passwords, a mistyped login and the failed retinal scan, make the system feel real right up to the point where it admits it is theater.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

@@ -1,19 +1,10 @@
 {
   "slug": "scp-4999",
   "lang": "en",
-  "hook": "This is a quiet, short article with no breach, no monster and very little action. Read the description of the entity's behavior slowly; the details are small and deliberate. It's also worth noticing who the document says this happens to, and how that list makes you feel.",
-  "whyItMatters": "It's a well-known example of an SCP that sets out to move the reader rather than frighten them. The file is technically classed Keter and uncontained, yet nothing in it is a threat in the usual sense, which says something about how awkwardly the Foundation's labels fit some of the things they're attached to. The opening photo caption is a small masterpiece of setup in a single line.",
-  "thingsToNotice": "The list of traits that make a visit more likely is the emotional center of the piece. It reads like a clinical profile, but it describes people society has stopped noticing, and the entity seems to seek them out for exactly that reason. The cigarette left behind is the only physical trace, a detail that works both as a forensic clue and as a kind of keepsake. The last section, about depictions across history, widens the frame from individual deaths to something that has apparently always been with us.",
-  "related": [
-    {
-      "slug": "scp-999",
-      "note": "Another entity whose whole purpose seems to be comfort."
-    },
-    {
-      "slug": "scp-3001",
-      "note": "The opposite situation: a man facing the end with no one at all."
-    }
-  ],
+  "hook": "This is a quiet, short article with no breach, no monster and almost no action. Read the description of the entity's behavior slowly, because the small, deliberate details are the whole point. Also notice whom the document says this happens to, and how that list makes you feel.",
+  "whyItMatters": "4999 is a Keter-class, uncontained entity that is not a threat in any normal sense, and the gap between that label and what it actually does is part of the effect. The Foundation's clinical voice is used here to describe an act of kindness, which makes the kindness land harder.\n\nThe file carries the bittersweet tag and the observational tag, and it earns both: there is nothing to fight, only something to watch.",
+  "thingsToNotice": "The opening caption sets the rules in one line: a photo of the figure, taken by a photographer three minutes before he died. The entity, always in dark formalwear, appears only to someone conscious, alone and within twenty minutes of death, sits beside them, offers a cigarette and lights it for them if they accept, holds their hand or rests a hand on their shoulder, and stays silent until they die. Nobody has ever pulled away from it; people meet its eyes, lean into its touch, cry, or thank it for the cigarette, and the cigarette left behind is the only proof it was there.\n\nThe list of traits that make a visit more likely is the emotional center: living alone, poverty or homelessness, mental illness, veterans, no family, no partner, no standing, no achievements on record, people their society has decided are unremarkable. It reads like a risk profile and describes the forgotten. The final section widens the frame: images of the same figure turn up in art and myth across history, some predating civilization, and no one knows how those earlier people could have seen it, which leaves open whether someone always did.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

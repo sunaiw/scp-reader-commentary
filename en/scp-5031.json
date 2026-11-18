@@ -1,19 +1,10 @@
 {
   "slug": "scp-5031",
   "lang": "en",
-  "hook": "Don't let the opening fool you. The first section reads like a stock creature file, and the title, Yet Another Murder Monster, leans into that on purpose. Keep reading into the research correspondence: the real subject is what happens when someone decides to treat the thing in the box differently.",
-  "whyItMatters": "5031 is a well-known example of the wiki poking fun at its own conventions. The shadow-only anatomy, the bladed limb and the endless screaming are all familiar ingredients from countless predator-in-a-cell articles, and the piece uses that familiarity as setup for something much warmer. It's a good entry point for anyone curious about how the site's tropes can be turned against themselves.",
-  "thingsToNotice": "The article is a sequence of test summaries, each building on the last, so the progress feels earned rather than announced. Huxtable's notes to the site director carry the emotion, moving from irritation at the original write-up to open pride, while the tables stay completely deadpan. Notice how the safety rules tied to the observation effect, like the blindfolds, keep returning in new and gentler roles. Even the review banner at the top hints that this document is about to be rewritten.",
-  "related": [
-    {
-      "slug": "scp-173",
-      "note": "The classic observation rule that this creature riffs on, played completely straight."
-    },
-    {
-      "slug": "scp-999",
-      "note": "If you liked the warmth here, this is the wiki's go-to friendly anomaly."
-    }
-  ],
+  "hook": "The title, Yet Another Murder Monster, tells you what the first half of the page looks like: an iron box, a screaming predator you can only see as a shadow, and procedures that boil down to leaving it alone. Don't stop there. The bulk of the article is a researcher's notes to his site director, and it is much warmer than the opening suggests.",
+  "whyItMatters": "5031 takes the most familiar shape an SCP can have and asks a simple question the original write-up never did: has anyone tried treating it like a living thing? The file-under-review banner at the top frames the whole file as a document about to be replaced, so the article doubles as a quiet critique of the lock-it-up-and-walk-away attitude in its own first section.\n\nIt carries the featured and heartwarming tags alongside murder-monster and keter, which is a fair summary of the trick it pulls.",
+  "thingsToNotice": "Huxtable's very first note is angry that something was left screaming in a metal box for ten years, and every round after that is a small, measurable step: favorite music cuts its stress, a bowling ball becomes a toy, and given a human corpse or a pig carcass it picks the pig. The progress is not clean, though. In the coexistence round it rolls a bowling ball at a live chicken and kills it instantly, and its stress spikes; with the bowling balls gone, it nudges a basketball at the next chicken instead.\n\nThe turning point is the symbols round, where it learns to spell CHICKEN with wooden blocks and Huxtable writes only that it can learn language. From there it builds a vocabulary that includes a D-class named Robert and Huxtable himself, learns to draw, juggle with six hands, cook, and turns out to have a severe peanut allergy; its first spoken word is 'Salt.' The file ends with 5031 cooking a three-course Thanksgiving dinner for the site cafeteria and premiering its own piano sonata for six hands, stress at 0%, and Huxtable submitting the revised documentation. The cold description at the top is the version that was waiting to be replaced.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

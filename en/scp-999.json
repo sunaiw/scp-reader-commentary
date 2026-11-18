@@ -1,19 +1,15 @@
 {
   "slug": "scp-999",
   "lang": "en",
-  "hook": "Not every SCP is out to frighten you. SCP-999 is a deliberate change of pace: a Safe-class object whose containment procedures read more like pet-care instructions. If you have just come from the heavier Series I classics, this is a good one to read next.",
-  "whyItMatters": "999 shows the range of the format. The same clinical template used for monsters is applied here to something warm and harmless, and the humor works precisely because the voice never changes. It has become one of the wiki's best-loved lighthearted entries and a common counterweight to the Foundation's darker side in fan works.\n\nIts best-known scene is a crossover with SCP-682, an early example of articles treating other SCPs as a shared cast of characters.",
-  "thingsToNotice": "See how the procedures invert the usual priorities: staff are encouraged to visit, the pen exists for its own safety, and boredom is treated as a containment concern. Small specifics, such as favorite sweets, changing scents and a reprimand over a soft drink, do the characterization that dialogue does elsewhere.\n\nThe 682 addendum is a tonal experiment. It plays the encounter for comedy without pretending there are no consequences, and the researcher's closing memo tells you exactly how the article wants you to feel. Notice also the line about its interest in people who are hurting; it gives the creature a purpose beyond being cute.",
+  "hook": "Not every SCP is out to frighten you. SCP-999 is a Safe-class orange slime whose containment procedures read more like pet-care instructions, right down to telling staff to play with it when it gets bored. Go in expecting comedy, but know that the article also has a darker edge waiting near the end.",
+  "whyItMatters": "999 shows how far the format can stretch. The same flat, clinical template used for monsters is applied to something affectionate and harmless, and the humor works because the voice never breaks. With a rating above 3,600 it sits among the most popular entries on the site, which says a lot about how much readers wanted a creature that is simply kind.\n\nIt also borrows another object from the archive for its centerpiece, so it rewards readers who already know the Foundation's most hostile resident.",
+  "thingsToNotice": "The procedures flip the usual priorities: any off-duty staff member may visit, the pen exists to protect 999 rather than the facility, and boredom is a care issue. Specifics like M&M's, scents that change for each person (chocolate, bacon, Play-Doh), and a memo scolding whoever gave it a cola do the characterization that dialogue would do elsewhere. The line about it seeking out people with depression or PTSD, and the note that it once jumped in front of a bullet meant for someone, give it a purpose beyond being cute.\n\nIn the SCP-682 test, 682 calls 999 disgusting and stomps it flat, then 999 climbs up its neck and tickles it until the reptile is laughing helplessly and falls asleep smiling. The moment two D-class remove 999, 682 wakes and releases a wave that leaves everyone in range helpless with laughter, escapes, and kills everyone in its path while 999 drags as many people to safety as it can. 999 still wants to play with 682 afterwards, 682 wishes it dead, and the researcher's memo admits the disaster was the funniest thing they ever saw and asks for the tapes, and that clash between slapstick and a massacre is the real joke of the piece.",
   "related": [
     {
       "slug": "scp-682",
-      "note": "Read the monster's own file to appreciate how strange its appearance here really is."
-    },
-    {
-      "slug": "scp-500",
-      "note": "Another Safe-class object that is, at heart, about healing."
+      "note": "The test subject in 999's addendum; its own file shows how far out of character it is here."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

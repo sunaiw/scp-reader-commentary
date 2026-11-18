@@ -1,19 +1,15 @@
 {
   "slug": "scp-3999",
   "lang": "en",
-  "hook": "Know before you start that this is not a conventional document. The page opens with a content warning for good reason, and what follows deliberately falls apart, repeats itself and wanders into places a containment file shouldn't go. It's best read as an experiment in form, with some genuinely upsetting passages along the way.",
-  "whyItMatters": "3999 is one of the most divisive and most discussed metafiction pieces on the site, sitting in the 3000 range and openly nodding to the contest culture around it. Its Apollyon class and its collapse of the line between character and writer make it a reference point whenever readers argue about how far the format can stretch. Many people finish it unsure whether they loved it or hated it, which seems to be part of the intent.",
-  "thingsToNotice": "Researcher Talloran is both the focal point of the anomaly and, increasingly, a stand-in for the person writing about him. The procedures lurch between absurd jokes, pop-culture intrusions and disturbing cruelty, and that whiplash is the point: it's a picture of a creative process turning on itself. The long, rambling author section near the end is part of the fiction, not an aside. Watch the final tidy report and the way it explains everything away; its calm is a different kind of horror.",
+  "hook": "Content note: the page opens behind an adult-content gate listing sexual assault, gore, torture, self-harm, suicide and child abuse, and it means it; the procedures order executions of a researcher's family, rape and mutilation, and the author section describes a dream of being disemboweled. Beyond that, know that this is not a normal file at all. It repeats, contradicts itself, swerves into jokes and pop culture, and eventually stops pretending to be a Foundation document.",
+  "whyItMatters": "3999 is metafiction pushed about as far as the format allows. It is classed Apollyon, tagged for the 3000 series, and its anomaly cannot be separated from the act of writing it: the researcher at the center and the person typing the article blur together until the page openly talks about its own author and the community it was written for.\n\nIt is a useful reference point for how much an SCP can bend before it stops being one, and the article itself seems unsure which side of that line it lands on.",
+  "thingsToNotice": "Researcher Talloran is the focal point, and the procedures keep rewriting what is to be done with him: isolate him, kill him, keep him alive, mail him to the Serpent's Hand under a fake identity, recast him as the Dursleys' beloved son, torture him monthly. The swings between sadism and silliness are the point, since the thing being contained is the writer's own idea machine running out of control. A long side trip into SCP-2432's hotel room even sprouts a full ecosystem of invented animals, Talloran included as a specimen that gets shot.\n\nLate on, Talloran finally interviews 3999, says he has endured three million years of nonsense procedures and gone numb to its horror, and gets melted for five years anyway. Then the author's own voice takes over: he lists failed concepts for the article, and describes a sleep-paralysis nightmare in which Talloran slices off his own jaw, calls up the site's famous monsters, and guts him, which he says is what made him write all of this in two days. After 'I hate myself / I love myself' comes a tidy Neutralized report: an empty shaft at Site 118, burst reality anchors, and Talloran's body at the bottom, credited with killing 3999 and undoing the end of reality at the cost of his life. That clean bureaucratic ending, after everything, is either a mercy or one more joke.",
   "related": [
     {
       "slug": "scp-2432",
-      "note": "The hotel-room anomaly this article borrows and spins into its own strange ecosystem."
-    },
-    {
-      "slug": "scp-3001",
-      "note": "A more grounded story of a researcher left alone while reality comes apart."
+      "note": "The hotel room 3999 is put into in one procedure, opening a crawlspace into an endless corridor."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }
