@@ -1,19 +1,10 @@
 {
   "slug": "scp-2030",
   "lang": "en",
-  "hook": "SCP-2030 parodies hidden-camera television, and it's far more disturbing than its cheery title promises. Expect bright studio patter laid over very dark material; the whole page runs on that clash. If surreal body horror isn't for you, the framing is the main reason to read, and the prank examples can be skimmed.",
-  "whyItMatters": "It's a strong example of the media-anomaly strand of the wiki, where a broadcast format is the carrier rather than a physical object. The host has his own tag on the page, a sign that the faceless man in the blue suit became a recognizable character. The idea that the show migrates from tapes to discs to streaming gives it a long, unsettling history with no visible beginning.",
-  "thingsToNotice": "Every segment follows one template: ordinary scene, grotesque escalation, the host's reveal, sudden calm. That repetition, paired with the real-world death or disappearance attached to each guest, turns a laugh track into a quiet obituary column. The audience shot at the end of each episode completes the thought.\n\nThe closing speech is the key passage, as the host's chatter breaks down into garbled grammar and ends on a request that reframes the entire program.",
-  "related": [
-    {
-      "slug": "scp-1471",
-      "note": "Another anomaly that hides inside everyday media distribution."
-    },
-    {
-      "slug": "scp-1981",
-      "note": "A classic case of a recording that should not exist."
-    }
-  ],
+  "hook": "Content note: graphic body horror, including mutilation and a gruesome childbirth scene. SCP-2030 parodies hidden-camera television, and it is far more disturbing than its cheery title promises. Expect bright studio patter laid over very dark material; the whole page runs on that clash.",
+  "whyItMatters": "Here the carrier is a broadcast format rather than a physical object, and the show keeps hopping to whatever medium is most popular, from tapes to discs to streaming. Thirty-eight seasons with no reliable trace before the early nineties give it a long history with no visible beginning. The faceless host in the blue suit, seen only from the neck down, carries the page with nothing but a voice and a wardrobe.",
+  "thingsToNotice": "Every segment follows one template: an ordinary scene, a grotesque escalation, the host's reveal, and instant calm. Pigeons pour into an old woman's mouth until her stomach bursts and the host climbs out of it; a husband is found skinned head to toe after squirrels erupt from his body, and all three laugh together; a family man sprouts eighteen extra heads at dinner; and a woman under a caesarean gives birth to four octopus-bodied children with celebrity faces singing in harmony before she passes out from blood loss.\n\nEach guest is tagged with a real death or disappearance from the year they aired, their graves turn out to be empty, and the audience in the closing shot is made up of the episode's own victims. That is what the closing speech reveals: the host's patter collapses into broken grammar, the crowd starts chanting with him, and he ends by asking to be let in, followed by black screen, laughter and wet sounds.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

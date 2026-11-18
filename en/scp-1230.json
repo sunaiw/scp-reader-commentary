@@ -1,19 +1,10 @@
 {
   "slug": "scp-1230",
   "lang": "en",
-  "hook": "SCP-1230 is a gentle Safe about a book that grants a vivid fantasy dream, and for most of its length it reads warmly. Let the early experiments set the tone, because the file changes key in its last test. It includes a death, handled briefly.",
-  "whyItMatters": "It's a well-liked example of the kindly-anomaly entry, where the object means well and the tragedy comes from human longing. The Book Keeper is one of the wiki's more sympathetic personified objects, and the story pairs naturally with other dream-themed files. Its core idea is that a perfect escape can spoil the life you wake up to.",
-  "thingsToNotice": "The early tests are almost comic, with test subjects trying to break the rules, so the reader relaxes. The professor's case flips that: the sheer length of time in the dream is what undoes him, and the outcome is reported in a single plain line.\n\nThe meeting under the streetlamp shows a world-builder with nothing left to build, a fitting image of grief. The doctor's unexplained note at the end is a small kindness the reader is left to imagine.",
-  "related": [
-    {
-      "slug": "scp-990",
-      "note": "Another presence that only meets people inside their dreams."
-    },
-    {
-      "slug": "scp-140",
-      "note": "A book whose pages reach out and change the reader's world."
-    }
-  ],
+  "hook": "SCP-1230 is a gentle Safe about a book that grants a vivid fantasy dream, and for most of its length it reads warmly. Let the early experiments set the tone, because the file changes key in its last test. Content note: it includes a suicide, reported briefly.",
+  "whyItMatters": "The anomaly here means well: its personification is a friendly, bearded figure in a green cloak who enjoys building adventures and asks dreamers to come back soon. That makes the file less about danger than about what people want from a story. Its core idea is that a perfect escape can spoil the life you wake up to.",
+  "thingsToNotice": "The early tests are almost comic, with D-class subjects jumping into a volcano or hurting themselves on purpose and the Book Keeper scolding the rude one, so the reader relaxes. Then a professor who loves tabletop role-playing games sleeps for about a day, lives two hundred years in the dream, wakes up not knowing where he is, and within minutes hangs himself with his belt in a restroom, leaving a scrawled note that he cannot return to this life.\n\nThe book's pages turn up soaked and repeating an apology for weeks. In Dr. F's dream the Book Keeper sits weeping in a puddle under a streetlamp in an empty void, a world-builder too grieving to make any landscape, and explains that the professor built kingdoms and raised a family and swore to die if forced to leave. The doctor's later note, described only as friendly advice, brings the greeting back, and the addendum moving the book into the site library reads differently once you know all this.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

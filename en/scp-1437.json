@@ -2,18 +2,9 @@
   "slug": "scp-1437",
   "lang": "en",
   "hook": "SCP-1437 is a bottomless pit in a desert that seems to open onto other universes, and every so often something shoots out of it. Read the first document carefully, because the rest of the article depends on noticing what changes. It is short, and the format does most of the work.",
-  "whyItMatters": "It is a neat example of the file-as-story approach: one report repeats with variations, each copy coming from another world's version of the same organization. It plays with the idea that many Foundations might exist, some gentler and some far darker than ours, and leaves the comparing to the reader.",
-  "thingsToNotice": "Track the small details that drift between versions: the size of the hole, what the organization calls itself, how trespassers are treated, and the note attached to the gold disks.\n\nThe documents slide from familiar to corporate to theocratic to openly predatory, and each world misreads the others in revealing ways. The line describing whoever delivered each document says, briefly and abstractly, how that world treats people. The last version, run by unseen masters, quietly turns the hopeful reading of cooperation into something threatening.",
-  "related": [
-    {
-      "slug": "scp-2935",
-      "note": "Another look at a parallel world's Foundation, far bleaker than our own."
-    },
-    {
-      "slug": "scp-4040",
-      "note": "A different bottomless pit, played for a very different mood."
-    }
-  ],
+  "whyItMatters": "The page repeats one report with variations, each copy apparently coming from another world's version of the same organization. Since the hole kills anything living that crosses, people arrive dead, so the documents themselves become the only way these worlds can talk. The comparing is left entirely to the reader.",
+  "thingsToNotice": "Track what drifts between versions: the size of the hole, what the organization calls itself, how trespassers are treated, and the note on the gold disks, which goes from asking for rain to asking to stop a plague to asking for enemies to be killed. The second world is a cheerful public attraction that sends a volunteer in safety gear; the third is a corporation that auctions off what comes out and charges trespassers with industrial espionage; the fourth is a theocracy that drops blood sacrifices into what it calls a portal to the Underworld and reads a photo of a mushroom cloud as demonic mockery.\n\nThe key is the line closing each document: it describes the courier who carried the next one. Our world receives a healthy man in a pressure suit, then one branded as corporate property, then a blinded man with his tongue cut out, then an emaciated child who appears to have been lobotomized. The last version answers to unseen Masters Above who apparently feed on human flesh, request more tributes after receiving the lower half of a body, treat a bottle of wine for humans as an assassination attempt and bomb the hole in reply, so the hopeful idea of cooperation ends as tribute to something that is not human.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

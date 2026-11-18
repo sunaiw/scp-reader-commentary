@@ -1,19 +1,10 @@
 {
   "slug": "scp-2662",
   "lang": "en",
-  "hook": "Go in expecting a cosmic horror monster and you get the wrong article in the best way. SCP-2662 is a towering, tentacled deity whose biggest problem is that people keep worshipping it. The incident logs are deliberately crude and edge into adult territory, but the joke always lands on the cultists, never on the entity.",
-  "whyItMatters": "It belongs to a well-loved strand of the wiki that takes an eldritch template and turns it into a sitcom: the god is the only reasonable person in the room. The kindness tag says a lot, since the horror lives entirely in the human followers while the anomaly mostly wants newspapers and video games. It shows how far a single reversal can go when the voice stays consistent.",
-  "thingsToNotice": "The comedy comes from friction between the dry timestamped log and the entity's increasingly exasperated complaints.\n\nThe Keter upgrade is the quiet turn. The last incident reveals that its influence over followers is maturing and that the voluntary containment may hold only as long as it chooses, so an offhand remark about breaking out later reframes every earlier gag as a countdown. The cults also learn from each failure despite never meeting, a hint that the real anomaly is a pull it never asked for.",
-  "related": [
-    {
-      "slug": "scp-999",
-      "note": "Another anomaly whose defining trait is goodwill rather than menace."
-    },
-    {
-      "slug": "scp-1440",
-      "note": "A reluctant entity that wants no part of the harm its nature causes."
-    }
-  ],
+  "hook": "Go in expecting a cosmic horror monster and you get the wrong article in the best way. SCP-2662 is a towering, tentacled being whose biggest problem is that people keep worshipping it. Content note: the incident logs include masturbation and group sex as ritual, self-stabbing, the mutilation and killing of a piglet, and cannibalism, all played for exasperated comedy.",
+  "whyItMatters": "The file takes an eldritch template and turns it into a sitcom in which the god is the only reasonable person in the room. The kindness tag fits, since the horror lives entirely in the human followers while the entity mostly wants its newspaper and a monthly budget for video games. Its containment is voluntary, and that detail quietly carries the whole premise.",
+  "thingsToNotice": "The comedy comes from friction between the dry timestamped log and the entity's complaints: cultists blast up through the floor, stab their hands, masturbate and paint symbols with the mix of blood and fluids while it protests that it just showered; a fake researcher castrates a piglet, slits its throat over the breakfast newspaper, and is then shot and eaten by her fellow impostors while the entity throws up in the toilet.\n\nThe last incident is the turn that earns the Keter rating. While the task force is called away to a mission that turns out not to exist, two members left behind lock up their colleagues, bring in a truckload of D-class, carve symbols into their buttocks and thighs and start an orgy, and when the entity yells at them to stop, they all freeze: its control over followers is maturing. The cultists tell it the Foundation will never let it leave just for asking, and its offhand answer, that it can simply wait until it is strong enough to break out, reframes the whole file as a countdown before it goes back to sit in the shower.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

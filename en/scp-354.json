@@ -1,19 +1,10 @@
 {
   "slug": "scp-354",
   "lang": "en",
-  "hook": "SCP-354 begins as a creature feature: a red pool in the far north that keeps producing monsters. Read it as a slow shift in what the real danger is. The payoff is in the final documents, not the monster roster.",
-  "whyItMatters": "It's an old-school Keter that reads like a table of random encounters, and it plugs directly into the early shared cast by calling in Mobile Task Force Omega-7 and Able. That link places it in the web of files around SCP-076. It also uses a device later stories return to: containment that fails not because something escaped, but because the staff themselves turned.",
-  "thingsToNotice": "The entity log is deliberately uneven, with a corrupted gap and a few oddly human cases, such as an ordinary man shot on sight or a cooled creature kept as an office ornament. Those details make the staff look careless and the pool look as if it is testing them. The Area Head's worry about a long quiet spell sets up the evacuation.\n\nThe closing interview reframes everything: the instant the staff try to drain the pool, it stops behaving like a spawner and starts behaving like a mind.",
-  "related": [
-    {
-      "slug": "scp-076",
-      "note": "Home of Able and the task force this facility keeps calling for help."
-    },
-    {
-      "slug": "scp-2317",
-      "note": "Another gateway Keter where the fear is what grows stronger on the far side."
-    }
-  ],
+  "hook": "SCP-354 begins as a creature feature: a pool of blood-like liquid in northern Canada that keeps producing monsters. Read it as a slow shift in what the real danger is. The payoff is in the final documents, not the monster roster.",
+  "whyItMatters": "The file is built like a running tally of encounters, with each entity getting a line or two before the next one surfaces. It leans on other Foundation forces too, calling in Mobile Task Force Omega-7, \"Pandora's Box\", whenever the local guards are outmatched. Underneath the roster sits a question the staff keep circling: whether the pool is a passive hole or something with intent.",
+  "thingsToNotice": "The entity log is deliberately uneven, with a corrupted gap and a few oddly human cases: an ordinary man shot on sight, an ice cat killed by a magma cat that then cools and ends up as decor in the Area Head's office, and a cloaked machine that kills about 90% of the guards before simply powering down. The Area Head's note about twenty-two quiet months, followed by O5 cutting staff and funding, sets up the turn.\n\nThen the staff calmly shut off the power, take vehicles and supplies and drive south while the on-site warhead levels the facility behind them, gunning down the task force sent after them; the new site head blames a psychic attack from the pool. The closing interview shows why: the moment a hose goes in to drain it, everyone feels a dreamlike urge to flee, and the agent insists the pool was only playing before, is now angry, and has been growing since it was found. The exploration log is only linked from the page, so that part of the story lives elsewhere.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

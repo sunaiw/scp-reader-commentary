@@ -1,19 +1,10 @@
 {
   "slug": "scp-4666",
   "lang": "en",
-  "hook": "SCP-4666 is a winter holiday horror story and one of the darkest pages in this collection; it centers on harm to families and children. The procedures and description stay calm, but the event and object logs do not, so decide in advance how closely you want to read them. What lifts it above shock value is its folklore structure and its final interview.",
-  "whyItMatters": "It belongs to the Yule Man material named in its tags, reshaping a familiar winter gift-bringer into something predatory. A documented history running back centuries makes the file read like a buried strand of European folklore rather than a single case. The 4000-series number and Christmas tag place it among the site's newer seasonal horror, told in a sober case-file voice.",
-  "thingsToNotice": "The twelve-night window echoes the festive calendar, and the visitor's slow approach, from distant field to window to roof, is a dark mirror of waiting for someone to come down the chimney. The two possible outcomes, ruin or a present, invert the old idea of being judged, and the file pointedly cannot explain the rule.\n\nFootnotes about a fingerprint spanning centuries and a language older than any known one widen the scale. The closing interview supplies the missing link of where the gifts come from, and its restraint is what makes it land.",
-  "related": [
-    {
-      "slug": "scp-5999",
-      "note": "Another horror piece bound to one date on the calendar."
-    },
-    {
-      "slug": "scp-106",
-      "note": "An ancient predatory humanoid that drags victims to its own lair."
-    }
-  ],
+  "hook": "Content note: torture and murder of whole families, the abduction and abuse of children, and objects made from children's bodies, all described in clinical detail. The procedures and description stay calm, but the event and object logs do not, so decide in advance how closely you want to read them. What lifts it above shock value is its folklore structure and its final interview.",
+  "whyItMatters": "Tagged yule-man and christmas, it reshapes a winter gift-bringer into a predator that visits isolated homes with young children. Records stretching back through the centuries make the file read like a buried strand of old folklore rather than a single case. The sober case-file voice never raises its pitch, which makes the material harder to shrug off.",
+  "thingsToNotice": "The twelve nights mirror the festive calendar, and the approach runs from a figure watching across a field to a face at the window to footsteps on the roof. On the last night the family is either crippled in their sleep, gathered in one room and tortured to death in front of each other while one young child is carried off, or, in about 15% of cases, left unharmed with presents at the foot of the beds: toys made from the skin, bones, teeth and hair of other children. The killings are ritual tableaux, such as hands pinned to stable walls with knives and pitchforks with tongues cut out, or decapitated heads lined up on a staircase by age.\n\nThe final addendum answers where the toys come from. A seven-year-old abducted two years earlier is found sewn into a life-sized doll, eyes replaced with painted pebbles, and still alive; before dying in hospital she describes a frozen underground warren where stolen children must craft toys to be fed and are burned, maimed or eaten if they stop. Her friends turned her into a doll because she fell sick, and her last line states the rule outright: children who can no longer make the toys become them. The footnote that her first language matches nothing known, perhaps older than Proto-Germanic, quietly hints at how long this has been going on.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }
