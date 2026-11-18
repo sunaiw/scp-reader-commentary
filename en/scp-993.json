@@ -1,19 +1,10 @@
 {
   "slug": "scp-993",
   "lang": "en",
-  "hook": "SCP-993 takes the most harmless format imaginable, a cheerful educational cartoon for small kids, and turns it into a containment problem. It is short and built around an episode guide, so it reads in a few minutes. The dark content is summarized rather than dwelt on, and the summaries are what carry the chill.",
-  "whyItMatters": "Bobble the Clown has his own tag on the wiki, a sign that the character outgrew this single file. The article is a clear example of the corrupted children's media idea, a premise internet horror keeps coming back to. Its Safe class is also a handy reminder that the label measures how easy something is to hold, not how pleasant it is.",
-  "thingsToNotice": "The age rule is the clever hinge: adults simply black out, so the only way to learn what airs is to show it to young children and ask them, which makes the procedure itself quietly unsettling. The episode list reads like a TV guide, and the gap between the chirpy titles and what they describe does most of the work.\n\nWatch how the list shifts from lessons aimed at the audience toward hostility aimed at the Foundation. The last entry implies the show knows it is being recorded, and the detail of a real doctor wandering through the animation makes the broadcast feel like it is looking back.",
-  "related": [
-    {
-      "slug": "scp-2998",
-      "note": "Another signal whose real content reaches only a narrow group of viewers."
-    },
-    {
-      "slug": "scp-1981",
-      "note": "A different recording whose footage is far more disturbing than its label suggests."
-    }
-  ],
+  "hook": "SCP-993 takes the most harmless format imaginable, a cheerful educational cartoon for small kids, and turns it into a containment problem. It is short and built around an episode guide, so it reads in a few minutes. Expect plainly stated cannibalism, murder, arson and torture in the episode summaries; their flat, TV-listing tone is what carries the chill.",
+  "whyItMatters": "It is a compact take on the corrupted children's-show idea, built on one strong rule about who can and cannot see the program. Its Safe class is also a handy reminder that the label measures how easy something is to hold, not how pleasant it is: the broadcasts are simply intercepted, and the horror lives in what they would teach.",
+  "thingsToNotice": "The age rule is the clever hinge: anyone ten or older blacks out with a stabbing headache, so the only way to learn what airs is to show it to children under ten, then wipe their memories, which makes the procedure itself quietly unsettling. The episode list reads like a TV guide, and the gap between chirpy titles and contents does most of the work: Bobble kidnaps a townsman and shows how to skin, gut and cook him, burns a city building while screams play over the image, stalks and stabs a woman in London, and tortures a prisoner to death before teaching non-lethal pain.\n\nThen the target shifts. One episode is just Bobble glaring at the viewer for thirty minutes, and the last is set in the Foundation's own video archive, where he explains how to breach containment of several anomalies and how to kill the researchers by their daily routines. An animated version of a real doctor walks past in the background at the exact time the doctor confirms he passed the archive, so the show is watching the people who watch it.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

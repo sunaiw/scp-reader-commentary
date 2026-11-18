@@ -1,19 +1,19 @@
 {
   "slug": "scp-7000",
   "lang": "en",
-  "hook": "SCP-7000 opens as a planet-wide breakdown of probability and quickly narrows onto one extremely unlucky researcher at Site-43. It is long and mostly a comedy, full of slapstick field missions and dry O5 banter, but give it time: the jokes are setting up something more personal. Knowing the Site-43 cast helps, though it is not required.",
-  "whyItMatters": "It leans on the established Site-43 crew and recurring figures such as Dr. Dan, showing how familiar characters can carry a long, sprawling story. Cameos from across the setting, from SCP-179 to Sloth's Pit, reward long-time readers. Above all, it proves a K-class scenario can be told as an intimate character study.",
-  "thingsToNotice": "The early line calling SCP-7000-1 inconsequential is a planted joke that the ending pays off. Follow the clue trail through the interviews with Wettle's colleagues, ex-wife and parents, which gradually flips him from victim to source.\n\nThe two drafted files at the end are the real punchline: the official record hands the credit to the enemy, while the true entry quietly names the man who absorbs everyone else's bad luck. Notice also how the Chaos Insurgency's collapse happens almost entirely offstage, as a side effect.",
+  "hook": "SCP-7000 opens as a planet-wide breakdown of probability and quickly narrows onto one extremely unlucky researcher at Site-43. It is long and mostly a comedy, full of slapstick field missions and dry O5 banter, but give it time: the jokes are setting up something more personal. Its tags list a large cast of named Foundation staff, though the story introduces everyone you need.",
+  "whyItMatters": "It shows how a K-class, world-ending scenario can be told almost entirely through one ordinary, unglamorous man and the colleagues who talk about him. The file is crowded with cameos from elsewhere in the setting, folded into running lists of absurd probability failures, which reward readers who recognize them without blocking those who don't. Underneath the gags it is a character study about being the butt of the joke.",
+  "thingsToNotice": "The early line calling SCP-7000-1 inconsequential is a planted joke that the ending pays off; follow the interviews with Wettle's friend, ex-wife and assistants and you learn that the site's accident log is empty and that Site-43 has always been unusually lucky, so he is not cursed but soaking up everyone else's misfortune. The Foundation then straps him to a task force as a living lucky charm, and the slapstick turns bleak as he breaks down, runs away and is hauled back.\n\nThe reveal comes through his parents: under mnestics his mother recalls the twelve-year-old Wettle praying, while she had lung cancer, that the universe take everything good from him instead of her. Decades later, lonely as his friends paired off, he drunkenly asked out loud for change, and the whole crisis was that wish breaking the old deal. He ends it himself by renegotiating, and in the bar he also pries loose the blacked-out surname of Dan.\n\nMeanwhile the Chaos Insurgency collapses almost entirely offstage, its mobile array blown up by its own nuke, and the two drafted files at the end deliver the punchline: the public record blames an Insurgency device, while the real SCP-7000 entry names Wettle, who is responsible for his own containment.",
   "related": [
     {
       "slug": "scp-179",
-      "note": "The solar sentinel whose strange behavior becomes a key clue here."
+      "note": "The sentinel near the Sun whose eight-armed confusion and wave become clues in this file."
     },
     {
       "slug": "scp-4040",
-      "note": "Sloth's Pit's bottomless pit, one of the setting's casualties in this story."
+      "note": "The pit of Sloth's Pit, which loses and then regains its bottomlessness during the event."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

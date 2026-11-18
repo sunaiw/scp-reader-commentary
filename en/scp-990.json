@@ -2,18 +2,9 @@
   "slug": "scp-990",
   "lang": "en",
   "hook": "SCP-990 is a man in an old-fashioned suit who appears only in the dreams of Foundation staff, usually to tell them that something terrible is coming. The article is brief and built mostly around a single dream interview, so read it as a mood piece rather than a puzzle.",
-  "whyItMatters": "Known informally as the Dream Man, it is a classic example of an uncontainable Keter that is less a monster than a messenger. Its ambiguity is the point: he could be a threat or a warning, and the file refuses to decide.",
-  "thingsToNotice": "The containment section openly invites anyone with an idea to come forward, which conveys the Foundation's helplessness before a word of description. In the interview he deflects every question with playful calm, swapping names on a whim, and answers the accusation of murder by hinting that he is on the Foundation's side.\n\nThe blacked-out designation of an anomaly that does not yet exist is the article's lingering hook. The closing pun about waking up makes the whole exchange feel like a warning rather than a taunt.",
-  "related": [
-    {
-      "slug": "scp-1440",
-      "note": "Another composed, mysterious man whose quiet words foreshadow disaster."
-    },
-    {
-      "slug": "scp-1471",
-      "note": "An entity that inserts itself into individuals' private lives uninvited."
-    }
-  ],
+  "whyItMatters": "It is an uncontainable Keter that behaves less like a monster than a messenger, and the file never settles which it is. That ambiguity is the point: the Foundation can only take notes, act on what he says, and offer a reward to anyone who can find out whether he exists in the waking world.",
+  "thingsToNotice": "The containment section openly invites anyone with an idea to come forward, which conveys the Foundation's helplessness before a word of description. The key incident shows the cost of his visits: an agent sleeps for forty hours, wakes screaming about a nuclear chain of events that would wipe out almost all of humanity, a task force stops the first link in time, and the agent himself dies of shock.\n\nIn the interview he deflects every question with playful calm, swapping his name from Tony to Richard on a whim, and when accused of murder he insists he is not the villain. The real villain, he says, is a future anomaly with a blacked-out number, a she who has not even been born yet. The closing line about a wake-up call lands just as the doctor's alarm goes off, so the whole exchange reads as a warning rather than a taunt.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

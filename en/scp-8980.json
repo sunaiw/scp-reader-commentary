@@ -1,19 +1,15 @@
 {
   "slug": "scp-8980",
   "lang": "en",
-  "hook": "SCP-8980 looks like an ordinary file about a researcher whose computers keep turning against her, but you read it as an ethics investigator, with the original text marked up line by line. The annotations are the real article. It is long and deals with sustained workplace abuse, so give yourself time and some emotional room.",
-  "whyItMatters": "It was written for a 2024 phobia-themed anthology and is a strong example of the modern wiki's interest in the Foundation's own staff as the source of horror. The color-coded review format, flagging what was omitted, misleading or never should have been written, turns the usual clinical voice into evidence against its author. The limits of the Ethics Committee and the institutional shrug at the end make it as much a story about bureaucracy as about one person.",
-  "thingsToNotice": "Watch how the annotations shift from pedantic style notes to something much heavier; the early nitpicks teach you to read the gaps, so you are ready when the gaps start to matter. Small recurring details, such as a supervisor's lateness, the pronouns used for her and a calendar that never arrives, carry more weight than any single scene.\n\nThe anomaly itself is pointedly petty, and the article quietly asks whether it was ever the main cause of her ruin. The final email shifts perspective once more, showing that the harm did not end when the case was closed.",
+  "hook": "SCP-8980 looks like an ordinary file about a researcher whose computers keep turning against her, but you read it as an ethics investigator, with the original text marked up line by line. The annotations are the real article. Content note: the file itself warns reviewers before its later sections, which depict sustained workplace abuse, physical violence, sexual harassment and a forced memory wipe, so give yourself time and some emotional room.",
+  "whyItMatters": "Its footer places it in a 2024 phobia anthology, and it is a pointed example of the Foundation's own staff as the source of horror. The color-coded review format, flagging what was omitted, misleading or never should have been written, turns the usual clinical voice into evidence against the person who wrote it. The limits of the Ethics Committee and the institutional shrug at the end make it as much a story about bureaucracy as about one person.",
+  "thingsToNotice": "Watch how the annotations shift from pedantic style notes to something much heavier; early nitpicks about pronouns and dates teach you to read the gaps, so you are ready when the gaps start to matter. Small recurring details, such as Byrnes arriving late, calling her 'it' and promising a calendar that never comes, carry more weight than any single scene.\n\nThe abuse escalates on the page: he kicks her twice in the chest after she lunges for the keys, has her strip-searched, and during her amnesticization primes her with a final concept that the recording itself corrupts, so nobody ever learns what he erased. In a hidden meeting she begs him to let her go back to normal, offering money, her work and finally to sleep with him, and he laughs and says he already has everything he wants from her. The therapist assigned to help her only teaches her to blame herself and keep working.\n\nAt the first yearly test after Byrnes retires the anomaly is simply gone, which invites you to ask whether it was ever the main cause of her ruin. He escapes punishment because he took amnestics on retirement, and the final email from his successor, worn down and resentful, shows the harm still spreading years after the case was closed.",
   "related": [
     {
-      "slug": "scp-7000",
-      "note": "Another staff member turned anomaly, treated with warmth and comedy instead."
-    },
-    {
       "slug": "scp-079",
-      "note": "An anomaly the file's author is said to have worked on, sharing its computer theme."
+      "note": "Named in the file as one of the computer-related anomalies Byrnes helped contain."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

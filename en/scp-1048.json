@@ -1,19 +1,15 @@
 {
   "slug": "scp-1048",
   "lang": "en",
-  "hook": "SCP-1048 is a small teddy bear that wanders a Foundation site hugging people's legs, and everyone adores it. That is the setup, and the article's job is to take it away from you. Be aware that it is a body-horror piece and the later sections are disturbing, though brief.",
-  "whyItMatters": "Often called the Builder Bear, it is one of the most recognizable takes on the cute-thing-turned-nightmare trope on the wiki. Its sharpest choice is that the original bear is never shown doing harm itself; everything awful comes from what it makes, which keeps it ambiguous and lets the dread grow in the reader's head.",
-  "thingsToNotice": "Look at the containment section, which reads like rules written for a harmless mascot and then hastily patched with a ban on every teddy bear on site. The doctor's interjections show how quickly affection among the staff curdled into fear.\n\nEach replica is assembled from something taken, and the article points at the sources only obliquely, which is exactly why they land. The closing cross-reference to a bear with nearly the opposite function is a small gift for readers who want an antidote.",
+  "hook": "SCP-1048 is a small teddy bear that wanders a Foundation site hugging people's legs, and everyone adores it. That is the setup, and the article's job is to take it away from you. Content note: this is body horror, and the later sections involve mass death and harm to an unborn child.",
+  "whyItMatters": "It is a clean example of the cute-thing-turned-nightmare idea, built on a deliberate split. The bear itself is never caught in the act; every horror comes from the replicas it is suspected of making, and the file only ever hypothesizes how. That gap keeps the original ambiguous and lets the dread grow in the reader's head.",
+  "thingsToNotice": "Look at the containment section, which reads like rules written for a harmless mascot and then hastily patched with a ban on every teddy bear on site. The doctor's interjections show how quickly affection among the staff curdled into fear.\n\nEach replica is assembled from something taken. 1048-A is made of human ears and its shriek makes ear-like growths sprout over everyone nearby until they suffocate; afterwards a researcher wakes up missing an ear. 1048-B has an infant's arm poking from its seams, and hours later a pregnant doctor is found bleeding after her eight-month fetus was removed in her sleep, which staff conclude became the bear's material. 1048-C, of rusted scrap, kills or maims several people while escaping, and both 1048 and two of its creations remain loose at the end.",
   "related": [
     {
       "slug": "scp-2295",
-      "note": "The bear the file itself names as its near-opposite."
-    },
-    {
-      "slug": "scp-999",
-      "note": "A purely lovable anomaly, for contrast with the bear's hidden side."
+      "note": "The file names it as similar to 1048 but almost its functional opposite."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

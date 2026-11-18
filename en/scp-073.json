@@ -2,18 +2,18 @@
   "slug": "scp-073",
   "lang": "en",
   "hook": "SCP-073 is a calm, courteous man who calls himself Cain, and the file leans hard on that name. Knowing the Genesis story of Cain and Abel helps the details land, though it is not required. It is a short, dense read where nearly every odd trait means something.",
-  "whyItMatters": "Cain is one half of one of the site's best-known early pairings, with SCP-076 as the other, and readers tend to bring up the two numbers together. The beryllium bronze addendum also ties his artificial limbs to several other files, turning the article into a small hub for later worldbuilding. It shows how one character file can become a node other writers build around.",
-  "thingsToNotice": "Almost every anomaly is a piece of the biblical curse recast as a lab result: the ground fails where he walks, harm aimed at him comes back to whoever caused it, and he will not talk about the mark on his forehead. Read with that in mind, a property list becomes a portrait.\n\nThe decision to make him a living backup of Foundation records is a striking irony, trusting the first killer of legend as the most reliable archive. The last addendum is small but heavy: he politely declines to meet SCP-076, and the file leaves the reason unspoken.",
+  "whyItMatters": "It builds a whole character out of a list of properties, letting a name and a handful of anomalies do the storytelling instead of a plot. The addenda then widen the frame: the metal in his limbs is matched to several other numbered objects, and a closing note links him to SCP-076, so a single person file starts to sketch a larger history behind the Foundation's collection.",
+  "thingsToNotice": "Almost every anomaly reads as a piece of the old curse recast as a lab result: soil life dies within twenty meters of him and the ground stays barren, wood and paper rot at his touch, harm aimed at him lands on whoever caused it, and he grows distressed and silent when asked about the Sumerian-looking mark on his forehead. His discovery is told through that rule, as a gang that tried to kill him for sport ends up dead around him while he stands unhurt.\n\nThe decision to make him a living backup of Foundation records is a striking irony, trusting the first killer of legend as the most reliable archive. The last addendum is small but heavy: shown the material on SCP-076, he says he already knows all of it, refuses to add anything, and suggests everyone is better off if the two never meet, leaving the reason unspoken.",
   "related": [
     {
       "slug": "scp-076",
-      "note": "The other half of the story, a far more violent figure Cain would rather avoid."
+      "note": "The file Cain claims to know completely while insisting the two of them should never meet."
     },
     {
       "slug": "scp-1216",
-      "note": "Named in the addendum as another object made with the same beryllium bronze."
+      "note": "Named in the addendum as one of the objects containing the same beryllium bronze."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }
