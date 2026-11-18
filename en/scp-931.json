@@ -1,0 +1,15 @@
+{
+  "slug": "scp-931",
+  "lang": "en",
+  "hook": "SCP-931 is a whole containment file written in five-seven-five verse. The format is not a gimmick bolted on; the article explains in its own description why it has to look this way, so read it as a document and not just as a poem.",
+  "whyItMatters": "It is a well-known kind of meta entry where the anomaly affects the text you are reading. The object itself is humble, a plain rice bowl with a blue band, and the strangeness comes entirely from what it does to anyone who tries to write about it.\n\nThe constraint also produces small jokes that only work in verse, such as a parenthetical aside about why the measurements are not given in metric.",
+  "thingsToNotice": "The key rule is that any writing about the bowl comes out in haiku, even from someone who has never encountered it or does not know about the effect. That covers the person drafting this very report, which is why every section, the procedures included, scans as verse. There is also a neat distinction: people who already know haiku produce proper ones with the traditional elements, while everyone else only manages the syllable count.\n\nNote the escape routes that fail. Speech is unaffected, so extra information was recorded as audio, but running it through voice recognition still produced garbled results. The addendum ends by noting the bowl was used against another anomaly, effectively trapping it in haiku as a containment aid.",
+  "related": [
+    {
+      "slug": "scp-2673",
+      "note": "The addendum names this as the object the bowl was cross-tested with."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "scp-2075",
+  "lang": "en",
+  "hook": "SCP-2075 starts as a talkative prisoner with a pathogen and a very long memory, handed over by a Soviet agency when the USSR fell. Read the interviews closely, because the polite back-and-forth is doing more work than it seems. The later part includes a stabbing and a mass-casualty breach.",
+  "whyItMatters": "The entry ties a single containment file to a wider religious background: it names a figure called Ion, a city called Adytum, the title Karcist, and an open hostility toward the Church of the Broken God. Through those references it reads as one window into a larger setting rather than a standalone monster.\n\nIt also handles the idea of a distributed mind well, letting one being speak through several mouths at once without ever explaining how it feels to be that way.",
+  "thingsToNotice": "The document splits in two: the first procedures and description treat it as a contained man, then a second set declares it uncontained and calls it a gestalt spread across an unknown number of hosts. The earlier line that it can only steer one extension at a time quietly disappears, and the octopus question in the final transcript explains why. The two guards who walk in with Cronenberg turn out to have been parts of it for over a decade, joining in its scripture recitation before one holds him while the other drives a ceremonial dagger into his abdomen.\n\nIts earlier remarks gain weight in hindsight. Watching itself get torn apart by a mob from afar, comparing a lost body to a lost finger, and the cheap jab about Cronenberg's wife all point to a mind that was never in that cell alone. The aftermath leaves fifty-six dead, a flesh mass purged with chlorine trifluoride, a palladium ouroboros ring, and every GRU staffer from the original containment dead or missing.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

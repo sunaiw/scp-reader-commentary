@@ -1,0 +1,10 @@
+{
+  "slug": "scp-826",
+  "lang": "en",
+  "hook": "SCP-826 is a pair of dragon-headed bookends that turn a room into the world of whatever book they hold. The main page is short and rule-focused; the actual trips into books are recorded in a separate experiment log that this page only points to.",
+  "whyItMatters": "It is a compact, rule-driven take on the old wish to step inside a story, written as a set of mechanics rather than an adventure. The Safe label, a simple keypad safe and a weekly code change sit oddly beside an effect that can permanently erase a person into fiction.\n\nBecause the rules are so clear, the entry invites readers to imagine their own test runs, which is presumably what the pointer to the log is for.",
+  "thingsToNotice": "The rules hide a clock. The traveler lands at a random point in the plot, possibly near its end, and has to locate the bookends somewhere in the setting before the story finishes; the object even moves itself to places where books are kept, so the search target is a book inside a book.\n\nIf the story ends first, the plot restarts and the traveler is absorbed as a background character with no memory of a life outside. The way back is equally specific: take the book out from between the dragons and walk out of whatever room you are in, and both you and the containment room return to normal.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

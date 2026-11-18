@@ -1,0 +1,10 @@
+{
+  "slug": "scp-1555",
+  "lang": "en",
+  "hook": "SCP-1555 is a mountain that works like an artillery piece and mostly fires rodents. The fun is in the long list of individual shots near the end, so read the setup quickly and slow down there.",
+  "whyItMatters": "It is a good example of the log-list format used for comedy and unease at once: each entry is a single deadpan line, and the variations range from silly to genuinely alarming. The cover story is also neat, with the area protected as a sanctuary for the very mice it keeps launching.\n\nThe interior is barely described. The facility has already swallowed an agent, a whole task force and a number of D-class, and the detailed account of that loss sits on a separate telemetry log that is not part of this page.",
+  "thingsToNotice": "Watch the list drift. It opens with oddities like a giant shell, a mahogany shell or mice fired without any casing, then slides through shells holding skeletons, crushed remains, transistors, chlorine gas and one that behaves exactly like a normal high-explosive round. One projectile leaves on a non-ballistic path and is tracked beyond Mars, and another burrows into the ground to a depth nobody can measure.\n\nThe last entry is the one that matters most: the barrel grows over weeks and lobs a shell two hundred kilometers to land near a city. Nothing in the article explains who built the gun or why mice are its usual payload, so the escalating range is left as the only signal of where it might be heading.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

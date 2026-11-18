@@ -1,0 +1,10 @@
+{
+  "slug": "scp-1903",
+  "lang": "en",
+  "hook": "SCP-1903 is presented as a stack of dated revisions rather than one clean file, and the gaps between them are part of the story. Content note: it involves facial mutilation, an eye removed by a blade, mercury poisoning, suicides, and a workplace that strongly implies sexual services for masked clients.",
+  "whyItMatters": "The source itself calls this the first SCP written for the Pitch Haven Canon, so it works as an entry point to that setting. Its period dating in the 1940s and the nightclub-style business with animal ears and masks give it a noir flavor that sets it apart from lab-centered entries.\n\nIt is also a good study in how an infohazard can shape the document that describes it: the reader is shown exactly how the file was made dangerous, and by whom.",
+  "thingsToNotice": "The trigger, as Revision-4 finally explains, is learning a specific man's name, what he did to Jackie, and what work she did for him before containment. Those are precisely the things the file blanks out or never states, so the redactions double as the containment itself. The assistant who wrote the first two revisions caught the effect, isolated for three days, and killed himself by tearing off his mask, the same way the suspect had died.\n\nThe interviews add the human layer. The club owner admits he deliberately does not want to know what his staff do for important clients, and mentions the suspect's wife came asking questions the day before Jackie stopped showing up. Dr. Hayward's account of Jackie silently shushing him through the window, and of hallucinating a masquerade in white gowns watched by a glaring man in a brown suit, ends the file on a shared vision that Jackie herself seems to be having too.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}
