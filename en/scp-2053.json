@@ -1,0 +1,15 @@
+{
+  "slug": "scp-2053",
+  "lang": "en",
+  "hook": "A Rubik's Cube that scrambles and solves itself, and a PDF with one page for every arrangement the cube can take. The first half reads like a clever math puzzle and plays that straight. The interview logs are the heart of the article, and every line in them is a fixed, all-caps phrase pulled from that impossible file.",
+  "whyItMatters": "SCP-2053 shows how a strict formal rule can carry emotion: each line of dialogue has to exist as a page in the document, so the speakers can only say what the file allows. It starts as a toy-and-document anomaly and ends up being about family and communication rather than puzzles. It is also a sharp portrait of a Foundation researcher deciding how long a useful deception should last.",
+  "thingsToNotice": "The capitalized phrases make every exchange feel mechanical and painfully direct at once. Dr. Boone's notes between the logs are where the ethics live, as he chooses to keep up a pretense and later to drop it. The ending arrives as an image rather than as narration, which is exactly where the cube-and-PDF mechanism pays off.",
+  "related": [
+    {
+      "slug": "scp-1316",
+      "note": "Another file where someone can only speak through a narrow coded channel, logged line by line."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

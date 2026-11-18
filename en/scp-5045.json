@@ -1,0 +1,15 @@
+{
+  "slug": "scp-5045",
+  "lang": "en",
+  "hook": "Goat VR is a garish little VR game with a neon farmhouse, a pen of crudely drawn goats and a cheerful host who calls himself Farmer. The article is told mostly through two play-test logs, and the cartoon images are part of the effect, so read it with them visible. Expect a slow slide from silly to deeply unsettling.",
+  "whyItMatters": "SCP-5045 is illustrated, game-based horror in which a cheap-looking piece of software hides something that knows it is being watched. It is co-authored and tagged both meta and metafiction, and its closing fragments carry a But A Dream label that the article leaves unexplained. The art does real storytelling work here, which makes it a good example of images carrying an SCP rather than decorating it.",
+  "thingsToNotice": "Notice how sensations leak out of the game and into the room: headaches, smells, itching, the feel of rough ground, until the line between player and avatar stops holding. Farmer's two faces are the core of the piece, a friendly host who flips between pleading and gloating depending on who he is talking to. The goat info files in the footnotes are worth reading one by one, since their chirpy captions clash hard with what the logs show.",
+  "related": [
+    {
+      "slug": "scp-3101",
+      "note": "Another sapient presence inside software that says it is lonely; set side by side, they contrast sharply."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

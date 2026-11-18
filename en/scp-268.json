@@ -1,0 +1,15 @@
+{
+  "slug": "scp-268",
+  "lang": "en",
+  "hook": "A tweed newsboy cap that makes whoever wears it instantly forgettable. The article is short and procedural, but it quietly escalates as the testing goes on. Keep an eye on the small details the researchers record about the cap itself.",
+  "whyItMatters": "SCP-268 is antimemetics in its simplest form: not a monster you can't remember, but an ordinary hat that turns a person into background. An addendum compares it directly with SCP-180 and wonders whether the two share an origin, a small example of how files on the wiki talk to each other. Its tags also tie it to the Serpent's Hand, and the text on its label points the same way.",
+  "thingsToNotice": "Notice how the danger shifts from the observers to the wearer: the longer someone keeps the cap on, the less reversible the effect becomes. One addendum makes that cost concrete in a single understated paragraph about an agent nobody remembers. The section on electronics is a nice touch, since cameras blur the face while motion and heat sensors work fine, which suggests the effect targets minds rather than light.",
+  "related": [
+    {
+      "slug": "scp-180",
+      "note": "Addendum 268-01 compares the two items' effects on identity and asks whether they share an origin."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

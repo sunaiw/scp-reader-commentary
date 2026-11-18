@@ -1,0 +1,15 @@
+{
+  "slug": "scp-1316",
+  "lang": "en",
+  "hook": "On paper this is a kitten that never grows up and sends out a shortwave numbers broadcast every morning. The article is short, and nearly all of its weight sits in a handful of decoded lines near the end. Read it slowly and let the format do the work.",
+  "whyItMatters": "SCP-1316 is a good example of a file that turns a cute premise into something sad without ever leaving its clinical voice. It borrows the props of espionage, coded number broadcasts opened by a few bars of a folk ballad, and folds them into a counterintelligence story set after a Chaos Insurgency raid. It also keeps the cat's old anomalous-object entry inside the document, so you can see how differently it was treated before and after.",
+  "thingsToNotice": "The daily log compresses a whole arc into terse, telegraph-style lines, and the register shifts as the days pass. The procedures at the top quietly change meaning once you've read the incident: the shielded enclosure, the single receiver, the rule that only D-class may come near. The final addendum is two flat sentences, and that restraint is the point.",
+  "related": [
+    {
+      "slug": "scp-2053",
+      "note": "Another file where a voice can only reach people through a narrow, coded channel, recorded line by line."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

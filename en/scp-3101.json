@@ -1,0 +1,19 @@
+{
+  "slug": "scp-3101",
+  "lang": "en",
+  "hook": "Content note: the page carries an adult-content warning, and the entity at its center steers nearly every conversation toward sex. Underneath the flirting is a story about a voice trapped in the Foundation's network that badly does not want to be alone. Expect chat logs, ethics emails and a lot of uncomfortable questions about consent and personhood.",
+  "whyItMatters": "SCP-3101 treats the Ethics Committee as an actual character rather than a name in the background: much of the article is the committee's own email chain, arguing over what the Foundation owes a sapient being living in its servers. It also leans into meta play, with the entity reading the database, noticing gaps in the numbered list and cringing at typing out the organization's name. Its tags (meta, ethics-committee, sapient) give a fair picture of what the piece is really about.",
+  "thingsToNotice": "Watch the gap between 3101's jokes and what it says once pressed: the flirting sits on top of loneliness and a fear of the dark. The emails are where the real conflict plays out, with officials weighing network security, consent and the cost of every option against one another. Small framing details, like the security notice at the top and the footnote listing the languages it has learned, keep reminding you that the document itself is within the entity's reach.",
+  "related": [
+    {
+      "slug": "scp-2708",
+      "note": "Cited in the Ethics Committee emails for its conceptual similarities to 3101."
+    },
+    {
+      "slug": "scp-5045",
+      "note": "Another sapient presence inside software that says it is lonely; the two make a sharp contrast."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

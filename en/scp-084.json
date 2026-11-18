@@ -1,0 +1,15 @@
+{
+  "slug": "scp-084",
+  "lang": "en",
+  "hook": "A radio tower stands in an empty field, and nobody can reach it no matter how long they walk. The file is short and mostly procedural, and the log it keeps pointing to never actually appears on the page. Read it as a portrait of a place where distance and time have stopped behaving.",
+  "whyItMatters": "SCP-084 is one of the low-numbered Series I files, built around a single unsettling idea rather than a long narrative. It handles a spatial anomaly with very little: a modest dome from the outside, apparently endless from within. The trapped town, whose population never changes, turns a physics problem into a human one.",
+  "thingsToNotice": "The containment procedures are aimed at the guards as much as the tower: sentries confirm each other by sight, compass and landmark, and one missed roll-call pulls everyone back. That level of caution tells you how easily people inside the effect lose their bearings. The section on the town turns quietly bleak, describing lives with no births, no aging and no lasting death. A single line about a man who believed he had traveled for years, found close to home, says more than any incident report could.",
+  "related": [
+    {
+      "slug": "scp-052",
+      "note": "Another Series I file where people come back with accounts of time that don't fit the calendar."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

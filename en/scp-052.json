@@ -1,0 +1,23 @@
+{
+  "slug": "scp-052",
+  "lang": "en",
+  "hook": "A subway train that was scrapped decades ago still pulls into a New York station every Saturday night, opens its doors for a few minutes and leaves. The premise fits in one line and the tone stays dry throughout, which is exactly why the passenger log near the end lands so well. Go in expecting a time-travel story told almost entirely through paperwork.",
+  "whyItMatters": "SCP-052 is a compact Series I entry that shows how much story a list of dates can carry. Each passenger record is just a boarding date, a recovery date and a short note, and that format ends up driving the whole article. It also has the early-file habit of name-dropping other numbers, letting a visitor from a later century hint at events the reader never sees.",
+  "thingsToNotice": "Read the passenger log as a string of small stories: an accountant pushed back four years, someone on the way to Studio 54 carried forward three decades, a tourist who returns speaking a different language. The Foundation sorts them coldly by the direction they traveled, and arrivals from the future are simply kept. The tests with agents grow steadily more ominous, and the article never explains what happens between the doors closing and opening again. The final passenger's list of claims is a playful nod to the wider wiki, offered without any context.",
+  "related": [
+    {
+      "slug": "scp-008",
+      "note": "Named by a passenger from the future when he describes an outbreak still to come."
+    },
+    {
+      "slug": "scp-699",
+      "note": "Mentioned by the same passenger, who refuses to discuss it any further."
+    },
+    {
+      "slug": "scp-084",
+      "note": "Another Series I file where someone returns with an account of time that doesn't add up."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

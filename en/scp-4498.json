@@ -1,0 +1,23 @@
+{
+  "slug": "scp-4498",
+  "lang": "en",
+  "hook": "Fair warning: this is a broad, crude comedy packed with swearing and adult jokes, starring a big cast of the wiki's recurring staff characters. A careless researcher breaks a small porcelain cat, and everyone on an entire site, people and animals alike, wakes up convinced they are him. Read it as a farce told through camera logs, phone calls and after-action interviews.",
+  "whyItMatters": "SCP-4498 is a staff-character romp: its tag list reads like a roster of the Foundation's best-known personnel, and the fun comes from throwing them all into one ridiculous situation. The author's note calls it a spiritual successor to SCP-4444 and says it was drafted in a single morning and early afternoon. It's a reminder that the mainlist has room for pure slapstick alongside its horror.",
+  "thingsToNotice": "The joke engine is that every copy is the same man, yet each one drifts into a different absurd persona, from a pirate queen to a lord of the sinks, and the article keeps topping itself. Watch Dr. Cairns' view of himself collide with what his colleagues clearly think of him during the negotiation scene. The footnotes join in as well, deadpan records of who each copy used to be.",
+  "related": [
+    {
+      "slug": "scp-4444",
+      "note": "The author's note names this as the article's spiritual predecessor."
+    },
+    {
+      "slug": "scp-8586",
+      "note": "The designation the text uses for Dr. Cairns himself."
+    },
+    {
+      "slug": "scp-096",
+      "note": "The Shy Guy happens to be on site and makes a brief, alarming appearance."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}
