@@ -1,0 +1,10 @@
+{
+  "slug": "scp-2565",
+  "lang": "en",
+  "hook": "SCP-2565 is a very short file in which one name, Allison Eckhart, has replaced almost every noun, including the article's own title and item number. It reads like nonsense at first glance. Take it slowly and treat it as a puzzle: the sentence structure is a completely normal Keter report, so you can work out much of what each blank used to say.",
+  "whyItMatters": "This is a meta piece where the hazard is shown through the text itself rather than described. The document tells you she is a self-referring concept that spreads, and then demonstrates it by being overrun.\n\nIt also shows how much a reader fills in from the standard SCP format. Containment cells, hazmat suits, an attack by a group of interest, a scenario class, an evacuation plan: you recognize the beats even when every key word is gone.",
+  "thingsToNotice": "The few words that survive are the clues. A 31-year-old agent with five years of normal service, a small excess of sodium, things taken from her that make other Allison Eckharts complain to the Ethics Committee, and later weather formations over the Pacific and more than 100 liters scattered along a coastline all hint at what she produces and how it travels, without the article ever confirming it.\n\nThe ending escalates to a planetary scale. People fall victim after consuming contaminated material, the public finds out, a scenario is forecast within 40 years, an evacuation of the remaining population is being prepared, and the Global Allison Eckhart Coalition wants to destroy her even at some risk of a total failure scenario. Even that group's name has been swallowed, which is the article's last joke and its most unsettling detail.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

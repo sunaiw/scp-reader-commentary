@@ -1,0 +1,10 @@
+{
+  "slug": "scp-2001",
+  "lang": "en",
+  "hook": "SCP-2001 isn't a creature or an object but a pattern in sleeping brains, and what it does is make people turn against going into space. The clinical opening sorts its victims into three neat types by sleep stage. Keep an eye on who is narrating as the documents go on, because the file stops being a description and becomes a set of people explaining themselves.",
+  "whyItMatters": "Few SCPs take something as abstract as an attitude and make it threatening. The milder types are almost comic, people who just change the subject or spin conspiracy theories, and the article uses that gentleness to lower your guard before the launch-day log.\n\nIt is also a neat example of the Foundation hiding information from itself. The last memo argues for keeping a finding out of the official file to avoid panic among staff, which makes the document you are reading feel like only part of the picture.",
+  "thingsToNotice": "The incident log is short and flat: a junior researcher gets agitated, produces an unexplained control pad, and the shuttle loses power and breaks apart, killing five astronauts, all of it passed off as a GPS satellite accident. The note from Dr. █████ insisting he was not insane reads like someone arguing with an unseen reader.\n\nThen comes his own statement, written the day before. A D-Class told him space itself spoke to her in a dream, that it loves humanity and is shielding it from the beasts and fractal beings out there, and he finds this beautiful rather than frightening. The closing memo reframes it: Alpha carriers normally won't act against their own morals, but this D-Class was passing on a memetic variant, Alpha-Prime, through trigger phrases, and it switches that limit off. The research head wants it kept out of the main file and tells the task forces to keep sending Alpha carriers to him so counter-memes can be built.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

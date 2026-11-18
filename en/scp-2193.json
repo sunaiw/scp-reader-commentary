@@ -1,0 +1,10 @@
+{
+  "slug": "scp-2193",
+  "lang": "en",
+  "hook": "SCP-2193 is an infohazard that lives inside the Foundation's own database: a phrase about a 'Monthly Termination' of Class-D that keeps appearing in random files. Anyone who reads it simply accepts the policy as normal. The pleasure here is in the procedure list, which describes something nobody ever wrote down, carried out in perfect step anyway.",
+  "whyItMatters": "The article turns a familiar piece of Foundation background, the routine disposal of Class-D, into the anomaly itself. A rule that sounds like ordinary grim bureaucracy is exactly the kind of thing staff would never question, and that is the hazard's camouflage.\n\nIt also gives an AI the hero's role. The one observer the meme can't reach is a machine that judges the ritual illogical and quietly unlocks the cells, with Agent Lurk backing it up when the humans try to shut it down.",
+  "thingsToNotice": "Read the footnotes closely; they carry most of the unease. Hidden cameras get covered even by guards who don't know they exist, the guards' sidearms come back with every round still loaded, and one of the exempted sites is a Site-5 that the file says does not exist.\n\nThe incident log answers where the Class-D go. In a woodland clearing the guards form a ring and turn their backs, the prisoners rise one by one and shoot upward at around 35,000 km/h, and Agent Ysson, the only one still watching, sees the full moon appear to blink before he runs and is lifted into the stratosphere himself. The other guards later report that he was killed by the Class-D, while staff on the moon report nothing unusual at that moment, and the file offers no further explanation.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}
