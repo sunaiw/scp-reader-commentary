@@ -1,0 +1,23 @@
+{
+  "slug": "scp-2800",
+  "lang": "en",
+  "hook": "SCP-2800 is a man with the biology of a saguaro cactus who has decided he is a superhero. The premise is funny and the file knows it, but it cares just as much about his depression and his need to be useful; he is on suicide watch before the description even begins. Read the interview for his voice, then don't skip the short incident report that closes the page.",
+  "whyItMatters": "It sits in the corner of the site where superhero tropes run into the Foundation's clinical tone, and it uses that collision for pathos rather than spectacle. His powers are excellent for a plant and nearly useless in a fight, which flips the usual power fantasy.\n\nThe article also frames containment as care. The staff's main tools are a sun lamp, a few potted cacti and supervised chores, chosen because helping someone is what keeps him stable.",
+  "thingsToNotice": "The interview keeps undercutting him in his own cheerful voice. His first fight with drug dealers puts him in hospital, most nightly patrols end with him beaten, and the serial killer he tracked down overpowered him until the Foundation stepped in. He won't carry a knife because heroes should set an example for kids, his cactus sidekicks mostly complain about the cold and being thirsty, and when he asks whether he can do anything for the staff the answer is a flat no.\n\nThe incident report quietly reverses all of that. Subway camera footage shows him coming up behind a masked man who has a woman and child cornered at knifepoint, leaving spines in the attacker's back and tying him up; the mother and the child both hug him, he kneels and is overcome, and the child hands him a note that he writes on and gives back, its contents never revealed.",
+  "related": [
+    {
+      "slug": "scp-3388",
+      "note": "Named as an anomaly SCP-2800 can talk to directly, no phone required."
+    },
+    {
+      "slug": "scp-2497",
+      "note": "He is said to reach it without the usual light code."
+    },
+    {
+      "slug": "scp-1478",
+      "note": "One of the cactus anomalies proposed for crosstesting with him."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

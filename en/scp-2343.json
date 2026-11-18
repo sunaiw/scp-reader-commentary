@@ -1,0 +1,15 @@
+{
+  "slug": "scp-2343",
+  "lang": "en",
+  "hook": "SCP-2343 is a Keter-class reality bender picked up after a drunken domestic call in Germantown, outside Memphis, who seems much more worried about his wife than about the Foundation. The page is unstable on purpose: there are alternate, overwritten versions of the file, each flagged with an error message, and reading all of them is the point. The one-line tagline at the top is a big hint about who these people are, and the story touches on domestic violence.",
+  "whyItMatters": "Its main trick is formal. The same report exists in several overwritten versions, and the differences between them, from the object class to the number of reality anchors, tell a story nobody narrates; the reader ends up doing the same daily cross-check of copies that the procedures demand from staff.\n\nIt also grounds a mythological premise in a small, human register. Bourbon, cigarettes, a guitar and a police holding room carry most of the weight.",
+  "thingsToNotice": "Each later version shows a weaker, friendlier SCP-2343: the Keter file needs seven overlapping anchors and he conjures cigarettes and a lighter, the Euclid file needs only one and he pulls out a guitar and asks about Tom T. Hall, and the Safe file says he is in containment voluntarily. Put next to the procedures' obsession with comparing copies, the error banners read as seams where he has been rewriting his own record.\n\nThe Safe version's hidden note finally drops the act: the real danger is outside, his wife has knocked him around for thousands of years while he let humanity build something, she has drowned the world in blood before and will again, and he would rather help catch her than remake the world from ashes one more time. Read against the tagline, he is the husband of an Egyptian goddess who settled in the wrong Memphis, and the footnotes about the mass casualties of Incident 2343-15 and her cooperation with GOI-13 show the threat is already moving.",
+  "related": [
+    {
+      "slug": "scp-2280",
+      "note": "A footnote proposes SCP-2343 as a possible translator for it."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

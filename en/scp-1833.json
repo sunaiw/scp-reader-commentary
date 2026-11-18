@@ -1,0 +1,10 @@
+{
+  "slug": "scp-1833",
+  "lang": "en",
+  "hook": "SCP-1833 is a 1976 high-school yearbook that becomes your own yearbook the moment you open it, as long as you graduated. It is a short read built almost entirely on escalation, and much of the effect comes from a page-by-page list of sample images. Expect some body horror toward the end.",
+  "whyItMatters": "The file turns an everyday object of nostalgia into a slow attack on the reader's own memories, which makes it very easy to put yourself in the subject's place. The anomaly is simple; the pacing does the work, with page numbers acting as a countdown.\n\nIt is also a good example of handing the final beat to the object itself. The last word belongs to something written inside the book, not to a Foundation note.",
+  "thingsToNotice": "The sample pages are ordered so you can feel the turn. Page 3 shows the subject smiling among popular classmates and page 10 has an attentive audience; by page 16 they are dumping a lunch tray on people, by 29 they are scraped up in the nurse's office, and by 36 their music club is jeering at them from the far side of the photo. Page 39 puts the subject asleep in their own bedroom, ringed by disfigured classmates who stare straight out of the picture.\n\nThe back cover then signs off warmly, saying there is no need to wait for the reunion because everyone will see each other soon. Placed right after the bedroom image, that friendly promise reads as a threat, and it explains why only D-class are allowed to handle the book.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

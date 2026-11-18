@@ -1,0 +1,23 @@
+{
+  "slug": "scp-1548",
+  "lang": "en",
+  "hook": "SCP-1548 is presented as a terminal session: you are logged in as O5-6, with one file waiting for your review. It begins as a strange solar phenomenon, sunspots and prominences forming magical symbols at the Sun's south pole, and grows into something far larger over a month of dated entries. Read all the way to the end, including the terminal prompts after the file closes.",
+  "whyItMatters": "It is a large-scale cosmic horror piece that draws on a lot of the site's wider setting, from Ortothan mythology and the Church of the Second Hytoth to the Global Occult Coalition and several other SCPs, without requiring you to know any of them beforehand. The dated event table lets the scale climb one row at a time.\n\nThe framing device matters as much as the content. Seating the reader in an Overseer's chair with votes still pending turns a report into a decision.",
+  "thingsToNotice": "The symbols are the key: most are Ortothan and protective, offering camouflage, reinforcement and wards against things from outside the universe, so the cloud that blacks out the night sky in January 2017 is a shield the Sun is raising around the solar system, not an attack on it. Seraph-1's log shows what it is holding back, swarms of vast asymmetric entities around the heliopause, with the probe's own exit tearing a hole that lets one through while blasts from the flares vaporize another.\n\nThe later files follow that intruder as it destroys Pluto, fuses with the warship SCPS Curtana and starts converting Mars into black organic matter until the largest SCP-1548-2 event blows the planet apart; meanwhile SCP-3417 reports that Rakmou-leusan, the last living guardian god, is dead, which gives SCP-179's single word, Defend, its full meaning. O5-3 writes that Seraph-1's one photograph of outside space shows all that is left of the universe, and two Council motions, ending the Veil and reclassifying SCP-1548 as Thaumiel to trigger it on purpose, sit tied and waiting on O5-6. The user logs out without voting, with three days left.",
+  "related": [
+    {
+      "slug": "scp-179",
+      "note": "Makes a single brief appearance in the event log."
+    },
+    {
+      "slug": "scp-3417",
+      "note": "Its transmissions are intercepted and quoted in the later files."
+    },
+    {
+      "slug": "scp-2821",
+      "note": "Turns up in the event list at a lunar facility."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

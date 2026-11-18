@@ -1,0 +1,10 @@
+{
+  "slug": "scp-711",
+  "lang": "en",
+  "hook": "SCP-711, titled Paradoxical Insurance Policy, is a Foundation-built machine that can only send data into its own past and receive it from its own future. It is a short, dense logic puzzle about predestination, so take the description slowly. The site director's note at the bottom is where the idea clicks.",
+  "whyItMatters": "It is a tidy example of a time-travel anomaly that is all consequence and no spectacle: nobody goes anywhere, a few lines of text simply arrive. The article converts a paradox directly into a containment rationale, which is a very Foundation way of handling the impossible.\n\nIt also flips the usual logic of containment. The device is locked away not because of what it might do, but because using it would spend a guarantee.",
+  "thingsToNotice": "The early strings set the rules. The first test message arrives intact and is sent four minutes later, but each later round arrives more garbled, and four noise-only strings have shown up that nobody ever sent, a loose thread the file never ties off.\n\nString 17 is the hinge: received ten years after the machine was built, it identifies an authorized Foundation agent as its sender, yet it hasn't been sent. Since it must go out eventually, the Foundation and humanity are guaranteed to last until it does, so the procedures are built to make sending it impossible until the Foundation is already too weak to enforce them. The director admits the bleak half of the bargain, that having received it means failure will come someday, and treats delay as the only defense left.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}
