@@ -1,0 +1,19 @@
+{
+  "slug": "scp-453",
+  "lang": "en",
+  "hook": "SCP-453 is a nightclub in Italy where, every night, ordinary guests get pulled into one of hundreds of repeating scenarios, playing parts they will barely remember afterward. The article is mostly a staff manual: timetables, roles and medical instructions for the three most common scenarios. Content note: the scenarios involve serious violence and one implies abuse, though the worst details are redacted.",
+  "whyItMatters": "It is a strong example of an anomaly that is managed rather than solved: the Foundation owns and staffs the club, and success is measured by how many injured guests reach triage in time. A place that forces people into an old, repeating play, performed in Latin and rooted in ancient Rome, carries a sense of deep history without long exposition. The procedures are timed down to the minute, and that dryness becomes the main source of dread.",
+  "thingsToNotice": "Notice the role labels (wife, senator, assassin, vigiles) and how the scripts pick people who fit a part rather than people who know each other. The experiment logs record what happens when staff try to change the script, and the pattern is consistent enough to read as a rule. The third scenario is written very differently from the first two, with escalating contingency steps that make it clear why staff must memorise every flagged script.",
+  "related": [
+    {
+      "slug": "scp-427",
+      "note": "A footnote authorises its use to help an injured participant recover."
+    },
+    {
+      "slug": "scp-3143",
+      "note": "Another story-shaped anomaly that flattens real people into genre characters for the length of a script."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

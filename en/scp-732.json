@@ -1,0 +1,23 @@
+{
+  "slug": "scp-732",
+  "lang": "en",
+  "hook": "A joke entry written as if a hyperactive fan had broken into the database: the serious report keeps getting cut off by misspelled, all-caps fan-fiction boasts. It takes a minute to read, and the fun is in spotting where the real text ends and the vandalism begins. Knowing a few well-known SCP numbers helps, since the intrusions keep name-dropping them.",
+  "whyItMatters": "SCP-732 parodies a very recognizable kind of bad writing: the overpowered, tragic, rich and impossibly cool hero that fan fiction is often teased for. Making that style itself the anomaly is a neat move, because the damage shows up directly in the text of the document. It sits with the other meta and narrative entries that treat the wiki's own pages as the place where the threat lives.",
+  "thingsToNotice": "The corruption never replaces whole sections; it splices into sentences mid-word, so you can still piece together most of the original report. The intruding voice keeps trying to make the subject cooler and better connected to famous entries, while the surviving fragments describe a costly, embarrassing mess for the Foundation. Even the item number and object class lines are hit, which tells you the problem starts before the article does.",
+  "related": [
+    {
+      "slug": "scp-3143",
+      "note": "Another story-shaped anomaly, where an amateur's pulp script bends reality."
+    },
+    {
+      "slug": "scp-076",
+      "note": "One of the entries the vandalized text drags into its fan-fiction."
+    },
+    {
+      "slug": "scp-105",
+      "note": "Also name-dropped inside the corrupted addendum."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

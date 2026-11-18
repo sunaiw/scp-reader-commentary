@@ -1,0 +1,10 @@
+{
+  "slug": "scp-5552",
+  "lang": "en",
+  "hook": "SCP-5552 is a chain of linked pages: each next-document link takes you to a different version of the same file, and the names, numbers and even the object class change from one to the next. Read them in order and keep a loose note of who gets credit for what. At heart it is a story about two research partners, professional jealousy and time travel, told almost entirely through meeting transcripts.",
+  "whyItMatters": "It is one of the wiki's experiments with multi-page formats, where the reading order is itself part of the story. Cause and effect are handled with care, and the mistakes pile up across versions instead of resetting cleanly. The emotional core, who owns the credit for shared work, is something many readers will recognize from ordinary jobs, which keeps the science fiction grounded.",
+  "thingsToNotice": "Track the small recurring objects and habits, like the pocket watch and the remarks about someone arriving late; they work as markers telling you which version you are in. The name attached to the theory and the list of lead authors change between documents, and those shifts are the clearest map of what has been altered. In the later pages the procedures section itself starts to lose its clinical tone, as the report format gives way under the pressure.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

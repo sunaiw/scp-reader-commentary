@@ -1,0 +1,23 @@
+{
+  "slug": "scp-3143",
+  "lang": "en",
+  "hook": "Part of this file is laid out as a screenplay, complete with stage directions, a gravel-voiced narrator and a detective who talks like a pulp paperback. Go in expecting a send-up of hard-boiled crime writing, and a Foundation expert who fights back with literary criticism instead of a gun. A passing familiarity with noir habits (the doomed anti-hero, the rain, the weary voice-over) helps the jokes land, but it isn't required.",
+  "whyItMatters": "SCP-3143 belongs to the wiki's metafiction shelf and features the Pataphysics Department, whose staff here treat a living story as something to be taken apart with analysis. Containing a narrative by critiquing it turns the usual toolkit of cells and task forces into a seminar on genre. It also plays with the site's own format: the interview log, normally the driest part of an entry, becomes the stage on which the whole conflict is fought.",
+  "thingsToNotice": "Pay attention to the formatting itself. The speaker labels shift from NARRATOR to MURPHY to the item number to the author's designation, and the layout slides between screenplay and plain transcript; those shifts show how each scene is being framed. Thaum's critique also works as a compact essay on what separates noir from simple escapism, and the footnote naming two classic novels sets the benchmark he measures against. The file closes with a film-style credit roll, a last reminder that the document knows it is a piece of fiction.",
+  "related": [
+    {
+      "slug": "scp-453",
+      "note": "Another anomaly that pushes ordinary people into fixed roles in a script, this time in a nightclub."
+    },
+    {
+      "slug": "scp-732",
+      "note": "Also about amateur fiction turning up where it shouldn't, played as pure parody."
+    },
+    {
+      "slug": "scp-423",
+      "note": "Named in this file's closing memo as currently missing."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

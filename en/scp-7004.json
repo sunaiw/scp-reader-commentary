@@ -1,0 +1,19 @@
+{
+  "slug": "scp-7004",
+  "lang": "en",
+  "hook": "SCP-7004 is long, bleak and graphic, told mostly through helmet-camera logs from two agents crossing a collapsing continent. Content note: it relies heavily on body horror and violent death, and its disturbing images are described up close. The document also claims to be filtering itself as you read, so expect long runs of redaction marks that are part of the effect rather than gaps.",
+  "whyItMatters": "It is a 7000-series entry that leans on established pieces of the setting: the O5 Council, a Sarkic technique adapted for Foundation use, and SCP-2000, which the story treats as the last available way out. The hazard is framed as an idea that harms whoever comes to understand it, which turns the familiar redaction bar into a plot device. Much of the file plays less like a report than a road movie, with the system's own update messages acting as a cold narrator.",
+  "thingsToNotice": "The opening footage sets the scale at the very top of the organization before the story narrows to just two people, and that drop from global to personal is the article's main move. The relationship between the two agents shifts in small ways, down to how they address each other, and those details carry as much weight as the action scenes. Watch the redaction marks too: they thicken and break apart at moments of crisis, so the formatting itself tracks how close the narrative is to overload.",
+  "related": [
+    {
+      "slug": "scp-2000",
+      "note": "Named as the means to reset the world; reaching it is the agents' mission."
+    },
+    {
+      "slug": "scp-6470",
+      "note": "Another global emergency in which ordinary human voices become a hazard to be suppressed."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

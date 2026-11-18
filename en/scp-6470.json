@@ -1,0 +1,15 @@
+{
+  "slug": "scp-6470",
+  "lang": "en",
+  "hook": "A very short entry set in the near future, made of a two-line description and a public notice. Read the notice as a citizen who has just been handed it: it explains almost nothing and demands total compliance. All the tension comes from what the rules imply.",
+  "whyItMatters": "It is classed Thaumiel, and the article invites you to reason backward from that label: if a drug that silences the human voice counts as the solution, the problem it answers must be severe. It is also a broken-masquerade piece, where the Foundation works openly with governments and the Global Occult Coalition to give orders to the whole population.",
+  "thingsToNotice": "Note the version number on the code; this is already its twelfth revision, which hints at how much had to be learned along the way. Each instruction is a short, flat command, and several of them describe a threat without ever naming it. The contrast between that content and the brisk, almost cheerful sign-off is the article's sharpest touch.",
+  "related": [
+    {
+      "slug": "scp-7004",
+      "note": "Another worldwide emergency where human voices themselves become the hazard."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

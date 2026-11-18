@@ -1,0 +1,10 @@
+{
+  "slug": "scp-6819",
+  "lang": "en",
+  "hook": "A late-night driving article built from incident reports: a stretch of nameless highway, a floodlit building on a hill, and one firm rule about never stopping. It reads best slowly, and maybe not right before a long night drive. Content note: several entries describe injured animals and a crash scene fairly directly.",
+  "whyItMatters": "Its key design choice is that only current or former Foundation employees can trigger the event. Every witness is a colleague, from field agents to a site director, so the file reads less like a detached report and more like ghost stories told among coworkers. It is also a clean example of the instance-log format, where separate encounters gradually build a pattern that the short procedures section only hints at.",
+  "thingsToNotice": "Compare each encounter with the procedures at the top: every rule there reads like a lesson drawn from one of the logs below. The building looks different to each witness, so watch how people describe it and how their word choice changes over the course of the file. The closing interview is quieter and more personal than the logs, built around one agent's memory of being afraid of the dark as a child.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "scp-2137",
+  "lang": "en",
+  "hook": "SCP-2137 is a CD of a real 1995 hip-hop album whose seventh track keeps turning into new songs about unsolved crimes. The article mixes standard report sections with full verses, so part of the fun is reading lyrics as evidence. It also escalates: the relationship between the Foundation and the disc changes over the course of the file, which is why three object classes sit side by side at the top.",
+  "whyItMatters": "Built around a real public figure, it asks a question the setting rarely raises: what happens when an anomaly wants to help and the Foundation's instinct for secrecy gets in the way? The later material argues openly that the usual threat labels may not fit something that pursues justice. That makes it a good counterpoint to the many files where the anomaly is simply something to lock away.",
+  "thingsToNotice": "Notice who each set of lyrics is aimed at: the sample track addresses a would-be avenger, later ones speak straight to the Foundation, and the tone moves from tip-off to threat to something closer to reconciliation. The guest-artist list is a quiet joke of its own, getting more anachronistic as the cases get older. The site director's email near the end looks at the whole record from the point of view of the staff who actually work with the disc every day.",
+  "related": [
+    {
+      "slug": "scp-617",
+      "note": "Listed among anomalies recovered after the Foundation acted on the disc's tips."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}
