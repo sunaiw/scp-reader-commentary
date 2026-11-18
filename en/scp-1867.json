@@ -1,19 +1,10 @@
 {
   "slug": "scp-1867",
   "lang": "en",
-  "hook": "SCP-1867 is a small, funny article about a sea slug with the manners and memories of a Victorian adventurer. It is short and light, and the joke works best if you simply let the gentleman talk. Expect pulp-era exploration stories filtered through a very unlikely narrator.",
-  "whyItMatters": "Lord Blackwood has his own tag, which tells you the character outgrew this one file and became a recurring comic voice on the site. The article also uses an esoteric-class style header, with a structured containment block replacing the usual Safe or Euclid line. It shows how much personality an entry can carry while the actual anomaly stays tiny.",
-  "thingsToNotice": "The containment procedure is not about the slug at all; it is a rule for fact-checking its stories, which neatly tells you where the real risk lies. The recovered collection then complicates the joke, since a vault full of impossible specimens suggests at least some of the tall tales were true.\n\nWatch the small absurd details in the inventory, like the planetary globes and the carriage with a note about it being broken. The interview ends on a perfect reversal, with the slug treating the researcher as the one who has lost his grip.",
-  "related": [
-    {
-      "slug": "scp-343",
-      "note": "Another genial entity whose claims about itself are impossible to pin down."
-    },
-    {
-      "slug": "scp-504",
-      "note": "A lighter entry where the comedy comes from deadpan Foundation reporting."
-    }
-  ],
+  "hook": "SCP-1867 is a short, comic article about a sea slug that talks like a Victorian gentleman explorer. The joke works best if you simply let him hold forth and enjoy the pulp-adventure flavor of his stories. Keep half an eye on the dry Foundation notes around him, though, because they are not all as light as he is.",
+  "whyItMatters": "It swaps the usual Safe or Euclid line for a fuller header listing containment class, hazard rating and care policies, which suits a subject that is more a tenant than a threat. Almost all of the article's energy comes from the narrator's voice rather than from what the anomaly does. It shows how much personality an entry can carry while the actual creature stays four and a half inches long.",
+  "thingsToNotice": "The containment procedure ignores the slug entirely and only regulates how far its stories may be believed, which tells you where the real hazard sits. The vault then undercuts the comedy: hundreds of unknown species, journals whose accounts match his retellings and date to the right periods, opium, unworkable particle-destabilizer muskets, globes of other planets with exploration routes, and an unnamed item that killed four agents before it was destroyed. The quiet death of the housekeeper from heart failure five days after agents arrive is left unexplained.\n\nThe interview closes the loop: asked for proof that a vanished tribe ever existed, he blames a cryptid for wiping them out, and when the doctor finally points out that he is a sea slug, he concludes the doctor must be drunk and sends him off for tea. Whether Blackwood is a man trapped in a slug or a slug convinced it is a man is never settled.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

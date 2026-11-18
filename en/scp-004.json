@@ -1,19 +1,10 @@
 {
   "slug": "scp-004",
   "lang": "en",
-  "hook": "SCP-004 is one of the oldest-numbered files: an old barn door and a ring of twelve rusted keys. Much of it is told as a dated timeline, so it reads more like a case history than a standard report. There are a few grim moments, kept brief, and a lot of escalation driven by institutional ambition.",
-  "whyItMatters": "With such a low number, it is a common early stop for new readers, and it shows the first-generation taste for terse writing full of redactions. It also does setting work, since a Foundation site ends up being built in the space behind the door. The premise of one door leading to different places depending on the key is simple enough to explain in a breath, which is part of why it sticks.",
-  "thingsToNotice": "The timeline lets the scale creep up quietly, from kids trespassing to a permanent installation behind the door, and the cold handling of witnesses and families says as much about the Foundation as about the object. Only one key is truly safe, and the file never stops treating that as a resource to exploit.\n\nThe time anomalies are the eeriest thread, from things returning decades later unchanged to staff who lose track of how long they have been inside. The blackout entry hints that the vast dark room is not empty, and the appendix on SCP-004-12 links that hint to something enormous.",
-  "related": [
-    {
-      "slug": "scp-005",
-      "note": "A key that opens any lock, a neat counterpoint to keys bound to one door."
-    },
-    {
-      "slug": "scp-1983",
-      "note": "Another doorway that leads somewhere hostile and keeps those who enter."
-    }
-  ],
+  "hook": "SCP-004 is an old barn door on an abandoned factory and a ring of twelve rusted keys, each of which opens the same door onto a different place. Much of it is told as a dated timeline, so it reads like a case history more than a standard report. Be ready for blunt body horror early on: most of the keys tear whoever walks through into scattered pieces.",
+  "whyItMatters": "The premise of one door whose destination depends on the key is simple enough to explain in a sentence, and the article gets a great deal out of it. It is also a piece of setting-building, since the Foundation ends up treating the impossible room behind the door as real estate. The terse, heavily redacted style leaves gaps that the reader fills in, which is part of its unease.",
+  "thingsToNotice": "The first death sets the tone: a boy opens the door with the wrong key and is ripped apart, his right hand turning up eight kilometers away and other parts as far as 32 km off. Ten of the twelve D-class sent through on day one die the same way, and the Foundation's answer to the witnesses is to terminate the surviving boys and the sheriff they called. Decades later, the missing remains of the boy and of one test subject reappear at the door still warm, their blood not yet clotted, which is the clearest sign that time behaves badly here.\n\nThe one safe key, 004-7, opens an unmeasurable dark room, and the Foundation's ambition turns it into Site-62, a bunker meant to hold emergency stock, mobile anomalies and a backup of its entire database. Because of the time slippage the staff are kept on site for good, and their families are told they died in an industrial accident and buried cloned bodies. Then a 53-minute blackout leaves everyone sensing humanoid creatures in the dark, which staff link to the giant green being that key 004-12 shows its users, a sight that leaves most of them catatonic, clawing at their eyes, or dead. The late addendum on a box that erases anything locked inside, and somehow affects someone's dreams, along with a redacted hint that the keys may fit other doors, leaves the mystery wider than it started.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

@@ -1,19 +1,15 @@
 {
   "slug": "scp-3002",
   "lang": "en",
-  "hook": "SCP-3002 arrives as a forwarded email, and each later version of the file comes wrapped in another message from higher up. The first report is small and quiet, a shared childhood memory among prison inmates. Read the emails as carefully as the reports, since they are where the second story is told.",
-  "whyItMatters": "It uses the revision format to stage a slow-motion apocalypse: the same item is reclassified upward as the Foundation realizes how badly it misjudged a mild curiosity. The tags for a K-class scenario and Foundation-made point at the twist, which reframes the anomaly as a consequence of the organization's own secrets. The final document's list of replies from other groups of interest is a memorable tour of the wider setting at the end of the world.",
-  "thingsToNotice": "Watch how the memory changes character across versions, from a vivid recollection, to something people defend as their own, to an intelligence that edits records and steers bodies. The girl at its center always asks whether she is remembered, and that question gains a painful meaning once the abandoned facility and its project are found.\n\nThe email signatures carry names drawn from Slavic myth, and the senders' worries shift from side effects to self-protection. By the last version the proposals are being judged by people who may already be compromised, and the blank final entry leaves you unsure who is still deciding anything.",
+  "hook": "SCP-3002 arrives as a forwarded email, and each later version of the file comes wrapped in another message from someone higher up. The first report is small and quiet: a childhood memory that most of a prison's inmates turn out to share. Read the emails as carefully as the reports, because a second story is being told in them.",
+  "whyItMatters": "It uses a chain of revisions to stage a slow apocalypse, with the same item reclassified from Safe to Euclid to Keter as the Foundation keeps underestimating it. The article's real subject is the Foundation's own conduct, which the later versions drag into the open. It shows how much story the plain apparatus of headers, logs and cover emails can carry when the reader is invited to look between them.",
+  "thingsToNotice": "The memory changes character from version to version: a vivid shared day in the woods, then something people defend as their own, then an intelligence that edits files, rewrites a RAISA officer's loyalties and, by the end, overrides bodies so crowds converge to infect anyone still clean. The girl at its center, Lily Veselka, keeps asking whether you remember her and whether the project is finished, and those questions turn painful once the abandoned Site-E is found in Ukraine. A burnt letter from O5-2 describes Project Lethe, a mass memory-control tool built on a single girl kept for invasive brain surgery while conscious, who stopped answering to her name, harmed herself and tried to kill herself with a sharpened utensil, while the writer proposes replacing her with a trigger planted in nearly all of humanity.\n\nThe email senders' worry shifts from side effects to covering their tracks; O5-2 even sends someone to clean up what is left of the project. In the final version 78 percent of humanity is contaminated and the Foundation pleads with other groups, getting silence, destroyed replies and a few bleak notes. Command votes down every drastic option, and Veles, the O5 the Lethe letter was addressed to, refuses to reopen the project and orders the termination of the doctor who suggests it, so the shrinking vote counts and the blank field after a proposal simply titled Restart leave you unsure whether anyone uncompromised is still deciding.",
   "related": [
     {
       "slug": "scp-2000",
-      "note": "Named as a last-resort option in the final proposals."
-    },
-    {
-      "slug": "scp-2998",
-      "note": "Another version chain that ends with the Foundation overrun from within."
+      "note": "Proposed in the final document as a way to repopulate Earth, and turned down."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

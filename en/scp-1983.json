@@ -1,19 +1,10 @@
 {
   "slug": "scp-1983",
   "lang": "en",
-  "hook": "SCP-1983 opens as a tidy Keter report about an abandoned farmhouse and a front door nobody should walk through. Most of its power sits in a document recovered later, so do not skim the early sections; they set up rules that pay off. It is a horror piece, but the frightening parts are mostly implied rather than lingered on.",
-  "whyItMatters": "It is a strong example of the found-document turn, where a formal report hands the floor to a desperate personal account. The rule that the weapons only work when the prayer is sincere is one of the more memorable twists on monster hunting in the canon. The closing note credits an unlikely person with ending the threat, which reframes the whole file.",
-  "thingsToNotice": "Barclay's report breaks the clinical format on purpose: profane, frightened and practical, it reads like a containment procedure written for the next victim. Notice how he reasons about the shadow creatures through light and darkness while admitting he is only guessing, which makes his advice feel human rather than authoritative.\n\nHis loss of faith is the quiet tragedy, since sincere prayer is the one thing that works. Then the dry Foundation voice returns and tells you, in a sentence or two, who is presumed to have finished what he could not. His Latin sign-off, 'Morituri te salutant', fits the soldier-to-soldier tone.",
-  "related": [
-    {
-      "slug": "scp-2439",
-      "note": "Another file where trapped personnel write the report in their own raw voice."
-    },
-    {
-      "slug": "scp-004",
-      "note": "A plain-looking door that opens onto a space hostile to anyone who enters."
-    }
-  ],
+  "hook": "SCP-1983 begins as a neat Keter report on an abandoned Wyoming farmhouse whose front door opens onto something that should not be there, then hands most of its length to a document found inside. Keep the early rules in mind (silver rounds, sincere prayer, the door), because the later account leans on every one of them. It is straightforward horror, with people's hearts taken from their chests, told largely in a profane and frightened voice.",
+  "whyItMatters": "It is a clear example of the found-document structure, where a tidy Foundation file gives way to a personal account written from inside the anomaly. Making sincere faith, of any religion, the thing that lets the weapon work gives a monster story an unusual moral weight. The short closing note then changes how everything before it reads.",
+  "thingsToNotice": "The creatures reach into a chest without breaking the skin and leave with the heart, and Barclay's report shows where those hearts end up: a nest at the center of a patchwork space built from stolen pieces of apartments, malls and his old high school. There the torn hearts sit in a heap and keep beating, each one hatching a new creature while the shadow of the person it belonged to strains to pull free. His squad dies one by one along the way: O'Brien's heart taken in the living room, Jones melting after wandering out of the far door, Torres pulled through a wall of black matter, Denning's heart thrown on the pile.\n\nHis advice to stay in the dark, because light gives the shadows edges, comes with an honest admission that he is guessing. Having seen the nest he can no longer pray and mean it, so his remaining bullets are useless; he plans to carry the report to the living room and make sure his own heart cannot be used, then signs off with the gladiators' salute. The ending pays off Addendum 3: hours after D-14134 walked in with a tethered camera the anomaly vanished, and the Foundation credits that throwaway test subject with destroying it, awarding him a posthumous Foundation Star. Barclay's guess that a space stitched from many places must have other doors becomes the final worry, as the Foundation starts looking for similar incidents.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

@@ -1,19 +1,10 @@
 {
   "slug": "scp-2439",
   "lang": "en",
-  "hook": "SCP-2439 is a report scratched onto a wall by D-class personnel, in their own voice, for each other. Expect misspellings, edits by several hands, and plenty of swearing; the rough format is the point. It is short, but read slowly and notice any line that does not sound like the writers.",
-  "whyItMatters": "It throws out the clinical Foundation voice entirely and looks at the organization from the D-class side, as jailers rather than protectors. That shift gives it a sharper edge than most meta pieces, because the setting's usual assumptions are seen by the people who pay for them. It is a good example of how a format experiment can double as commentary on the setting itself.",
-  "thingsToNotice": "The capitalized lines cutting into the text are the real horror: the thing being contained is speaking through the very document meant to hold it in check. Its promises shift from threats to offers tailored to exactly what the writers resent, which makes their plea to wait feel fragile.\n\nThe item number and class line, revised again and again, quietly tell you how long this wall has been handed down. By the end the voices blur, and the article leaves you unsure who wrote the final words.",
-  "related": [
-    {
-      "slug": "scp-1983",
-      "note": "Another in-world report written by personnel trapped with what they describe."
-    },
-    {
-      "slug": "scp-055",
-      "note": "A different anomaly whose containment depends on what people know."
-    }
-  ],
+  "hook": "SCP-2439 is not written by the Foundation at all. It is a warning scratched into a wall by D-class cleaners and handed down from one group to the next, complete with bad spelling, edits by several hands and a lot of swearing. It is short, so take it slowly and watch for any line that does not sound like the people writing it.",
+  "whyItMatters": "It drops the clinical report voice and looks at the Foundation from the very bottom, where the staff are guards and the D-class are labor to be used up. Putting a containment document in the hands of the people the system grinds down turns the familiar format into a complaint against that system. It shows how far a change of narrator can shift the way the whole setting reads.",
+  "thingsToNotice": "The capital-letter lines are the contained mind itself, breaking into the document meant to keep it secret; its first interruption comes right after the text tells a new reader they can already hear the whisper, so you are counted among its catches. Its offers climb from sparing whoever releases it, to sparing the writers' loved ones, to crushing their oppressors, each pitched at a grievance the prisoners have just vented.\n\nThe writers' own rules are blunt: kill any non-D-class who reads the wall and scrape it off, silence anyone who would talk, and if the thing starts winning, do something wild and get shot. They keep the idea alive as a one-shot weapon against the Foundation, held back only because families outside would suffer and because firing it early would let the Foundation adapt. Since everyone vanishes by month's end, the item number has been rewritten from 739 to 1648 to 2439, with a 9001 joke, and nobody knows what Keter means. In the last lines the defiant brush-off aimed at the creature runs straight into LET ME IN, and the closing line is a pile of buzzwords ending in LET ME IN NOW, which leaves you wondering whether the final writer was already lost.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

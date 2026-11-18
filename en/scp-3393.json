@@ -1,19 +1,10 @@
 {
   "slug": "scp-3393",
   "lang": "en",
-  "hook": "SCP-3393 is written in the second person, and it means it. Read it straight through from top to bottom without skipping ahead, because the order of the sections is part of how it works. It is short enough to finish in a few minutes.",
-  "whyItMatters": "It belongs to the corner of the site built around the Antimemetics Division, where the hardest problem is simply noticing that something exists. The meta tag is earned: the article treats the act of opening the file as evidence, turning the reader into the subject. It is a compact example of how a format trick can carry an entire entry.",
-  "thingsToNotice": "The section order is the trap. Containment procedures normally come first, but here they sit at the end, and the file itself explains why that placement matters for the person reading it.\n\nThe forged version in the first addendum gives the subject a voice that sounds tired and protective rather than hostile, which makes the closing move feel a little sad. Notice too how every failed operation is described as having been read in advance, so the document has been playing this game with its subject for a while.",
-  "related": [
-    {
-      "slug": "scp-055",
-      "note": "The classic antimemetic entry, defined by what cannot be retained about it."
-    },
-    {
-      "slug": "scp-3125",
-      "note": "A larger Antimemetics Division story about threats that hide from attention."
-    }
-  ],
+  "hook": "SCP-3393 is written in the second person, and it means it. Read it straight through from top to bottom without jumping ahead, because the order of the sections is part of how it works. It takes only a few minutes.",
+  "whyItMatters": "Its tags place it with the Antimemetics Division material, where the hardest problem is noticing that something exists at all. The meta tag is earned: the article treats the simple act of opening the file as evidence and turns whoever is reading into the subject. It is a compact example of a format trick carrying an entire entry.",
+  "thingsToNotice": "The file is the trap. Containment procedures normally open a report, but here they come last: anyone who opens this document without giving seventy-two hours' notice has the room around their terminal sealed by Eta-10 agents posing as ordinary staff, and that room becomes their cell. The placement is spelled out as deliberate, to keep you reading while the doors close, and the pending operation in the addendum table, Bait The Hook, simply points to those procedures.\n\nThe joke has a sad core. The subject is probably Dr. Mackey, or whatever Mackey's research produced, a person nobody at Site-31 remembers, and the forged version of the file gives them a tired, protective voice asking to be left alone so no one else catches their condition. Earlier operations failed because the subject read their plans beforehand, so the Foundation finally writes a plan that only works if it is read.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

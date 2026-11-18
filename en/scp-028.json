@@ -1,19 +1,19 @@
 {
   "slug": "scp-028",
   "lang": "en",
-  "hook": "SCP-028 is an empty patch of ground in Michigan that gives anyone who steps into it a sudden, complete piece of knowledge. The catch is that you do not get to choose which piece. It is a short early entry, and its charm is in the lists.",
-  "whyItMatters": "It is a clean example of the early-series habit of building a whole article around one simple rule and a few test logs. The premise, a place with no physical presence at all, makes the Foundation's concrete room and armed guards feel almost comic. It also shows how the old files liked to link anomalies to each other, with an invention from this site feeding into another object's containment.",
-  "thingsToNotice": "The retrieval list swings between the trivial and the cosmic, from where someone left their car keys to secrets the editors have blacked out, and that randomness is the joke and the threat at once. The incident logs then turn the tone, showing that some knowledge is too large for a person to carry calmly.\n\nThe final experiment is a neat closer: a man learns something impossible, cannot pass it on, and the researcher's note admits the Foundation has no idea how it worked either.",
+  "hook": "SCP-028 is an invisible patch of ground beside a Michigan copper mine that hands anyone who steps into it a complete body of knowledge on some subject. The catch is that you do not get to pick the subject. It is a short entry built from a retrieval list and a few logs, and the logs are where it bites.",
+  "whyItMatters": "The whole article rests on one simple rule and a handful of test records, and it gets a lot of range out of that. Guarding a place with no physical presence using a concrete room and two armed guards has an almost comic literal-mindedness. It is also a reminder that in this setting knowledge itself can be the hazard, not just the objects that carry it.",
+  "thingsToNotice": "The retrieval list swings from a 1998 New York phone book and a lost set of car keys to the history of twelve anomalies, and one entry, a way to rebuild a car engine to run on human blood, is both absurd and grim. The logs then show what happens when the subject is large. D-1182 weeps, curls up, says this is not life, slides into catatonia and a coma, and dies of shock; an agent exposed by accident takes a moment to think, laughs, draws his pistol, wounds a doctor and kills two fellow agents, and turns out to know classified Foundation business. That is why any staff member who enters is now detained for good.\n\nThe last log is quieter: D-9843 learns to recycle the carbon dioxide in his own body, cannot teach it to anyone, is terminated, and shows nothing unusual at autopsy. The researcher's exasperated note admitting nobody knows how he did it is the closing joke, and a cold one.",
   "related": [
     {
       "slug": "scp-1995",
-      "note": "The file says a design learned here ended up in that object's containment."
+      "note": "The reactor design a miner picked up here is said to have been put to use in its containment."
     },
     {
-      "slug": "scp-500",
-      "note": "Another Safe gift whose real danger is how people choose to use it."
+      "slug": "scp-2669",
+      "note": "Named among the objects an exposed agent suddenly knew about."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }
