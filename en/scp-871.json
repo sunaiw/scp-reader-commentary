@@ -2,18 +2,9 @@
   "slug": "scp-871",
   "lang": "en",
   "hook": "Yes, it's about cake. The tone is completely deadpan, and the joke and the threat turn out to be the same thing, so don't decide too early whether you're reading a comedy. The containment procedures are both the funniest and the grimmest part, and they only fully make sense once you reach the final paragraph.",
-  "whyItMatters": "871 is a good example of the harmless-object, catastrophic-math style: nothing in it is frightening on its own, but runaway growth turns a dessert into a planetary problem. It shows how much the format can do by following one simple rule all the way to its end. The idea that a Keter is held back only by people sitting down and eating, day after day, is a big part of its charm.",
-  "thingsToNotice": "The danger is held back until the very end, so the locked cells and armed escorts look absurd until the 80-day estimate lands. Notice the small touches that keep it light, like the range of cakes, the giant baumkuchen and the site-wide ban on desserts. Underneath the gag, the procedures also show how casually D-class staff are treated, which leaves a sour aftertaste. The note that instances slowly 'mutate' adds a quiet open question about where the cakes are heading.",
-  "related": [
-    {
-      "slug": "scp-015",
-      "note": "Another self-replicating object, though there the fix is restraint rather than cooperation."
-    },
-    {
-      "slug": "scp-294",
-      "note": "A kitchen-counter anomaly whose everyday premise hides how strange things can get."
-    }
-  ],
+  "whyItMatters": "It is a clean example of the harmless-object, catastrophic-math style: nothing in it is frightening on its own, but runaway growth turns a dessert into a planetary problem. It shows how much the format can do by following one simple rule all the way to its end. The idea that a Keter is held back only by people sitting down and eating, day after day, is a big part of its charm.",
+  "thingsToNotice": "The danger is held back until the last paragraph: any cake left more than ten percent uneaten starts spawning a new one every day, the copies do the same, and a single uncontrolled cake is projected to make Earth uninhabitable within 80 days. Until that lands, the locked concrete cells, armed escorts and hour-long time limit read as absurd.\n\nThe small touches keep it light, like the 15-gram cupcake, the two-meter baumkuchen and the site-wide ban on serving desserts. Underneath the gag, though, the procedures are blunt about the D-class: guards may kill one of the three eaters if the others need motivating, and the reward for eating well is having your scheduled monthly termination pushed back. The note that the cakes slowly mutate, with a bigger change in about one replacement in twenty, leaves an open question about where they are heading.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }

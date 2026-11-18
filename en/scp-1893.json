@@ -1,19 +1,10 @@
 {
   "slug": "scp-1893",
   "lang": "en",
-  "hook": "The page you see may not be the page someone else sees: the article invites you to reload after a minute to get a different version. Try to read at least two. Each one is a short piece of fiction in which characters recite a containment file to one another, and the contrast between versions is the point.",
-  "whyItMatters": "1893 is a strong example of format experiments on the wiki, where the presentation itself is the anomaly. Rather than a report describing an entity that turns messages into stories, you only ever receive its stories, so the plain file never reaches you directly. It's a handy reference point for meta articles that make the reader part of the containment problem.",
-  "thingsToNotice": "Because the original text always survives as dialogue, every version carries the same report wrapped in a different scene, which makes the moods easy to compare. One iteration is a quiet hospital farewell, another turns violent, and a hulking horned figure lurks at the edge of the frame. That figure works as a gauge of the entity's temper, so its distance from the characters tells you how threatened 1893 feels. The iterations also break off at the same moment, right before the termination plan would be read out.",
-  "related": [
-    {
-      "slug": "scp-2602",
-      "note": "Another anomaly that rewrites the document about it, played for laughs instead."
-    },
-    {
-      "slug": "scp-3999",
-      "note": "A longer meta story about a narrative turning on the people inside it."
-    }
-  ],
+  "hook": "The page you get may not be the page someone else gets: a banner at the top names the iteration you are viewing and tells you to reload after a minute for another. Each version is a short piece of fiction in which the characters end up reciting a containment file to each other. Try to read more than one if you can.",
+  "whyItMatters": "It is a format experiment where the presentation itself is the anomaly. Instead of a report describing an entity that turns messages into stories, you only ever receive its stories, so the plain file never reaches you directly. That makes it a useful reference point for meta articles that put the reader inside the containment problem.",
+  "thingsToNotice": "In Iteration D the report is spoken as dialogue between Eleanor, dying of lung cancer in a hospital bed, and her wife Katherine, who feeds her the item number and object class like lines in a private game. The file itself explains the device: the original text survives intact as the characters' speech, while the setting and tone reflect the entity's mood and may shift depending on who is reading.\n\nThe menace stays at the edges here. A large man is waiting outside the room when Katherine arrives and is gone when she looks for help, and late on Eleanor hears something tapping down the hall like a bat being rolled along the floor. Then, just as she starts reading out the plan for terminating SCP-1893, she falls asleep for the last time, and the story ends with the termination method never spoken.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }

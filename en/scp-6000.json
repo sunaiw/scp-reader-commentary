@@ -1,19 +1,10 @@
 {
   "slug": "scp-6000",
   "lang": "en",
-  "hook": "SCP-6000 is long, split into dated revisions you pick from, and it leans on the Wanderer's Library and the Serpent's Hand. You don't need deep lore, since the briefings cover the basics, but knowing the Library is usually a beloved and mostly neutral place makes its turn hit much harder. Read the revisions in date order; the later one changes how the earlier one feels.",
-  "whyItMatters": "It gathers several long-running threads of the setting, including Director Moose, the Serpent's Hand and a Foundation-GOC alliance, into a single end-of-the-world story. Casting the Library, usually a sanctuary, as an Apollyon-class force is a bold choice with a well-loved location. The opening notice that none of these events happened in baseline reality adds a layer of doubt about what exactly you're reading.",
-  "thingsToNotice": "SCP-6000-A's talks with Moose are the spine of the piece; each one trades a story for information, and the entity's own fairy tale turns out to be the key. Watch how the passphrase, the fusillade remark and MacMillan's letter all point toward an ending that is less about defeat than about how people meet it. The later revision strips the file down, which lets the quiet final conversation stand out. The last exchange offers Moose two possible replies, so notice how each one colors the closing scene in the Library.",
-  "related": [
-    {
-      "slug": "scp-5000",
-      "note": "Another landmark apocalyptic file in which the familiar Foundation setting comes apart."
-    },
-    {
-      "slug": "scp-2602",
-      "note": "A far lighter library-themed piece about information bending its reader."
-    }
-  ],
+  "hook": "SCP-6000 is long and opens with a choice of two dated file revisions, presented as files no one at the Foundation wrote. It leans on the Wanderer's Library and the Serpent's Hand, but the briefings cover what you need. It helps to know that the Library is usually described, even in this file, as neutral to a fault; read the January revision first, then the February one.",
+  "whyItMatters": "It builds an end-of-the-world story out of a place the setting normally treats as a refuge, and puts Director Moose, a former Library-goer, at the center of it. The joint Foundation-GOC framing and the opening notice, which insists none of these events happened in baseline reality, make the file feel like a document from a future that may or may not arrive. Its real argument is less about containment than about how to face an ending.",
+  "thingsToNotice": "The Library is not attacking at random: a Way in the Amazon keeps growing, turns trees into bookshelves, and swallows the world, while the Serpent's Hand quietly leaves Earth. SCP-6000-A, found coiled among twelve robed corpses at a ritual circle, trades stories with Moose and slowly remembers that she is the fire-spinning girl from her own fairy tale, a Hand member who called on the Serpent to learn how her story ends and learned that it was the world's ending too.\n\nShe keeps dropping hints she should not have, such as the project's codename and the passphrase later broadcast worldwide, and she insists no one has died; the recon team was made into Librarians, not killed. MacMillan, convinced resistance is pointless, performs a ritual and walks into the Library on purpose, leaving Moose a letter that calls this his happy ending.\n\nThe February revision drops to Apollyon class: half the planet is gone and Moose stays behind with SCP-6000-A as Facility-57 is swallowed. The last exchange offers two replies for Moose, but both lead to the same scene, where she wakes in the Library among MacMillan, her old fireteam, the committee and possibly the O5s, and is handed a book titled SCP-6000. The ending reframes the apocalypse as a transfer into new stories, and whether that reads as comfort or as surrender is left to you.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }

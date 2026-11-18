@@ -1,19 +1,10 @@
 {
   "slug": "scp-3333",
   "lang": "en",
-  "hook": "A fire lookout, a trapdoor in its ceiling, and another identical lookout above: the premise is simple, and the article gives you time to settle into it. It's built from expedition logs, so expect slow climbing and creeping unease rather than early action. Glance at the object class line and the revision date in the procedures before you start.",
-  "whyItMatters": "3333 sits in the endless-space tradition alongside SCP-087, but leans into the idea that whatever you're exploring may be studying you in return. Its dry procedural voice, describing a situation that keeps getting worse, makes it a good model of slow-burn horror in the format. A late speech about height and enlightenment gives it a thematic layer beyond the scares.",
-  "thingsToNotice": "The doubled class and a task force created after the logs are a quiet spoiler that the expeditions did not stay contained. Watch how trust erodes: base camp keeps pushing people upward, and later the question becomes whether the voices on the radio belong to who they claim. Small details, like a nickname someone would never use, turn out to be decisive. The empty summit reads as a comment on our habit of expecting answers at the top. The final log is the most graphic part of the article, so go in prepared.",
-  "related": [
-    {
-      "slug": "scp-087",
-      "note": "The classic endless stairwell, explored downward with a similar sense of being watched."
-    },
-    {
-      "slug": "scp-3008",
-      "note": "Another endless building whose apparent staff are not what they seem."
-    }
-  ],
+  "hook": "A fire lookout, a trapdoor in its ceiling, and another identical lookout above: the premise is simple, and the article gives you time to settle into it. It's built from expedition logs, so expect slow climbing and creeping unease rather than early action. Glance at the object class line and the revision date in the procedures before you start. Content note: the final log carries a reader-discretion warning and describes bodily horror in close, graphic detail.",
+  "whyItMatters": "It is an endless-structure story that slowly flips its premise: the people exploring the tower turn out to be the ones being studied and hunted. Its dry procedural voice, describing a situation that keeps getting worse, makes it a strong model of slow-burn horror in the format. A late speech about height and enlightenment gives it a thematic layer beyond the scares.",
+  "thingsToNotice": "Safe and Keter side by side in the class line, a task force created to hunt something, and a revision dated 2039 all tell you up front that the expeditions failed. The real twist is that the tower holds SCP-3333-1, eyeless winged things that liquefy a person, wear the empty skin, and imitate them over the radio; by the end they have killed or replaced the whole observation post, kept requesting supplies for a month, and cost over fifty personnel.\n\nThe clues are planted in the dialogue: D-4f68a starts calling Williams Doc only after the morning he forgot to switch on his camera; Graham (Mod-5) vanishes at the apex, yet a Mod-5 keeps talking, urges retreat and later objects to sending Specialist 0; and when the team checks in, each voice gives someone else's number. The dog tag Specialist 0 finds on a rotting corpse reads Graham Purcell, which confirms it.\n\nThe last log is Williams's own phone footage, in which she escapes up the tower, stamps flat the fingers of a creature posing as a rescue team, shoots a thing inside D-4f68a's skin that she unmasks because he never called her Doc, and reaches an apex where there is nothing at all. Then Specialist 0's body staggers in, a barbed stinger paralyzes her, her insides are sucked out, and the entity climbs into her skin and switches off the camera.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }

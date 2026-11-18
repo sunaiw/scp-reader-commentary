@@ -2,18 +2,14 @@
   "slug": "scp-105",
   "lang": "en",
   "hook": "SCP-105 is a person, Iris Thompson, and the file reads best as a short biography written by her captors. Her ability is easy to grasp, so the interest lies in how she is treated and what she is asked to do. Listen closely to her few answers in the interview; they say more than they seem to.",
-  "whyItMatters": "Iris is one of the best-known humanoid characters on the wiki, and her file ties into wider lore through Mobile Task Force Omega-7 and the Pandora's Box program, next to SCP-076-2's Team Able. The final notice points toward a later chapter involving Alpha-9 that the file deliberately withholds, so this page is one piece of a bigger story.",
-  "thingsToNotice": "Notice how the procedures frame her privileges as rewards for good behavior, which quietly sets up the tension of the later addenda. Her acquisition is told flatly, yet it packs a false accusation and a family told she had died into a few lines. Addendum 3 turns on her refusal to take part in lethal missions and on a researcher who tries to help her get free. The closing notice, insisting every rumor about her is false, practically dares you to believe them.",
+  "whyItMatters": "It is a clear example of a humanoid file that treats its subject as a person with a history rather than an object with properties. The later addenda tie her to Mobile Task Force Omega-7 and the Pandora's Box initiative, set beside SCP-076-2's Team Able, and the last notice points to an Alpha-9 chapter the file refuses to discuss. So the page works both on its own and as a window onto a larger, deliberately sealed story.",
+  "thingsToNotice": "Her acquisition is grim in a few lines: she watched her boyfriend's murder live through an old photo, became a suspect because the phone records did not match her story, refused her lawyer's advice to plead guilty, and demonstrated her power in court. The Foundation took her, swapped her camera for a duplicate at home, and told her parents she had been killed during another patient's escape attempt at a psychiatric facility.\n\nIn the interview she calls the Foundation a new prison with a new warden, and the doctor's closing offer of occasional outings in return for favors is the hook for what follows. Addendum 3 shows the price: Team Iris moved from reconnaissance to assassinations, she fought it, faked losing her ability, and a sympathetic doctor first argued for her release and then helped her attempt a breakout that failed.\n\nShe ends up back at Site-17 without her camera, trading demonstrations for privileges. The final notice declares every rumor that she is being used again, alongside Alpha-9, to be false, which in context reads as close to a confirmation.",
   "related": [
     {
       "slug": "scp-076",
-      "note": "Its Able led the other headline team of the Pandora's Box program Iris served in."
-    },
-    {
-      "slug": "scp-239",
-      "note": "Another young person with an anomalous gift whose containment raises hard ethical questions."
+      "note": "Addendum 3 sets Team Iris beside Team Able, the strike-and-capture unit tied to SCP-076-2."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }

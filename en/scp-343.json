@@ -1,19 +1,10 @@
 {
   "slug": "scp-343",
   "lang": "en",
-  "hook": "SCP-343 is the Foundation's file on a friendly old man who says he made the universe and can more or less prove it. It is short, warm, and a little sly. Read the addenda carefully, since the interesting part happens in what goes missing.",
-  "whyItMatters": "It is one of the most widely read early entries, and a natural starting point for thinking about how the site handles gods. Rather than a threat, it offers an all-powerful being who mostly wants company, which makes containment a polite fiction. The alleged-god tag it carries groups it with many other claimed deities, and this one stands out for how little it asks of anyone.",
-  "thingsToNotice": "The containment procedures are almost a joke on themselves: the Foundation simply admits it cannot hold him and settles for keeping him supplied and visited. The reported effects on staff, from better mood to fewer deaths, read like quiet blessings filed as anomalies.\n\nThe later addenda hint at a person who tried to treat him as an interrogation target and then seems to have been erased from the records. The article never states what happened, and leaving that gap unfilled is what gives the cozy surface its edge.",
-  "related": [
-    {
-      "slug": "scp-999",
-      "note": "Another entity whose main effect is making staff feel better."
-    },
-    {
-      "slug": "scp-1867",
-      "note": "A charming talker whose grand claims the Foundation cannot quite verify."
-    }
-  ],
+  "hook": "SCP-343 is the Foundation's file on a friendly old man who says he made the universe and can more or less prove it. It is short, warm, and a little sly. Read the addenda with care, since the interesting part happens in what goes missing.",
+  "whyItMatters": "It is a compact take on a question the site keeps returning to: what containment means when the subject is, by its own account, God. Rather than a threat, it offers an all-powerful being who mostly wants company, which turns the procedures into a polite fiction. Its alleged-god tag places it among other claimed deities, and this one stands out for how little it asks of anyone.",
+  "thingsToNotice": "The procedures all but admit defeat: the Foundation cannot hold him, so it keeps him supplied and visited, and his room is bigger inside than out. The effects on staff, from better moods to better health and fewer deaths in the section, read like blessings filed as anomalies.\n\nThe twist sits in the recovered drive files. A doctor whose name is blacked out tried to turn the visits into interrogations about other SCPs, found his orders vanishing and his reports ignored, and wrote that he would confront SCP-343 the next day; after that he is simply gone: no records, no colleague who remembers him, and the inquiry is closed by an O5.\n\nMeanwhile Dr. Beck asks to rotate staff through his section to lift morale in the rest of the Site, as if spreading the blessing around. The article never says outright that SCP-343 erased the doctor from existence, but every clue points there, and that unstated answer is what gives the cozy surface its edge.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }
