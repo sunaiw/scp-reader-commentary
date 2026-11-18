@@ -1,19 +1,10 @@
 {
   "slug": "scp-3930",
   "lang": "en",
-  "hook": "The opening is a flat denial, repeated until it starts to sound like a chant. Take the containment section seriously even when it seems to contradict itself; the contradictions are deliberate. Best read slowly, in one sitting.",
-  "whyItMatters": "SCP-3930 gave the wiki a memorable shape for a specific kind of dread: something produced by the human habit of finding patterns where none exist. It belongs to the esoteric-class, concept-horror end of the site, where the anomaly is less a monster than an argument about perception. The idea stuck well enough that it carries its own tag, pattern-screamer.",
-  "thingsToNotice": "The exploration log works because you learn the radio is dead before the conversation is half over, yet the voice keeps talking, and you keep reading it. Small domestic wrongness carries the horror: curtains that won't stay open, a door that has become a window, a phone ringing on both ends of the line.\n\nThe interview then reframes everything. The danger scales with how many people know, which turns the limit of ten into grim arithmetic. Notice too that the file itself is part of the containment, since every reader is, in a sense, one more person who now knows.",
-  "related": [
-    {
-      "slug": "scp-3125",
-      "note": "Another idea-shaped threat where knowing about it is the dangerous part."
-    },
-    {
-      "slug": "scp-055",
-      "note": "A counterpoint: an object defined by what you cannot keep in mind, not what you cannot stop seeing."
-    }
-  ],
+  "hook": "The file opens by insisting, over and over, that its subject does not exist, and that insistence turns out to be the containment itself. Most of the length is an exploration log in which one researcher voices both sides of a radio conversation, so keep track of who is really speaking. It builds through small domestic wrongness rather than shocks; expect strong language and a lot of offscreen deaths, but nothing graphic.",
+  "whyItMatters": "This is concept horror filed under the esoteric-class and pattern-screamer tags, where the danger grows out of the way human minds read meaning into noise. The thing being managed is less a creature than a headcount, which makes the procedures read like grim bookkeeping. It shows how far the format can go when the anomaly has no body to describe.",
+  "thingsToNotice": "D-124 stops existing the moment he crosses the border, and the equipment shows his radio died right then, yet the log runs on for hours because 3930/7/4 keeps perceiving and repeating his replies. Everything after that line is the observers' minds building a person out of nothing: curtains that close themselves, a door that becomes a window behind endless curtains, chalky skin, rooms stretching until the sofa is ten minutes from the TV, and a phone call in which 3930/3/3 and the absent D-124 speak in unison. Near the end the voice explains the trick itself, that looking away makes the pattern vanish, and a brief generator flicker is enough to end him.\n\nThe interview supplies the rules: too many watchers made the faint screamers bind together until something crawled out of the void, leaving ten of Vasiliev's people alive, and he will not say what it was. Neither amnestics nor death removes someone from the count; only walking in does. Because the Foundation arrived with twelve, his remaining scientists have already gone in, and he says he will follow and two Foundation staff must do the same. The final question, what happens if they refuse, gets only silence.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

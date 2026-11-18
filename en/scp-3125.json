@@ -1,19 +1,10 @@
 {
   "slug": "scp-3125",
   "lang": "en",
-  "hook": "SCP-3125 is by qntm and belongs to the Antimemetics Division stories its tags point to. The first file you see is suspiciously short, and the page then asks you to do something before it will show you more. Take it slowly; the second version rewards careful reading.",
-  "whyItMatters": "It's a pillar of the antimemetics thread, the entry where the enemy the Division has been fighting finally gets a description. The page sits inside a tale series and links on to the next story, so it works both as a standalone file and as a chapter. Its central idea, a concept too hostile to be safely thought about, is a high point of the wiki's cosmic horror.",
-  "thingsToNotice": "The keypad is the clever part: the public file ends, and the real document appears only after you, like a visitor, effectively step into the room. Comparing the two versions of the procedures shows small but crushing differences, starting with the claim that the anomaly is everywhere except this one room.\n\nThe statistics in the history section work as a countdown as the Division shrinks site by site. The addenda then turn the file into letters between people who barely remember each other, ending on stubborn hope rather than resolution.",
-  "related": [
-    {
-      "slug": "scp-055",
-      "note": "Another antimemetic object defined by what you cannot keep in mind."
-    },
-    {
-      "slug": "scp-140",
-      "note": "A text whose danger also spreads through the act of reading it."
-    }
-  ],
+  "hook": "SCP-3125 is credited to qntm and sits inside a tale series that links on to its next story, and its tags tie it to the Antimemetics Division. The first file you see is suspiciously short, and the page then shows a keypad you need to use before it will show you more. Take it slowly; the second version rewards careful reading.",
+  "whyItMatters": "This is antimemetic cosmic horror, filed under k-class-scenario and uncontained, where the danger is an idea rather than a creature. The page works both as a standalone containment file and as a chapter in a series, so it reads well alone but also points onward. Its premise, a threat that kills whoever understands it, turns the usual SCP format into a puzzle about who can even write the document.",
+  "thingsToNotice": "Entering the code is like stepping through the airlock: the real file says the procedures are inverted, and SCP-3125 is everywhere except this one shielded room. It is a predatory meme complex from outside reality; anyone who fully pictures it is killed along with their research group and often their parents or children, and every memory of the attack vanishes with them. The only cure, Dr. Hughes's irreality amplifier, cannot be built without its builders knowing why, which would get them killed.\n\nThe history section is a quiet body count: over 400 memetics groups in 2008 are simply gone, and the Division has fallen from more than 4,000 staff to 125, on course for zero by the end of 2015, with its headquarters at Site 167 forgotten. Marion Wheeler's addendum reveals a sealed vault far below Site 41 built to construct the machine in secret, and she leaves to use it, addressing a future reader she doubts can even exist. The last addendum, from Adam Wheeler in 2017, opens with him finding her body, then points out a second matching vault at Site 167, so the file ends with someone setting off on foot through a ruined world on a better-than-even chance.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

@@ -1,23 +1,19 @@
 {
   "slug": "scp-085",
   "lang": "en",
-  "hook": "Meet Cassy, a sketched young woman who lives on paper and talks through sign language and writing. The article is short and gentle, but keep the bittersweet tag in mind as you go. Pay attention to what the Foundation chooses to give her, and what it holds back.",
-  "whyItMatters": "SCP-085 grew out of an experiment combining two other objects, SCP-067 and SCP-914, an early example of the wiki's objects feeding into each other. She's one of the early sapient Safe entities that readers tend to treat as a character rather than a hazard. Cassy even has her own tag, a sign of how firmly she settled into the canon.",
-  "thingsToNotice": "The Escher test plays as comedy, since she sees nothing wrong with an impossible staircase, but it also hints that her world runs on different rules from ours. The incident report is the emotional center: an earlier policy of keeping her inside a comforting fiction collapsed through a simple paperwork slip, and the file is frank about what that cost her.\n\nThe car project at the end is a lovely image of patience and distraction. That each diversion needs high-level approval says a lot about how the institution handles kindness.",
+  "hook": "Meet Cassy, a sketched young woman who lives on paper and talks through sign language and writing. The article is short and gentle, but keep its bittersweet tag in mind as you go. Pay attention to what the Foundation chooses to give her, and what it holds back.",
+  "whyItMatters": "SCP-085 is tagged foundation-made: she exists because researchers ran a drawing made with SCP-067 through SCP-914, so the file links straight into two other objects. It is a Safe, sapient entry where the interest lies in a person's situation rather than in any danger. The rules about paper and fire show how much procedure can gather around someone who is mostly harmless.",
+  "thingsToNotice": "The Escher test plays as comedy: she happily walks the impossible staircase and wonders why real stairs are not built that way, which also hints that her world runs on its own logic. The incident report is the emotional center. To spare her distress, the Foundation had told her she was the last human alive in a post-apocalyptic world, writing off any oddities as dreams, until a researcher carelessly carried a printed copy of her own containment procedures into the room and she slipped onto it and read the truth.\n\nThe aftermath is plain: several researchers wanted her destroyed, the O5 Council narrowly let her live, and she now shows signs of clinical depression that therapy may not reach. The Mustang project is the closing image, a year spent moving parts from technical drawings into another picture and building a car by hand, fueled from a Norman Rockwell gas-station print. Every such diversion still waits on O5 approval, which quietly measures how much kindness the institution can manage.",
   "related": [
     {
       "slug": "scp-914",
-      "note": "The machine whose Fine setting brought her to life."
+      "note": "Running her sketch through this machine on Fine is what brought her to life."
     },
     {
       "slug": "scp-067",
-      "note": "The pen behind the original sketch."
-    },
-    {
-      "slug": "scp-1762",
-      "note": "Another bittersweet story told through paper and messages."
+      "note": "The original Cassandra sketch was drawn with this object."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

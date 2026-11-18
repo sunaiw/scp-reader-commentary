@@ -1,23 +1,10 @@
 {
   "slug": "scp-6001",
   "lang": "en",
-  "hook": "Written by T Rutherford, this long piece is framed as a late-night email from a Foundation researcher who has just had an extraordinary day. Most of it is a travelogue with a talking cat as tour guide, so settle in and let it be warm. Knowing the wider wiki adds a lot of extra jokes, but none of it is required.",
-  "whyItMatters": "Tagged as part of the 6000 range, SCP-6001 works as a love letter to the whole setting, turning the Foundation's universe into a gentler mirror image. Almost every major group of interest on the wiki shows up in reworked form, which explains its enormous tag list. In a canon better known for dread, it stands out as an openly hopeful, utopian story.",
-  "thingsToNotice": "The structure alternates between the sightseeing and short council speeches, and the running tally turns a pleasant day out into a ticking vote, which gives a gentle story real stakes. The scientist keeps hunting for the catch, a hidden prison or a weapon, and the story lets him find some history without ever making the utopia a lie.\n\nPrimrose's slips and pauses are planted early, so the reveal about why he was invited lands as a payoff rather than a twist. Watch for the reimagined versions of famous objects, especially the statue and the giant reptiles, which quietly question containment itself.",
-  "related": [
-    {
-      "slug": "scp-173",
-      "note": "The original of the statue that gets a startling, artful makeover here."
-    },
-    {
-      "slug": "scp-682",
-      "note": "The monster that this world's giant reptiles are clearly riffing on."
-    },
-    {
-      "slug": "scp-1762",
-      "note": "Its paper dragons seem to get a cameo in the library passage."
-    }
-  ],
+  "hook": "This long piece is framed as a late-night email from a Foundation researcher who has just had an extraordinary day. Most of it is a travelogue through a parallel world with a talking calico cat as tour guide, interrupted by short speeches from the groups that run that world. Settle in and let it be warm; knowing the wider wiki adds a lot of extra jokes, but none of it is required.",
+  "whyItMatters": "Tagged 6000 and utopian, SCP-6001 turns the whole setting inside out: the familiar organizations from its long tag list, from the Global Occult Coalition to the Serpent's Hand and Marshall, Carter and Dark, reappear as partners in a gentler world. It is less a containment report than a story that asks why the Foundation's universe is so grim in the first place. In a setting usually built on dread, it treats hope as a serious subject.",
+  "thingsToNotice": "The opening file is written from the other side: there, our reality is the anomaly, labeled A6K, and its \"SCP Foundation\" is described as paranoid and repressive. The day alternates with council speeches whose running score turns a pleasant outing into a tense vote. David keeps hunting for the catch and does find some, including a near-war with the Foundation over a girl's suffering, a museum basement full of weapons, and octopodes who walked away, yet the story never exposes the utopia as a lie.\n\nPrimrose keeps catching herself mid-sentence, and the payoff on the hilltop is that she brought David over because this world's David Caspian, her best friend, was lost to a singularity and she wanted one more day with him. She then scares him by claiming a No vote means erasing his reality, before admitting that Unity only means contact and that rejected worlds are simply sealed and watched. The final speech belongs to that world's Foundation, which votes No for 6-7 but adds that the gate stay partly open so A6K can find them when it is ready, and David goes home deciding to tell only the person this email is addressed to.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

@@ -1,23 +1,23 @@
 {
   "slug": "scp-507",
   "lang": "en",
-  "hook": "SCP-507 is a light read with a dark edge: an ordinary, slightly smug man who keeps slipping into other realities with no warning. Expect a character piece more than a monster file. Most of the fun comes from watching Foundation paperwork bend around someone who is basically a cooperative, mildly annoying houseguest.",
-  "whyItMatters": "It's one of the early wiki's best-liked humanoid Safes, and its list of self-chosen nicknames is memorable enough that the page carries a 'grabnok' tag. The entry also name-drops several other objects in passing. That casual cross-referencing helped the early series feel like a shared workplace instead of a stack of unrelated reports.",
-  "thingsToNotice": "The travel log works because every trip is summed up by what 507 asks for once it gets back: a flashlight, antifungal drugs, a pistol loaded with rubber rounds. Those requests turn each horror into deadpan comedy, so the one trip that ends with no request at all lands with real weight. The Smiling Man's greeting implies 507 is already known over there, and the file never explains it.\n\nMeanwhile the procedures hide a genuine threat in plain sight. The two-week rule about touching him exists because somebody already got lost.",
+  "hook": "SCP-507 is a light read with a dark edge: an ordinary, slightly overweight man who keeps slipping into other realities with no warning, sometimes mid-sentence. Expect a character piece more than a monster file. Most of the fun comes from watching Foundation paperwork bend around someone who is basically a cooperative, mildly annoying houseguest.",
+  "whyItMatters": "It is a humanoid Safe whose tags include grabnok, after one of the nicknames he makes staff invent for him. The entry also mentions several other numbered objects in passing, which gives the file the feel of a workplace where the anomalies know about each other. It is a good example of an SCP built around personality and situation rather than threat.",
+  "thingsToNotice": "The travel log works because every trip is summed up by what 507 asks for once he gets back: a flashlight after a dark room with something breathing in it, antifungal drugs after a ruined copy of the facility full of moldy corpses that still breathe, a rubber-bullet pistol after a trip he will only describe as many spiders. Those requests turn each horror into deadpan comedy, so the entry that ends with no request at all lands hard. That is the Smiling Man, a grinning figure in a suit waiting nose to nose in the dark who greets him with \"Back so soon?\", implying 507 has met him before; 507 empties the gun at him and curls up in a corner, and the file never explains him.\n\nThe procedures hide a real casualty. An agent was holding 507's shoulder when he shifted, the two arrived together somewhere expunged, and 507 lost him there and came back alone a week later, which is where the two-week rule about touching him comes from. The closing addenda then swing back to comedy, banning a tic-tac-toe challenge against SCP-076-2 and linking the mold to SCP-407.",
   "related": [
     {
       "slug": "scp-082",
-      "note": "The sapient object 507 pleaded to visit on a short trip."
+      "note": "507 begged for a short vacation to visit this object, and the meeting went smoothly."
     },
     {
       "slug": "scp-407",
-      "note": "Linked by an addendum to the strange mold 507 found on one trip."
+      "note": "An addendum compares the mold 507 found on one trip to this object's experiments."
     },
     {
       "slug": "scp-076",
-      "note": "The humanoid 507 was firmly refused a game of noughts and crosses against."
+      "note": "A doctor flatly refuses to let 507 play a fifty-game tic-tac-toe match against SCP-076-2."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

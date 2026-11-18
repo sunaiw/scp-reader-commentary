@@ -1,19 +1,10 @@
 {
   "slug": "scp-140",
   "lang": "en",
-  "hook": "A history book that is still being written, and not by its author. It's a slow-burn document; the dread comes from how the procedures are worded rather than from anything happening on the page. Keep an eye on what the containment rules are trying to keep away from it.",
-  "whyItMatters": "SCP-140 is the starting point for the Daevite civilization, a setting its tags link to a wider body of work on the wiki. It's an early example of an anomaly that threatens history itself rather than any particular person, and its K-class-scenario tag puts that threat alongside the site's end-of-the-world entries. It also shows how much menace a book can carry purely through implication.",
-  "thingsToNotice": "The scariest detail is a quiet one: after each expansion, defeats in the book's past soften into mere setbacks, so every leak rewrites what the Foundation thought was settled history. The addenda widen the scale step by step, from one scholar's obsession to an incident at a dig site to projections about modern civilization.\n\nThe text also stresses that readers find the book fascinating, which makes curiosity the real point of entry. And the missing author, whose signature matches someone still at large, leaves the most frightening question open.",
-  "related": [
-    {
-      "slug": "scp-3125",
-      "note": "Another threat that spreads by being read and understood."
-    },
-    {
-      "slug": "scp-1762",
-      "note": "A far gentler world that also reaches ours only through written messages."
-    }
-  ],
+  "hook": "A history book that is still being written, and not by its author. It is a slow-burn document; the dread comes from how the procedures are worded rather than from anything happening on the page. Keep an eye on what the containment rules are trying to keep away from it. The book's contents include human sacrifice and cannibalism, and the file opens with a suicide.",
+  "whyItMatters": "SCP-140 carries the daevite, alternate-history and k-class-scenario tags, which sum up its idea neatly: the threat is not a creature in a cell but the past itself being edited. It shows how much menace a plain document can carry when the procedures do most of the talking. It is also a compact model of an anomaly whose scale is measured in centuries rather than casualties.",
+  "thingsToNotice": "The first owner, a historian, is found dead with his wrists slashed and not a drop of his blood in the room, beside a note in faded ink apologizing that he had to know. Every other text within 15 meters was drained blank, and the regional histories nearby were rewritten to mention the Daevites, which is how the book grows: feed it ink or blood and the Daevite story extends, with the Foundation then digging up matching new ruins, even at sites already excavated.\n\nThe journal addendum shows the stakes. When the historian first read it, the daeva were wiped out by the Chinese general Qin Kai in the 200s BCE; after the breaches, survivors regroup, rebuild, and last until Genghis Khan, with several fates left open. The Foundation's projection is blunt: if the empire survives past a certain medieval date, modern society and the Foundation's secrecy could collapse. The author's signature matches SCP-140-A, a wealthy self-publisher still at large; stray copies drained the ink from dozens of their siblings, and two expansions happened while the vaulted book was untouched, so other copies are being fed somewhere. The dig-site disaster with hundreds dead, SCP-140-2 still loose and a cruise missile as cleanup, shows the history is already leaking into the present.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

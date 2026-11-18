@@ -1,23 +1,23 @@
 {
   "slug": "scp-076",
   "lang": "en",
-  "hook": "SCP-076 opens with an angry internal memo before you even reach the item number, and that memo is the key to the whole page. The main file is a tight, brutal Keter report; behind a clearance gate sits a second document explaining exactly what the memo is furious about. Click through and read both, because the article only feels complete once you do.",
-  "whyItMatters": "This is the home of Able and Mobile Task Force Omega-7, names that echo across the early wiki: SCP-354 calls the same team in, and SCP-105 turns up as one of its members. The current text is a rewrite that frames the creature less as an unstoppable force than as the Foundation's worst decision. Able's biblical nickname and his violent reaction to SCP-073's mark make the pair one of the site's best-known matchups.",
-  "thingsToNotice": "The procedures read like scar tissue: depth, seawater, a corridor built for one purpose, and a last resort that treats the staff as expendable. The gated addendum shows how those scars formed, through a string of short memos in which a curious observation becomes a weapons program and outside pressure flattens a researcher's objections.\n\nCompare the two psychological profiles: the one human exception noted in the first version is gone from the revised one, a cold summary of what was lost. The memos swing from clinical to furious, and that tonal swing carries the story more than any action scene.",
+  "hook": "SCP-076 opens with a furious internal memo before you even reach the item number, and that memo is the key to the whole page. The main file is a tight, brutal Keter report about a stone cube and the man who keeps waking up inside it; behind a clearance screen sits a second document explaining what the memo is so angry about. Click through and read both, since the article only makes full sense once you have. Expect a lot of violence and some harsh language.",
+  "whyItMatters": "This is where Able and Mobile Task Force Omega-7 come from, and the file ties into several other numbered objects through its addenda. It carries the rewrite and raisa tags, and its structure is built around information control: one document the staff are allowed to see, another that a records office would prefer to bury. That makes it as much a story about the Foundation's own choices as about the monster.",
+  "thingsToNotice": "The procedures read like scar tissue: 200 meters underground, seawater in the shaft, a killing corridor, and a final measure that drowns every staff member if the breach is not over in 90 minutes. The main file mentions in passing that Containment Area-25 had to detonate its nuclear warhead during the worst breach so far, and the gated addendum reveals how that happened. Able grieves an agent who shot him in the head again and again, so Dr. G proposes using his respect for worthy foes as a leash, and Omega-7 is formed with a bomb collar around his neck.\n\nThe memos then slide downhill: Able breaks a man's jaw with a Nerf sword out of boredom, kills several researchers when shown the SCP-073 symbol, and is sent on a Bowe Commission mission that the objecting doctor calls dirty work, after which that doctor is demoted to Level 1 on SCP-682. When G asks to shut the project down, General Bowe refuses; Able disables the collar and Area-25 is destroyed by its own warhead. Compare the two psychological profiles at the end: the revised one quietly deletes the single exception about respected opponents and orders that no one try to talk to him at all.",
   "related": [
     {
       "slug": "scp-073",
-      "note": "The other half of the biblical pairing; Able reacts violently to its symbol."
+      "note": "Showing Able the symbol from this file sent him into a killing rage."
     },
     {
       "slug": "scp-105",
-      "note": "The agent who won her place on Omega-7 by beating Able at his own contest."
+      "note": "Joined Omega-7 after beating Able in a long-range contest with her abilities."
     },
     {
       "slug": "scp-682",
-      "note": "The hostile the file quietly refuses to introduce him to."
+      "note": "A proposed meeting with Able was put on indefinite hold."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

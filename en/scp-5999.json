@@ -1,19 +1,10 @@
 {
   "slug": "scp-5999",
   "lang": "en",
-  "hook": "SCP-5999 is a long, Halloween-themed horror collaboration and one of the most disturbing pages in this collection, so check your appetite before you start. The page tries to warn you off and then opens in a reduced format; that framing is part of the effect. Read it as an anthology of horror subgenres stitched into a single containment file.",
-  "whyItMatters": "The co-authored and esoteric-class tags show in its build: each chapter fills a different slot of an SCP file and is credited to a different in-story contributor. It leans into the 5000-series appetite for format play by making the act of reading part of the procedure. Recurring motifs, such as straining chains, a phrase left on surfaces and a twisted nursery tune, bind the chapters together.",
-  "thingsToNotice": "Between chapters, a repeated instruction urges you onward in ever more insistent wording, quietly casting the reader as one of the witnesses the procedure requires. Each chapter changes genre, from haunted house and vengeful ghost to monster-filled town, possession, cursed video game, uncanny doll and crime-scene inventory, yet places and names keep resurfacing across them.\n\nThe final evidence list decays until a repeated line spells out a hidden question, a neat visual collapse. Keep the darkest details at arm's length; the craft is in how the pieces lock together.",
-  "related": [
-    {
-      "slug": "scp-4666",
-      "note": "Another seasonal horror tied to a single stretch of the calendar."
-    },
-    {
-      "slug": "scp-3999",
-      "note": "A meta horror piece where the writing itself becomes the threat."
-    }
-  ],
+  "hook": "SCP-5999 is a long Halloween horror file built from seven chapters, each written as a different section of a containment report. Content note: it includes sexual assault and murder, dismemberment, the deaths of children, suicide and a lot of graphic gore. The page warns you not to continue and then opens anyway in a reduced format; that framing, and the short line that pushes you forward between chapters, are part of the effect.",
+  "whyItMatters": "Its co-authored, esoteric-class and meta tags show in the build: each chapter fills one slot of a standard SCP entry (procedures, description, exploration, interview, timeline, test log, evidence) and carries its own in-story credit. Each slot also borrows a different horror subgenre, so the file doubles as a tour of the genre stitched into the Foundation format. Reading is treated as part of the procedure, which makes the reader complicit rather than a spectator.",
+  "thingsToNotice": "The first chapter sets the rules: every Halloween seven abducted civilians are dropped into the sealed Albright Manor to witness PROCEDURE SEVENFOLD, the observers are gassed with sarin afterward, and chains in the cellar hold something down. Seven chapters, seven witnesses, and the interstitial line keeps getting pushier, so you are being counted among them. The motifs then thread through every chapter: the phrase \"This is where I died,\" the weakening chains, the nursery tune with rewritten lyrics, and Jacqueline Holcroft, raped, murdered and dismembered by six men in 2006, whose reburial disembowels every mourner and leaves her victims sterile and missing children.\n\nCresh Glen's exploration log kills an entire task force in set pieces: a twin dragged underground and pinned to a pole, a flogged corpse spelling the phrase, the squad leader crucified in a church, and a giant face made of bodies. The exorcism ends with the possessed agent, who had been reciting the Lord's Prayer backward, finishing a Bible verse in unison with her tormentor, an ambiguous surrender. The 1988 game timeline escalates from numb hands to a Game Over sound playing across seventy Foundation sites and senior staff hanged by ropes; the doll chapter reveals the doll as Cindy, one of the vanished twins, questioning a D-class about Holcroft while the log stops calling him a person and ends up filing him as an object. The last evidence list frays into repeated candle entries whose trailing words ask what could have happened to the bodies, and the page closes on a frantic order to turn off your device.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }
