@@ -2,22 +2,9 @@
   "slug": "scp-3000",
   "lang": "en",
   "hook": "SCP-3000 is long, slow and quiet, and it rewards patience. It opens like a deep-sea creature feature about an enormous eel in the Bay of Bengal, but its real subject is memory and the fear of being forgotten. Read it somewhere calm, and keep track of who is speaking in each section, because that question ends up mattering a lot.",
-  "whyItMatters": "Co-written by A Random Day, djkaktus and Joreth, it sits among the site's top-rated articles and is a common reference for how a Thaumiel can be framed: not a heroic tool, but a necessity the Foundation is ashamed of. By tying one creature to the amnestics that show up casually in countless other files, it lets its moral weight spread across the whole setting. The mix of Hindu cosmology, cosmic dread and workplace psychology makes it a frequent pick for readers who want horror that lingers instead of shocking.",
-  "thingsToNotice": "The file moves from procedure to field audio to a therapy session to private journals, so the voice gets more personal just as the narrators become less reliable about their own lives. The dive log teaches you the effect through muddled call signs, which primes you to watch for slips later. Small objects in Mannava's early entries, a statue and a family photo, are set up quietly and then turn into the twist on the final page: the life he mourns was never his.\n\nThe blunt cost-benefit memo from the site director sits between the two journals and states the ethical bargain outright before the story makes it personal. The ending refuses to decide whether the eel is a god, and that refusal is the point.",
-  "related": [
-    {
-      "slug": "scp-2000",
-      "note": "Another Thaumiel whose value comes wrapped in uneasy questions about memory and history."
-    },
-    {
-      "slug": "scp-231",
-      "note": "A different bargain the Foundation keeps making because it fears the alternative more."
-    },
-    {
-      "slug": "scp-2316",
-      "note": "Cognitohazard horror built around water and recollections that may not be your own."
-    }
-  ],
+  "whyItMatters": "Credited on the page as a collaboration between A Random Day, djkaktus and Joreth, it shows how a Thaumiel can be framed not as a heroic tool but as a necessity the Foundation is ashamed of. By tying one creature to the amnestics that turn up casually across countless other files, it lets its moral weight spread over the whole setting. The mix of Hindu cosmology, cosmic dread and workplace psychology makes it horror that lingers rather than shocks.",
+  "thingsToNotice": "The bargain is stated plainly in the director's memo: the eel eats only humans, and only after eating does it sweat out Y-909, the grey slurry that makes modern amnestics work, so the Foundation feeds it sedated D-class one at a time. Radiographs show it is packed with undigested bodies, and the biologists' best guess is that it is stripping out whatever makes a person a person. The dive log makes you feel the effect first: call signs scramble, a diver greets a dead colleague he once buried, one is swallowed whole, and the last is left breathing on an open channel for three days.\n\nKrishnamoorthy, losing his own memories and convinced the eel is the serpent god Anantashesha who outlasts the end of time, walks out of the airlock and hangs motionless while its jaws open over him, sobbing that he was wrong just before it strikes. Mannava, the psychologist who interviewed him, keeps a journal to stay anchored, and the Ganesh statue and family photo planted in his early entries become the twist: the handwriting on the photo is Venkat's, the wife and daughter were Venkat's, and Mannava has never been married at all. His last page decides it does not matter whether the eel is a god, only that it shows what the end looks like, and he is found unresponsive by the airlock after swallowing raw Y-909.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

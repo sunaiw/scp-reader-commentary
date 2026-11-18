@@ -2,18 +2,9 @@
   "slug": "scp-002",
   "lang": "en",
   "hook": "A fleshy lump that fell from orbit with an ordinary apartment inside it is a strange, vivid premise. The article is short and reads quickly. Pay attention to the furniture list, because it does most of the storytelling.",
-  "whyItMatters": "With one of the lowest numbers on the site, it is among the first files many readers open, and it shows the early taste for compact, eerie premises over long documentation. Often called the Living Room, it remains a reference point for body horror told almost entirely through implication.",
-  "thingsToNotice": "The horror lives in the inventory: lamps, a rug, toys and a plant are listed matter-of-factly, and the reader connects them to the missing personnel without being told. The window that has no opening on the outside is a small detail that makes the space feel like a trap dressed up as a home.\n\nThe discovery report adds a second, human horror, a commander whose choices are as alarming as the object, and the expunged sections leave his end to the imagination. The rule about staying in physical contact with a partner is a quietly unsettling hint at what proximity does to perception.",
-  "related": [
-    {
-      "slug": "scp-087",
-      "note": "Another short classic built around an ordinary-looking space that is anything but."
-    },
-    {
-      "slug": "scp-3008",
-      "note": "A much larger take on a mundane interior that swallows people."
-    }
-  ],
+  "whyItMatters": "With one of the lowest numbers on the site, it is among the first files many readers open. It shows how much a compact, eerie premise can carry without long documentation, and its body horror works almost entirely through a dry inventory rather than on-page scenes.",
+  "thingsToNotice": "The furniture is made of people. The lamps, rug, beanbag chair, children's toys and potted plant turn out to be carved bone, woven hair and other human tissue, each piece carrying its own DNA, and the count of seven missing staff sits right beside the list so the reader does the math. Animals and corpses do nothing to it; only living humans get turned into decor.\n\nThe discovery report adds a second horror: three villagers sent inside vanish, four guards are pulled in during transport, and General Mulhausen responds by ordering every witness killed, roughly a third of the village. Two expunged blocks follow, and the next thing we learn is that Mulhausen himself was terminated, which explains why command staff must now give up their rank and go in under heavy escort. The window with no outside opening and the rule about keeping a hand on your partner hint that the room also works on the mind of whoever stands near it.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

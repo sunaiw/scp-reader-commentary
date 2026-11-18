@@ -2,18 +2,18 @@
   "slug": "scp-1000",
   "lang": "en",
   "hook": "Yes, it is about Bigfoot, and the first half reads like a straightforward dangerous-creature file. Then a letter from the director in charge changes the frame entirely. Go in knowing that the silliness is deliberate, and that the article wants you to smile before it takes the smile away.",
-  "whyItMatters": "It is one of the wiki's best-known examples of the report-was-lying twist, where an in-universe memo overturns the official description. It reaches well beyond its own anomaly, rewriting prehistory and touching the Serpent's Hand, which makes it a frequent anchor in discussions of larger lore. Later addenda point to other articles, showing how a single file can grow into a hub.",
-  "thingsToNotice": "The first section is written to be believable and slightly dull, so the director's letter lands as a confession. The letter takes familiar images, fairy tales, conservation fences, cryptid hoaxes, and hands them to the other species, which is the article's most striking move.\n\nIts closing question turns the containment logic from fear of a monster into guilt. The short translated message at the very end answers that question in a way the Foundation may not be ready to hear.",
+  "whyItMatters": "It is a clear model of the twist where an in-universe memo overturns the official description, and it uses that twist to rewrite human prehistory rather than just one creature. Its later addenda tie it to the Serpent's Hand, the Wanderer's Library and several other numbered files, so a single entry ends up feeling like a doorway into a much bigger picture.",
+  "thingsToNotice": "The first section is written to be believable and a little dull, so Director Jones's letter lands as a confession. He admits two outright lies: the death aura does not exist, and the creatures are exactly as intelligent as humans. The Foundation itself funded the comedies, the gorilla-suit hoaxes and even the silly name so that nobody would take them seriously.\n\nThe story underneath is that Bigfoot's kind built a vast night-time civilization of grown, living technology while humans were a rare, fenced-off species they treated as fairies and poached for aphrodisiacs. Humanity then got hold of their tools, killed 70% of them in a single day called the Day of Flowers, hunted the rest, used their own devices to burn out their minds into ordinary apes, and finally erased the memory from itself. Jones ends by asking what they would do to us if given the chance, and the translated message at the very end answers: they forgive us, but the choice will not last, and they want back in.",
   "related": [
     {
-      "slug": "scp-2000",
-      "note": "Another file built on the idea that recorded history was deliberately rewritten."
+      "slug": "scp-2273",
+      "note": "A later addendum suggests it may come from an earlier iteration of history rather than a parallel timeline."
     },
     {
-      "slug": "scp-2273",
-      "note": "Named in a later addendum as possibly tied to an earlier cycle of history."
+      "slug": "scp-2932",
+      "note": "Listed in an addendum as a living cultural source on these creatures."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

@@ -1,23 +1,19 @@
 {
   "slug": "scp-294",
   "lang": "en",
-  "hook": "A coffee machine that will pour any liquid you can name is one of the most instantly graspable ideas in the archive. The fun is in the test log: read each request and guess the outcome before you see it. Most entries are light and playful, though a couple take a sudden dark turn.",
-  "whyItMatters": "Widely known as the Coffee Machine, it is a classic of the infinite-possibilities type of SCP, where the pleasure comes from watching researchers probe the rules. Its break-room setting gives it a slice-of-life charm that balances the site's heavier files. Requests involving other objects, such as SCP-085 and SCP-075, also show how small crossovers can make the archive feel connected.",
-  "thingsToNotice": "Notice how the machine interprets requests: it responds to intent, wordplay and even the user's memories rather than literal chemistry, and that is where both the jokes and the scares come from. The pun behind the very first incident establishes early that phrasing matters.\n\nThe log alternates whimsy with entries hinting at limits, range and something like self-preservation, which keeps you unsure what the machine really is. The short entry about a perfect drink is one of the most quietly devastating moments on the site, precisely because it is so understated.",
+  "hook": "A coffee machine that will pour any liquid you can name is one of the most instantly graspable ideas in the archive. The fun is in the test log: read each request and guess the outcome before you see it. Most entries are light and playful, though a couple take a sudden dark turn, one of them ending in a suicide.",
+  "whyItMatters": "It is a textbook example of the open-ended object, where the pleasure comes from watching researchers probe the rules one request at a time. Its break-room setting gives it a slice-of-life charm that balances heavier files, and entries that reach into other objects' files show how small crossovers make the archive feel connected.",
+  "thingsToNotice": "The machine answers intent and wordplay rather than chemistry, and the opening incident proves it: an agent orders \"a cup of Joe\" and collapses as the cup fills with blood, tissue and fluids matching his own DNA. Later tests confirm it can pull liquids from a distance, read memories to serve someone's favourite drink with a photo of the moment printed on the cup, and even dispense a patient's leukemia, which drains the disease only for it to return two weeks later.\n\nThe log keeps hinting at limits and motives: \"OUT OF RANGE\" for other dimensions and dead people, and an agent's theory that a burst of medical knowledge during a breach was the machine protecting itself. The darkest entry is the shortest: a subject asks for the perfect drink, gets an odorless lavender liquid, and soon kills himself, leaving a note saying everything since has been a letdown.",
   "related": [
     {
-      "slug": "scp-914",
-      "note": "Another machine whose output depends on how you set the input, with a famously inventive test log."
-    },
-    {
       "slug": "scp-085",
-      "note": "Shows up in one of the log's friendliest entries."
+      "note": "She is the one asked to judge a drink that the machine prints onto a cup instead of pouring."
     },
     {
       "slug": "scp-075",
-      "note": "A request here reaches into its containment, a neat cross-file moment."
+      "note": "A request for its secretion lines up exactly with a breach in its own containment."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

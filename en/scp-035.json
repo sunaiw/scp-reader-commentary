@@ -1,19 +1,19 @@
 {
   "slug": "scp-035",
   "lang": "en",
-  "hook": "A porcelain theatre mask that wants to be worn is a classic horror image, and this file uses it well. The mask talks, flatters and bargains, so the real threat is persuasion rather than force. It is a dark read with several unpleasant incidents, but they are summarized in report style rather than lingered on.",
-  "whyItMatters": "A well-known Series I Keter, it helped set the template of the charming, highly intelligent anomaly that staff must be protected from simply talking to. Its comedy-and-tragedy look and the possessive-mask idea make it an easy icon, and it turns up often in fan art.",
-  "thingsToNotice": "The addenda escalate steadily: first the mask is a source of knowledge, then a manipulator, then something whose influence leaks out even while it sits unused. Each containment fix, especially the one that borrows another anomaly, solves one problem while worsening another, so the file reads like a record of a losing battle.\n\nThe repeated proposal to give the mask a host again, denied every time, hints at how far its persuasion has reached into the staff. The final note about possibly abandoning the cell leaves the story open rather than resolved.",
+  "hook": "A porcelain theatre mask that wants to be worn is a classic horror image, and this file uses it well. The mask talks, flatters and bargains, so the real threat is persuasion rather than force. Expect suicides, killings and blood-soaked ritual imagery in the later addenda, all logged in flat report style.",
+  "whyItMatters": "It is an early Keter that is dangerous mostly because it is charming: the most important containment rule is about who is allowed to talk to it. The comedy-and-tragedy mask, the possession idea and a containment log that keeps getting worse make it one of the easiest files to picture and to remember.",
+  "thingsToNotice": "Wearing the mask kills the wearer outright: its mind overwrites theirs, the brain dies, and the body rots into a mummified husk that the mask keeps puppeting long after it should be able to move. In conversation it is brilliant and friendly, yet it talks some interviewers into suicide and others into mindless servitude, and it later turns out to read minds without any host at all.\n\nThe addenda are a slow losing battle. Staff help it try to escape and are executed; when command bans new hosts, some personnel turn violent and everyone who had contact is terminated again. Then the cell walls start bleeding contaminated human blood that forms texts in old languages and diagrams of sacrifices resembling staff and their families, and the translation team dies in a mass suicide and killing. Lining the walls with another anomaly calms the rest of the site but traps everything inside, until the room is soaked in blood, hands reach out of puddles, and the file ends by suggesting the whole cell may simply have to be abandoned.",
   "related": [
     {
-      "slug": "scp-049",
-      "note": "Another articulate anomaly where interviews test how far staff can trust what they hear."
+      "slug": "scp-682",
+      "note": "Named as one of the bodies the mask wants; staff fear its regeneration would make a permanent host."
     },
     {
-      "slug": "scp-682",
-      "note": "Named as a host the mask would very much like to have."
+      "slug": "scp-148",
+      "note": "The material used to line the cell, which shields the site but seals the dread inside."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

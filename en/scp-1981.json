@@ -1,19 +1,10 @@
 {
   "slug": "scp-1981",
   "lang": "en",
-  "hook": "The title alone tells you this is a hard read, and the article does not soften it. It is a short file about a single home videotape, and its unease comes less from what is shown than from a familiar televised moment going wrong in ways no one can explain. Disturbing imagery is described in clinical terms, so skipping it is a perfectly fair choice.",
-  "whyItMatters": "It is a well-known take on the cursed-tape idea, using an analog format and a real political speech to place the anomaly uncomfortably close to actual history. Pairing a public figure with rambling yet oddly prophetic speeches gave it a reputation as one of the strangest found-footage pieces in the archive.",
-  "thingsToNotice": "The transcripts are the core: political rhetoric dissolves into non sequiturs, catchphrases and fragments that seem to point at the future, while the applause and laughter cues make the unseen audience as unnerving as the speaker. The hooded figure is introduced almost in passing, as a statistical oddity, which is exactly why its last appearance lands so hard.\n\nThe final recording strips out everything familiar and leaves only the podium, turning the tape's attention outward toward whoever is watching. The brief note about the real man's nightmares is a small, eerie touch that the file never explains.",
-  "related": [
-    {
-      "slug": "scp-2316",
-      "note": "Another piece where the document itself seems to notice the reader."
-    },
-    {
-      "slug": "scp-035",
-      "note": "Also centers on a persuasive voice whose words leave every listener shaken."
-    }
-  ],
+  "hook": "Content note: the title means what it says, and the transcripts describe a real former president being cut apart on camera in graphic detail, alongside speeches about torture, child molestation and ritual sacrifice. The file itself is short and built around a single home videotape. If that is not something you want to read, skipping it is a perfectly fair choice.",
+  "whyItMatters": "It takes the cursed-tape idea and pins it to an analog format and a real, dated political speech, which puts the anomaly uncomfortably close to actual history. The mix of gore, nonsense and stray glimpses of the future gives it a texture that few other files in the archive share.",
+  "thingsToNotice": "Each playback shows Reagan giving a brand-new speech while wounds open on him from nowhere: cuts, impalement, genital mutilation, a severed arm. In one transcript his neck is cut so deep that his spine is pulled out and his head hangs by strands of muscle, yet the body keeps gesturing for three more minutes. The speeches mix rally-style slogans with cannibalism statistics, al-Qaeda and other things Reagan could not have known, and the laughter and applause cues make the unseen audience as wrong as the speaker.\n\nThe hooded figure is introduced as a one-in-seven oddity, which sets up the twist. In the final, O5-restricted recording Reagan never appears at all; the figure walks up to the empty podium, stands there for the whole tape, and a red card reading \"I SEE YOU\" closes it before the figure vanishes from every later playback. The closing note that the real Reagan kept complaining of nightmares quietly suggests the connection runs both ways.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

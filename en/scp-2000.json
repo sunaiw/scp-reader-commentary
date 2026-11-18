@@ -2,18 +2,9 @@
   "slug": "scp-2000",
   "lang": "en",
   "hook": "The central idea is simple and enormous: a hidden facility built to restart human civilization if the world ends. What makes it memorable is that the file seems to argue with its own reader, as short lines keep breaking into the official text. Expect a technical document that slowly turns into something more unsettling.",
-  "whyItMatters": "It is a cornerstone Thaumiel, often pointed to when people explain that the Foundation is more than a containment agency; this is the backup plan behind every other file. Its suggestion that history may already have been rebuilt at least once has fed a lot of fan theorizing about how often the world has quietly ended. Recurring staff such as Gears, Clef and Xyank appear in its notes, which ties it to the wider cast of the wiki.",
-  "thingsToNotice": "Watch the interjections between paragraphs: they begin as cryptic asides and grow more urgent, until they read like a warning from someone who has lived through this already. The procedure hides its sharpest detail in plain view, in the clause about rebuilding key staff from stored scans, and the file stops to make sure you caught it.\n\nNotes about picking a restart date and keeping the number of world wars down hint that our timeline is a revision rather than an original. The final addendum, with very old remains carrying familiar credentials, reframes everything as a loop whose beginning nobody can find.",
-  "related": [
-    {
-      "slug": "scp-1000",
-      "note": "Also built on the idea that the history we know was rewritten on purpose."
-    },
-    {
-      "slug": "scp-3000",
-      "note": "A Thaumiel with a hidden cost, and another look at the Foundation's reliance on memory editing."
-    }
-  ],
+  "whyItMatters": "It shows the Foundation as more than a containment agency: this is the backup plan sitting behind every other file, the thing that would rebuild the world if containment fails. It is also a Thaumiel whose dry engineering detail is the point, since every reactor rating and replicator count makes the larger claim feel more solid.",
+  "thingsToNotice": "Read the interjections in order: they start as a bitter aside, then say you cannot bring them back, that you have already failed, and finally tell you to stop and put it down, like a voice from someone who has run this procedure before. The sharpest detail is tucked into the activation steps: missing key staff are simply regrown from their latest brain scans and woken first, and the file immediately asks whether you noticed.\n\nThe notes then confirm that the machine has already been used at least twice. A historian complains about rebuilding the 20th century more than once, Gears agrees that two world wars are enough, tree rings and radiometric dates get falsified to hide the seams, and humanity's violent tendencies have already been edited down. The last addendum finds 450-to-700-year-old remains in the facility next to valid credentials for Dr. Clef but no genetic match, with a note asking how long the cycle has been going on, and the file closes by telling you that you are not normal and this is.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }

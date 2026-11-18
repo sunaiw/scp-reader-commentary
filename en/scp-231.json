@@ -1,19 +1,19 @@
 {
   "slug": "scp-231",
   "lang": "en",
-  "hook": "This is one of the most notorious files on the wiki, and it carries an adult content warning for good reason. Most of its weight comes from what is withheld, through redactions, implication and the reader's own imagination. If dark material centered on a vulnerable person is not something you want to sit with, skipping it is entirely reasonable.",
-  "whyItMatters": "Its central procedure is never explained, and that deliberate silence has kept it one of the most debated open questions in the community. It is often cited as the starkest version of the Foundation's necessary-evil theme, where containment itself is the horror. It is also an important early source for the Scarlet King and his followers, figures later writers expanded into a much larger mythos.",
-  "thingsToNotice": "Notice the two voices running through the file: the dry clinical record, and the lowercase rhyming verses woven between its lines, which tell a parallel story in a completely different register. The staffing rules arguably reveal more than the description does, because they show what kind of people the organization believes this duty requires.\n\nA memo from an O5 tries to steady morale, and an unsigned line right after it quietly undercuts that reassurance. The closing addenda read like a study in institutional language: the more clinical the phrasing gets, the heavier the implications become.",
+  "hook": "Content note: the page opens with an adult content warning covering sexual assault, child abuse, gore, self-harm, suicide and torture, and the file earns every item on that list. It concerns a captive girl held by the Foundation, and much of its weight comes from what is withheld through redactions and implication. If that is not something you want to sit with, skipping it is entirely reasonable.",
+  "whyItMatters": "It is the starkest version of the Foundation's necessary-evil theme: the containment procedure itself is the atrocity, and the file never lets the reader off the hook about who carries it out. It also brings in the Scarlet King and the cult that worships him, a name the poems in the margins keep returning to.",
+  "thingsToNotice": "The seven subjects were rescued from a cult's warehouse, all pregnant with the King's offspring, and each of the first six died in a way that let a catastrophic event loose: childbirth, a forced removal of the fetus, suicide with a surgeon's knife, a failed cure, a botched procedure that levelled a site, and a stray bullet during a rescue attempt. Procedure 110-Montauk is never spelled out, but the clues are deliberate: six Class-D personnel assigned to it every month, a ban on violent criminals because they might kill her, a girl strapped to a bed and denied painkillers, a memo admitting it involves brutal acts, and a verse calling her defiled all point to repeated sexual violence used to keep the birth from happening.\n\nThe O5 memo insists she is not being abandoned, and an unsigned line right after it says the Foundation has exactly what it wants. When her distress starts fading, the solution is to wipe her memory mid-procedure so the terror stays fresh; the doctor who proposed it shoots himself, and his successor calmly tunes the amnestic schedule to once a week for peak dread. The lowercase nursery-rhyme verses woven through the record tell the same events from the cult's side and predict that the seventh bride will birth the end of time.",
   "related": [
     {
-      "slug": "scp-3000",
-      "note": "Another file where the Foundation keeps doing something it finds abhorrent because it fears the alternative."
+      "slug": "scp-500",
+      "note": "One of the earlier subjects is given it, and the status list records what follows."
     },
     {
-      "slug": "scp-2316",
-      "note": "Also lets voices slip between the lines to suggest the official record hides something."
+      "slug": "scp-682",
+      "note": "The O5 memo names it as the kind of plainly physical threat this posting is not."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-19"
 }
