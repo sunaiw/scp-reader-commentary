@@ -1,0 +1,10 @@
+{
+  "slug": "scp-216",
+  "lang": "en",
+  "hook": "On paper this is a simple Safe-class object: a small iron safe with a combination lock and a different compartment behind every number. It reads like a lab notebook, a string of short test logs that start out almost cheerful. Read them in order, because the gradual escalation is the whole experience.",
+  "whyItMatters": "It is a classic example of the test-log format, where the anomaly is explained in a few lines and the story lives in the experiment records. The premise of millions of hidden rooms, possibly shared with other unseen devices, invites the reader to imagine what else is out there, the kind of open mystery that keeps older entries memorable. The file closes with an attached audio recording and listener warnings, but that is a supplement rather than the core of the article.",
+  "thingsToNotice": "Watch how the tone of each log shifts: notebooks and pencils first, then sawdust, then contents nobody remembers putting there. Odd details, such as apple seeds scattered across distant combinations or an ice cream bar that stays frozen, hint that someone else is using the safe without ever confirming it. The arithmetic in the mass test is the article's main evidence for the \"3/4\" engraving, so it is worth following. A few entries record violent or disturbing finds, yet the logs describe them in flat, clinical terms.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "scp-7005",
+  "lang": "en",
+  "hook": "This is a long, slow-burning piece told almost entirely through personal notes, interviews and recovered documents rather than clinical description. It opens with a brief memory of a funeral and a train ride, and that frame matters, so don't skip it. The mood is melancholy rather than shocking: worn-out stationmasters, shrinking budgets, and an enormous system quietly falling apart.",
+  "whyItMatters": "The author credit identifies it as an entry in the SCP-7000 competition, and it is classed Thaumiel, so the Foundation is using the anomaly rather than locking it away. Instead of a creature in a cell, the subject is infrastructure: a transport network spanning thousands of universes, inherited from a company that went bankrupt. It borrows familiar Foundation material, such as alternate universes, the Overseer Council and the idea that every possibility happens somewhere, and points it at questions of luck and meaning.",
+  "thingsToNotice": "Watch how each person Hartlepool meets gives a different answer to what the network is for: finding God, simply keeping the trains running, or nothing at all. The list of entrances near the start (a church door, a closed jetty in Hokkaido, a lost-and-found office) sets up the mix of the mundane and the cosmic that runs through the whole file. Notice the recurring images of murals, neon and yellow grass, and the completion date in the procedures that keeps getting pushed back. Kells admits in his own report that the page has stopped being systematic, and that drift from report into confession is part of the design.",
+  "related": [
+    {
+      "slug": "scp-5935",
+      "note": "Another long piece built around a vast city of identical towers, used there as a place of containment."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

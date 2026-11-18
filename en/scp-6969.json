@@ -1,0 +1,15 @@
+{
+  "slug": "scp-6969",
+  "lang": "en",
+  "hook": "This file carries adult-content flags and deals frankly with sex, though the writing stays clinical rather than graphic. The premise is a hidden time loop tucked inside a brief, everyday bodily moment, which sounds like a joke and is partly framed as one. Expect the tone to swing between dark comedy and genuine existential dread.",
+  "whyItMatters": "It sits in the 6000s with Keter and uncontained tags, and its framing pokes fun at its own notoriety: a council lock notice grumbles about the large number of people trying to open the file for unknown reasons. Beyond that wink, it uses thaumaturgy and loop mechanics to tie a private moment to questions about the whole species. It shows how a premise that looks like a prank can be built into a serious piece of cosmic horror.",
+  "thingsToNotice": "Much of the horror depends on memory: the effect is described as self-censoring, so nobody can know what they have lived through. The testing log is short and clipped, and the single line about the ethics committee halting all tests says a lot without detail. The head researcher's note breaks the document's neutral voice, and the file then records that he was disciplined for it, a neat touch of Foundation bureaucracy.",
+  "related": [
+    {
+      "slug": "scp-3288",
+      "note": "Another adult-flagged file about an anomaly altering human heredity, told through field logs and history instead of lab tests."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

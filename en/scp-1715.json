@@ -1,0 +1,15 @@
+{
+  "slug": "scp-1715",
+  "lang": "en",
+  "hook": "This one is set on small fan forums and chatrooms, and the threat arrives as a friendly, helpful new member. It is quietly unsettling rather than graphic, though it does involve the deaths of young people. Anyone who has spent time in online communities will recognise the texture right away.",
+  "whyItMatters": "It is a good example of the Foundation applying its methods to internet culture, with containment handled by a web-crawling bot and denial-of-service attacks instead of cells and guards. The tags mark it as a rewrite and as uncontained, and the entity's motive is never explained, which keeps it ambiguous. Its central idea, that an online persona might carry on after the person behind it is gone, gives the horror a melancholy edge.",
+  "thingsToNotice": "The example posts in the addendum are the highlight: each is ordinary forum chatter that reads differently once you know the context. In the chat log, notice how the entity calmly turns the agent's questions back on him using the site's own rules about personal information. The description praises its careful writing in a sentence that repeats a word, a small detail worth spotting. The closing figures about the farewell thread are given without comment, which makes them land harder.",
+  "related": [
+    {
+      "slug": "scp-243-jp",
+      "note": "A Japanese-branch file about a telephone that only connects to someone who once saved your life; another angle on communication tied to life and death."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

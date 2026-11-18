@@ -1,0 +1,19 @@
+{
+  "slug": "scp-5935",
+  "lang": "en",
+  "hook": "A content note first: this is a long, heavy piece about grief and the death of a child, with disturbing imagery and intense body horror. It opens with the author's own note about losing a grandmother, and that personal frame colours everything after it. Much of the text is an Overseer's private journal, so expect dreams, fragments and redactions rather than a tidy report.",
+  "whyItMatters": "The story takes place at the very top of the Foundation, around the Overseer Council, and draws on established names such as Dr. Mann, Director Aktus, the Factotums and Mobile Task Force Alpha-1, so some familiarity with Council lore helps. Its antimemetic and nameless tags fit an article that treats names as things that can be taken, hidden or lost. It also shows how far the format can be pushed: garbled text, an obfuscated page and records that seem to break down are all part of the storytelling.",
+  "thingsToNotice": "Track the small repeated details: the count of rains since the funeral, faces that flutter like cloth, and a pair of swaying amber lights that keep returning in dreams and interviews. Notice how the formatting degrades, with corrupted addenda, notes from an unregistered user and speaker labels that stop being trustworthy, so you are rarely sure who is talking. The Overseer's own name stays redacted throughout, which ties directly into the theme of identity. Keeping the author's preface in mind makes it clear that the father's grief is never played as anything but real.",
+  "related": [
+    {
+      "slug": "scp-184",
+      "note": "Named in an Overseer conversation as the Architect, something the speaker says they have been dreaming about."
+    },
+    {
+      "slug": "scp-7005",
+      "note": "A multiverse rail network whose stories keep circling back to a city that never stops growing."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

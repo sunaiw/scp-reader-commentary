@@ -1,0 +1,15 @@
+{
+  "slug": "scp-3288",
+  "lang": "en",
+  "hook": "A strong content warning applies: the page carries adult-content flags for sexual violence, severe abuse of children and extreme violence, and it is among the most explicit horror in this batch. If you choose to read it, expect a historical horror story told through field logs, interviews and old diary entries. Its real subject is less the creatures than what an obsession with pure bloodlines does to people over centuries.",
+  "whyItMatters": "The class line shows Keter replacing an earlier Euclid, and the procedures warn that a single escaped instance could trigger an SK-class dominance shift. Many articles treat history as backdrop; this one builds its horror directly out of a real city's underground and the language of aristocratic lineage. It works inside the familiar hidden-species frame but uses it to say something about privilege and cruelty.",
+  "thingsToNotice": "The structure moves from a clinical list of traits, through tense field logs beneath Vienna, to an interview conducted by humouring the subject's delusions. Notice how the footnotes anchor the fiction to real places and historical figures, which makes the invented material feel uncomfortably plausible. The recovered diary switches to a first-person voice convinced it is acting for the good of its family. Throughout, the repeated motto about purity of blood serves as the article's moral spine.",
+  "related": [
+    {
+      "slug": "scp-6969",
+      "note": "Another adult-flagged file in which an anomaly reshapes human heredity, approached through genetics rather than history."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}
