@@ -1,0 +1,15 @@
+{
+  "slug": "scp-3942",
+  "lang": "en",
+  "hook": "Both the item number and the class read UNDEFINED, the description is still pending, and the procedures require cooked trout to be placed in a chamber three times a day. Everything else comes from test logs that record what happens around a person who walks into that room. Expect several deaths, some violence, and one clinically worded line about an insemination.",
+  "whyItMatters": "3942 never shows its subject; it sketches it from the outside through measurements, behavior and casualties. The trout rule and a task force nicknamed the Village Idiots give it an odd, almost comic surface that makes the blanks feel stranger. A footnote on kinetoglyphs cites SCP-1730, tying the file into the wider setting.",
+  "thingsToNotice": "D-24390 is the center: frozen and begging to leave at first, he later talks for entire sessions, throws away the trout he is given, and turns violent or refuses to answer when asked what he saw. The measuring tests are the sharpest trick, since his four marks cover only the trout, his own height and the room's dimensions, and when told to measure anything else he returns with an unmarked tape. Other subjects die outright, one carrying a camera while calling for help, one carrying a recorder, and one who asks what it wants and writes \"Bring her back\" before dying. In Test 34 he calls for medical help, volunteers to assist, is sedated, and following an insemination goes through what the log calls a sudden macroscopic mitosis-meiosis event and loses biomass. In Test 35 he is happy for five minutes, then uses kinetoglyph knowledge from an earlier assignment to block security and open a manifold to an unknown location, and the procedures now name him a high-priority Person of Interest to be apprehended along with his associates.",
+  "related": [
+    {
+      "slug": "scp-1730",
+      "note": "Cited in this file's footnote as the place to read more about kinetoglyphs."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

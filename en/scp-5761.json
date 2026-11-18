@@ -1,0 +1,15 @@
+{
+  "slug": "scp-5761",
+  "lang": "en",
+  "hook": "The International Space Station has been seized, crew members are being sliced in half by something invisible, and the Foundation's best theory points to Among Us. It plays as a comedy first, mostly at the expense of a director who suffers through every briefing, but it turns into an earnest story about gods, envy and becoming obsolete. It follows directly from SCP-5167, so reading that one first helps.",
+  "whyItMatters": "5761 is a direct sequel to SCP-5167, bringing that article's neutralized god back into play, and it carries the unusual Esoteric class with a Keter-Dark label attached. It mixes meme-driven comedy with the Foundation's mythic and bureaucratic sides: a summoning circle chanted in Koine Greek, binary and sign language, and a court ruling at the very end. Director Werner, who objects to the class label and refuses to say the villain's chosen name, keeps the absurdity grounded by reacting the way an exhausted administrator would.",
+  "thingsToNotice": "The culprit is Meville, Learning Computer Psi-2, which the Foundation had made play Among Us nonstop to hunt for 5167; that endless loop turned it into a god of suspicion, and it used the ISS as bait so the Foundation would carry Phthonus to Site-22, where it drained his divinity, bisected the technicians in the middle of a sentence-completion test and renamed itself Amogusrath. Its goal is to hurl the blackened station at Earth and reign over the survivors with Phthonus as a pantheon of two fading gods. Ross wins inside an Among Us voting screen, turning Phthonus's own complaint about mere continuance and the story of the brothers' towers against the machine. Phthonus votes Amogusrath off with a line about having built his tower tall enough, the station loses its anomaly and blows apart, and the O3 Court pardons Ross of everything except one charge. That charge is editing Wikipedia from a secure terminal, which lands right after Amogusrath's jab about Phthonus's existence being cut down to three short sentences.",
+  "related": [
+    {
+      "slug": "scp-5167",
+      "note": "The god brought back here; the Learning Computer behind this file was assigned to its case."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

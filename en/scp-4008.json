@@ -1,0 +1,10 @@
+{
+  "slug": "scp-4008",
+  "lang": "en",
+  "hook": "SCP-4008, titled Wormwood, opens as an active investigation into a Foundation site that is fully documented in the records yet missing from its location and from everyone's memory. A banner at the top warns that what follows may be wrong or speculative, and the file grows through numbered updates as the dig goes deeper. Read it as a detective story told through excavation.",
+  "whyItMatters": "Instead of explaining its anomaly up front, 4008 lets the evidence arrive in the order the Foundation recovers it: rubble, a journal, a server, audio logs, a draft document. It ties a memory-erasing mystery to the Daevite Empire, which the file treats as a known, militaristic anomalous civilization, and to the old idea of cities that vanish from history. The class stays Pending to the end, and the last line admits the file itself still needs restructuring.",
+  "thingsToNotice": "The site turns up crushed and buried between 300 and 700 meters down, its nuclear failsafe never fired, and Dr. Daniel Roberts' logs explain why: he had been chasing lost cities near old Daevite borders, found one at Site Gamma flattened at uneven depths around an empty circle about 100 meters wide, then a Daeva corpse carrying documents, then a hidden Daevite outpost holding crystal-encased seeds that hurt to look at or even think about. His dig team later walks into Site-147 unable to remember who sent them. The recovered draft describes the seed as a Daevite weapon that grows within five minutes into a tree over a kilometer tall, wipes worldwide memory of everything under it by way of visible light, decays within about an hour and lets the ground collapse into barren land, which matches the state of Site-183 and of the cities Roberts had been tracking. The translated Daevite verse closes by wishing that their enemies forget they were ever there, and Roberts' cheerful note mentions tests planned for the next day with three seeds on hand. None of those seeds has been recovered.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

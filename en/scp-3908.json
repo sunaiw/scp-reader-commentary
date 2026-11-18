@@ -1,0 +1,10 @@
+{
+  "slug": "scp-3908",
+  "lang": "en",
+  "hook": "A short, self-referential antimeme told almost entirely through three interviews, where the subject's designation keeps swallowing whatever sentence it lands in. It reads like a word puzzle at first, but give it until the end.",
+  "whyItMatters": "3908 turns the antimemetic idea inward: rather than hiding from observers, every description of the subject gets censored down to its number. The reader has to work out what each substitution is covering, so the formatting gag doubles as characterization. It also earns its meta tag, since the joke depends entirely on how SCP files talk about their subjects.",
+  "thingsToNotice": "The bracketed stage directions show what the censored lines hide: after his outbursts the table ends up across the room, then Dr. Witts is hurt, and by the third interview there is a scar he apologizes for. In the second interview they find a workaround, answering without self-reference, and the facts come through: born in Redmond, Washington in 1978, first called by the number at seven, nicknamed Skip, no friends, anger problems. In the third he gives his name, Craig Wattson, and his age, then says sorry for everything, and Witts reassures him that it was only a mistake. The closing addendum is Witts's proposed rewrite of the file to stop the censorship, with the Item # set to Skip and a description that ends by calling him not such a bad guy.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}
