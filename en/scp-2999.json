@@ -1,0 +1,10 @@
+{
+  "slug": "scp-2999",
+  "lang": "en",
+  "hook": "SCP-2999 is a pair: a sentient text file shaped like a rabbit's face in ASCII art, and a stitched-together cat skeleton that says it is a dead Foundation researcher. The core of the article is a series of security-camera logs recorded before containment, in which the two of them talk, reminisce and try to work out who brought them back. Go in knowing that the description section is only the setup.",
+  "whyItMatters": "This is a character piece told through found footage, where most of the meaning sits in dialogue rather than in the clinical sections. It also leans on the Foundation's wider cast of groups, with Prometheus Labs as the setting and a passing mention of the Chaos Insurgency and the GOC.\n\nThe cat's camera-only effects are a nice touch of form: what you see depends on the medium, and the logs themselves are the medium.",
+  "thingsToNotice": "Small details plant the ending early. The skeleton's camera effect turns people into grinning, stitched, gown-wearing horrors, and he admits he used to hallucinate the same imagery; the Employee of the Month photo on the wall slowly changes to match. In Hayward's first log he confides a cognitohazardous kill word to the tape as a last resort.\n\nIn the last log he reviews the footage and learns the voice is not Sarah Crowely at all: the file copied her memories, built his body from dead cats, and could have opened his door at any time. He threatens it with the kill word, which it can hear because they sang together, and forces it to shut the drones down and accept containment. Its parting line that it will see him soon, plus the closing warning that it might have spread online and be able to resurrect dead personnel, leaves the threat open.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "scp-5956",
+  "lang": "en",
+  "hook": "SCP-5956 is the REISNO Cannon, a device that lets you link your mind with your own past self, provided you only use it to complete loops that have already happened. The article is split across three linked pages viewed from different timelines, and you should read them in the order the links offer. Be ready for a very long middle section full of gruesome, inventive deaths at Site-43.",
+  "whyItMatters": "This is a large-scale time-loop story told through Foundation paperwork, and it treats the rules laid out on the first page with total seriousness. The Antithesis class, explained in the file as an anomaly that must be used to stop other anomalies from being contained, sets the tone for how backwards everything is about to become.\n\nIt also ties directly into another Site-43 file: the final page states that the disaster at its centre corresponds to SCP-5243 in baseline reality. The bottom navigation places it in a sequence called Words of Power and Poison.",
+  "thingsToNotice": "The second page is the heart of it. In a paradox timeline, Dougall Deering used the Cannon in 2002 to prevent a containment breach, which retroactively erased the Cannon and turned that breach into SCP-001, an annual catastrophe where nine dead staff are resurrected each 8 September and must die exactly as before, guided by a to-the-second schedule. Its sub-anomalies are cruel and personal: his dead janitor brother Philip haunts every mirror and recites Dougall's virtues without looking at him, and a forty-one character string that spells out that he cannot change the past silences whoever holds it.\n\nDougall's suicide letter to Philip reframes everything as a story about a brother's guilt, and his plan is to use the rebuilt Cannon to kill his own past self. The third page then shows the other side: in the prime timeline, Deering died every year until 2013 for no known reason, and a 2016 interview has him accepting annual execution because it keeps his brother alive.",
+  "related": [
+    {
+      "slug": "scp-5243",
+      "note": "Named on the last page as this disaster's counterpart in baseline reality."
+    },
+    {
+      "slug": "scp-5866",
+      "note": "Another Site-43 file listed in the same Words of Power and Poison sequence."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

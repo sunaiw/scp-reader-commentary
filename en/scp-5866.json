@@ -1,0 +1,19 @@
+{
+  "slug": "scp-5866",
+  "lang": "en",
+  "hook": "SCP-5866 is a talking skeleton of a giant sea serpent that claims to be Tiamat, the Babylonian goddess of the salt sea. The file is presented as a draft under edit, with two Site-43 theologians, Dr. Nass and Dr. Corbin, arguing in comment threads between the lines. Pay attention to the bickering over the object class, because it is doing more work than it looks.",
+  "whyItMatters": "The article uses the draft-in-progress format to tell a story that a finished document could not: the edits, the timestamps and the comments are the plot. It also leans on the idea, stated in the file, that some gods are thoughtforms whose reality depends on how people portray them, and it lets that idea drive every step.\n\nIt sits within Site-43's corner of the wiki, with its Theology and Teleology department and Director McInnis, and it is linked at the bottom as part of a sequence titled Words of Power and Poison.",
+  "thingsToNotice": "The class tug-of-war is the mechanism. Each time Corbin flips the label back to Tiamat, and each time she lets the bones remember a richer version of themselves, from the Enuma Elish to the five-headed Tiamat of Dungeons & Dragons, the goddess grows more real; the third interview, staged before visiting delegates, is effectively a ritual of belief. Her time-delayed edits and the pact she agrees to are the tells.\n\nCorbin's confession explains it: an off-Site physical showed she would not live to retire, a narrative detector showed the remains were becoming unstable, and she and the goddess planned an escape together. The next day a five-headed dragon bursts out of Lake Huron with a woman in a lab coat on its back, and when McInnis orders the reclassification, Nass points out it has already been done.",
+  "related": [
+    {
+      "slug": "scp-5751",
+      "note": "Linked from this page as the previous entry in the same sequence."
+    },
+    {
+      "slug": "scp-5956",
+      "note": "Another Site-43 file listed in the same Words of Power and Poison sequence."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

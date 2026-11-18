@@ -1,0 +1,23 @@
+{
+  "slug": "scp-4100",
+  "lang": "en",
+  "hook": "SCP-4100 is not a Foundation file at all. It is an archive entry from a distant-future interstellar government, and the designation it catalogues is a planet once called Earth, now a mostly flooded resource world. Part of the fun is reading familiar SCP material through the eyes of people who only half understand it, so expect a few well-known numbers to show up in strange places.",
+  "whyItMatters": "The article belongs to the tradition of outsider-perspective entries, where the joke and the pathos both come from a narrator who misreads the material. The organization that catalogued the SCPs survives only as the Triumvirate, named after its emblem of three inward arrows, and is judged as a group that locked things up or destroyed them rather than studying them.\n\nIt also plays with the idea of a message meant for whoever comes after us. The pictograph system, explained with a colour key, is that organization trying to warn the future, and the article lets you see how much of that warning actually gets through.",
+  "thingsToNotice": "The pictograph readings are where the humour lives: 173 gets read as a probable ancestor of some rebel drones, 914 is located by its radio signature and turns out to be a wrecked device, and 882 is assumed to belong to a machine church. Meanwhile the evolution pictographs and the Destroyer image hint at something the archivists brush past, an entity that killed most life on Earth and drove humanity off it.\n\nThe ending flips the whole tone. When the Destroyer returns on a collision course, a broadcast opening with the words Secure, Contain, Protect reveals that the planet itself has been fitted with faster-than-light propulsion, and Earth is fired into the entity and both are almost entirely atomized. The updated file is reduced to N/A fields, and the last pictogram sent from the surface is left uninterpreted.",
+  "related": [
+    {
+      "slug": "scp-173",
+      "note": "Appears here as one of the catalogued pictographs."
+    },
+    {
+      "slug": "scp-914",
+      "note": "Another familiar item the archivists try to decode."
+    },
+    {
+      "slug": "scp-2000",
+      "note": "Its pictogram is treated as hazardous and partly covered up."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

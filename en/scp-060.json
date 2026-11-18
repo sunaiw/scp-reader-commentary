@@ -1,0 +1,10 @@
+{
+  "slug": "scp-060",
+  "lang": "en",
+  "hook": "SCP-060 looks like the most harmless thing in the database: a stand of white oaks in rural Minnesota that needs watering twice a day. The danger only shows up when you put a flame to the wood, and the containment section tells you how seriously the Foundation takes that before the description even starts. Read the fire rules first and let them build the picture.",
+  "whyItMatters": "This is a compact example of an anomaly defined by a single forbidden action, where the procedures double as the scariest part of the text. A smoking ban covering several kilometres, a fireproof testing chamber, and a stock of wood kept on hand just to be burned all say more than an incident log would.\n\nIt also uses a familiar SCP shape: a dry report followed by a short background note about the previous owner of the land, which recasts everything above it without spelling anything out.",
+  "thingsToNotice": "Burning as little as twenty grams of the oak calls up a white-hot skeleton over two metres tall that sprints, leaps and tries to strangle staff, and it seems to be the same individual every time, since it learns the site layout across manifestations. It deliberately avoids setting the grove itself alight, and the patches it scorches sprout new oaks weeks later, so each breach is also how the trees spread.\n\nThe closing note is about Johnathan Corhill, a bitter loner who took up Victorian occultism, cut off his brother by phone and vanished in 1996. His house burned from the fireplace outward, yet not completely, and no bones were found inside. The article never says the skeleton is Corhill, but it leaves those facts side by side for you.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}
