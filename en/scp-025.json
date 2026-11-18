@@ -1,0 +1,15 @@
+{
+  "slug": "scp-025",
+  "lang": "en",
+  "hook": "SCP-025 is a wardrobe of worn-out clothes from the 1920s onward, and whatever you put on from it decides where you get hurt. The rule fits in a sentence, so the pleasure is in watching the test log find ever more improbable routes to the same result. Expect blunt descriptions of deaths by gunshot, impalement and strangulation.",
+  "whyItMatters": "It is a compact example of a rule-based object whose effect runs on coincidence rather than visible force: the wardrobe never acts, the world simply lines up. The test-log format suits that well, since each entry reads like a small setup followed by a punchline. It also features SCP-173, used in a way that only lands if you know that object's own rule.",
+  "thingsToNotice": "Each test names the garment and its specific flaw before the result, so the reader can predict the injury and then watch how it arrives: a knife gash exactly at a tuxedo's torn seam, a discharge through the forehead where a cap's size adjuster was missing. The sweater vest is the centerpiece; six shots all pass through existing moth holes without touching the fabric, and when the man who fired them is made to wear the vest in an empty room, ceiling light tubes fall and shatter into the same gaps. The unplanned test is the darkest: someone left a scarf on a doctor's desk, he drifted off his route into SCP-173's cell and blinked, and the crushed windpipe matches the scarf's tight middle seam. The 1980s shirt test is almost entirely expunged, leaving only an infection, a quarantine and an open-ended cleanup.",
+  "related": [
+    {
+      "slug": "scp-173",
+      "note": "Appears in the unplanned scarf test, where its rule about blinking delivers the outcome."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

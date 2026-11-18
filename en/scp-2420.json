@@ -1,0 +1,15 @@
+{
+  "slug": "scp-2420",
+  "lang": "en",
+  "hook": "SCP-2420 is a sad, gentle file about a grieving man and his dead Border Terrier, Mattie, and most of it is one long interview. It deals openly with depression and a suicide he had planned, and describes the dog's death under a car in some detail. It reads as bittersweet rather than frightening.",
+  "whyItMatters": "It belongs to the bittersweet side of the archive, where the anomaly is an expression of attachment more than a threat, and the Foundation acts closer to caretaker than jailer. The procedures read like a care plan, with medication, scheduled visits and a rotating pool of kennel dogs that staff can adopt afterwards. A footnote raises SCP-3737 as a possible link, since both involve dead pets reappearing.",
+  "thingsToNotice": "The interview lets John wander: the heat, the air-conditioning, how Mattie sized him up as a puppy and nipped his hand, how proud she was of a squirrel. That nip becomes the motif; it is how one of the crowd of Border Terriers at the dog park greets him on the day he meant to jump from a bridge, and how she says goodbye ten years later. In the final interview the effect is gone, the dog is a bewildered Golden Retriever again, and John asks not to be released because he is afraid he will walk straight back to that bridge. He insists she did not cure him and was never magic, just a dog, and that it simply felt good to be loved that much.",
+  "related": [
+    {
+      "slug": "scp-3737",
+      "note": "The article's footnote says a link is being investigated because both involve deceased pets manifesting."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

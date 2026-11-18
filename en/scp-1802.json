@@ -1,0 +1,15 @@
+{
+  "slug": "scp-1802",
+  "lang": "en",
+  "hook": "SCP-1802 is a thirty-centimeter figure built from chicken bones, scrap metal and a tin-can head, dressed in a tiny lab coat and goggles, that collects junk and hides it in caches. It is a light, odd, almost sweet file, and its real subject is whoever built it and pointed it at a Foundation gate.",
+  "whyItMatters": "It carries the are-we-cool-yet tag, and the text keeps returning to being cool as a goal: the figure says its collecting task is how it becomes cool. A footnote ties it to SCP-1502 through similar construction materials, suggesting a shared origin. The creature's own memory of being made is the closest the file comes to showing its makers.",
+  "thingsToNotice": "The interview is where the charm lives: it remembers waking among people pouring and working, being given a coat, a purpose and a name, and being told to walk west until it reached a gate with cameras. The name, Skip, is the last thing it offers, almost an afterthought it was told was important. The raid on the abandoned restaurant finds paint stains, bits of granite and a crayon note on wax paper thanking the Foundation, with mock special procedures on the back telling them to figure it out. The box beside it holds a bottlecap that proves anomalous, so the makers of a junk collector close the file by handing the Foundation a piece of junk of their own.",
+  "related": [
+    {
+      "slug": "scp-1502",
+      "note": "A footnote suggests the two share an origin because of their similar construction materials."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "scp-1231",
+  "lang": "en",
+  "hook": "SCP-1231 is an old Amiga computer that shows nothing but a grid of tiny videos of the same three figures. The idea at its center is simple and nasty: getting a video wrong, even in a small detail, adds a new one. Some thumbnail descriptions are violent, including harm to a small child.",
+  "whyItMatters": "It is a neat example of an infohazard that spreads through misremembering rather than through seeing, so rumor and secondhand description are enough to feed it. Containment works against itself, because anyone who hears about the object and pictures it inaccurately adds to the collection. Partway through, the tone also shifts from inventory to ethics, which gives the short file a second layer.",
+  "thingsToNotice": "The excerpted thumbnails escalate: a quiet scene with scooped powder and a sleeping child, then the child mauling the woman, then a shoulder dislocated and set back, and finally the man and woman kneeling in blood before what looks like the child's mutilated corpse while low laughter plays. Each is logged as created after someone viewed an earlier one, so the cruelty reads as a record of what observers imagined. An Ethics Committee researcher argues the three may be real, comparing the object to other soul traps; testing is suspended and staff are amnesticized, and an unsigned line shrugs off their suffering. The final addendum notes that the count keeps climbing anyway, despite the effort to suppress all knowledge of it.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

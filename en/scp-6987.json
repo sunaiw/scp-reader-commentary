@@ -1,0 +1,23 @@
+{
+  "slug": "scp-6987",
+  "lang": "en",
+  "hook": "SCP-6987 is not a creature but a portfolio of insurance contracts, presented as staff onboarding material that unlocks in stages from Level 1 to Level 4 and finally into the insurer's own client terminal. Read it in order: each clearance level sheds a little more of the welcoming tone and reveals a little more about who the Foundation is really doing business with.",
+  "whyItMatters": "The article builds an entire Group of Interest, Goldbaker-Reinz, out of corporate paperwork: benefit summaries, contract clauses, a white paper abstract and an annual advisory memo. Much of the humor comes from handling apocalyptic scenarios in the flat vocabulary of premiums and payouts, while the tension comes from the Foundation's own finance and legal staff admitting they cannot audit how the insurer works. It plugs into wider Foundation lore through the GOC's Council of 108 and a clause that implies the insurer knows about SCP-2000.",
+  "thingsToNotice": "The premiums get stranger as clearance rises, from monthly cash to bushels of wheat to a stillborn child, a caged Tartarean entity and thirty pieces of silver for cover against a hostile god taking over. Every year Yang and Katz advise that the K-class black swan policies are worth nothing, since no one can enforce a contract in a dying universe. The last page answers them with a video call from account manager Jin Larry Viridian, who has handled the account for forty years without looking past thirty, keeps a scale where a black feather outweighs gold, and plays O5-10 clips of past payouts like a deflected asteroid and thirty maple trees delivered through a door from nowhere. The council then votes unanimously to renew everything, leaving the reader with the auditors' unease intact: the insurer has always paid, and nobody knows how.",
+  "related": [
+    {
+      "slug": "scp-2000",
+      "note": "Named in the Level 4 clause notice as something Goldbaker-Reinz is believed to know about."
+    },
+    {
+      "slug": "scp-5170",
+      "note": "Listed in the article's closing links for other Goldbaker-Reinz and insurance stories."
+    },
+    {
+      "slug": "scp-2553",
+      "note": "Also listed in those closing Goldbaker-Reinz and insurance links."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}
