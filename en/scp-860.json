@@ -1,0 +1,15 @@
+{
+  "slug": "scp-860",
+  "lang": "en",
+  "hook": "A plain dark-blue key that, in the right door, opens onto a misty forest path instead of the room behind it. The main file is short and hands most of the story to a set of exploration documents, with the later ones locked behind higher clearance. Read the procedures and description as setup, then let the exploration records carry you.",
+  "whyItMatters": "SCP-860 pairs a Safe classification with horror and mystery tags, and that mismatch is part of its appeal: the key is inert and easy to store, while the place it opens is anything but. It is a portal file in the classic shape of a door that leads somewhere it should not. Its structure, a sparse main page pointing to tiered exploration logs, rations information to build unease.",
+  "thingsToNotice": "Notice what the description chooses to withhold: the result of trying to break the door from inside is redacted and deferred to another document. The rule that only level 4 personnel may test the key after one particular exploration is a quiet signal that something changed. The short incident about the key turning up on a researcher's desk is the strangest note, since it hints the object may not be as inert as the procedures claim. The blue mist recorded on every visit is a small, consistent detail that gives the place its identity.",
+  "related": [
+    {
+      "slug": "scp-120",
+      "note": "Another everyday object, a children's pool, that sends people on to set destinations."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

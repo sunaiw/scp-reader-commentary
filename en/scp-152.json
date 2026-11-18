@@ -1,0 +1,15 @@
+{
+  "slug": "scp-152",
+  "lang": "en",
+  "hook": "A leather-bound book full of endings: each entry tells how humanity ran out, and the newest one always appears on the final page. There is no monster here, only a reading room with a desk, a chair and a lamp. Take the addenda slowly, because that is where the real argument happens.",
+  "whyItMatters": "SCP-152 is a clean example of the document-as-anomaly idea, where the hazard is information and the open question is whether reading it is worth anything at all. Its tags (predictive, historical, k-class-scenario) place it among files that look at the end of the world from a bureaucratic distance. Because the book's histories differ from ours only by a few choices, it also works as a quiet piece about consequences.",
+  "thingsToNotice": "The procedures are almost domestic, down to asking people to keep their voices down near the room, and that calm makes the scale of the description land harder. The heart of the file is the short back-and-forth between an O5 and Dr. Jansen, which reads like an office memo thread while debating whether the book is a warning, a curiosity or an indictment. Notice the detail that the text reshapes itself into each reader's own idiom, so every account of the end feels personally addressed. The incident report then shifts the question from what the book says to how it keeps changing.",
+  "related": [
+    {
+      "slug": "scp-1986",
+      "note": "Also centred on books that record histories diverging from ours, found there by the shelf-load in a tunnel."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

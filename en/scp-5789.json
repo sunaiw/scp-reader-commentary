@@ -1,0 +1,15 @@
+{
+  "slug": "scp-5789",
+  "lang": "en",
+  "hook": "A file about numbers that stop existing, written under a rule that forbids the file itself from naming finite quantities. Expect roundabout phrasing, blank boxes and an odd symbol where the usual item number should be; the awkwardness is deliberate. It plays more like a puzzle than a scare.",
+  "whyItMatters": "SCP-5789 belongs to the family of anomalies that constrain the very document describing them, and it carries that idea into mathematics. Its tags (antimemetic, infohazard, mathematical, meta) mark it as a concept piece, where the fun lies in watching the report format bend around an idea. It shows how much tension a file can draw purely from what it is not allowed to write down.",
+  "thingsToNotice": "Track how the writing obeys its own containment rule: a day becomes a turn of the planet, and concrete values are swapped for letters like g. The test log reads like a careful logic exercise, each entry probing one edge of the effect, until the last test abruptly changes the tone and everything is suspended. The closing first-person section drops the clinical voice and lets real fear in, especially when it describes engineers patching a hole in arithmetic itself. Notice, too, how the procedures and the file's own upkeep turn out to be the same task.",
+  "related": [
+    {
+      "slug": "scp-4773",
+      "note": "Another file visibly shaped by gaps, where things near the object can become imperceptible."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

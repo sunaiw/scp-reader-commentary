@@ -1,0 +1,15 @@
+{
+  "slug": "scp-027",
+  "lang": "en",
+  "hook": "A short Series I file built around one man and the cloud of insects and rodents that gathers wherever he stands. It is unpleasant in a quiet, itchy way rather than a loud one, so go in expecting discomfort more than spectacle. Pay attention to who the procedures are really trying to protect.",
+  "whyItMatters": "SCP-027 comes from the stretch of the wiki where one strange premise and a couple of addenda could carry a whole article. Its tags (contagion, compulsion, phenomenon) point to what sets it apart: the anomaly is handled less as a creature than as a condition that happens to a person. Treating an anomaly as something you might catch, rather than something you lock away, is what gives the file its tension.",
+  "thingsToNotice": "Look at the 200-metre rule for senior staff, which tells you the Foundation's real worry before the description spells it out. The timeline then makes that worry personal, and the interview becomes the emotional center of the file. The researcher keeps probing for voices and presences while the subject keeps returning to feeling dirty and missing his family, and that mismatch is painful to read. The closing note about the research team's reassignment is a small, cold touch that says more about the staff than about the anomaly.",
+  "related": [
+    {
+      "slug": "scp-1772",
+      "note": "The project several members of the 027 research team are moved to right after the interview."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

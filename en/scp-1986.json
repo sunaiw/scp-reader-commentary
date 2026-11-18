@@ -1,0 +1,15 @@
+{
+  "slug": "scp-1986",
+  "lang": "en",
+  "hook": "A tunnel under the national library in Buenos Aires, lined with books that almost exist: familiar authors with works they never wrote, and anonymous volumes in every language. Most of the file is a catalog of these finds, so it reads like browsing very strange shelves. Expect wordplay and literary in-jokes rather than danger.",
+  "whyItMatters": "SCP-1986 wears its inspiration openly, with a footnote pointing to Jorge Luis Borges and his story about an infinite library, and it sets the anomaly in the same library where the file says Borges worked. It is a Safe-class article that exists mostly for the pleasure of its ideas, showing that the format can be playful and bookish instead of frightening. The recovered-works list is the main attraction and is built for dipping in and out of.",
+  "thingsToNotice": "Treat each catalog entry as a tiny story: the joke often lives in a single constraint, like a poetry collection that avoids one letter or a naval reference written entirely in limericks. Several entries sketch whole alternate histories in a sentence or two, giving the tunnel a depth beyond its measured kilometres. The footnotes reward attention as well, from the topology aside to a researcher's comparison between browsing the shelves and hunting for rational numbers along the real line. Notice how calm the containment section is; nothing here threatens anyone, and the article knows it.",
+  "related": [
+    {
+      "slug": "scp-152",
+      "note": "Another book-centred file whose pages record histories that split away from ours."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

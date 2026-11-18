@@ -1,0 +1,19 @@
+{
+  "slug": "scp-162",
+  "lang": "en",
+  "hook": "A short file about a huge ball of fish hooks, needles and scissors that people find themselves wanting to touch. It is brief and blunt, and it records people walking into harm in a clinical register, so expect an uncomfortable read. The whole thing turns on one question: why would anyone reach for it?",
+  "whyItMatters": "SCP-162 is a compact example of the compulsion object, where the hazard is not what the thing does but what it makes you want. Its tags pair cognitohazard with tactile, which neatly sums up the design: the effect starts in the mind and finishes on the skin. It also leans on two other Foundation objects to explain its one known exception and its one rescue method, giving a very short file a sense of a wider database around it.",
+  "thingsToNotice": "Read the procedures for what they imply: steel-plate gloves, body armor and two weeks of mental checks afterward suggest the staff are guarding against their own urges as much as against the object. The description never explains the pull, and that silence is part of the effect. The swing between pleas for help and requests to be left alone is the most unsettling detail, because it blurs who is suffering the compulsion and who is choosing it. Even the method that works leaves the urge in place, which keeps the ending from feeling resolved.",
+  "related": [
+    {
+      "slug": "scp-1063",
+      "note": "Cited as a subject whose skin the hooks cannot pierce, and which proved immune to the pull."
+    },
+    {
+      "slug": "scp-1114",
+      "note": "Named in the file as an effective way to free someone caught on 162."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

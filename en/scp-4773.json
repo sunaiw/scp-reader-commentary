@@ -1,0 +1,15 @@
+{
+  "slug": "scp-4773",
+  "lang": "en",
+  "hook": "This file opens with a notice admitting that some information is missing from it, and the rest of the page bears that out. Lines break off mid-word, header fields are left blank and a whole list is marked as unconfirmed. Read it slowly and treat the gaps, footnotes and odd emphases as part of the text rather than formatting errors.",
+  "whyItMatters": "SCP-4773 is a meta, antimemetic piece in which the document's own failures carry the story, blamed in-universe on a Department of Miscommunications. Its tags include reviewers-spotlight and co-authored, and it is the kind of format experiment that depends on the reader noticing what the writers cannot. It is short, and the footnotes deserve as much attention as the body.",
+  "thingsToNotice": "Notice the repeated assurance that the observed behaviour is considered normal; it sounds less convincing every time it appears. The tentative description reads like notes from someone struggling to hold onto a thought, with items about food and personnel instincts sitting oddly beside a description of a stuffed bear. The test addendum is laid out with procedural precision, yet its own footnotes quietly undercut how it reads. The tiny footnote about emotions sets the tone for the whole piece.",
+  "related": [
+    {
+      "slug": "scp-5789",
+      "note": "Another file shaped by what it cannot hold; there, numbers vanish and minds quietly fill the gap."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

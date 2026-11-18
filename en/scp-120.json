@@ -1,0 +1,19 @@
+{
+  "slug": "scp-120",
+  "lang": "en",
+  "hook": "A pastel-pink children's paddling pool that drops people into one of eleven places, from a ship at sea to the surface of the Moon. Most of the file is a tour of those destinations and the outposts built around them. The tone is brisk and logistical, which makes certain details land harder.",
+  "whyItMatters": "SCP-120 is a good example of the Foundation not just containing an anomaly but putting it to work, complete with application forms, a dedicated task force and remote outposts. The contrast between a toy-like object and the size of the operation built around it is the core of its appeal. It is a portal file in the travel-network sense, where the interest lies in the whole map rather than any single trip.",
+  "thingsToNotice": "Look at how casually the document handles the rotating destinations: several are effectively one-way, and the routine for cycling past them is described in purely administrative language. That flat tone is where the article's darkness lives. The list of destructive tests is almost comic in how it escalates, which sets up the matter-of-fact coldness of the destination notes that follow. A brief line about how the pool first came to light is easy to skim past, but it lingers.",
+  "related": [
+    {
+      "slug": "scp-4024",
+      "note": "Mentioned as an expanding threat to the Gobi outpost reached through 120."
+    },
+    {
+      "slug": "scp-860",
+      "note": "Another everyday object, a key this time, that opens a route to a fixed other place."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}

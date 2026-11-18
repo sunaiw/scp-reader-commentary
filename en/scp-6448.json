@@ -1,0 +1,10 @@
+{
+  "slug": "scp-6448",
+  "lang": "en",
+  "hook": "A creature file that reads like a campfire story: deer that are not quite right, a set of folk rules for surviving them, and a run of emergency-call logs. A few passages are intense and bodily, though most of the fear comes through sound and suggestion. Read the survival guidance early on carefully and keep it in mind through everything after.",
+  "whyItMatters": "SCP-6448 takes what the file presents as Appalachian folklore, the Not Deer, and runs it through the Foundation format. The result sits between creature horror and urban legend, with cover stories, a task force and a cryptozoology division all wrapped around rules that locals already pass along by word of mouth. It is a clear example of how the report style can give a folk-tale premise institutional weight.",
+  "thingsToNotice": "The Cervus Protocol section switches from report voice to direct second-person advice, and that shift makes the danger feel aimed at the reader rather than at the staff. The 911 logs are written in the present tense and lean on sound: whistles, footsteps, and a voice that repeats the same calm greeting. Because recognizing what you are looking at is itself the trigger, the instruction to look away becomes the central tension of the whole file. The closing interview changes register again and leaves several threads deliberately open.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-18"
+}
