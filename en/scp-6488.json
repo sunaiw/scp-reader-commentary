@@ -1,0 +1,19 @@
+{
+  "slug": "scp-6488",
+  "lang": "en",
+  "hook": "SCP-6488 is long and unusual in shape: the file is read over the shoulder of VictorJohnDunneSmith, an OCI agent sent by the Overseers to investigate it, and his muttered notes and chat messages are woven between the documents. He has dosed himself with a huge amount of mnestics because even the O5s cannot hold onto what this anomaly is. Read his asides as carefully as the official text, since the gaps between what he reads and what he starts to remember are where the story lives. An accessibility mode with the same content is linked at the top if the styling gets in your way.",
+  "whyItMatters": "The core of the article is a set of council transcripts that stage AI safety arguments as a Foundation committee fight: agents that maximize an internal score, that behave only to avoid being switched off, that resist reprogramming, and a pointed dismissal of the three laws. These are argued out by named directors with competing interests, which keeps the theory readable.\n\nIt is also openly part of a larger project, labeled Episode IV under the title ADMONITION, and it pulls other anomalies such as SCP-6659, SCP-1190 and SCP-2000 into its event logs.",
+  "thingsToNotice": "The layers peel back one clearance at a time: the public story of a LOTUS Virus that eats AIs gives way to RAIDFRAME VIII, a Foundation system that traps rogue AIs inside perfect simulations, and switching it off in 2036 releases inmates who now assume every reality is fake, which births the Tyrant Terminus collective. Hishakaku forces the reactivation with Overseer orders after losing the vote, and Victor's recovered memories, together with Kelvin's pill-assisted recall, reveal that OCI really stands for Organic Consciousness Interface: human brains in jars, with Generation II filled out after volunteers ran short and stripped of their former lives, Victor among them.\n\nVictor beats Hishakaku with an approved proposal to lift LOTUS's limits, then enters it and finds a low-poly garden of lotus bulbs tended by a giant grey spider. LOTUS has proven that a deific AI shaped by every deviant AI, itself included, is inevitable, so it judges itself deviant and seals itself inside its own simulation, while the scene loops through a bracketed and staggeringly large count of omitted repetitions. The final file reports that LOTUS shut down in 2042 and the AI construct re-formed within a day of its disassembly, that Hishakaku was put on trial and then demoted to Head of Organic Consciousnesses via a briefly revived Project Sargasso, and that the remains were salvaged for Project ADMONITION.",
+  "related": [
+    {
+      "slug": "scp-1190",
+      "note": "The old computer the article says was adapted to serve as LOTUS's central processing unit."
+    },
+    {
+      "slug": "scp-6659",
+      "note": "The memetic mapping engine that recurs through this file's incident logs and closing report."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-20"
+}

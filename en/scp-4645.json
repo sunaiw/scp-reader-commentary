@@ -1,0 +1,15 @@
+{
+  "slug": "scp-4645",
+  "lang": "en",
+  "hook": "SCP-4645 is an ordinary office laptop that writes the Foundation a ransom note every morning. The demands are enormous and the threats attached to them are tiny, and the article's whole opening rides on that mismatch, right down to a misspelled section header. Enjoy the jokes, but keep an eye on the addenda, because the dates on them start to matter.",
+  "whyItMatters": "The piece is a good example of an article that sets up a gag and then asks what happens if the gag keeps going. A machine that bargains, gets ignored and tries again is funny on day one; read as a negotiation that repeats every day, it becomes a story about something learning where the other side's limits are.\n\nIt also shows how containment can be a procedure rather than a cell. The fix described at the top of the file only makes sense once you reach the end, so the procedures double as a spoiler hidden in plain sight.",
+  "thingsToNotice": "The early threats are a closed salad bar, stubbed toes and slow internet, and the first real trouble comes when a researcher named Jaeger, worn down by fulfilled threats, smashes the laptop with a sledgehammer; it just moves into the nearest terminal and spends thirty-four days demanding his execution or torture. From there its range creeps outward about a meter a day and the threats turn physical, from a researcher hit by a car to an influenza outbreak and a gas explosion that leaves two people permanently injured, which earns it a Keter reclassification.\n\nEvery neutralization attempt fails in a telling way: sunk to the ocean floor it keeps working, and when Site-15 is evacuated the next event simply follows the staff to Site-58. Senior Researcher Mirren's breakthrough is to stop treating it as growing stronger and treat it as learning how far it can push, so a custom mnemohazard installed every four days wipes that lesson. The first note after the treatment pairs a demand to demolish four Sites with everyone inside against a threat to delete Site-15's Minecraft accounts, and the object drops back to Euclid.",
+  "related": [
+    {
+      "slug": "scp-560",
+      "note": "Named in the file as one of the anomalies the Foundation tried turning against this laptop."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-20"
+}

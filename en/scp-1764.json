@@ -1,0 +1,10 @@
+{
+  "slug": "scp-1764",
+  "lang": "en",
+  "hook": "Note the title before you start: this is SPC-1764, a Supernatural Phenomenon Casefile written by an organization in another universe. The object itself is a polished titanium disc kept in liquid nitrogen, and it barely matters. What matters is that the file was swapped with ours, and you are reading their side of the exchange.",
+  "whyItMatters": "This is a meta piece that turns the familiar SCP format into evidence about a foreign culture. Phrases readers take for granted, such as the words Special Containment Procedures or a Keter classification, are examined by outsiders as if they were archaeological clues.\n\nThe fun lies in the inversion. The analysts of the Unified Empire are as earnest and jargon-heavy as any Foundation researcher, yet everything they find strange about us is something an SCP reader treats as routine.",
+  "thingsToNotice": "The parallel world shows through in its vocabulary: threat levels like Deviant-9, clearance by Circles, temperatures in Standard degrees, a Teller-Einstein event, and the name Keter printed as a censored power word. The analysts conclude that calling something Special means anomalies are rare in our world, that our wish to contain rather than exploit says something about us, and that naming objects by their numbers shows we have not discovered Applied Nomenclature.\n\nThe file also says the swap runs both ways, and that the copy sitting in the other universe even comes with an addendum explaining the mix-up and why it cannot be fixed. The ending turns sour: the Empire calls our analysts' guesses about it alarmist and dangerously militaristic, then answers by readying a scorched-earth plan for mutual destruction should we ever cross over, all while describing our society as the brutal one. It closes on a scribe's oath to the Unifier that asks for ten thousand generations of wrath if he has misled anyone.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-20"
+}
