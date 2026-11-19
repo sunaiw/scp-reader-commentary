@@ -1,19 +1,19 @@
 {
   "slug": "scp-5555",
   "lang": "en",
-  "hook": "SCP-5555 is a long, multi-part story told through emails, newspaper mastheads, CCTV notes, audio transcripts and a first-person field journal, split by a navigation bar into eight parts and an epilogue. It assumes you already know a few of the Foundation's top figures and the major groups of interest, so it reads best after meeting some of them elsewhere. Expect thriller pacing and plenty of violence, mostly kept at a distance.",
+  "hook": "SCP-5555 is a long story in eight parts plus an epilogue, stitched together from emails, newspaper mastheads, CCTV notes, audio transcripts and the field journal of Everett Mann, a former O5-1 on the run. It assumes you already know the Foundation's top figures and the leaders of the major groups of interest, so it reads best after meeting some of them elsewhere. It moves like a spy thriller and is graphically violent, with torture on camera and killings described blow by blow.",
   "whyItMatters": "As its very long tag list shows, the article pulls a huge cast of established characters into one plot: Foundation staff, the Overseers, and the leaders of several groups of interest. It treats the top of the hierarchy as material for a spy story instead of a distant abstraction, and it is tagged both co-authored and bleak. It shows how far the format can stretch while still hanging on an item number.",
-  "thingsToNotice": "Watch how the item file changes every time it reappears. The first version describes a mysterious grave in a basement, and the later versions turn out to describe something far more organised and deliberate. The narrator's numbered rules from his old trade give the journal its spine, and the to-do line at the end of each entry tracks how his goal keeps shifting.\n\nThe emails from the other side are the counterpoint: their breezy, petty tone tells you what kind of game this is long before anyone says it outright. The question game at the dinner table near the end echoes the chess talk from earlier, and once you reach the final transfer table and epilogue, the cheerful opening email reads very differently.",
+  "thingsToNotice": "The item file changes each time it appears: first a bottomless mass grave of anomalous corpses under Overwatch Command, later a pit that kills any SCP that enters willingly and respawns a slightly altered copy near where the original was found. The tables beside it record how the Doctor, Able, the Statue and the Seed were tricked into it, who replaces senior staff, and that O5-12 through O5-2 were killed with cyanide. The reveal is that the Administrator, Fritz, and the heads of Wondertainment, the GOC, the Broken God church, Marshall, Carter and Dark and others are unaging players who run the world as a recurring game, resetting it through the pit and swapping roles each round, and Fritz framed Mann purely to drag him out of thirty years of retirement and make the game more fun.\n\nMann's numbered silencing rules and to-do lines track his slide from unraveling a conspiracy to vowing to destroy the Foundation, while he melts Holly Wondertainment's face with her own acid water gun, blows up sites, and shoots a bound Simon Glass in the knees, groin, chest and finally head on camera. The dinner-table question game ends with Fritz owning a body count of 1.3 billion, Mann shooting him in the forehead, and the bullet popping back out. In the epilogue Mann is immortal, assigned the role \"Nobody\" with the win condition of killing every other player, and his final to-do is to kill Fritz, which turns the cheerful opening email about ten breach-free years into the scoreboard of a finished round.",
   "related": [
     {
       "slug": "scp-3179",
-      "note": "The file Mann assumes is meant by the 'Seed' entry in the pit records."
+      "note": "Mann guesses this is the \"Seed\" listed among the anomalies thrown into the pit."
     },
     {
       "slug": "scp-262",
-      "note": "The greatcoat Mann wears in the Site-67 recording."
+      "note": "The greatcoat Mann wears in the Site-67 recording, identified there by number."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

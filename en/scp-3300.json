@@ -1,19 +1,10 @@
 {
   "slug": "scp-3300",
   "lang": "en",
-  "hook": "SCP-3300 starts as a fairly calm report about a Montana town and a yearly stretch of bad weather, then hands the floor to a teenager's journal. Give the journal time: it opens as ordinary diary chatter and the mood shifts gradually. It does include distressing scenes of losing family and friends, told in the first person, so it helps to know that going in.",
-  "whyItMatters": "This is a strong example of the report-plus-found-document structure, where the official text sets the rules and the recovered text shows what living inside them feels like. The description is rich on its own: a whole population quietly swapped out each year, a cognitohazard that dulls outsiders' attention rather than their memory, and records reaching back to the Foundation's beginnings. The journal answers almost none of the official questions, yet makes every one of them personal.",
-  "thingsToNotice": "The dreams are the backbone. They seem to belong to someone else, and each one arrives just before the waking story takes another step, together sketching an origin the report admits it doesn't know. Water is the recurring image throughout: the rain, the river in the dreams, and what turns up inside people when they are hurt.\n\nKeep in mind the report's remark that new residents sometimes share names and traits with earlier ones; it gives the last pages an uncomfortable implication about where those residents come from. The final line also echoes something another character says on leaving, so it lands as both a decision and a refrain.",
-  "related": [
-    {
-      "slug": "scp-2875",
-      "note": "Another small town lost to an anomaly, with the human side told through recovered recordings."
-    },
-    {
-      "slug": "scp-3005",
-      "note": "A recovered record in which the writer's grip on things visibly slips."
-    }
-  ],
+  "hook": "SCP-3300 starts as a calm report about a Montana town and a yearly stretch of bad weather, then hands the floor to a teenager's journal. Give the journal time: it opens as ordinary diary chatter about friends, a tabletop game and an overbearing mom, and the mood turns gradually. Be aware that it goes on to describe a parent beaten to death, several deaths among the friends and a suicide by shotgun, all in the first person.",
+  "whyItMatters": "This is a strong example of the report-plus-found-document structure, where the official text sets the rules and the recovered text shows what living inside them feels like. The description is rich on its own: a whole population swapped out each year, a cognitohazard that dulls outsiders' attention rather than their memory, and records reaching back to the Foundation's beginnings. The journal answers almost none of the official questions, yet makes every one of them personal.",
+  "thingsToNotice": "The recurring dream is the key. It belongs to a woman in a village dying of a plague, where a boy announces that water is their salvation and the few survivors carry hundreds of their dead into a river until only they are left. In the last dream she is the storm itself, torn apart with the screaming spirits of her village and flung down to earth for a moment before being dragged back, which reads as the origin the report admits it does not know.\n\nThe waking story makes that literal. A stranger who calls her house his own beats her mother to death with a golf club pulled out of his rippling, water-filled chest; Jared boils away into steam; Mike's skull turns out to hold water instead of a brain, and when Sam cuts her own arm, water pours out of it too. Every road leads back to the town sign, silent crowds wait outside in the rain, Sam walks into them, and Isabel is reduced to a puddle. Margaret ends by hearing the rain call her its child, and her closing line repeats what Sam said on the way out, so the journal stops on her choosing to go into the water.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

@@ -3,17 +3,8 @@
   "lang": "en",
   "hook": "SCP-3005 is presented as whatever survived a data loss: a few corrupted fragments of procedure and one test log that is supposedly complete. Read the log the way you would read any routine list of Foundation experiments, and keep an eye on the format itself. The less you know beforehand, the better it works.",
   "whyItMatters": "The file belongs to a strand of the wiki that makes the document itself the medium of horror: the anomaly is never described, and you only see what it does to the record and to the person writing it. Its tags, including esoteric-class, meta, psychological-horror and fifthist, point straight at that ambition. The Uncontained (Unknown) class sets the mood before the log even begins.",
-  "thingsToNotice": "The blank template at the top of the log is the trick. Once you have seen what each field should hold, you notice every time a field starts holding the wrong thing: numbers get doubled, quantities are spelled out in odd ways, and the number five shows up more and more. The researcher's comments drift from tidy observations to confusion about who is who, and the outputs stop being objects and start being ideas.\n\nAfter finishing, go back to the corrupted procedures at the very top. The instruction about handling casualties takes on a new meaning once you have seen how the log repeats a related phrase, and the last entries show the document itself giving way.",
-  "related": [
-    {
-      "slug": "scp-5242",
-      "note": "Another file where the text itself is where the hazard shows."
-    },
-    {
-      "slug": "scp-3300",
-      "note": "A recovered first-person record that unravels as you read it."
-    }
-  ],
+  "thingsToNotice": "The blank template at the top of the log is the trick. Once you have seen what each field should hold, you notice every time it holds the wrong thing: numbers get doubled, quantities are spelled out twice, the number five creeps in everywhere, and outputs stop being objects and become ideas, from a hawk encyclopedia entry that keeps turning into a political system or a party game to a notebook that comes out as a religion. D-class subjects come back as \"viscera,\" flung apart, or mentally broken, and the researcher loses track of who is who, convinced that a colleague named Watkins is now among the subjects and realizing the rest of the staff have been absorbed into the test pool.\n\nThe turning point is the power drill: he bores a hole at forehead height to let the pink light shine straight into his head, comes away believing it strips people out of their own world, and fills a notebook about what SCP-3005 was made for. In the end every remaining D-class walks into the chamber, he plans to go in after them, and the last entries collapse into a misspelled \"don't worry about the body\" and a row of fives. Go back to the corrupted procedures afterward: the order to dissolve casualties rather than bury, burn or touch them reads very differently once you know where the phrase came from, and the fifthist tag tells you what kind of light this was.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

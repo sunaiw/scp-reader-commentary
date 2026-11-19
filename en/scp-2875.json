@@ -1,19 +1,15 @@
 {
   "slug": "scp-2875",
   "lang": "en",
-  "hook": "Don't let the premise talk you into skimming. The file sets up an absurd, almost cartoonish problem and then handles it with complete seriousness, and the payoff is a set of recorded phone messages near the end. Read those one at a time and notice how much changes between them.",
-  "whyItMatters": "SCP-2875 belongs to the family of articles that take a silly concept and play it entirely straight, letting dry Foundation procedure do the comic work. Its tags include a prize-feature mark and an audio tag, and the voicemails are clearly built to be heard as well as read. It is also a compact lesson in how one addendum can recast the document above it.",
-  "thingsToNotice": "The voicemails tell a whole story from one side of a conversation. The caller slides from neighbourly small talk to worry to panic, while the phone number he keeps repeating turns into a grim running gag that survives to the very last message. The footnote is the real turn: it hints that the town's own officials may be tied to the origin of the problem, which makes the earliest calls read like a confession.\n\nAlso look at the rule about weapons. Because guns make things worse, the procedures force a slow, hands-on approach, and the task force lead's note speaks directly to anyone treating the whole thing as a joke.",
+  "hook": "The full title is crude and the premise sounds like a joke: a Wisconsin town where grizzly bears keep appearing. The file nonetheless handles it with complete seriousness, and the payoff is a run of recorded phone messages near the end. Read those one at a time and notice how much changes between them.",
+  "whyItMatters": "SCP-2875 belongs to the family of articles that take a silly concept and play it entirely straight, letting dry Foundation procedure do the comic work. Its tags include prize-feature and audio, and the voicemail section is where the piece shifts from deadpan to dread. It is also a compact lesson in how one addendum can recast the document above it.",
+  "thingsToNotice": "The voicemails tell the whole story from one side of the line. A cheerful city hall official first pitches bears as the answer to the town's coyote problem, then reports that bears are \"going great,\" then frets about too many, then about a little boy attacked in the street. In the last message his neighbor has been eaten, bears are in the streets and in people's homes, one is on his car, and he is attacked inside his own house mid-call, still reciting the phone number he has repeated in every message before the line goes dead.\n\nRead with that in mind, the discovery note lands harder: the Foundation arrived because the town's entire population had vanished, and the phone was found in a cave. The footnote ties the town government to the origin of the anomaly and flags a possible link to SCP-3088. The weapons rule is its own grim joke, since shooting or burning a bear makes two more appear beside the body, so teams are stuck with tranquilizer spray and blunt force to the skull.",
   "related": [
     {
       "slug": "scp-3088",
-      "note": "Named in the footnote as a possible link under investigation."
-    },
-    {
-      "slug": "scp-3300",
-      "note": "Another small American town overtaken by an anomaly, seen partly through a recovered personal record."
+      "note": "The footnote names it as a possible link under investigation, given the town government's role."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

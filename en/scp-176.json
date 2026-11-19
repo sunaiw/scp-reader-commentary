@@ -3,17 +3,8 @@
   "lang": "en",
   "hook": "A short, quiet file about an abandoned factory and a window that only works from one side. Go in expecting a puzzle rather than a monster: the important events take up barely eleven seconds, and the article's whole job is to make you study them. Keep the building layout from the opening paragraphs in mind, because it matters more than it first appears.",
   "whyItMatters": "SCP-176 is a clean example of the mystery-box file, where the anomaly is a fixed piece of evidence and the text declines to say what it means. Its tags (loop, temporal, mystery) describe it well, and it shows how much a single repeating scene can carry when the voice stays clinical. It rewards readers who like reconstructing events from timestamps and positions.",
-  "thingsToNotice": "The addendum is basically a forensic breakdown of an armed raid, timed to fractions of a second, yet it never tells you who either group is, what the machine does, or why the flash rewinds everything. The procedures add their own tension: cameras watch for any change in the sequence, which implies someone thinks the loop could one day break. Look at the small movements in the list of people, like the researcher reaching for something near the end and the attacker heading toward the space under the observation room.\n\nThe outside world is an ordinary ruin and the scene beyond the glass is untouchable, so the observation room in between is where the story really sits. Reading it with that in mind, the watcher starts to feel less safe than the paperwork suggests.",
-  "related": [
-    {
-      "slug": "scp-022",
-      "note": "Another building with one room that refuses to be entered the normal way."
-    },
-    {
-      "slug": "scp-087",
-      "note": "A location-based file that also leaves its central question open."
-    }
-  ],
+  "thingsToNotice": "The addendum is a forensic breakdown of a massacre timed to fractions of a second: four unmarked gunmen with suppressed weapons burst in and cut down the five researchers, one taking two rounds to the head and another three to the chest. Yet it never tells you who either group is, what the machine does, or why its flash rewinds everything. The procedures add their own tension, since cameras watch for any change in the sequence, which implies someone thinks the loop could one day break. Look at the small movements in the list of people, like the hidden researcher reaching for a weapon near the end and the third attacker heading toward the space under the observation room.\n\nThe outside world is an ordinary ruin, and anything pushed through the glass, tool or limb, is sliced off and never found, so the observation room in between is where the story really sits. Read with that in mind, the watcher starts to feel less safe than the paperwork suggests.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

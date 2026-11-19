@@ -3,17 +3,8 @@
   "lang": "en",
   "hook": "SCP-022 is a hospital morgue in Great Britain where something has gone wrong in a very procedural way. It is short and direct, so it makes a good quick read. Spend a moment on the containment procedures before the description; they quietly tell you a lot about what has already happened there.",
   "whyItMatters": "This entry follows the standard shape closely: a clear location, a repeatable effect, a handful of tested rules and two brief addenda. It builds unease mostly through logistics, such as automated incineration and a vault door, rather than through dramatic incident reports. It also cites an incident and an interview log that the page never shows, which leaves gaps for the reader to fill.",
-  "thingsToNotice": "The most unsettling detail is not the moving bodies but the room's refusal to take in anything new. Objects sent inside come back elsewhere, aged and worn, after an exact interval, while people simply don't come back, and the article leaves you to connect that with where the bodies come from. The referenced but missing records make the procedures feel like the residue of events you aren't cleared to see.\n\nNotice also the pending request to open a new entrance through a wall. Coming right after the explanation of why the door doesn't work, it reads as quietly ominous.",
-  "related": [
-    {
-      "slug": "scp-2419",
-      "note": "Another facility where the dead won't stay put, with a much longer backstory."
-    },
-    {
-      "slug": "scp-176",
-      "note": "Another building with a room that can't be entered the ordinary way."
-    }
-  ],
+  "thingsToNotice": "The most unsettling detail is not the moving bodies but what the room does with anything new. Objects pushed through the door turn up exactly 183 seconds later in a heap on the floor upstairs, rusted and rotted as if years had passed, while people never reappear there at all: the last addendum says they seem to be absorbed into the morgue and may later climb out of a drawer as SCP-022-1. Set that beside the earlier note that the corpses match bodies stolen from morgues around the country, and the place starts to look like something that collects the dead and, given the chance, the living.\n\nThe tested rules are grimly practical. Cutting off the head does not stop an instance, only the largest remaining piece keeps moving, and nothing short of destroying all the tissue works, which explains the automated incinerator at the door. The pending request to cut a new entrance through the south wall, placed right after we learn that nothing gets in through the door, reads as quietly ominous, and the incident and interview log that are cited but never shown make the procedures feel like the residue of events you are not cleared to see.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

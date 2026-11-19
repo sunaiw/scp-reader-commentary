@@ -1,19 +1,10 @@
 {
   "slug": "scp-2337",
   "lang": "en",
-  "hook": "A very loud bird that speaks a language only loosely related to English is the whole setup. The interview is the main event, so hear it in your head and enjoy the nonsense. It is short and light, best read purely for fun.",
-  "whyItMatters": "The name the bird answers to matches the doctor-spanko tag on the page, and the article treats that name as part of the joke. It is a compact example of comedy built from one interview, with just enough mystery in the addendum to hint at a bigger world.",
-  "thingsToNotice": "The containment rules hide jokes in plain sight, from the oddly specific ear protection level to the staff advisory against copying its speech, which only makes sense after the interview. Its answers may bury real information under rhyme and wordplay, so the doctor's frustration mirrors the reader's.\n\nThe addendum about dangerous entities wanting to meet it is never explained, which keeps the comedy from feeling weightless. The final exchange shows exactly why that advisory exists.",
-  "related": [
-    {
-      "slug": "scp-1470",
-      "note": "Another talking animal, this one far more tender than funny."
-    },
-    {
-      "slug": "scp-1295",
-      "note": "Another chatty, unassuming group with more power than they let on."
-    }
-  ],
+  "hook": "A corn crake that talks, and talks at ear-damaging volume, is the whole setup. Its speech hovers somewhere between English and nonsense, so read the interview aloud in your head and let the rhythm do the work. It is short and light, meant mostly for laughs.",
+  "whyItMatters": "The bird answers to \"Dr. Spanko,\" the same name as the doctor-spanko tag on the page, so the name itself is part of the gag. It shows how far one interview log can carry a comedy entry, while a single addendum hints at a much larger world behind the joke.",
+  "thingsToNotice": "The containment notes plant the punchline early: staff are told not to imitate the way it talks and are reminded that it understands some English. That warning pays off in the final lines, when the exasperated doctor answers in the bird's own garbled style. The bird takes it as an insult, climbs up his face and tries to peck out his eyes, and has to be knocked out with a tranquilizer dart; he walks away with scratches, and the log records it as the only time it has ever turned hostile.\n\nThe description runs the same joke in reverse: the capture-day blast that burst three agents' eardrums turns out to have been the bird trying to be friendly. Why dangerous sapient entities in custody treat it as some kind of authority, enough to float a Keter reclassification, is never answered, and its one long reply on the subject buries any meaning under rhymes and a passing mention of Unknown Kadath.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }
