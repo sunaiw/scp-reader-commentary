@@ -2,18 +2,9 @@
   "slug": "scp-066",
   "lang": "en",
   "hook": "A tangle of yarn that plays notes and hands out little gifts sounds like the gentlest thing in the archive. Glance at the odd object class line before you start: it is a small joke, and it also warns you that the file has two halves. Read it as a before-and-after story and notice exactly where the mood turns.",
-  "whyItMatters": "The page carries a rewrite tag, so what you read is a reworked version of an older entry. It also sits under its own 'eric' tag, named after someone the text mentions constantly and never explains. That withheld identity is the whole hook: a toy-like object with an attachment to a person the reader never meets.",
-  "thingsToNotice": "The early effects read like a children's party, with a kitten, a safety-minded song and a birthday treat. After the scissors incident the effects stay in the same families but turn hostile, so the second list works as a dark mirror of the first. The trigger is tiny: one attempt to cut it, one question, one wrong answer.\n\nAlso compare the two containment paragraphs. The jump from a deposit box and request forms to a reinforced box swapped out by a robotic arm in seconds says more about the change than any description of the object.",
-  "related": [
-    {
-      "slug": "scp-261",
-      "note": "Another dispenser of small treats whose output sours when misused."
-    },
-    {
-      "slug": "scp-294",
-      "note": "A famous ask-and-receive machine; compare how each file plays with randomness."
-    }
-  ],
+  "whyItMatters": "The page carries a rewrite tag, so what you read is a reworked version of an older entry. It also has a tag of its own, 'eric', named after someone the text mentions constantly and never explains. That withheld identity is the whole hook: a toy-like object attached to a person the reader never meets.",
+  "thingsToNotice": "The early effects read like a children's party: a friendly declawed kitten, a song warning kids off sharp objects without a grown-up, a cupcake with a lit candle after the notes of Happy Birthday. The turn comes when a D-Class tries to cut it with scissors; it rolls away, asks whether he is Eric, and when he says no it reshapes itself and starts blaring harsh staccato notes.\n\nAfterwards it grows fast-moving tendrils and watching eyes, wears down tungsten carbide boxes, and fires off effects at anyone nearby, and each one reads as a soured twin of an earlier gift. The kitten becomes a bee that stings and vanishes, the song becomes Beethoven at over 140 decibels that leaves three staff permanently deaf, and the birthday candle becomes five hours of total darkness with heavy breathing behind people's shoulders. Between effects it repeats \"Eric\" in a deep man's voice, so the file ends on a toy whose longing for someone absent has turned dangerous. The contrast between the two containment paragraphs, request forms versus a robotic arm that swaps boxes in seconds, sums up the change.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }

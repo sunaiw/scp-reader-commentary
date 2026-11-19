@@ -1,19 +1,10 @@
 {
   "slug": "scp-012",
   "lang": "en",
-  "hook": "A very short early file about an unfinished, handwritten piece of music. The theme is disturbing, but the text is brief and clinical rather than graphic. Read the procedures closely, since they quietly tell you what the object does before the description does.",
-  "whyItMatters": "It is an early, influential take on the cognitohazard: one idea, a composition that compels people to try to complete it, carried by a handful of paragraphs. The score's title, On Mount Golgotha, is also used as a site tag, so this file is the starting point for related material. It shows how much menace a short entry can hold when procedures and description reinforce each other.",
-  "thingsToNotice": "The containment rules tell the story in reverse: darkness, an iron box and suspension away from the walls all make sense once you learn what seeing the score does.\n\nThe detail about the ink shifts the object from eerie relic to something with a long list of victims. The belief that it cannot be finished, together with the failed performance, suggests a work that was never meant to be music at all. The religious title is left unexplained, inviting interpretation without settling on one.",
-  "related": [
-    {
-      "slug": "scp-882",
-      "note": "Another object that compels people to feed it at their own expense."
-    },
-    {
-      "slug": "scp-4001",
-      "note": "A very different place where writing carries an enormous cost."
-    }
-  ],
+  "hook": "A very short file about an unfinished, handwritten piece of music dug out of a tomb. Content note: it describes self-harm and suicide, though in brief, clinical language. Read the procedures closely, since they quietly tell you what the object does before the description does.",
+  "whyItMatters": "It is a compact cognitohazard story: one idea, a composition that drives anyone who sees it to try to complete it, carried by a handful of paragraphs. The score's title, On Mount Golgotha, also appears as a tag on the page. It shows how much menace a short entry can hold when procedures and description reinforce each other.",
+  "thingsToNotice": "The containment rules tell the story in reverse: darkness, an iron box and suspension well away from the walls all make sense once you learn what seeing the score does.\n\nThe ink turns out to be blood from several people, which recasts the sheet as something built out of earlier victims. Everyone exposed does the same thing: they cut themselves open to write more of the piece in their own blood, and the few who finish a section kill themselves at once, saying it can never be completed. Two members of the salvage team that found it had already gone mad and bled themselves badly trying to finish it. The final line, that performing it yields only clashing noise with no harmony between parts, suggests the thing was never really music, and the religious title is left for the reader to interpret.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }

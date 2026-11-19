@@ -1,19 +1,10 @@
 {
   "slug": "scp-4991",
   "lang": "en",
-  "hook": "Short, and built almost entirely from social media captures: tweets, forum threads and image-board posts. Read it once quickly, the way you'd scroll a feed, and then again slowly. Be aware that the later posts touch on panic and violence, briefly, and the language is crude throughout.",
+  "hook": "Short, and built almost entirely from social media captures: tweets, forum threads and image-board posts. Read it once quickly, the way you'd scroll a feed, and then again slowly. Content note: the later posts describe murder and mutilation in blunt first-person terms, there is a necrophilia joke, and the language is crude throughout.",
   "whyItMatters": "It carries the insect-hell tag, placing it in a group of articles that share that label, and it comes at its subject through found material rather than reports. The co-authored file uses the Foundation's format only as a thin shell; the real story is told by ordinary voices. It also drops in other parts of the setting, such as Deer College, Marshall, Carter and Dark, and Faeowynn Wilson, as if they were everyday accounts on a timeline.",
-  "thingsToNotice": "The posts describe events that never happened here, and the article never fully explains where they came from; that gap is the point. Watch the dates and the engagement numbers, which trace a collapse without anyone narrating it.\n\nThe repeated note that an account does not match any existing user is a quiet hint about which world is speaking. Then compare who signs the access warning at the top with who the angry posts blame, and the file starts to read as the record of a decision made somewhere else.",
-  "related": [
-    {
-      "slug": "scp-3003",
-      "note": "A planet-scale insect threat, handled as a slow diplomatic dossier."
-    },
-    {
-      "slug": "scp-6500",
-      "note": "Shares the Deer College and Faeowynn Wilson tags, in a far larger crossover."
-    }
-  ],
+  "thingsToNotice": "For two days the posts leak in from an Earth that is dying under swarms of insects: North America is told not to breathe outdoors, the Middle East has sunk into the sea, and people learn to cover their mouths because the bugs crawl inside. The Reddit threads explain the cause through gossip: that world's Foundation was meant to spend most of its budget on a pesticide plan with the US government, then O5-1 Kolt Moor walked away and every site emptied overnight.\n\nWatch the dates and the engagement numbers, which trace a collapse without anyone narrating it. The image-board posts at the end are the bottom of the fall: a man who hung his friend in the woods and cut him open to let the swarm out, another who killed his infested sister after she came at the family with a knife and killed their father, then a line of unbroken screaming letters. The repeated note that an account does not match any existing user is a quiet hint about which world is speaking. Then compare who signs the access warning at the top, O5-1 again, with the name the angry posts blame, and the 11-1 vote to call it Neutralized starts to read as a decision made by people who might know exactly what they saw.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }

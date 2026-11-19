@@ -1,19 +1,15 @@
 {
   "slug": "scp-4444",
   "lang": "en",
-  "hook": "This is an alternate-history comedy about the 2000 US presidential election, told through transcripts, a complaint form, campaign ads and phone calls. You don't need to know much about that race to enjoy it, though the late addenda land better if you remember it came down to a disputed recount. Expect broad, profane humor with real public figures played for laughs: this is satire, not a sober containment file.",
-  "whyItMatters": "The article invents its own object class, Ticonderoga, for something the Foundation can neither contain nor really needs to, a neat reversal of the usual Keter setup. Its tags read like a cast list of familiar staff characters, including Clef, Light, Crow and Cimmerian, alongside the FBI's Unusual Incidents Unit, so it plays like a crossover episode. The fun lies less in the anomaly than in watching institutions argue about it.",
-  "thingsToNotice": "The entity's scrambled English drives the jokes, and the file keeps raising the stakes of that word salad, from a private interview to a live televised debate. Notice that almost every Foundation plan is worse than the problem: the smear proposals, the stand-in candidate and the election-night contingency are all darker than the alien itself.\n\nUnder the comedy runs a climate thread: the visitor's real danger is greenhouse emissions, and the concession letter turns that into an oddly sincere ending. The last two addenda reopen the case with an unexplained call and ad, leaving a deliberate loose end.",
+  "hook": "This is an alternate-history comedy about the 2000 US presidential race, told through transcripts, a complaint form, campaign ads and phone calls. You don't need to know much about that election to enjoy it, since the file walks you through every stage up to the Florida recount. Expect broad, profane humor, sex jokes and slurs in some characters' mouths, and real public figures played for laughs: this is satire, not a sober containment file.",
+  "whyItMatters": "The article invents its own object class, Ticonderoga, for something the Foundation can neither contain nor really needs to, a neat reversal of the usual Keter setup. Its tags list a string of recurring staff characters, including Clef, Light, Crow and Cimmerian, alongside the FBI's Unusual Incidents Unit, so it plays like a crossover episode. The fun lies less in the anomaly than in watching institutions argue about it.",
+  "thingsToNotice": "The entity riding in Al Gore's head picked him by mistake, reading \"Vice\" as a rank above President, and its scrambled English drives the jokes as the stakes climb from a private interview to a televised debate. Almost every Foundation plan is worse than the problem: when Governor Bush is left brain-dead by a hunting accident, the Foundation shoots SCP-8586 so its consciousness moves into the body, and Director Lachlan Cairns ends up campaigning as Bush, which produces the furious, bleeped-out complaint form. The approved smear, a love triangle with Clinton and a saxophone, blows up the September debate, where Garber reshapes the crowd into stretched-out bodies and runs through the wall to hide in an Ohio barn for three days.\n\nOn election night the O5s set up RED VELVET, a plan to kill Gore in his hotel if he wins Florida, called off only because the count swings back. Under the comedy runs a climate thread: the visitor's species leaves planets cooked by its own greenhouse gas, and Gore's concession letter, signed by both of them, turns that into an oddly sincere ending. The last two addenda reopen the case with a gibberish voicemail hinting someone sold the Florida result and a 2007 ad in which something huge falls from the sky while Gore promises to be the last American President.",
   "related": [
     {
       "slug": "scp-8586",
-      "note": "Cited in the election addenda; best read after finishing this one."
-    },
-    {
-      "slug": "scp-1313",
-      "note": "Another file that plays an absurd premise completely straight."
+      "note": "The disinformation addendum names it as a key part of the Foundation's countermove."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }

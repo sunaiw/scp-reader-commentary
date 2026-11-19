@@ -1,19 +1,15 @@
 {
   "slug": "scp-3034",
   "lang": "en",
-  "hook": "A remote radio station, a child's voice counting backwards, and one simple instruction for how to reply. The original page includes audio, but the text stands on its own. Go in knowing as little as possible and let the attachments unfold in order.",
-  "whyItMatters": "Credited to The Great Hippo, it uses the Cold War numbers station as the frame for a slow mystery. It also belongs to the GRU Division P thread, the Soviet anomaly group the file points to, and offers a grim corner of that group's history. The containment here is a single reassuring phrase repeated for decades, a memorable kind of procedure.",
-  "thingsToNotice": "The half-burned audio log answers questions the researchers never ask, so the reader ends up knowing more than the Foundation does; treat it as the key to the file.\n\nThe email chain is a textbook curiosity trap, a sensible request for more data that ends with a one-line reversal. The two incident reports close on a tiny numerical change suggesting the countdown has begun to move, which is more unsettling than any explicit outcome. Notice too how the words carved into a desk became the whole containment protocol, inherited from people who fled without explanation.",
+  "hook": "A remote radio station, a girl's voice counting backwards in Russian, and one phrase the staff must send back every time. The original page includes audio, but the text stands on its own. Go in knowing as little as possible and let the attachments unfold in order.",
+  "whyItMatters": "Credited to The Great Hippo, it borrows the Cold War counting station as the frame for a slow-burning mystery. It is also tied to GRU Division P, the Soviet anomaly group named in the footnote, and shows a grim corner of that group's history. Its containment is just a reassuring phrase repeated for decades, which makes for a memorable kind of procedure.",
+  "thingsToNotice": "The burned tape is the real key. Two Soviet officers argue over a girl one of them tried to smuggle to the Americans; the other wants to keep her as a weapon to answer the atom bomb, a child offered to something they had only just managed to contain. So the reader learns early that the voice belongs to a sacrificed child bound to some entity, while the Foundation is still asking analysts about her accent.\n\nThe email chain then springs its trap: the team lets five broadcasts run down to 50, and the analyst comes back to say the background noise is thousands of children screaming, then withdraws the whole idea. Incident 3034-201 shows the cost of talking back: a 25-second screech that hurts everyone on site, followed by a worldwide spike in missing children timed to it. The final report is the quietest and the worst, since the noise is louder and the count now starts at 199, one step closer to zero. The words carved into the desk, left by people who fled without explaining, turn out to be the entire protocol.",
   "related": [
     {
       "slug": "scp-2664",
-      "note": "The file the footnote cites for more on GRU Division P."
-    },
-    {
-      "slug": "scp-2399",
-      "note": "Another case where containment means controlling what a signal is allowed to say."
+      "note": "The footnote points here for more on GRU Division P."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }

@@ -1,19 +1,23 @@
 {
   "slug": "scp-009",
   "lang": "en",
-  "hook": "Red water with backwards physics: it freezes when warm and melts in the cold. Read it as slow-burn chemistry horror; the strict cooling rules click into place once you reach the description. The file ends with an odd experiment borrowed from another universe, so read all the way down.",
-  "whyItMatters": "It is one of the low numbers many readers meet early, and its inverted-thermodynamics premise is easy to grasp and hard to shake. The contamination angle connects it to the site's large family of spreading hazards, scaled up to a possible extinction-level event that the file mentions almost in passing. The O5 memo keeping it at Euclid shows how classification can be a judgment call rather than a pure measure of danger.",
-  "thingsToNotice": "The danger is laid out as a staged process that gets more redacted the further it goes, so the gaps carry the dread.\n\nA later addendum notes how near the world came to disaster at the recovery site, which recasts every cooling unit as the only barrier left. The O5 memo's offhand tone, and its aside about an earlier research mishap, add dry humor. The closing experiment, carried over from another reality by a universe-hopping object, leaves the substance's origin as an open question.",
+  "hook": "Red water with backwards physics: it freezes when warm and melts in the cold, and it converts any ordinary water it touches. Read it as slow-burn chemistry horror with a body-horror streak; the strict cooling rules click into place once you reach the description. The file ends with an odd experiment record from another universe, so read all the way down.",
+  "whyItMatters": "Its inverted-thermodynamics premise is easy to grasp and hard to shake, and the file follows it to its logical end: a contaminant that could turn the world's water against it. One addendum mentions an extinction-level outcome almost in passing, while the O5 memo still keeps it at Euclid. That gap shows how classification can be a judgment call about how well something is held, not a pure measure of how bad it could get.",
+  "thingsToNotice": "The four-stage conversion seen in D-Class tests is the core horror: a mild warmth, then frost growing on the skin, then a runaway freeze through the body that keeps victims alive and aware for hours because the ice stops the bleeding. Each stage is more redacted than the last, and the fourth is gone entirely.\n\nThe recovery addendum puts faces on it: a wrecked party of seal hunters in Alaska found sealed in red ice, kept conscious even longer by the Arctic cold. A later note admits they died on dry rock a few meters from the sea, and that a spot closer to the water would have meant the end of the world, which turns every cooling unit into the last barrier. The O5 memo's shrugging tone and its joke about a missing doctor add dry humor. The closing record, retrieved when SCP-507 shifted universes, has 009 tested with SCP-107: red snow falls, grass freezes solid, and other plants swell into red, tentacled sundew-like growths that sweat beads of 009, hinting at what the substance's home universe looks like.",
   "related": [
     {
       "slug": "scp-507",
-      "note": "The object through which the closing experiment record was obtained."
+      "note": "Its universe-hopping is how the closing experiment record was obtained."
     },
     {
       "slug": "scp-107",
-      "note": "Used alongside 009 in that cross-universe test."
+      "note": "The object paired with 009 in that cross-universe test."
+    },
+    {
+      "slug": "scp-3023",
+      "note": "Named in an addendum as the arachnoid entity found during the recovery."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }

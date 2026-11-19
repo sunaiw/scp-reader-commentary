@@ -1,19 +1,10 @@
 {
   "slug": "scp-5140",
   "lang": "en",
-  "hook": "A short Keter set on Mount Everest, built on an idea simple enough to state in one sentence. Most of the page is a terse radio log between a climbing team and base camp. Let the clipped messages set the pace; the subject is grim, but the file keeps it understated.",
+  "hook": "A short Keter set on Mount Everest, about frozen corpses that drain the heat out of anyone who touches them. Most of the page is a terse radio log between a climbing team and base camp. Let the clipped messages set the pace; the subject is grim, but the file keeps its descriptions sparse.",
   "whyItMatters": "It carries the prize-feature tag and earns attention through economy: one rule, one log, one closing figure. The all-caps transmission format conveys distance and thin air without ever describing the climbers. It is a good example of a Keter that frightens because of where it is rather than what it does.",
-  "thingsToNotice": "The log slides from routine to unease in small steps, while base camp's replies stay calm and formulaic, which makes the field messages feel lonelier. Watch the spelling degrade as the transmissions go on: the format itself shows the sender running short of air.\n\nThe epilogue offers a rational explanation and leaves you to decide how much it really explains. Then the second addendum changes the scale entirely, and its final line reframes the mountain itself.",
-  "related": [
-    {
-      "slug": "scp-4991",
-      "note": "Another file told through fragmentary messages rather than a report."
-    },
-    {
-      "slug": "scp-1313",
-      "note": "Another short Keter that leaves its human cost as bare numbers."
-    }
-  ],
+  "thingsToNotice": "The log slides from routine burial work to dread in small steps: more bodies than expected, corpses curled up too tight to straighten, a body on the summit that vanishes while a shovel sticks in the ground. Then the team falls apart. Patrick touches an instance and becomes one, a torn-up camp holds three curled bodies that seem to move, and a hand from the ground seizes Arnold on the way down, leaving Smith trapped between them with one oxygen can, while base camp answers in calm, formulaic lines. Watch the spelling degrade in his last messages, begging that no one be allowed onto the mountain.\n\nThe epilogue offers a rational explanation: a broken oxygen valve, hallucinations, Arnold's foot pinned by a rockfall higher up, and only Patrick actually turned. It leaves you to decide how much that really explains. Then the 2024 addendum changes the scale entirely: a thaw and an avalanche expose the snow beneath, and scans show that corpses make up an estimated 45% of Everest's mass, so the mountain itself is the anomaly.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }

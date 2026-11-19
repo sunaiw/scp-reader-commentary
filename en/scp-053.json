@@ -2,18 +2,9 @@
   "slug": "scp-053",
   "lang": "en",
   "hook": "A short file about a three-year-old girl kept in a room full of toys. The procedures read like childcare instructions at first, and the contrast with the warnings that follow is deliberate. It is brief, so read it straight through in one go.",
-  "whyItMatters": "It is a classic of the innocent-seeming anomaly, where the danger comes from how people react rather than from the subject's intent. The file carries its own tag, which gathers the material connected to her, so this is the base reference for that thread. Its restraint, a few paragraphs with no narrative, is part of why it lingers.",
-  "thingsToNotice": "Notice how the procedures balance care and caution: bedding, snacks and rotating toys sit right beside steel safety lines and a strict time limit.\n\nThe effect turns the adults around her into the threat, while she herself is unhurt and unaware, which makes her the most sympathetic figure in the file. Her unease around groups is a small detail that hints at what she has lived through. The last line, that she cannot answer questions about the effect, keeps her inner life closed.",
-  "related": [
-    {
-      "slug": "scp-096",
-      "note": "Another file where simply making eye contact sets off a deadly reaction."
-    },
-    {
-      "slug": "scp-239",
-      "note": "A different young girl whose anomalous nature shapes everyone around her."
-    }
-  ],
+  "whyItMatters": "It is a clean example of the innocent-seeming anomaly, where the danger lives in what happens to the people around the subject rather than in anything she means to do. The page carries a tag named after her, the-young-girl, marking her as a figure in her own right. Its restraint, a few paragraphs with no narrative, is part of why it lingers.",
+  "thingsToNotice": "Notice how the procedures balance care and caution: bedding, snacks and rotating toys sit right beside steel safety lines, a ban on sharp objects and guns, and a ten-minute limit.\n\nThe description explains every one of those rules. Any adult who meets her eyes, touches her or stays too long turns paranoid and murderous, kills or drives off everyone else in sight, then goes for her, and dies of a heart attack or seizure seconds after landing a blow while she heals almost at once. She pays no attention to any of it and cannot answer when asked, so the horror sits entirely with the grown-ups while she stays a cheerful toddler. Her one sign of distress, unease around groups of people, quietly suggests what she has seen over and over.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }

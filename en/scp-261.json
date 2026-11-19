@@ -2,18 +2,14 @@
   "slug": "scp-261",
   "lang": "en",
   "hook": "A vending machine turns up in a Yokohama back alley with an 'out of order' sign taped to it. The premise is light, and most of the file is a test log you can read like a menu. Go in expecting a comedy and let the list decide when it stops being one.",
-  "whyItMatters": "It is a clean example of the log format: the description sets one rule, and a long list of results does the storytelling. One entry has the machine dispense another numbered anomaly, a small moment where a self-contained object suddenly touches the wider archive. Objects like this are a big part of the cabinet-of-curiosities pleasure of browsing the Foundation.",
-  "thingsToNotice": "The log is arranged as an escalation: real products first, then plausible flavors no company makes, then food with strange chemistry, then packaging in no known language. The procedures are part of the joke, with yen purchase limits, a health review and compensation for confiscated snacks reading like an office policy.\n\nWatch how the tone stays chirpy while the entries get stranger, and how the last item ends testing with almost no comment. That flat delivery hits harder than a warning would.",
+  "whyItMatters": "It is a clean example of the log format: the description sets one rule, and a long list of results does the storytelling. One entry has the machine dispense another numbered anomaly, a small moment where a self-contained object suddenly touches the wider archive. The page ends by pointing to a separate experiment log, so the machine reads as an ongoing project rather than a closed case.",
+  "thingsToNotice": "The log is arranged as an escalation: real products first, then plausible flavors no company makes, then food with strange chemistry like self-baking dough and self-steaming clams, then packaging in no known language. The procedures are part of the joke, with yen purchase limits, a health review and compensation for confiscated snacks reading like an office policy.\n\nThe tone stays chirpy while the entries turn grim. One unlabeled box holds live, furry, one-eyed creatures with three paws; pressing the button cooks them alive while they scratch at the walls, and Professor Kain is the only one willing to eat them (crunchy, spicy, a little like beef). The last item, a tall can, explodes on contact with oxygen, injuring several people and killing two researchers, and the entry closes by noting that the room smelled of citrus for days. That flat delivery hits harder than a warning would.",
   "related": [
     {
       "slug": "scp-2107",
-      "note": "It comes out of this machine in the test log; read it to see what was in the can."
-    },
-    {
-      "slug": "scp-294",
-      "note": "Another drink-dispensing machine with unpredictable results."
+      "note": "Named in the test log as one of the machine's outputs."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }
