@@ -1,0 +1,10 @@
+{
+  "slug": "scp-2063",
+  "lang": "en",
+  "hook": "A resin model of the starship Enterprise that turns a room into a landing party is a playful premise, and most of the file leans into it. Keep an eye on what the procedures quietly assume about D-class, and read to the very end; the last section speaks directly to whoever opened the file.",
+  "whyItMatters": "SCP-2063 takes the conventions of the show it references and turns them into anomalous rules: the theme music when you pick it up, shields, scanning sweeps and energy weapons when it feels threatened. It even folds in a dry staffing recommendation that D-class always die first and should therefore always be brought along. The closing message reframes the whole file as a recruitment test, turning a reference gag into a hook for a larger operation that stays offstage.",
+  "thingsToNotice": "The landing table reads as a string of tiny stories: a hot pepperoni pizza leads to pulsing caverns over lava, the cooled pizza to the same caverns dead with the earlier team's flag looking chewed, and an annotated lunar map opens onto the real Moon, blowing the D-class out by decompression and getting maps restricted. The rule that brought-back objects dissolve within twenty seconds is the setup for the ending.\n\nThe final message, signed O5-9, says that reading the file was itself a command to an alien device kept in a sub-basement, and that doing so passes a test. Retrieved objects sometimes do not dissolve, the team keeps reaching real places full of things whose makers are never found, and one early test was erased so completely that the numbering was changed. The reader is ordered to show up at 05:00, wait for a buzzer meaning the cameras are off, lay the ship's battery cover exterior side down, set the ship on it and step through the door.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-20"
+}

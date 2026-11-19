@@ -1,0 +1,19 @@
+{
+  "slug": "scp-6183",
+  "lang": "en",
+  "hook": "This file is deliberately broken: missing description files, error messages, block-character static and redactions that eat words halfway through. Treat the gaps as part of the story rather than damage, and read the surviving addenda in order. Later sections describe bodies coming apart and transforming in grotesque, sometimes absurd ways.",
+  "whyItMatters": "SCP-6183 makes the document itself the medium of its anomaly, so the experience of reading corrupted files carries much of the dread. It starts from a bureaucratic problem laid out plainly in a meeting, anomalies multiplying faster than they can be contained, and follows what happens when deletion is offered as the fix. Several other numbered files are pulled in along the way, which ties it into the wider catalogue rather than leaving it on its own.",
+  "thingsToNotice": "The Department of Deletions is made of deleted things. Its envoy, logged only as [DELETED], arrives as a lone arm and then a head, and in its interview with Director Genevieve it swaps one earliest memory for another (Nebraska, Leeds, Pensacola as a lamprey, drowning in Perth) before whispering that it and its colleagues were deleted and refusing to say by whom.\n\nThe SCP-6183-C test log looks like a success at first, cleanly erasing a lamp, SCP-352 and SCP-3333, but the deleted reptile comes back six hours later by overwriting SCP-553, deleting the daughter of disgust seals off a whole region, and a new anomaly handed the vacated number 3333 begins turning into its predecessor. The incident logs then show the database itself failing as sites go dark, and the last exploration ends with D-6183 turned partly into candle wax and pasta below Site-19, his upper body gone, accepting a promotion whose task is message delivery.",
+  "related": [
+    {
+      "slug": "scp-3333",
+      "note": "Named in the test log as one of the anomalies the item is used on."
+    },
+    {
+      "slug": "scp-6747",
+      "note": "A footnote likens the Deletions agents' home space to a dimension catalogued under this number."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-20"
+}

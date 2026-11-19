@@ -1,0 +1,19 @@
+{
+  "slug": "scp-4005",
+  "lang": "en",
+  "hook": "A glass mosque lamp shows people a city in its flame and sends them off on foot to find it, and the containment header already tells you this will not stay small. The file alternates between a 1950s Egyptian novelist's coded diary and a project lead's interviews with a former colleague, so read the diary as a second story running beside the first. One test subject gouges out her own eyes.",
+  "whyItMatters": "SCP-4005 frames an ending of the world as a utopian pilgrimage rather than a catastrophe, and it lets a convert argue her case at length instead of reducing her to a threat. Its meta information notes it was originally written for the SCP-4000 competition under the title 'A Lantern for Kashgar'. The Safe Apollyon class in the header sums up the paradox it explores: an object that is easy to hold and impossible to contain.",
+  "thingsToNotice": "The diary sections, which call the past, the present and the future lies in turn, tell the lamp's origin: a 14th-century emir of Marrakesh, afraid his city would die, asked an alchemist for a way to see al-Sin, and the alchemist instead built a world the emir filled with his own vision before the emir walked off into the night. Fatima Mahmoud, whose parents vanished when the lamp was lit in a Cairo mosque in 1975, joins the Foundation to learn what happened, lights it herself and insists to her old friend Dr. Hardcastle that the conversion is free will, not a cognitohazard.\n\nThe containment log tracks the converted share of humanity from a tiny fraction to 99.9%, with SCP-2000, a ritual sacrifice and SCP-3799 proposed and refused, and its last line is the destruction of the final unconverted human by suicide, interrupted by Fatima. Her own pilgrimage, she explains, is persuading Martha to go, and she describes the city's heart as a courtyard where the emir sits smiling. The last addendum records that Hardcastle accepted she had become an instance, and the diary's final entry closes on that same smiling emir.",
+  "related": [
+    {
+      "slug": "scp-1678",
+      "note": "One D-class subject disappears through its entrance."
+    },
+    {
+      "slug": "scp-2000",
+      "note": "Named among the measures proposed in the containment attempts."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-20"
+}

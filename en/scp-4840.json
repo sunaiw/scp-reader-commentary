@@ -1,0 +1,19 @@
+{
+  "slug": "scp-4840",
+  "lang": "en",
+  "hook": "This is a long file about a floating, abandoned city and the single elderly man who still tends it, and most of its weight sits in two interviews near the end. Take the mural descriptions slowly, because the temples work as a picture book that the interviews later narrate. The Temple of Night section depicts mass graves, burnings, people buried alive, and the rape and butchery of small green humanoids.",
+  "whyItMatters": "SCP-4840 works less as a description of one anomaly than as a lore engine, gathering many names the article invokes into a single origin myth: the Serpent and its library, an iron god and a god of flesh, the House of Apollyon, the Children of the Night, and files such as SCP-2254. It recasts biblical figures and the Lancelot of the King Arthur tales as distorted memories of a much older history. Its restricted-access header and the memo moving it under Project PARAGON signal from the start that it expects to be read alongside other documents.",
+  "thingsToNotice": "The murals pay off once the old man talks: the golden man with the lance and iron crown is Asem, First King of Men, whose envy led him to take a crown from another world and whose sons turned on him over it. The old man later crowned Harrian as Apollyon with that crown and lifted the city into the sky with the dragon Bharata, and the giant across the Temple of Sunset, SCP-4840-B, is the Demon Lancelot, a knight turned monster who died fighting the city's last defenders when Bharata tore out his heart.\n\nAt the end of the first interview he names himself Seth, brother of Cain and Able and son of Adam El Asem, and says he lost that name because the crown was a gift to him. The O5-1 interview revises the story: Cain killed Able with a stone, Asem broke Cain, fed his arms to wolves and cursed him with perfect memory, and Able returned from death full of hatred. It ends with O5-1 saying the Foundation has found Seth's father and wants all three brothers together.",
+  "related": [
+    {
+      "slug": "scp-2254",
+      "note": "SCP-4840-B carries markings said to match those found on this object."
+    },
+    {
+      "slug": "scp-4812",
+      "note": "Senior staff assigned to it are among the few cleared to read this file."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-20"
+}

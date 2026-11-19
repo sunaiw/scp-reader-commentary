@@ -1,0 +1,23 @@
+{
+  "slug": "scp-668",
+  "lang": "en",
+  "hook": "SCP-668 is a chef's knife that stops anyone from helping the person it is being used against. The file is short, and its starting point is a 1960s New York case in which a woman was raped and murdered while 38 witnesses heard the attack and did nothing. Watch the addenda at the bottom, where the classification goes back and forth.",
+  "whyItMatters": "The file turns the bystander effect into a literal anomaly, and the description itself sets that paper against a competing theory of psychic imprinting rather than choosing between them. Its containment is unusual because the danger comes from whoever holds the knife, so anyone taking it out wears an explosive collar on a timer. Through O5-11 and the Omega-7 project it also connects to the Foundation's wider history.",
+  "thingsToNotice": "The test with twelve D-class shows the effect plainly: a researcher told to choose one victim kills them all one by one while each subject stays horrified and unable to move. Retrieval is built around the field instead of against it, using a long-range sniper, double-blind conditions and three agents coordinated so that none of them realises he is opposing the wielder.\n\nThe addenda tell their own small story. A passive termination method, the Running Man protocol, gets it downgraded to Euclid; Omega-7 is barred from retrieval for fear SCP-076-2 might pick it up, until 076-2 itself rejects the knife for taking the fun out; SCP-682 is flagged as resistant enough to wield it; and a request to restore Keter status is ultimately denied.",
+  "related": [
+    {
+      "slug": "scp-076",
+      "note": "An addendum records SCP-076-2's own opinion of the knife."
+    },
+    {
+      "slug": "scp-682",
+      "note": "An addendum warns never to let it near this item."
+    },
+    {
+      "slug": "scp-5549",
+      "note": "Both files involve O5-11 and the end of Omega-7-era efforts to weaponise anomalies."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-20"
+}

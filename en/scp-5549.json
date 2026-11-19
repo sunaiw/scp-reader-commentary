@@ -1,0 +1,23 @@
+{
+  "slug": "scp-5549",
+  "lang": "en",
+  "hook": "SCP-5549 opens as a terminal session in which someone logs into an Overseer account to read a sealed file, and that frame matters as much as the file inside. What follows is a story of human experimentation told through a hearing, medical reports and therapy sessions. It includes forced testing on a prisoner, an amputation, heavy body horror and a violent breach.",
+  "whyItMatters": "This is an origin story for the Ethics Committee, presenting it as the Foundation's answer to one specific scandal rather than something that was always there. It sets two visions of the organisation against each other, an Overseer nostalgic for a freer, more militarised past and an administration that rejects research for its own sake, and lets the test subject's suffering settle the argument. The records are arranged so that they gradually turn against the people who wrote them.",
+  "thingsToNotice": "The medical reports work as a clock: D-293 grows from 162cm to 238cm, her bones hollowed and her blood thickened, as she is run through SCP-494, SCP-217, SCP-212 and SCP-008, shut in a chamber with her SCP-222 clone while SCP-610 engulfed them both, and finally implanted with SCP-682 flesh that forces Boucher to amputate her leg, with SCP-427 used each time to pull her back. Sharp insists she be called it, while Boucher's sessions catch bruises on her sternum and a Rorschach card that reminds her of a Captain Hayes' tattoo, details the file never explains.\n\nAfter Boucher learns from Sharp that the real goal is a weapon, the subject tears up the borehole, wipes out two MTF squads and drags a researcher back down the shaft, and the Ethics Committee's ruling later notes an innocent researcher is sealed in the vault with it. The Administrator dissolves the department and founds the committee, which demotes Sharp to D-class and suspends O5-11, who retorts that militarised containment is here to stay. The coda shows RAISA Director Jones reading the file with O5-14's credentials and then, under her own login, declining an offer to become an Overseer, before a last recording from the cell catches a female voice promising escape and a male voice answering.",
+  "related": [
+    {
+      "slug": "scp-427",
+      "note": "Used repeatedly in this file to restore the test subject."
+    },
+    {
+      "slug": "scp-682",
+      "note": "A sample of it is used in the testing program described here."
+    },
+    {
+      "slug": "scp-668",
+      "note": "Both files involve O5-11 and the Omega-7 era of trying to weaponise anomalies."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-20"
+}
