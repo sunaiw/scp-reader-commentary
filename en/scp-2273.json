@@ -2,18 +2,14 @@
   "slug": "scp-2273",
   "lang": "en",
   "hook": "SCP-2273 is a soldier from a different version of history, sealed inside a living, insect-like armor that was grown onto him as a boy. The file is mostly a series of interviews with a Foundation psychologist, and it reads more like a character study than a creature report. Go in ready for a story about trust and loss rather than combat.",
-  "whyItMatters": "The entry builds an entire alternate twentieth century, one where the great war went nuclear, out of passing remarks in conversation instead of exposition. It is a strong example of a humanoid file where the real subject is the person inside the cell. A footnote noting that his introductory briefing later became standard practice also ties it to how the Foundation handles sapient anomalies in general.",
-  "thingsToNotice": "Notice how his names for the staff shift from dog to crow, and how he eventually starts addressing the psychologist by name. The fragments of his world's history, such as the engineers who fear the sun and were found in buried cities, are left unexplained and invite readers to fill in the gaps. The last interview reframes the armor's memory function as something much closer to survivor's guilt. The radio static that fills the room as he breaks down is a quiet, effective touch, since his voice and his distress travel through the same channel.",
+  "whyItMatters": "The entry builds an entire alternate twentieth century, one where the great war went nuclear, out of passing remarks in conversation instead of exposition. It is a strong example of a humanoid file where the real subject is the person inside the cell. A footnote noting that a briefing for sapient anomalies became standard practice partly because of this case also ties it to how the Foundation handles thinking beings in general.",
+  "thingsToNotice": "Alexei arrives believing he is still a prisoner of the Americans who cut his weapons off his body and shot his surrendered men, so he calls the staff dogs; after reading an old Foundation briefing he switches to crows, his world's slang for people who steal weapons from both sides, and finally to Doctor Friedrich by name. His history leaks out sideways: the surface poisoned by nuclear exchange, children grown into armor that thinks with them, and the engineers, sun-fearing furred beings found in buried cities under the Western Front, who built weapons for every side. A footnote quietly confirms his division never existed here.\n\nThe last interview turns the armor's memory function into survivor's guilt: it replays his men's faces at night, and when he begs for it to stop, every radio in the room fills with static, because his distress travels on the same channel as his voice. The rest is redacted for his privacy, and the file ends with Friedrich asking for him to be reclassified with social privileges, a small act of care.",
   "related": [
     {
-      "slug": "scp-168",
-      "note": "A much lighter file that also lets a sapient anomaly reveal itself through conversation."
-    },
-    {
       "slug": "scp-4231",
-      "note": "Another person-centered story told largely through interviews and records; note that it carries an adult-content warning for abuse and violence."
+      "note": "Another traumatised humanoid in Foundation custody, where the question of how to treat him is argued very differently; it carries an adult content warning for sexual assault and child abuse."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

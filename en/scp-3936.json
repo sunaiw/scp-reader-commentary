@@ -3,17 +3,8 @@
   "lang": "en",
   "hook": "A very short Thaumiel entry about a Foundation installation designed to survive changes to reality itself. Read it slowly, especially the list in the addendum, because the details are doing more work than they first appear to. It takes about two minutes, and the payoff depends on noticing things for yourself.",
   "whyItMatters": "SCP-3936 takes the Scranton Box, a shielded store for records at risk of being rewritten, and scales the idea up to an entire site. Rather than staging a reality-restructuring event directly, it shows only what is left behind afterward. It is a sharp example of a twist delivered through a list of observations instead of a narrative.",
-  "thingsToNotice": "The autopsy list describes ordinary human anatomy as though it were alien, which means the people writing this file are not human and their reality has quietly replaced ours. Each bullet becomes a small joke once you see it, from the single heart to the pork comparison to eyes known only from fossils. The struck-through status line and the wiped archive suggest the original staff saw the shift coming and decided their records were better erased than inherited. Only one curt message survives, and it doubles as a refusal to be studied.",
-  "related": [
-    {
-      "slug": "scp-2000",
-      "note": "Another Thaumiel built around preparing for the end of the world as we know it."
-    },
-    {
-      "slug": "scp-4006",
-      "note": "A Thaumiel entry that also plays with who gets to know what about the world."
-    }
-  ],
+  "thingsToNotice": "The corpses in the cafeteria are the site's own human staff, and the autopsy list describes ordinary human anatomy as alien: one heart instead of three organs, a single brain, a tongue, eyes seen only in fossils, and a taste like pork. That means the world outside has been restructured into one run by a different species, and the addendum you are reading was written by their Foundation. The original staff, the only humans left, wiped the archive and took cyanide together rather than hand their records over.\n\nThe struck-through status line and the lone message signed by a doctor the new Foundation has never heard of are their final act, a polite refusal that says they will handle their own containment. Read that way, the closing line about the missing personnel is grimly ironic, since they are lying in the cafeteria the whole time.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

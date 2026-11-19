@@ -1,19 +1,10 @@
 {
   "slug": "scp-439",
   "lang": "en",
-  "hook": "SCP-439 is a single small insect, and the article begins with containment details so ordinary they almost lull you. Be warned that this is body horror: the anomaly is about what the creature does to a human host. The writing stays clinical throughout, which is exactly what makes it effective.",
-  "whyItMatters": "It is a strong example of the parasite story told through biology rather than spectacle. The horror is built from real-world anchors, a common insect lookalike and an actual rare bone disorder, so the anomaly feels like an extension of nature rather than magic. That grounding is a technique many creature articles on the site rely on.",
-  "thingsToNotice": "Notice the opening image caption and how the description later explains why it was chosen. The middle section reads almost like a nature documentary about a colony's life cycle, and the admiring tone in places is unsettling precisely because of what the colony is living in.\n\nThe whole article is paced toward its short final addendum, which reframes everything that came before with one quiet observation. The flat closing line about testing ending is the Foundation's only visible reaction, and it says plenty.",
-  "related": [
-    {
-      "slug": "scp-610",
-      "note": "Another biological threat that remakes human bodies against their will."
-    },
-    {
-      "slug": "scp-008",
-      "note": "A classic infection anomaly that turns hosts into something else, for comparison."
-    }
-  ],
+  "hook": "Content note: this is body horror about a parasite and its human host, with bones breaking through skin and organs eaten from inside. SCP-439 itself is one small earwig-like insect, and the containment section is so routine it almost lulls you. The clinical voice never changes, and that steadiness is where the dread comes from.",
+  "whyItMatters": "The article builds its horror from biology rather than spectacle. It leans on real anchors, a familiar insect shape and a genuine bone disorder named right in the opening caption, so the anomaly reads like nature pushed one step too far instead of magic. That makes it a clean study in how a creature entry can frighten with nothing but a life cycle.",
+  "thingsToNotice": "The caption about advanced FOP is explained mid-article: the host's skeleton grows wildly, spurs pierce the flesh, and the body curls into a fetal ball that becomes a round bone cage, often bolted in place inside a closet or a heating duct. Inside it a queen raises tens of thousands of workers, drones and warriors, eating some organs and turning others into egg chambers, while the host's own gut is used to make food for the colony.\n\nThe middle reads like a nature documentary, even calling the feeding method ingenious, and the cycle ends with a new queen leaving and the hive starving. Then the addendum lands the real blow: part of the brain is spared, and when a researcher shines a light into an intact eye, it tracks the beam. The host may still be aware inside the hive, and the Foundation's only response is to stop testing.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

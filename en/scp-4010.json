@@ -1,17 +1,17 @@
 {
   "slug": "scp-4010",
   "lang": "en",
-  "hook": "SCP-4010 is told almost entirely through a researcher's voice logs over one year, as she tries to build a single timeline out of the whole Foundation database. It helps to have read a handful of well-known files first, because she reacts to many of them in passing, usually with a joke or a complaint. Expect the tone to drift from office comedy toward something much stranger.",
-  "whyItMatters": "The entry is built on the sheer messiness of the SCP canon: dates that disagree, reality shifts that undo one another, and dozens of competing 001 proposals. Instead of treating those inconsistencies as flaws, it turns them into its premise. Its metafiction tag fits, since it asks what the wiki would look like from inside the fiction.",
-  "thingsToNotice": "Watch how small glitches in her logs, like a percentage that jumped overnight or a log that went missing, signal the collapse well before she names it. As the database shrinks, the Foundation contracts with it, site by site and colleague by colleague, until only one familiar statue is left. The final stretch has her post a half-remembered file to a small forum and watch a community grow around it, and the repeated opening messages close the loop. Her closing note calls chaos the fuel of the universe, which recasts every contradiction she grumbled about as something worth keeping.",
+  "hook": "SCP-4010 is told almost entirely through a researcher's voice logs over one year, as she tries to build a single timeline out of the whole Foundation database. It helps to have read a handful of well-known files first, because she reacts to many of them in passing, usually with a joke or a complaint. Expect the tone to drift from office comedy toward something much stranger and lonelier.",
+  "whyItMatters": "The entry is built on the sheer messiness of the SCP canon: dates that disagree, reality shifts that undo one another, and dozens of competing 001 proposals. Instead of treating those inconsistencies as flaws, it turns them into its premise. Its metafiction tag fits, since it asks what the site itself would look like from inside the fiction.",
+  "thingsToNotice": "The collapse is announced by small glitches before Sailer admits it: a progress figure that jumped overnight, a missing log, SCP-055 turning up already sorted. Her ordering of the database turns out to be what erases it, and the Foundation shrinks to match, Site-91 becoming Site-13 and then Site-3, the O5s replaced by one Administrator, then a plain building with ten researchers, until she is alone with a slow, harmless SCP-173 and then not even that. In a world with no anomalies at all she is just a woman a psychiatrist calls delusional.\n\nThe twist is that she founds the SCP site. She posts a half-remembered SCP-173 file and a photo to a cryptozoology forum, watches strangers start writing their own, and realises the universe she lost was shaped by a bunch of horror writers. Once she gets them to write her in, the paradox restarts reality, which is why the opening messages repeat word for word. She files the project itself as a Keter item that must never be carried out, signs a note saying chaos is what the universe runs on, destroys every trace, and the last sound on her recorder is metal being crushed.",
   "related": [
     {
       "slug": "scp-173",
-      "note": "Mentioned again and again; reading it first makes the later logs land harder."
+      "note": "The statue she ends up alone with, and the file she rebuilds from memory."
     },
     {
       "slug": "scp-140",
-      "note": "The history-rewriting book she names as her favorite reality bender."
+      "note": "The history-rewriting book she says was the first reality bender she came to like."
     },
     {
       "slug": "scp-055",
@@ -19,5 +19,5 @@
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

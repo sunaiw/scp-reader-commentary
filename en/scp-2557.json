@@ -2,18 +2,9 @@
   "slug": "scp-2557",
   "lang": "en",
   "hook": "SCP-2557 does not read like a Foundation file at all. It reads like a sales page, complete with testimonials and a sign-up form, from a company claiming to have bought the entry itself. Enjoy it as satire, and pay attention to the small print.",
-  "whyItMatters": "Plenty of meta entries bend the report format; this one replaces the report entirely with an advertisement. Its premise, that abstract concepts can be owned and traded, lets it treat the Foundation database as just another asset on someone's books. It is a compact example of how a parody of corporate language can carry a genuinely unsettling idea.",
-  "thingsToNotice": "The testimonials escalate from odd to uncomfortable, treating real-world outcomes like stocks, before the last one dissolves into word salad. The form's dropdown menus quietly widen the setting with other universes and payment methods no ordinary bank would accept. Note that the entry changed hands because someone inside the Foundation sold it, which is the actual breach hiding behind the joke. The coupon code addressed to staff and the string at the bottom make the page feel like it is still trying to sell to you.",
-  "related": [
-    {
-      "slug": "scp-4010",
-      "note": "Another meta entry where the Foundation database itself is where things go wrong."
-    },
-    {
-      "slug": "scp-1422",
-      "note": "A short file about the Foundation's own knowledge being quietly compromised."
-    }
-  ],
+  "whyItMatters": "Instead of bending the report format, this entry throws the report away and puts an advertisement in its place. Its premise, that abstract concepts can be owned and traded, lets it treat the Foundation database as just another asset on someone's books. It is a compact example of how a parody of corporate language can carry a genuinely unsettling idea.",
+  "thingsToNotice": "The containment procedures are gone because the concept of them was sold by a Foundation employee in 2011, and that sale, mentioned in one cheerful line, is the real breach behind the joke. The examples of other deals are where the satire bites: one agent's week includes the dreams of Guernsey residents and gender dysphoria, and the testimonials brag about profiting from Tony Blair's career and from cancer rates in a Manitoba town bought cheap, before the last one collapses into word salad signed with an unreadable name.\n\nThe sign-up form widens the setting in a few dropdowns, listing other universes and payment by blood rites or a slice of your lifespan alongside credit cards. The coupon code aimed at Foundation staff and the stray string at the bottom make the page feel like it is still trying to sell to you.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

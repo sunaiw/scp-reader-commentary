@@ -1,19 +1,10 @@
 {
   "slug": "scp-5005",
   "lang": "en",
-  "hook": "SCP-5005 is a town, nicknamed Lamplight, perched at the farthest edge of the multiverse under a single dim lantern, with nothing but void beyond its light. It is long and literary, built from essays by historians, critics and psychologists rather than a standard description. Go in ready for a slow, melancholy read about artists, obsession and the pull of the unknown, and note that it touches on despair and people who choose to vanish.",
-  "whyItMatters": "It was written for the SCP-5000 contest, and it shows how far the format can stretch: much of the article reads like an anthology of academic writing about a fictional culture. The multiverse here is vast and casually referenced, with whole universes and wars mentioned in passing, which makes the setting feel lived-in rather than explained. It is also an unusually reflective piece about why creative people chase darkness and what that costs them.",
-  "thingsToNotice": "The essays quietly set up a contrast between newcomers who stare outward at the void and long-term residents who turn toward fire, food and community; the festival scene makes that split visible. Junior Researcher Ramirez threads through every section, and her drift can be tracked through how others talk to her and through a supervisor's worried report.\n\nThe big reveal is foreshadowed more than once: a theory dismissed early as a joke, and a half-mad explorer's tale of a pale orb in the dark. The founder's unfinished poem, placed just before the final addendum, supplies the refrain that closes the article, and its use there carries a bleak weight.",
-  "related": [
-    {
-      "slug": "scp-5000",
-      "note": "The slot the 5000 contest was named after."
-    },
-    {
-      "slug": "scp-3001",
-      "note": "Another lone researcher worn down by an endless void at the edge of reality."
-    }
-  ],
+  "hook": "SCP-5005 is a town called Lamplight, sitting further out in the multiverse than matter should be able to exist, kept alive by one dim lantern hanging over it. Instead of a standard description you get a set of essays by historians, critics and psychologists, broken up by interview logs. Content note: suicide runs through the whole piece, from the founder onward, so pick a moment when a long, sad read suits you.",
+  "whyItMatters": "It was written as an entry for the SCP-5000 contest, and it shows how far the report format can be pushed toward an anthology of fake scholarship. Universes, wars and art movements are dropped in without explanation, which makes the setting feel inhabited rather than built for the reader. Underneath the worldbuilding it is really an argument about why creative people go looking for the dark and what they lose there.",
+  "thingsToNotice": "The essays keep circling one split: newcomers make art about the void outside and tend to vanish into it within a year, while long-time residents write about fire, food and neighbours and call the town a beacon. The candle festival, with people singing at the rim of the light, shows that split as a scene. Junior Researcher Ramirez is the thread through all of it, and the tavern owner, the poet Lumiere and Director Franklin's check-in each catch her sliding further toward the outsiders' side: gin in a cold attic room, contempt for the locals, a plan to reach the one spot where the whole expanse would be visible.\n\nThe ending is planted early. A biologist's theory about an anglerfish is laughed off on the first page, and a dying poet's story of a huge milky orb in the dark is kept as a town legend. In the addendum Ramirez walks out, reaches her spot, and her camera shows the ground under Lamplight is the corpse of a giant Harkhretian anglerfish: the lantern is its lure, the orb its eye. She dies laughing and sobbing, and her last whisper is the closing line of Delacroix's unfinished poem, the same line that opens the article.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

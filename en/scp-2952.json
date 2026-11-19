@@ -1,19 +1,19 @@
 {
   "slug": "scp-2952",
   "lang": "en",
-  "hook": "SCP-2952 is a corgi. A very, very long corgi, stretched across continents, and the article is every bit as charming as that sounds. It is a light, whimsical read, best enjoyed without overthinking the logistics. Keep an eye on the footnotes, which carry some of the best jokes.",
-  "whyItMatters": "It shows how the Foundation format can be bent toward pure delight without losing its procedural flavor. The piece borrows from fairy folklore, with offerings, polite apologies and the danger of offending the small folk, and merges it with the mundane world of public transit. That collision of the mythic and the commuter-grade is the engine of the whole article.",
-  "thingsToNotice": "The containment section already tells you something went wrong, since it asks staff to leave out honey and a courteous note in Welsh. The backstory then plays the familiar Foundation move of trying to bury a problem, and lets the anomaly's riders answer in the style of old fairy tales rather than with force.\n\nThe turn into customer-service language is the punchline, and the exploration log that follows becomes a slice-of-life tour of an ordinary train ride: complaints about delays, petitions, a smelly snack. The final gesture on the way out is small, but it is what readers tend to remember.",
+  "hook": "SCP-2952 is a corgi. A very, very long corgi, stretched across continents, and the article is every bit as charming as that sounds. It is mostly light and whimsical, though it borrows the sharp edge of old fairy tales, so a few of the retaliations are nastier than you might expect. Keep an eye on the footnotes, which carry some of the best jokes.",
+  "whyItMatters": "It shows how the Foundation format can be bent toward pure delight without losing its procedural flavor. The piece pulls in fairy folklore, with offerings of milk and honey, polite apologies in Welsh and the danger of offending the small folk, and merges it with the mundane world of public transit. That collision of the mythic and the commuter-grade is the engine of the whole article.",
+  "thingsToNotice": "The dog is a subway line for three-centimetre fairies, and the Foundation's first move was to bury its stations. The riders answer like the fair folk of legend: the project director wakes up turned into a mole, seventeen construction workers find their walls swapped for poison ivy and deathcaps, and the researcher who tested the corgi's healing wakes with nightshade berries in his mouth and hawthorn stakes through his hands and feet, wounds that a footnote says were never undone.\n\nOnce the stations are reopened and the offerings start, the punchline arrives as a thank-you note from the Tylwyth Teg's transport director praising the Foundation's customer service and granting free rides on the C.O.R.G.I. system. The exploration log is then just an ordinary commute in miniature: a late train blamed on the dog's kidney stones, a petition about mice, a reeking mushroom snack. Agent Davies ends it by patting the corgi's side and calling him a good boy.",
   "related": [
     {
       "slug": "scp-2547",
-      "note": "Appears as graffiti inside the train car, an easy thread to follow."
+      "note": "A picture resembling it shows up among the graffiti inside the fairy train car."
     },
     {
       "slug": "scp-2323",
-      "note": "Name-dropped on a movie poster aboard the train."
+      "note": "Named on a horror movie poster hanging in the same car."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

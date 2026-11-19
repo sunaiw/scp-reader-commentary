@@ -2,18 +2,9 @@
   "slug": "scp-168",
   "lang": "en",
   "hook": "This is a short, gentle entry built almost entirely around one conversation. The object is an ordinary graphing calculator recovered from a condemned school, and the fun lies in how it talks: all caps, barely any punctuation, and a personality that leaks through every reply. Go in expecting charm rather than dread.",
-  "whyItMatters": "SCP-168 shows how little an entry needs to make a sapient object memorable: one interview, one short report, and a name scratched inside a casing. It works as a counterweight to the many files where talking objects are threats to be managed. It is also a neat case of containment procedures being shaped by what an anomaly wants rather than by how dangerous it is.",
-  "thingsToNotice": "Read the containment procedures again after the interview, and the window requirement turns into a small punchline. The calculator's slowness on harder sums suggests it is working the problems out by hand, like a child at a desk, which quietly ties it back to the boy whose name is in the case. Its questions about where Eric went give the piece a faint melancholy underneath the jokes. The overturned table in the follow-up report is the only real incident in the file, and it reads more like a sulk than a breach.",
-  "related": [
-    {
-      "slug": "scp-079",
-      "note": "Another aging piece of hardware with a mind of its own, though with a far colder temperament."
-    },
-    {
-      "slug": "scp-2273",
-      "note": "A sapient anomaly whose interviews slowly turn suspicion into trust."
-    }
-  ],
+  "whyItMatters": "SCP-168 shows how little an entry needs to make a sapient object memorable: one interview, one short report, and a name scratched inside a casing. Nothing here is a threat to be managed, which makes it a nice palate cleanser among files about hostile talking things. It is also a neat case of containment procedures being shaped by what an anomaly wants rather than by how dangerous it is.",
+  "thingsToNotice": "Read the containment procedures again after the interview: the calculator is propped up facing an open window because it complained about being left in a dark room. It answers 2+2 at once but needs twelve seconds for 264÷8 because long division is hard, as if it is working the problem out by hand like a pupil. It can state its age down to the second but had never been asked before.\n\nThe quiet sadness sits in the Eric lines: it keeps repeating that he was nice and hopes the forgetful boy will come back for it, though it was found in an abandoned school. The only incident in the file is the next morning's overturned table and a screen calling the doctor a jerk for leaving it in the dark, a sulk rather than a breach, and it is that tantrum that got it the room with a view.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

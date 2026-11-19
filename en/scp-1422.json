@@ -2,18 +2,14 @@
   "slug": "scp-1422",
   "lang": "en",
   "hook": "SCP-1422 is a short, dry report about a gap in the Foundation's own knowledge that went unnoticed for a very long time. The anomaly concerns a famous real-world national park, and part of the fun is how completely ordinary that place is. Read the evidence list carefully, since the joke and the chill come from the same details.",
-  "whyItMatters": "It is an anomaly defined entirely by absence: no object, no entity, only a hole in what an entire organization knows. The file leans into a worry that runs through many entries, namely that the Foundation might be unable to perceive its own blind spots. Its Neutralized classification, and the doubts attached to it, keep it unsettling long after the last line.",
-  "thingsToNotice": "The evidence is presented like a social survey, with purchase records and browser histories, which makes the absurd premise feel bureaucratically real. The discovery happens almost by accident, through a junior researcher's vacation memory written up after time spent inside another anomaly. Each hypothesis in the second addendum is more uncomfortable than the one before, ending with the possibility that someone wanted the park hidden. The final addendum admits the effect may simply have moved on to something else, which turns the reader's own certainty into the next question.",
+  "whyItMatters": "It is an anomaly defined entirely by absence: no object, no entity, only a hole in what an entire organization knows. The file turns that into a worry about whether the Foundation can ever see its own blind spots, since by definition nobody inside would notice. Its Neutralized classification, and the doubts attached to it, keep it unsettling long after the last line.",
+  "thingsToNotice": "The blind spot is Yellowstone, and the proof reads like a social survey: zero of five thousand staff had heard of it, including Wyoming residents and three people embedded in the Parks Service, no staff purchases, no searches for Old Faithful, and interviewees recalling conversations where the park should have come up but never did. It was found by accident, when Junior Researcher Scranton wrote up a family trip to Yellowstone that he had lived through inside another anomaly's alternate reality, and Dr. Graff realised the place was real and world-famous.\n\nThe hypotheses get worse as they go: maybe the park did not exist until Scranton came back and reality rewrote itself around it, maybe every memory of it was being erased as it formed, maybe someone wanted activity there hidden from the Foundation and could hide themselves too. Graff's closing note admits the effect may simply have moved to other places, people or concepts, which would make it Keter-ubique, and leaves the reader wondering what they themselves cannot see.",
   "related": [
     {
       "slug": "scp-868",
-      "note": "Named in the hypotheses as a possible route to countering effects like this one."
-    },
-    {
-      "slug": "scp-055",
-      "note": "A well-known antimemetic entry about something the Foundation cannot hold in memory."
+      "note": "Named in one hypothesis as research that might someday counter effects like this one."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }
