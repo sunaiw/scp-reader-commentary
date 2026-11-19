@@ -1,0 +1,10 @@
+{
+  "slug": "scp-370",
+  "lang": "en",
+  "hook": "SCP-370 is a key, and that is almost everything the file will tell you about it, because knowing what it looks like is how the infection spreads. The report opens by insisting it be read only where someone can kill the reader at the first symptom, which sets the tone for everything that follows. Expect detailed descriptions of suicide, killing sprees and the execution of infected staff.",
+  "whyItMatters": "It is a strong example of a document that treats its own information as the hazard: records about the key have been destroyed unread, and spreading facts about it by word of mouth is grounds for termination. The horror is laid out like a medical taxonomy, three strains sorted by personality, which makes the escalating violence feel procedural rather than sensational. The religious undertone shows through small details, from victims who say they were praying to a shouted plea to be taken home.",
+  "thingsToNotice": "Every strain ends the same way, with the infected person glowing, vanishing and leaving nothing behind, whether through a painless suicide, a killing spree that ends with the killer rising into a column of light, or a quiet spreader who disappears in fire after enough infections. The third strain is aimed squarely at the people reading the file, since it favors analytical, high-IQ staff and drives them to slip vectors into documents, this report included. That is why the procedures treat sudden happiness as a symptom, deprive cheerful staff of sleep, and prefer violent D-class for any handling. A brief signed note admits that some personnel used the infection as a pretext to torture and kill colleagues, yet the protocol stays as it is, and the origin addendum adds that the key came from an abandoned site where a Satanist doctor's body lay beside the original procedures.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-20"
+}

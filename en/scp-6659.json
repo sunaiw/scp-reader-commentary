@@ -1,0 +1,19 @@
+{
+  "slug": "scp-6659",
+  "lang": "en",
+  "hook": "SCP-6659 is a Foundation-built weapon for killing gods by unraveling them inside the sphere of human thought, and the file is as much about the two scientists who run it as about the machine. Expect a thick layer of invented terminology about the Noösphere early on; it pays off once the debriefings and private conversations begin. Its own header marks it as the third episode of a series titled Admonition, so it sits inside a larger arc.",
+  "whyItMatters": "It takes a question that many god-themed files sidestep, what would happen if the Foundation could simply delete a deity, and treats the answer as a theological problem rather than an engineering triumph. Dr. Blake's opening briefing warns that the Foundation's devotion to its own mission looks a lot like worship, and the rest of the file puts that warning to the test. Its activation log also reaches into familiar corners of the wiki, aiming the machine at other objects and cults.",
+  "thingsToNotice": "The activation log is quietly devastating: the very first use makes an entire genocide impossible to think about, and a later entry has the Foundation canonizing a saint and producing fake period paintings to cover what it erased. The emotional core is Blake, a former pastor whose faith broke when gods turned out to be measurable and fallible; after the incident he steals his colleague's key, puts his own head into the machine, and finds, amid surging red, a vast black tower of branching hands and an opening eye that he welcomes as the Lord he had been waiting for. His reconstructed final thoughts call God horrifying, beautiful and a tumor. The closing project update reveals the cost, with dementia and aphasia rising among those whose gods were erased, and the Foundation's answer is to manufacture worship of Prometheus to fill the gap, ending on a target list whose last entry is the thrill of cutting a finger from a living hand.",
+  "related": [
+    {
+      "slug": "scp-055",
+      "note": "The machine's very first activation uses this object as its totem."
+    },
+    {
+      "slug": "scp-6699",
+      "note": "The mapping component of the machine is derived from an engine belonging to this object."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-20"
+}

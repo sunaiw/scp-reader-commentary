@@ -1,0 +1,15 @@
+{
+  "slug": "scp-2408",
+  "lang": "en",
+  "hook": "SCP-2408 is a crime story first: an undercover agent works his way into a Moscow gang that turns out to be a Sarkic cult, and most of the file is made of the reports he smuggles out. It is graphic, with torture, cannibalism, forced prostitution, human trafficking and an ordered attack on a man's wife and daughter that the file expunges. The agent's voice, tired, profane and less and less sure of what he is seeing, carries the whole thing.",
+  "whyItMatters": "It grounds Sarkic lore in a recognizable genre, the post-Soviet mob story, so the folk-horror arrives through gang politics and street detail rather than exposition. The footnotes do much of the worldbuilding, unpacking prison slang, criminal history and Sarkic vocabulary alongside the agent's messages. The final line labels it the first act of a larger sequence, so some threads are left open on purpose.",
+  "thingsToNotice": "The agent's arc is the spine: an initiation in an underground arena that he survives with blood on his skin and only fragments of memory, a job so bad he asks to have his name and deeds struck from the record, and a growing rapport with Five, an old priestess whose gentler reading of the faith makes him question both her senility and his order to eliminate her. His last messages describe angles that look wrong, prostitutes who may be rusalki, men who walk into back rooms and never come out, and a half-eaten woman in a bathroom stall, and then he is simply declared missing. The raid that follows finds the ancient temple under the city, twelve elderly women hanging from the cavern ceiling by their own intestines, and beneath it a three-hundred-meter one-eyed giant, studded with thousands of ancient spearheads, that the arena has been feeding. Its glands turn out to be the source of the gang's drugs, and the cyclops-skull tattoo and Mikhail's carved-out face in his cell are worth recalling once its single eye is described.",
+  "related": [
+    {
+      "slug": "scp-4812",
+      "note": "Its recovered chronicles also name the Daeva as an old enemy, the same name Five uses when telling her version of the faith."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-20"
+}

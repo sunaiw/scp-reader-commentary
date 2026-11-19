@@ -1,0 +1,19 @@
+{
+  "slug": "scp-4812",
+  "lang": "en",
+  "hook": "SCP-4812 files three monstrous entities under one number because of how they relate: one kills anyone who sees it, one drains all heat around it, and one patrols the stratosphere. A large part of the file is recovered legend, so expect a stretch of invented kings, knights and curses before the modern correspondence takes over. The file's title is Wrath, and the word comes back at key moments.",
+  "whyItMatters": "It stacks several kinds of document, from containment specs to translated chronicles to a blunt letter from a Global Occult Coalition commander, so the reader assembles a picture from fragments that rival organizations each hold separately. The Sky King legend gives the creatures an origin in a curse, which turns a monster file into a story about old vengeance. It ends on an internal memo signed only by Lament, making clear the situation is still unfolding rather than resolved.",
+  "thingsToNotice": "The legend lines up with the modern entities: the freezing Vinuvinex driven into the burning heart of the earth fits the platinum heat sink found trapped in a thermal vent, and the many-faced Profane Adamant fits the mirrored flyer that wears a man's face. The GOC letter adds that the flyer is searching for whoever cursed these things into being, described as a woman somewhere underground, and that it keeps circling fields in France, while the Foundation's own footnote insists that this figure is none of its three entities. The chronicle, meanwhile, breaks off after the fae princess who cursed the Sky King is buried alive in a dungeon deep beneath the earth. Lament's closing memo settles it in a few lines: she has been found, crews are on their way to bury the SCP-4812-S cave near Ales under fifty meters of lead and concrete, and the next task is to bring the flyer down.",
+  "related": [
+    {
+      "slug": "scp-2254",
+      "note": "A footnote credits the same occultist's research with leading agents to this object as well."
+    },
+    {
+      "slug": "scp-2408",
+      "note": "The Daeva named as an eastern enemy in this file's chronicles also appear in the old faith described there."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-20"
+}

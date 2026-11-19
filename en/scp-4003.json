@@ -1,0 +1,15 @@
+{
+  "slug": "scp-4003",
+  "lang": "en",
+  "hook": "SCP-4003 is a dig site in Montana where paleontologists keep turning up things that do not belong in Cretaceous rock: 1860s revolvers, horseshoes, a crucifix and human skeletons. The heart of the file is a deputy's journal found in a safe, written in frontier dialect and only lightly tidied up. Read it slowly, since the deputy never learns where he is, but the opening sections make sure you do.",
+  "whyItMatters": "Credited in its metadata to three co-authors, it braids together a western, a dinosaur story and a crisis of faith without letting any one of them take over. It is a clean model of dramatic irony: the reader knows the setting from the first page, while the narrator reads every new terror through scripture. The fossil and artifact tables also do quiet storytelling work, listing injuries and incomplete remains before the journal explains any of them.",
+  "thingsToNotice": "The journal tracks a town coming apart: strange tracks and stolen chickens, a grave dug up at night, raiding packs of small long-necked killers, and a preacher who decides they are all in hell and turns the townsfolk against the sheriff and the deputy as sinners. After the dinosaur attack he leads people to smash every bottle in town inside the church and barricade themselves there. When a building-sized monster arrives, Father Jacob is eaten mid-exorcism and Sheriff Boone dies blowing its head off with prospectors' dynamite, so it is worth comparing that with the headless tyrannosaur in the fossil table. The final entries describe a brilliant new light beside the moon that grows visible even by day, which the exhausted deputy takes for an angry God coming to deliver his punishment; the article itself never says what the light is.",
+  "related": [
+    {
+      "slug": "scp-3834",
+      "note": "A footnote says a possible connection is being investigated, given the similar find location and dating."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-20"
+}

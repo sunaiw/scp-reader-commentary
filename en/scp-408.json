@@ -1,0 +1,19 @@
+{
+  "slug": "scp-408",
+  "lang": "en",
+  "hook": "SCP-408 is a swarm of butterflies that acts as one mind and can paint itself into almost any shape, from perfect camouflage to a convincing predator. It also talks, spelling out words with its own colors, which matters once the interview at the end begins. Most of the file is light and office-flavored, with a grumpy note about coffee sweetener, but the closing pages turn noticeably darker.",
+  "whyItMatters": "This is a character piece built around Dr. Kondraki, and it reads like one node in a web of Site-17 stories, citing other incidents and objects by number instead of explaining them. The same illusion ability is played both as a prank engine and as a serious covert-operations asset, so a single report manages to hold comedy and menace at once.",
+  "thingsToNotice": "The breakout is the comic centerpiece: a hungry swarm stages what looks like a site-wide containment disaster, and the only real damage is to the break room's sweetener supply. The mood shifts when an addendum notes that corpses left behind after a Clef-Kondraki incident disappeared under the swarm, and that its measured intelligence rose afterward. In the interview it hints that it existed before humans, then answers the resentful substitute interviewer's threat to get Kondraki fired by laughing with a cartoon face and showing a live view of Kondraki in his new office. The interviewer lashes out at the swarm and is later found curled up on the floor with trauma-like symptoms, and the file leaves it there.",
+  "related": [
+    {
+      "slug": "scp-682",
+      "note": "The swarm's most notable threat display copies this creature, and how it learned that shape is still under investigation."
+    },
+    {
+      "slug": "scp-529",
+      "note": "During the breakout, dozens of illusory copies of this object were seen walking down a hallway."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-20"
+}
