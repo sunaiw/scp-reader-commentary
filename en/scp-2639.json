@@ -2,18 +2,18 @@
   "slug": "scp-2639",
   "lang": "en",
   "hook": "SCP-2639 opens as a dry report about a cube of space where armored figures appear and vanish, then becomes something else through a long run of chat logs. Read the logs at your own pace; much of the effect comes from typos, emoticons and the silences between messages.",
-  "whyItMatters": "Written by The Great Hippo, it turns a gamer-culture premise into a story about guilt and responsibility. Its ending forms a Mobile Task Force, which ties the article into later files that list that unit as assisting in containment. Even the reclassification from Keter to Euclid is part of the story rather than a footnote.",
-  "thingsToNotice": "The description and the incident database plant the reveal before the chat confirms it, and the 'Ammo Pack' item that appears only when someone dies is the detail to keep in mind. The friends' easy banter at the start makes the turn harder to read, because the reader understands what the game has been before they do. The researcher's long one-sided check-ins show the Foundation at its most humane, and his admission that he cannot truly grasp their pain is the emotional center. The breach scene and the final agreement turn the trio's skill into a kind of atonement, bound by a strict rule they set for themselves.",
+  "whyItMatters": "Written by The Great Hippo, it turns a gamer-culture premise into a story about guilt and responsibility. It ends by forming a Mobile Task Force and printing its mission card, so the article also works as the origin of a Foundation unit rather than just the file on an anomaly. Even the class line, Euclid but formerly Keter, turns out to be part of the story.",
+  "thingsToNotice": "The description and the incident database plant the reveal before the chat confirms it: the three armored figures are three teenagers missing since 1997, still connected to a modded Quake 2 deathmatch running on Gloria's computer, and every match has been a real manifestation in the real world. The 'Ammo Pack' that appears only when a human dies, and the Siena church collapse with 54 dead, tell you what the zombies, grunts and rottweilers on their screens actually were. The turn comes when Gloria tells Jim to let the 'grunts' shoot him because they are people, and Jim realizes he has been killing park visitors for ammo.\n\nAfter that the friends go silent for a month and more, and Dr. Breiner keeps checking in alone, finally admitting the confirmed toll is 1,531 dead and that he cannot really understand what they feel. A containment breach breaks the silence: they fight a monster to save him, and he confirms that everyone in the area except him and two others was already dead when they arrived. Knowing they can never get out, they choose to spend their time saving lives instead, on one condition of their own: no people, only monsters, and the file ends with them signed on as MTF Omega-9, \"The Scrubs\".",
   "related": [
     {
       "slug": "scp-5000",
-      "note": "Lists the task force formed in this article among its assisting units."
+      "note": "Listed on this article's MTF Omega-9 card as an object the unit assists in containing."
     },
     {
-      "slug": "scp-024",
-      "note": "An early-series game show anomaly where play carries real stakes."
+      "slug": "scp-6776",
+      "note": "Also listed on the Omega-9 card at the end of this article as a containment the unit assists with."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }

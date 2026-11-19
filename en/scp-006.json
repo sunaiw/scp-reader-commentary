@@ -2,18 +2,9 @@
   "slug": "scp-006",
   "lang": "en",
   "hook": "A short file about a small spring whose water is remarkably good for you. Read the procedures closely, because the interesting part is not the water but how hard the Foundation works to hide its effects from its own people.",
-  "whyItMatters": "Where many well-known entries are about threats, this one builds tension from what a beneficial anomaly might do to the world if word got out. It carries a rewrite tag, so the version you read may not match what longtime readers remember. Its spy-fiction flavor, with fake briefings and cover stories, sets it apart among early entries.",
-  "thingsToNotice": "The procedures are a layered lie: staff receive one of two false briefings, the true one is reserved for the top, and an evacuation code means something other than what workers believe. Testing suits for leaks by dunking the wearer in a pool is a neat practical detail that also shows how badly contact must be avoided.\n\nThe order that exposed staff be studied and then eliminated, by fire no less, hints at how hard the water's effects are to undo. A chemical plant built as cover fits the thriller tone. The banner at the top, invoking the founder, frames the whole file as a secret even within the Foundation.",
-  "related": [
-    {
-      "slug": "scp-500",
-      "note": "Another cure-all the Foundation keeps under tight control."
-    },
-    {
-      "slug": "scp-427",
-      "note": "Another healing object whose benefits come with strings attached."
-    }
-  ],
+  "whyItMatters": "Instead of a threat, the file builds its tension around a beneficial anomaly and the question of who gets to know about it. Its spy-fiction flavor, with false briefings, coded orders and a factory built as cover, makes it read more like a classified dossier than a monster report.",
+  "thingsToNotice": "The procedures are a layered lie: staff receive one of two false briefings, the true one is reserved for O5, and the evacuation code that workers think means toxic exposure is really called when someone touches the water. Testing suits for leaks by dunking the wearer in a pool is a neat practical detail that shows how completely contact must be prevented.\n\nThe harshest line is the order for anyone who touches the spring or its liquid: they are confined, studied, and then killed, with burning named as the most effective method. Read against the description of supercharged tissue repair and an immune system that wipes out bacteria and viruses on contact, the implication is that an exposed person becomes very hard to kill any other way. The file never spells out the \"obvious reasons\" for secrecy, and leaves the reader to work out what a spring like this would do to the world.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }

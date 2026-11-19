@@ -1,19 +1,10 @@
 {
   "slug": "scp-005",
   "lang": "en",
-  "hook": "SCP-005 is one of the shortest files in the early series: a key that can open anything. It takes a couple of minutes to read, so slow down and enjoy the dry staff rules, which carry a lot of the humor.",
-  "whyItMatters": "As a low-numbered Safe object, it is often among the first entries newcomers open, and it shows the early site's fondness for a single clean idea. A master key is about as simple as an anomaly gets, yet the file still leaves a small puzzle behind. It is also a handy reminder that Safe describes how easy something is to contain, not how harmless it would be in the wrong hands.",
-  "thingsToNotice": "The Additional Notes read like a memo from someone tired of coworkers borrowing the key for snack machines and lockers, which gives the file a very human, office-like feel. Then the appendix turns quietly strange: disguised locks beat the key about half the time, so its success seems tied to recognizing what a lock is. The failures happened when the volunteer holding it could not tell the device was a lock, which opens another reading: maybe the perception belongs to the user, not the key. The Foundation's tentative jump to calling it sentient is left hanging, and that open question is the real payoff.",
-  "related": [
-    {
-      "slug": "scp-914",
-      "note": "Another Safe device where the fun is in testing what one function can do."
-    },
-    {
-      "slug": "scp-294",
-      "note": "A Safe machine whose experiment logs grow out of one simple rule."
-    }
-  ],
+  "hook": "SCP-005 is a very short file about a key that can open anything. It takes a couple of minutes to read, so slow down and enjoy the dry staff rules, which carry a lot of the humor.",
+  "whyItMatters": "The whole entry rests on one clean idea, a master key, and still manages to leave a small puzzle behind. It is also a handy reminder that Safe describes how easy something is to contain, not how harmless it would be in the wrong hands: the file itself admits the key got into a high-security site in a civilian's pocket.",
+  "thingsToNotice": "The Additional Notes read like a memo from someone tired of coworkers borrowing the key for snack machines and lockers, which gives the file a very human, office-like feel. Then the appendix turns quietly strange: when a lock is disguised well enough that the volunteer cannot tell it is a lock, the key fails roughly half the time. From that, the Foundation tentatively labels the key sentient and starts testing its cognition, yet the last line admits nothing about the key itself explains the failures, only that those locks were hidden. That leaves a second reading open: the perception that matters may belong to whoever holds it. The file ends without settling the question, and that open end is the real payoff.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }

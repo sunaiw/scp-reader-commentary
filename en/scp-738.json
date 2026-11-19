@@ -2,18 +2,9 @@
   "slug": "scp-738",
   "lang": "en",
   "hook": "SCP-738 is a set of antique office furniture that lets you strike a bargain with something that very much wants you to. The test log is the heart of the file, so take your time with it; the later entries reward patience.",
-  "whyItMatters": "It takes the familiar deal-with-the-devil premise of wishes and prices and stages it as an office negotiation across a desk. Turning temptation into paperwork fits the Foundation's own bureaucratic voice neatly. It also brings in Sheldon Katz, a Foundation lawyer character with his own tag on the site.",
-  "thingsToNotice": "Watch how the entity's appearance shifts for each sitter, always matching what that person finds appealing or familiar, so the chair works almost like a mirror. As the tests go on, the prices land on memories, friendships and a cherished toy, and the file keeps each loss brief rather than dwelling on it. Katz's session flips the tone entirely: a contracts lawyer treats the devil as opposing counsel, and the drafting runs until the human side collapses from exhaustion while the entity seems delighted. The closing note, where offers begin reaching the researchers who give the instructions, quietly suggests the entity is learning to slip past the Foundation's safeguards.",
-  "related": [
-    {
-      "slug": "scp-024",
-      "note": "Another anomaly that dangles prizes while hiding what it takes in return."
-    },
-    {
-      "slug": "scp-062-jp",
-      "note": "A Japanese branch article built around an otherworldly legal proceeding."
-    }
-  ],
+  "whyItMatters": "It takes the deal-with-the-devil premise of wishes and prices and stages it as an office negotiation across a desk. Turning temptation into paperwork fits the Foundation's own bureaucratic voice neatly. The procedures are also blunt about the Foundation's own cruelty: test subjects are chosen for impaired cognition and wear explosive collars so they cannot learn enough to use the desk against their keepers.",
+  "thingsToNotice": "Watch how the entity's appearance shifts for each sitter, from a man in a red and gold suit to a seductive woman, a big pink rabbit, a huge snake and a law professor, so the chair works almost like a mirror. The prices get uglier as the log goes on: the parchment turns out to be human skin, freedom costs one D-class his best friend's life, another trades memories of his mother and the deal ends in his death and twelve guards', and an intellectually disabled subject loses his toy Mopsy for a sandwich, then loses the replacement the moment he gives it the same name. A researcher who simply asks what it is ends up in a mental institution because of what the offer revealed.\n\nKatz's session flips the tone entirely: a Foundation lawyer files an affidavit, haggles for forty-one hours over the meaning of \"shall\", passes out over a 900-page draft, and receives a sulphur-scented thank-you note while asking to be reassigned. The closing O5 note, that offers have begun going straight to the researchers giving instructions, shows the entity routing around the Foundation's safeguards and ends the testing.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }

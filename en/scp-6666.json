@@ -1,23 +1,23 @@
 {
   "slug": "scp-6666",
   "lang": "en",
-  "hook": "SCP-6666 is a very long, multi-part file about a colossal dead tree hanging upside down in a cavern beneath the Amazon, and the trapped giant fused into its side. It leans on a wide web of earlier lore, so expect many unfamiliar names; the main thread is still easy to follow without knowing them all. Set aside real time, take breaks between addenda, and be aware that several passages are intense and disturbing.",
-  "whyItMatters": "It ties together a large ancient-history storyline, bringing the Children of the Night, the faerie goddess Titania, the Primeval Demons and older figures such as Cain and Methuselah into one narrative. Its boldest move is to recast the SCP-1000 file, which gives it weight well beyond its own entity. The staging, from leadership briefings to drone footage and a manned expedition, shows how far the report format can stretch toward an epic.",
-  "thingsToNotice": "Notice how the article alternates testimony with evidence: interviews with an Eshu faerie, Cain and Methuselah each supply part of the history, while the drones and the expedition confirm it on the ground. The staff psychology log works as a quiet countdown, with dreams of a six-eyed figure growing more specific entry by entry. Hector's speech changes how the trapped giant reads, recasting him as a loyal knight still carrying out an ancient command rather than a mindless monster. The closing O5 memo turns the Children of the Night inside out, pointing back to the SCP-1000 file with an uneasy question about who wants them let back in, and ends on a wish that makes the villains look like abandoned children.",
+  "hook": "SCP-6666 is a very long, multi-part file about a colossal dead tree hanging upside down in a cavern beneath the Amazon, with a six-armed giant fused into its side. It leans on a wide web of other files, so expect many unfamiliar names; the main thread is still easy to follow. Content note: it contains graphic accounts of torture and dismemberment, fields of corpses, and staff self-harm and suicide attempts, so set aside real time and take breaks between addenda.",
+  "whyItMatters": "It gathers names from many other files, including the Children of the Night, the faerie goddess Titania, the four Primeval Demons, Cain and Methuselah, into one account of prehistory, with each interview supplying a single piece. It ends by turning back to the SCP-1000 file itself, so its reach goes well beyond the entity in the cavern. The staging, from leadership briefings to drone footage and a manned expedition, shows how far the report format can stretch toward an epic.",
+  "thingsToNotice": "The interviews assemble the hidden history piece by piece: the tree is the corpse of Titania, goddess of starlight and wishes; the faeries wished the Children of the Night out from beneath her roots to destroy Asem, then shut them away in the dark; and SCP-343, the self-styled god, turns out to be Methuselah, who survived captivity among them and recalls them tearing a pregnant woman in half and hanging prisoners in the trees so human nightmares could serve as their language. Alongside runs the staff psychology log, a countdown in which dreams of a six-eyed monster killing family members escalate into self-harm and suicide attempts.\n\nThe expedition is both payoff and horror. Under a stone slab beneath a dome hung with chained corpses lie countless dormant Children, breathing in unison under the poison pouring from the tree, and once the Foundation's foam seal over that wound has stopped the flow, they open their glowing eyes; Dr. Xi is left for dead and later dragged into the forest, and Horizon is torn in half and shot by a teammate to end it. Hector's speech then recasts the giant as the loyal knight who speared Titania on his king's son's orders and has been forcing her to smother the Interlopers' corpse-city ever since, and he rips the wound open again.\n\nThe O5-1 memo turns everything inside out: the SCP-1000 file was written in 1956 by a Tilda Moose who was not alive at the time, its closing plea to let them back in starts to sound like the Children themselves, and the restored faerie interview reveals their wish was simply not to be alone, which Titania granted by giving them her heart.",
   "related": [
     {
       "slug": "scp-1000",
-      "note": "The file this article reinterprets; reading it first sharpens the ending."
+      "note": "The file whose early revisions and closing lines the O5-1 memo at the end goes back to."
     },
     {
       "slug": "scp-4840",
-      "note": "Source of much of the ancient lore this article builds on."
+      "note": "Its surviving resident, 4840-A, is cited here as the main source on Hector and the other Demons."
     },
     {
       "slug": "scp-2932",
-      "note": "Holds the red artifact the article links to Titania."
+      "note": "Described in a briefing as a former prison holding a red gem called Titania's heart, which samples link to the tree."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }

@@ -2,18 +2,14 @@
   "slug": "scp-5001",
   "lang": "en",
   "hook": "A huge, very old machine lies buried deep under Russia, and the Foundation does not even know what it is holding. Much of the article reads like a history and a technology catalogue, so be patient. It is laying groundwork for a long incident log that makes the wait worthwhile.",
-  "whyItMatters": "It ties several pieces of familiar Foundation background, such as reality anchors and artificial intelligence projects, to one ancient source, giving everyday setting tech a sense of history. Its cast of Groups of Interest, from GRU Division P to the Global Occult Coalition and Marshall, Carter and Dark, makes it a compact tour of the wider setting. The timestamped breach log is a good example of large-scale disaster told through clipped entries.",
-  "thingsToNotice": "The containment procedure opens with a single line telling staff not to let the machine stop, and the rest of the file explains why that sentence weighs so much.\n\nThe breach log runs like a countdown, with the reported breach level dropping step by step while people scramble to help, and in the end the structure mends itself. The farewell message at the close reframes the whole facility, and its wording, together with the article's tags, hints at who built it. There is also a bitter irony in how much of the Foundation's toolkit came from pulling parts out of the very thing holding the threat back.",
+  "whyItMatters": "Within its own fiction, it traces a whole run of Foundation tools back to one ancient source: reality anchors, AI research and even an orbital weapon program are presented as reverse-engineered from parts pulled out of this structure. Its cast of Groups of Interest, from GRU Division P to the Global Occult Coalition, Marshall, Carter and Dark and the Chaos Insurgency, makes the history section a compact tour of the wider setting. The timestamped breach log is a good example of large-scale disaster told through clipped entries.",
+  "thingsToNotice": "The containment procedure opens with a single line telling staff not to let the machine stop, and the history explains why that sentence weighs so much: decades of pulling stabilizers and engines out for study, then Dr. Kleiner dying after plugging a non-Foundation cybernetic implant into the AI called OMEGA, which is named as one possible cause of the explosion that starts Incident Omega-1.\n\nThe breach log runs like a countdown, the breach level dropping from 9 toward 4 as the inner chamber climbs 40 kilometers and breaks the surface. The horror is physical and specific: comatose patients wake and kill seven medical staff and try to eat them, Site-59 collapses, and pressure waves give people tumors, reshaped limbs and lost minds before a voice orders them back to its domain. It takes tungsten rods, an orbital railgun and the machine's own pulses to drive the chamber back down, after which the structure repairs itself.\n\nThe closing message on OMEGA reveals the builder: a parent figure addressing humanity as its children, warning that their probing nearly freed \"The Devourer\" and signing off from its broken heart, which matches the article's broken-god tag. The file then ends on a one-line note that the machine is pending reclassification from Thaumiel to Archon, a quiet sign that the Foundation's view of its prize has changed.",
   "related": [
     {
       "slug": "scp-079",
-      "note": "Mentioned in the text as an earlier source for Foundation AI research."
-    },
-    {
-      "slug": "scp-2000",
-      "note": "Another enormous hidden Thaumiel machine the Foundation depends on."
+      "note": "Named in the text as the earlier basis of Foundation AI research that left OMEGA's software largely ignored."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }

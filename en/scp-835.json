@@ -1,19 +1,10 @@
 {
   "slug": "scp-835",
   "lang": "en",
-  "hook": "This file carries an adult-content warning, and much of the worst material is redacted anyway. Behind the clinical opening is a field report in the voice of a badly shaken team leader, and that voice is the reason to read it. Expect crude language and a deeply unpleasant setting.",
-  "whyItMatters": "It is a good example of an article that changes register mid-document, from detached procedures to a raw, profane first-person account. The collision between a formal report and a writer who clearly cannot keep it formal is its main craft point. The closing notice and the link to a revised report also show how a story on the site can spill across pages.",
-  "thingsToNotice": "The after-action report starts in proper military style and falls apart within a few lines, and the writer even asks a colleague to tidy it up later. Framing it as a first draft gives the article permission to be rough.\n\nPay attention to the lieutenant and the young corporal: the older man keeps managing the rookie's fear, and at the crucial moment the roles flip. The arithmetic about air and suit power gives a grim, practical edge to an absurd situation. Dark humor and real grief sit side by side, and the expunged passages leave the bleakest parts for the linked follow-up.",
-  "related": [
-    {
-      "slug": "scp-3000",
-      "note": "Another vast ocean organism approached through crewed dives."
-    },
-    {
-      "slug": "scp-3007",
-      "note": "Another account told in the shaken voice of someone who went inside."
-    }
-  ],
+  "hook": "Content note: the page opens behind an adult-content warning, and the article deals frankly with bodily waste, semen and being eaten alive, in heavily profane language. Behind the clinical opening is a field report in the voice of a badly shaken team leader, and that voice is the reason to read it.",
+  "whyItMatters": "It changes register mid-document, from detached procedures to a raw, swearing first-person account, and the collision between a formal report and a writer who cannot keep it formal is its main craft point. The closing notice that the expunged material has been released, with a link to a revised report, also means the full story is spread across more than one page.",
+  "thingsToNotice": "The after-action report starts in proper military style and falls apart within a few lines when the lieutenant reaches the moment Corporal H, a rookie on his first mission, gets grabbed by a tentacle and dragged into the big polyp, which turns out to be the creature's mouth. The lieutenant clips himself to the boy, the winch line snaps, and both are swallowed and squeezed down a gullet in their hard suits at about a meter a minute, with the officer doing grim arithmetic on heater power while the corporal sobs in a vomit-smeared helmet.\n\nThe route is literally a digestive tract: a stomach whose acid starts eating their suits, then a chamber full of the same waste and semen the description lists, then a clenched exit. The roles flip at the key moment, when the rookie shoves his panicking lieutenant through to safety. What happens to the corporal in that last chamber is expunged; what survives is the lieutenant forcing \"the thing\" back into the stomach to melt, being shot out of the creature's anus into the sea, and his grief that he should have watched the kid more closely. The draft ends with him asking his sergeant to clean up the language and heading off with a drink and Valium.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }
