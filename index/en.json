@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-20",
   "items": [
     {
       "slug": "scp-002",
@@ -231,6 +231,10 @@
     },
     {
       "slug": "scp-097",
+      "status": "reviewed"
+    },
+    {
+      "slug": "scp-100",
       "status": "reviewed"
     },
     {
@@ -934,6 +938,10 @@
       "status": "reviewed"
     },
     {
+      "slug": "scp-272",
+      "status": "reviewed"
+    },
+    {
       "slug": "scp-2740",
       "status": "reviewed"
     },
@@ -1103,6 +1111,10 @@
     },
     {
       "slug": "scp-3171",
+      "status": "reviewed"
+    },
+    {
+      "slug": "scp-319",
       "status": "reviewed"
     },
     {
@@ -1338,6 +1350,14 @@
       "status": "reviewed"
     },
     {
+      "slug": "scp-4040",
+      "status": "reviewed"
+    },
+    {
+      "slug": "scp-4043",
+      "status": "reviewed"
+    },
+    {
       "slug": "scp-4051",
       "status": "reviewed"
     },
@@ -1395,6 +1415,10 @@
     },
     {
       "slug": "scp-439",
+      "status": "reviewed"
+    },
+    {
+      "slug": "scp-4428",
       "status": "reviewed"
     },
     {
@@ -1594,11 +1618,23 @@
       "status": "reviewed"
     },
     {
+      "slug": "scp-5320",
+      "status": "reviewed"
+    },
+    {
+      "slug": "scp-536",
+      "status": "reviewed"
+    },
+    {
       "slug": "scp-5370",
       "status": "reviewed"
     },
     {
       "slug": "scp-5404",
+      "status": "reviewed"
+    },
+    {
+      "slug": "scp-5510",
       "status": "reviewed"
     },
     {
@@ -1683,6 +1719,10 @@
     },
     {
       "slug": "scp-6002",
+      "status": "reviewed"
+    },
+    {
+      "slug": "scp-604",
       "status": "reviewed"
     },
     {

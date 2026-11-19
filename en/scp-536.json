@@ -1,0 +1,10 @@
+{
+  "slug": "scp-536",
+  "lang": "en",
+  "hook": "SCP-536 is a sealed room with six dials, and each dial changes one of the fundamental constants of physics inside it: the speed of light, gravity, Planck's constant and so on. It is classed as Safe, and the procedures mostly ask staff to double-check their math. The test logs are where the article lives, and several of them end in deaths that are described in vivid physical detail.",
+  "whyItMatters": "This is a good example of an article built on real physics rather than on a monster or a curse. The horror comes from what the laws of nature would actually do to a human body if you nudged them, and the researcher memos explain each step just enough for a lay reader to follow.\n\nIt also plays the Safe class against the reader's instincts. The machine never misbehaves and nothing leaks out of the chamber; every disaster in the file comes from the people turning the dials.",
+  "thingsToNotice": "The first log starts almost playfully, with a doctor bouncing around in half gravity, and then slides into catastrophe: as the speed of light falls his thinking slows, his judgment goes, and he asks for the dial to be turned all the way down, collapsing into a black hole while his colleague watches through the window. The colleague is sent to grief counseling.\n\nThe later logs each isolate one constant and show a new way to die, from a thrown baseball and blood moving near light speed to every atom of carbon-14 in a body decaying at once, and finally a single small turn of the strong-force dial that tears a subject apart. The recovery log adds an unresolved thread: the professor who had the machine destroyed all records and died in an explosion before agents arrived, and nobody knows who built it. The closing memo sums up the attitude with dry advice about keeping a body made of atoms.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-20"
+}

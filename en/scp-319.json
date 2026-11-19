@@ -1,0 +1,10 @@
+{
+  "slug": "scp-319",
+  "lang": "en",
+  "hook": "SCP-319 is an 1890s clockwork machine of brass rings and strange stones, frozen in place since it was found and guarded by measurements down to fractions of a percent. The article is short: a precise technical description followed by a few pages from the diary of the gentleman explorer who built it. Read the technical half carefully first, because the diary is meant to be read against it.",
+  "whyItMatters": "This is a compact example of the end-of-the-world object that does nothing at all, and whose danger lies entirely in staying still. The containment is not about walls or guards but about vibration, temperature and laser rangefinders, which gives the threat a very particular, almost delicate kind of tension.\n\nIt also shows the found-journal technique working at small scale. A handful of dated entries is enough to give the machine a creator, a motive and a voice, without the file ever having to explain them.",
+  "thingsToNotice": "The bubble at the center is a pocket of lower-energy vacuum that annihilates anything entering it and, by current theory, should already be spreading at light speed and rewriting physics for the whole universe. Only the exact placement of the twelve stones holds it back, and even tiny drift over fifty years has let it grow, so the end of containment is already scheduled, with the actual number of years blacked out.\n\nThe diary recasts all of this as vanity. Lawhead-Smythe built the device to win a wager with a rival from the Explorer's Club, using carved cult stones he believed were star-born, and his final entry announces that he has opened a black door beyond the universe and will put on a protective suit to walk through it. The journal simply stops there, and the reader already knows what the description says happens to matter that enters the bubble.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-20"
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "scp-272",
+  "lang": "en",
+  "hook": "SCP-272 is an old engraved iron nail with one simple rule: drop it on someone's shadow and they are bound to that spot. Almost the whole article is a numbered test log, and the fun of reading it is watching the researchers poke at that rule from every angle. Several entries end in gruesome deaths and the last one describes a test subject clawing at his own skin.",
+  "whyItMatters": "This is a clean example of how a test log can carry an entire article. Each entry changes one variable, such as the light, the number of people or the method of escape, so the reader learns the rules the same way the researchers do, one experiment at a time.\n\nIt also shows how much horror can come from a premise that sounds almost whimsical. A nail and a shadow are folklore-sized ingredients, but the procedural format turns them into something methodical and cruel.",
+  "thingsToNotice": "The deadliest variable turns out to be the sun. A subject who walked away from the nail in the dark is caught when dawn arrives, and only his torso is found more than a hundred meters back, scraped and battered; a later test with a moving stadium light recreates the effect in miniature by dragging a man across the floor toward the nail. Digging the nail out or grinding it down kills the person trying through a brain hemorrhage, and chaining someone so they cannot be pulled ends with the details expunged.\n\nThe group tests add an eerie side effect: everyone who is not held feels a chill and hears a scream, and the youngest person always seems to be the one chosen. The final long-term test leaves a subject alive for two weeks without food, slipping into a redacted language; the translated fragments speak of ashes, chains, crows and a prisoner of his own foolishness, hinting at a story behind the nail that the article never explains, just as it never explains the skeleton found around it in Afghanistan.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-20"
+}

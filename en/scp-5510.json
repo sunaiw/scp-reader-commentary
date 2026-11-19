@@ -1,0 +1,10 @@
+{
+  "slug": "scp-5510",
+  "lang": "en",
+  "hook": "SCP-5510 is one of the shortest files you will find: a TV remote whose media buttons change how fast time passes for the remote itself. The whole thing takes under a minute to read. Pay attention to the frame around it, which presents the page as a file a researcher is in the middle of editing, and to how the test table ends.",
+  "whyItMatters": "This is a compact example of a joke told through the format of the page rather than through the report's prose. The article is framed as an editing session with a countdown to expiry, so the document itself is part of the setup.\n\nIt also shows how little an SCP entry needs. A provisional class, a one-line containment procedure and a four-row table are enough to carry the premise and the punchline.",
+  "thingsToNotice": "The test table runs through fast forward, rewind and play in order, each with a short result, and the reader naturally waits for the fourth row. That row is labeled Pause and then the file simply stops, with no result written beside it. The opening lines mention that Dr. Archibald's editing session expires after a short period of inactivity, which is worth keeping in mind when you reach that empty cell. The article itself does not spell out what happened.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-20"
+}
