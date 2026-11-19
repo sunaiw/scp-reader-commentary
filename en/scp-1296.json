@@ -1,0 +1,15 @@
+{
+  "slug": "scp-1296",
+  "lang": "en",
+  "hook": "SCP-1296 is a delivery service with exactly one product, and its staff have no patience for questions. It is a comedy file built on phone calls and test orders, so the fun is in watching researchers try to outsmart a business that refuses to be investigated. Expect some swearing.",
+  "whyItMatters": "The entry shows how much character a joke anomaly can get from customer-service rudeness alone. The sales rep and the driver both shut down every attempt at interrogation, which turns the usual Foundation interview into a sketch about a bad hotline.\n\nThe test log then does what good comedy files do: it keeps the premise fixed and lets the orders get stranger until the last one goes somewhere darker.",
+  "thingsToNotice": "The test orders are the heart of it. An alpaca order arrives as a llama wearing a freshly skinned alpaca hide, a request for a lama brings a Buddhist monk with no memory of how he got there, and a robot llama costs thousands and behaves exactly like the real animal.\n\nThe last order asks for SCP-1545 itself. It vanishes from its locker and comes back fifteen seconds later, thrown off the car roof at speed by a second driver, with two unidentified corpses inside that had been dead at least a day; the driver yells a profane parting line as the car speeds off.",
+  "related": [
+    {
+      "slug": "scp-1545",
+      "note": "The final test order is SCP-1545, and the delivery goes badly wrong."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-20"
+}

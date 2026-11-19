@@ -1,0 +1,15 @@
+{
+  "slug": "scp-208",
+  "lang": "en",
+  "hook": "SCP-208 is one of the friendly ones: a short, hairy, lion-maned man dug out of a granite block near the Nile who now works in a Site-17 medical wing. Go in expecting warmth rather than dread, and keep an eye out for the last line.",
+  "whyItMatters": "Files like this show the other side of the archive, where an anomaly is treated less as a threat than as a colleague. The procedures are mostly about keeping him comfortable, with Egyptian decor, a couch and North African music.\n\nThe staff call him Bes, and the tags mark him as a deity, but the text never says outright what he is; it lets his habits do the talking.",
+  "thingsToNotice": "The healing comes from an odd radiation with an extra degree of freedom that does not fade with distance the usual way, and the same field repels ill intent hard enough to act like a wall against malicious beings. The test on a death-row D-class shows the flip side: the man panicked and tried to flee the chamber.\n\nThe characterization is built from small touches: he loves children, protects people he sees as innocent, and loses his temper only at snakes. His discovery is pure comedy too, a foot poking out of a riverbed and a researcher startled to find him still alive. The closing addendum admits SCP-500 heals better, and he answers that his jokes are better.",
+  "related": [
+    {
+      "slug": "scp-500",
+      "note": "The closing addendum compares the two as cures, and he takes the loss with a joke."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-20"
+}

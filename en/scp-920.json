@@ -1,0 +1,19 @@
+{
+  "slug": "scp-920",
+  "lang": "en",
+  "hook": "SCP-920 is a man who cannot be taken anywhere, and the file is a short exercise in how far one simple rule can be pushed. Read the addenda carefully: the most telling details are tucked in there, including a hint about who made him.",
+  "whyItMatters": "The entry turns getting lost into an anomalous property and then applies it with total consistency, to vehicles, pursuers and finally to the Foundation's own buildings. Its humor comes from that consistency rather than from jokes.\n\nIt also belongs to a toy line: the tattoo ties him to a set of collectible Little Misters by Dr. Wondertainment, and the file points to another document that lists him by number.",
+  "thingsToNotice": "Everything that tries to direct him fails in a different way: transporters get lost, he gets lost, and anyone who follows ends up lost with him. The procedures have quietly given up on land and air tracking and rely on satellites and anyone who runs into the hunting team itself is told to report straight to O5-4.\n\nThe tattoo reads as Mr. Lost, number 16 in the referenced list, and his clothes carry a Doctor's Orders label. The final addendum is the punchline: the Foundation built Site-207 around him, then could not find its own site and had to abandon it when supplies ran out.",
+  "related": [
+    {
+      "slug": "scp-909",
+      "note": "The file cross-references document SCP-909-a, where his designation appears as number 16."
+    },
+    {
+      "slug": "scp-2933",
+      "note": "Another Little Mister; its recovered checklist includes Mr. Lost at number 16."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-20"
+}

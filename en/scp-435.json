@@ -1,0 +1,10 @@
+{
+  "slug": "scp-435",
+  "lang": "en",
+  "hook": "SCP-435 pairs an old iron meteorite with something vast hanging in the sky above it, and the only thing keeping the second one still is a lot of light. The containment section reads like an engineering spec; stay with it, because the interview at the end reframes everything.",
+  "whyItMatters": "The file is a good example of a Keter whose threat is defined by a single maintenance task. Redundant lamps, independent power supplies and daily checks sound dull, but the description explains why a lapse of a few microseconds can begin a slide toward an end-of-the-world scenario.\n\nIt also does what many strong entries do: it puts a scientific description side by side with a local myth and lets the myth explain more than the science can.",
+  "thingsToNotice": "Notice how the second object is described: squid-like tubes and fractal geometry, no mass, visible only by bent light and radiation, and capable of turning solid matter inside out. When the rock goes dark it starts orbiting erratically and keeps growing, and each time it does, the lux threshold for keeping it calm creeps upward.\n\nThe village elder's story gives it a name: two brothers, one who made light and one who made dark, and a rock flung around the sun to keep the dark one from finding his way out. The islanders kept torches burning around the rock until the US Army forced them off the island, and when the elder sees a photo he says the thing in the sky is only the dark brother's shadow. The O5 closing note admits that throwing the rock somewhere else might set the brother free, which is why the contingency plan is kept strictly as a last resort.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-20"
+}

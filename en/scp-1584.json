@@ -1,0 +1,10 @@
+{
+  "slug": "scp-1584",
+  "lang": "en",
+  "hook": "SCP-1584 is a website that does one thing, and does it with a lifeguard's practicality. It is one of the shortest files you will find, so read it slowly and enjoy the small details the writer chose to include.",
+  "whyItMatters": "Most anomalies in the archive are threats; this one is closer to a public service that happens to break physics. The containment section treats it like any other hazard anyway, which is part of the joke: the Foundation's job is to hide the unexplained, helpful or not.\n\nIt is also a neat example of an anomaly defined by a single number and a single image, with no story, interview or incident needed.",
+  "thingsToNotice": "Load the page and the device sheds enough mass to bob in fresh water, while the site quietly phones emergency services for you. The catch is that nothing is made waterproof, so the phone or laptop usually drowns and the effect dies with it, which makes the whole service rather less heroic.\n\nThe best gag is the size cutoff: small devices get a polite notice that the mobile version is not ready yet. And the discovery note is pleasingly mundane, since the site was found ranked fourth on an obscure blog's list of weird tech sites, and nobody worried much because the blog had so few readers.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-20"
+}

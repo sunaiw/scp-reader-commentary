@@ -1,0 +1,19 @@
+{
+  "slug": "scp-8008",
+  "lang": "en",
+  "hook": "SCP-8008 is framed as an investigation: a huge tachyon burst centered on one apartment in 2023, no visible change to history, and a dead man's hard drive full of stories he wrote starring himself. Those stories are deliberately awful, a parade of reincarnation power fantasies and cat-girl harems in which named Foundation staff play his admirers and enemies. The page opens with a long adult-content warning (explicit sex, sexual assault, gore, child abuse, self-harm, suicide, torture) and means every item. It also describes the corpse as identical to a real, living AI-risk researcher whom it names, under a disclaimer that the portrayal is fiction.",
+  "whyItMatters": "This is satire aimed at a specific kind of self-insert fiction and at the worldview underneath it: the lone genius who out-reasons everyone, whose cruelty is always justified by a calculation. Filing the stories as evidence, sorting them under clinical headings like Society, Science, Biology and Want, and interleaving them with dry manuals and memos lets the archival voice do the mocking.\n\nIt is also a sprawling crossover. Named temporal-department staff appear as thousands of duplicate corpses and as characters, and other files such as SCP-6969 and SCP-597 become working parts of the plot.",
+  "thingsToNotice": "Each story shows the power growing and the reasoning rotting: a social-credit city where he tortures a starving orphan to harvest mana, a magic-academy saga where he annihilates an agent with antimatter and then destroys Sister Alice when she turns a gun on his newborn son, a goblin war preached as extermination, and an origin chapter where his time-stop awakens mid-masturbation through SCP-6969's orgasm loop. The demons who keep attacking him are Foundation personnel from other timelines, trapped in what their own file calls SCP-001, a funnel that catches every time traveler, and Möngke Khan's journal lists his names, Time Pervert among them.\n\nWhen Möngke shoots him he simply remakes the world, so Operation TIMEGELD goes bigger: invoke the Scarlet King, raise SCP-597 into a mother goddess to balance it, and seed early hominids with a retrovirus that strips the latent power from SCP-6969, over objections to mass sacrifice. The DEEPWELL report notes that humanity before his tampering had estrus cycles, a penile bone and puberty at eight, so present-day human biology is itself an artifact of him. The file concludes TIMEGELD likely worked, admits only 0.0715% of the data is recovered, and closes with a pamphlet for staff who learn that everything they know is a lie.",
+  "related": [
+    {
+      "slug": "scp-6969",
+      "note": "Cited directly in the file, which lists it among the related anomalies."
+    },
+    {
+      "slug": "scp-597",
+      "note": "Referenced directly in the file's later sections."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-20"
+}
