@@ -2,18 +2,9 @@
   "slug": "scp-011",
   "lang": "en",
   "hook": "A very short file about a Civil War memorial statue in Vermont that really does not like birds. Most of it is a timeline, so the fun is in reading the dates in order and noticing what changes between them. It takes two minutes, and it is worth reading to the last line.",
-  "whyItMatters": "It is a compact example of how much story a bare timeline can carry. Instead of describing a threat, the file tracks a growth arc, which shows the range of what a Safe article can be. Its gentle humour makes it a good palate cleanser between heavier entries.",
-  "thingsToNotice": "The containment procedures are mostly about cleaning, and the main hazard is the statue's irritation, which sets a comic tone from the start. The timeline then drifts from anomaly to character: first movement, first words, stepping off the pedestal, and eventually an IQ score. A polite reply to a caretaker's joke is the turning point where the object starts reading as a person. The final entries hint at a relationship without spelling it out, leaving the rest to the reader.",
-  "related": [
-    {
-      "slug": "scp-387",
-      "note": "Another lighthearted Safe file in which objects come to life and develop personalities."
-    },
-    {
-      "slug": "scp-527",
-      "note": "Brief and deadpan, with a similarly human punchline."
-    }
-  ],
+  "whyItMatters": "It is a compact example of how much story a bare timeline can carry. Instead of describing a threat, the file tracks a growth arc, which shows the range of what a Safe article can be. Its gentle humour makes it a good break between heavier entries.",
+  "thingsToNotice": "The containment procedures are mostly about cleaning, and the main hazard is the statue's irritation at bird droppings, bad enough that it has occasionally shot at people. The timeline then drifts from anomaly to character: moving eyes in 1995, potshots at birds, a casual look around, then a polite \"Thank you\" when a caretaker jokes about its aim. After that it talks with a second caretaker, quits shooting birds, steps off its pedestal because she asks it to, and reaches human-level self-awareness. In 2004 the Foundation drops containment and hands custody to that same woman, and a year later she reports that the statue has fallen in love with her. The last line is a psych test scoring its IQ at 133, so the file ends with the soldier statue as a bright, lovestruck person rather than an object.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

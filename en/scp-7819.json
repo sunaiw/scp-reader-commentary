@@ -3,17 +3,8 @@
   "lang": "en",
   "hook": "SCP-7819 is written mostly as a survival guide, addressed to someone who may be reading it on the spot. Take it at the pace it asks for, one space at a time, together with the short accounts from staff who made it out. It is atmospheric rather than violent, and works best if you let the quiet details pile up.",
   "whyItMatters": "Tagged for the reviewers' spotlight and psychological horror, it is a strong example of describing a place through a set of rules to follow. Its subject is a familiar kind of space, the cheap roadside motel, nudged slightly wrong rather than made monstrous. The personal testimonies give each area a human voice, so the guide never reads like a dry checklist.",
-  "thingsToNotice": "Almost everything inside is an imitation: hollow cars, prop bathrooms, inedible breakfast food, as if assembled by something that has only heard motels described. The friendliest offers tend to be the dangerous ones, and the breakfast scene makes saying no the hardest step of all. Several areas hand back pieces of the visitor's own past, suggesting the place draws on its guests. The closing reflection names the theme outright, and the last line, which forgives anyone who stays, quietly admits how strong the pull is.",
-  "related": [
-    {
-      "slug": "scp-342",
-      "note": "Another anomaly that traps travellers on a journey they cannot step out of."
-    },
-    {
-      "slug": "scp-3008",
-      "note": "Another ordinary commercial space stretched into something endless and subtly wrong."
-    }
-  ],
+  "thingsToNotice": "The trap only springs for lone Foundation staff driving past midnight after five hours on the road, and nearly everything inside is a copy made by something that has only heard motels described: hollow plaster cars, a plywood bathroom, three beds aimed at an unplugged microwave, plastic fruit and styrofoam waffles. The elevator sorts its riders three ways: a smiling well-dressed old man you must refuse, a hiker who wants to be lied to, and a silent young drifter who gives a hug and a small gift, which is the one moment of real kindness. The pool scene is the emotional peak: a person-shaped thing under the water's skin matches Sabrina Maxwell's palm, then tries to claw through to her, and the object she fishes from the hot tub is the engagement ring she flushed away in a hotel years before. The breakfast host is the hardest test because he is sincere; Dominguez has to keep answering that he wants to leave until the man gives up and sits alone. Taya Andrews' closing reflection names the theme: motels imitate home without being human, and 7819 is something that does not understand people trying to lure them with scraps of remembered rooms. The final line, which does not blame anyone who stays, admits how strong that pull is.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

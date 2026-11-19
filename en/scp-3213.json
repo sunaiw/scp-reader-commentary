@@ -1,19 +1,10 @@
 {
   "slug": "scp-3213",
   "lang": "en",
-  "hook": "SCP-3213 is a comedy built on one very specific premise: a man, and a group of animals that cannot stand him. The language in the logs is crude, so expect a lot of swearing. Read the tests in order, because the last one is where the joke picks up an edge.",
+  "hook": "SCP-3213 is a comedy built on one very specific premise: a man, and a whole family of animals that cannot stand him. The logs are full of crude, sexual insults and constant swearing, so expect that going in. Read the tests in order, because the last one is where the joke picks up an edge.",
   "whyItMatters": "The author's note on the page says it was written as a contest entry, and it shows how far a single, tightly focused gag can carry a file. Everything around the gag is ordinary procedure and testing, which makes the abuse in the logs land harder. It is a good example of humour that works by escalation rather than by a final punchline.",
-  "thingsToNotice": "Dr. Clifford trying to talk to the seals and being ignored entirely is neat staging: the anomaly only exists in relation to one person. The last log turns insults into an accusation, and the subject's reaction suggests he remembers more than he admits. Since the incident itself is never described and the background check finds nothing, the reader fills the gap, and that is where the comedy turns uneasy. The rule that the attacks stop short of lethal adds a cruel logic to the animals' grudge.",
-  "related": [
-    {
-      "slug": "scp-3521",
-      "note": "Another comedy that plays its absurd premise completely straight."
-    },
-    {
-      "slug": "scp-1193",
-      "note": "Another file whose best moments come from short, awkward dialogue transcripts."
-    }
-  ],
+  "thingsToNotice": "Seals, sea lions and walruses wake up into sapience only while Carl Prosser is in view, and they spend it cursing him. In Test 3 they play nice on camera, then try twice to haul him into the tank the moment he turns his back. Dr. Clifford's attempt to talk to them in Test 5 is ignored completely while they mock Carl's thinning hair, which shows the anomaly exists only in relation to him. Test 16 turns insults into an accusation: they saw what he did on a dark, rainy night on a beach, and his horrified curse suggests he remembers. The seals' promise not to kill him explains the rule that attacks stop short of lethal, since a dead Carl could no longer be made to suffer. The incident itself is never described, his background check finds nothing, and he refuses to talk, so the reader is left to fill in the crime, and that is where the comedy turns uneasy.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

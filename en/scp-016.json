@@ -1,19 +1,15 @@
 {
   "slug": "scp-016",
   "lang": "en",
-  "hook": "SCP-016 is a straightforward biohazard entry: procedures, description, then an experiment log. The symptoms are described in a frank medical register, so expect that tone going in. The interesting part is the second half, where one property of the pathogen turns the file into a series of experiments.",
+  "hook": "SCP-016 is a straightforward biohazard entry: procedures, description, then an experiment log. The symptoms are spelled out in graphic medical detail, with hosts bleeding from every opening of the body, so expect that going in. The interesting part is the second half, where one property of the pathogen turns the file into a series of experiments on prisoners.",
   "whyItMatters": "Contagion files are common, but this one has an unusual hook: stress, not exposure alone, decides what the infection does to its host. That gives the Foundation a reason to experiment, and the log becomes a study of researchers testing a hypothesis with little regard for their subjects. The footnote pointing to SCP-1801 hints that the Foundation sees a pattern across separate anomalies.",
-  "thingsToNotice": "The tests form a progression: an environmental pressure, the same pressure with a different outcome, then a subject's own expertise shaping the change. The researcher's short remark after the second test is the article's thesis in miniature, that the result depends on the person and not just the situation. The third subject's background is included for a reason, since what develops reflects what he knows. The final test shows the pathogen solving the problem it was handed while the researchers had already settled the ending.",
+  "thingsToNotice": "The log is built as a progression, and every subject dies. The first two are put in slowly flooding rooms: one grows gills, fins and echolocation and is killed by draining the water, while the other bulks up his fists, tries to punch through a steel door and drowns. The researcher's one-line note after that pair is the thesis in miniature, that the same pressure produces different bodies depending on the person. The third subject, a chemical engineer jailed for poisoning his unfaithful wife, starts growing an organ filled with acetylene and oxygen, and is shot once staff guess what the organ is for. Asking a subject to imagine wings without any stress does nothing, and he simply bleeds out. In the last test a man in a box hung over a mine shaft grows a spider-like spinneret and ties the box to its cable, only to die anyway when the timer turns out to be a bomb, because the researchers had settled the ending in advance.",
   "related": [
     {
       "slug": "scp-1801",
       "note": "Named in the footnote as a possible link under investigation."
-    },
-    {
-      "slug": "scp-008",
-      "note": "Another Foundation file about a contagion that changes its hosts."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

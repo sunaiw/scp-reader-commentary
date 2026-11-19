@@ -1,19 +1,10 @@
 {
   "slug": "scp-387",
   "lang": "en",
-  "hook": "A tub of off-brand Lego whose builds come alive, form little communities and take up jobs based on whatever is around them. It is one of the gentler files out there, written mostly as short experiments with a researcher commenting after each one. Go in expecting something charming, and pay attention to the researcher's notes.",
-  "whyItMatters": "Articles like this show the lighter side of the Safe class: an anomaly whose main effect is better staff morale, to the point that recreational access gets approved. It rests on a simple, relatable premise, a childhood toy behaving the way kids imagine it does, and that accessibility is a big part of its appeal. The experiment-then-addendum rhythm is also a clean example of the classic test-log format.",
-  "thingsToNotice": "Dr. Arch's addenda give the file a running voice that moves from curiosity to exasperation to fondness. The children's experiment hints that the bricks mirror whoever builds with them, which quietly darkens the premise. The rules are worked out like a puzzle: the red tub, the need for a living hand, the shutdown in the face of hostility. The final experiment with the knock-off bricks lands as a punchline, and the redaction does more work than any description could.",
-  "related": [
-    {
-      "slug": "scp-011",
-      "note": "Another Safe object that slowly reveals a personality, told with the same light touch."
-    },
-    {
-      "slug": "scp-527",
-      "note": "A short, deadpan toy-themed file from the Wondertainment line."
-    }
-  ],
+  "hook": "A tub of unbranded Lego whose builds come alive, form little communities and take up jobs based on whatever is around them. It is a gentle file, written mostly as short experiments with a researcher commenting after each one. Go in expecting something charming, and pay attention to the researcher's notes.",
+  "whyItMatters": "Articles like this show the lighter side of the Safe class: an anomaly whose main effect is better staff morale. It rests on a simple, relatable premise, a childhood toy behaving the way kids imagine it does, and that accessibility is a big part of its appeal. The experiment-then-addendum rhythm is also a clean example of the classic test-log format.",
+  "thingsToNotice": "Dr. Arch's addenda give the file a running voice that moves from curiosity to swearing exasperation to fondness. In the airport test the figures build a working airfield, refuel a plane they do not need to refuel, and fly it carefully around the room, which shows they copy the logic of the world they see. The children's test turns that dark: the kids build a Transformer, an M1 Abrams tank and something redacted to fight with, and once the kids are pulled out the builds shoot each other to pieces. The rules are then pinned down like a puzzle, down to a test with a hand cut from a dead agent, which proves the bricks need a living builder. Arch ends up recommending free recreational use after morale jumps 87%, and the request is approved. The last test puts a pile of Mega Bloks next to a Lego town; every figure slowly turns to face them, the result is expunged, and Arch's whole reaction is a single horrified curse.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

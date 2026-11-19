@@ -1,19 +1,10 @@
 {
   "slug": "scp-2599",
   "lang": "en",
-  "hook": "The subject is a fourteen-year-old girl who must obey any direct order but can never fully finish one. That simple pair of rules produces both puzzle-like test results and a great deal of sadness. The test log reads like a logic game at first; the interview in the middle is where the tone changes.",
-  "whyItMatters": "It is a neat example of an anomaly built from two interacting rules, where the drama comes from how they collide rather than from raw power. It also lets the clinical format expose how a frightened child is being handled, without the file ever commenting on it. The paradox incident at the end turns a rule about falling short into something closer to a hidden wish.",
-  "thingsToNotice": "Notice that the effect bends even physics to avoid outright failure: the coin lands on its edge, the paper turns purple instead of blue. Some test entries are disturbing, and the article states them flatly, which is the point. In the interview, the doctor's reassurances sit next to procedures that erase her memories every week, and the gap between the two says a lot. The paradox incident produces warmth, rabbits and a comforting voice in Korean, which reads as a glimpse of what she actually longs for.",
-  "related": [
-    {
-      "slug": "scp-5002",
-      "note": "Also asks how much of an action belongs to someone when another person's words steer it."
-    },
-    {
-      "slug": "scp-166",
-      "note": "Another young subject held for something she never chose, written with more tenderness."
-    }
-  ],
+  "hook": "The subject is a fourteen-year-old girl who must obey any direct order but can never fully finish one. That simple pair of rules produces both puzzle-like test results and a great deal of sadness, and some of the tests involve self-harm and killing on command. The test log reads like a logic game at first; the interview in the middle is where the tone changes.",
+  "whyItMatters": "It is a neat example of an anomaly built from two interacting rules, where the drama comes from how they collide rather than from raw power. It also lets the clinical format expose how a frightened child is being handled, without the file ever commenting on it.",
+  "thingsToNotice": "The effect bends physics rather than allow a clean failure: a coin ordered to land heads stands on its edge two dozen times, white paper ordered to turn blue goes purple, and an order to fly becomes a five-metre leap and a bad fall. The kill orders are where the logic turns ugly: her knife hits dead tissue left by an old heart attack, and when a prisoner is shot so she can finish him, her touch heals the wound and leaves him permanently vegetative. In the interview Zena Cho asks to be called by her name, says she misses her mom and has spoken to nobody, and explains the power first showed when she could not finish cleaning her room or even reach it after being sent there. Wensley tells her she is going home and will be fine, while the procedures order her each week to forget her time in custody, and his closing note recommends watching her as a budding reality bender. The final document shows what a paradox does to her: she freezes while the room warms, rabbits appear, a voice speaks comfort in Korean and the floor turns into a soft blanket. That spreading pocket of safety, stopped only by ordering her to sleep, reads as her own longing leaking into the world.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

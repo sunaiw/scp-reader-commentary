@@ -3,17 +3,17 @@
   "lang": "en",
   "hook": "The whole joke is in the title: a man with the head of a fish, and nothing more. It is very short, mostly one interview and a found document, so read it in one go and enjoy the timing.",
   "whyItMatters": "It belongs to Dr. Wondertainment's Little Misters line, and the checklist at the end places it inside a whole set of collectible people. Its humour comes from anticlimax: the Foundation braces for hidden powers, and there simply are none. That deflation of the usual SCP format is what makes it work as a breather.",
-  "thingsToNotice": "The interviewer's questions keep escalating while the answers stay flat and short; that rhythm is the comedy. His remark that the other Misters got the good stuff gives him a slightly sad, self-aware edge. The checklist is worth reading item by item, since the names alone suggest very different products, and one is marked as discontinued. The tick next to his own name is a small, perfect closing beat.",
+  "thingsToNotice": "The interviewer works through every theory he can think of, from breathing underwater and talking to fish to a bite from a strange fish or a run-in with a sea god, and gets a flat no each time. The answer is simply that the man was born this way, and his only real complaint is that Lie, Stripes, Hot and Sweetie got the good powers while he just got a fish head. When asked why his maker built him like this, he answers with a blunt, profane shrug, which is the punchline of the interview. The checklist he hands over lists twenty Misters, including a Life and Death pair and a Redd marked as discontinued. The tick next to his own entry is the closing beat: he is one item in a toy collection, already checked off.",
   "related": [
     {
-      "slug": "scp-111",
-      "note": "Another Wondertainment product, presented with the same toy-catalogue cheerfulness."
+      "slug": "scp-920",
+      "note": "Mr. Lost, number 16 on this file's checklist, gets his own article."
     },
     {
-      "slug": "scp-387",
-      "note": "A toy-themed Safe file with a similarly light touch."
+      "slug": "scp-111",
+      "note": "Another product credited to Dr. Wondertainment."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }
