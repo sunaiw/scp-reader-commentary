@@ -1,19 +1,10 @@
 {
   "slug": "scp-804",
   "lang": "en",
-  "hook": "This one starts as a dry report about a ruined art piece left out in the Alaskan cold and slowly turns into something much heavier. Read it to the very end, because the closing research note changes how the whole recovery log reads. It is grim in places, but most of that grimness is implied rather than shown.",
+  "hook": "This one starts as a dry report about a ruined art piece left out in the Alaskan cold and slowly turns into something much heavier. Expect starving, frostbitten townspeople and a crowd shot down by Foundation agents, all told in the same flat report voice. Read it to the very end, because the closing research note changes how the whole recovery log reads.",
   "whyItMatters": "It is a featured Keter whose weight comes from people rather than from the object's power. Instead of leaning on mind control as the easy explanation, the final report argues it away, so the article ends up questioning the very idea of a planet that would be better off without us.",
-  "thingsToNotice": "Compare the artists' promotional pitch, a gentle contrast between wilderness and decay, with what the globe does once it spins. The detail that the device wears itself down is a neat irony: a machine meant to erase human making cannot escape being human-made.\n\nThe recovery log stays clinical while describing a crowd that keeps the last globe turning, and containment now relies on the same northern cold that hurt the survivors. Then Dr. Sorts removes the comfortable explanation. Without a supernatural push, the townspeople's own choice becomes the most disturbing thing in the file.",
-  "related": [
-    {
-      "slug": "scp-3519",
-      "note": "Another crowd embracing its own ending, told through dry Foundation records."
-    },
-    {
-      "slug": "scp-2000",
-      "note": "A very different machine, built to bring humanity back rather than erase it."
-    }
-  ],
+  "thingsToNotice": "Compare the artists' promotional pitch, a gentle contrast between wilderness and decay, with what the globe does once it spins: every made thing within range crumbles, and human bodies waste away until the skeleton gives and the corpse dissolves. The detail that the device wears itself down is a neat irony, since a machine meant to erase human making cannot escape being human-made.\n\nThe recovery log stays clinical while describing the town's survivors, emaciated and hypothermic in the Alaskan cold, missing fingers and whole limbs, taking turns in small teams to push the last globe while the rest cheer them on until they drop. An O5 authorizes agents to fire into that crowd, and once the globe stops, many of the rest lie down in the snow to die or try to goad agents into shooting them. Then Dr. Sorts removes the comfortable explanation: the memetic pull is weak, and the activists kept the machine turning simply because they wanted a world without humans. Without a supernatural push, the townspeople's own choice becomes the most disturbing thing in the file.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

@@ -3,17 +3,8 @@
   "lang": "en",
   "hook": "Something might be in an attic in Indiana, and nobody can reach it, not even on paper. The article is fairly short and built on family interviews, so read it as a domestic drama first and a containment file second. Watch the sentences that follow each interview; they quietly contradict what came before.",
   "whyItMatters": "It is a good example of psychological horror on the wiki: the anomaly is never seen, and the dread comes from what the family will not say. The title and the hedged phrasing throughout make doubt itself the anomaly. It shows how much a file can unsettle by withholding rather than describing.",
-  "thingsToNotice": "Each interview circles the eldest daughter and an old conflict, and the details shift depending on who is speaking. After each log, the record revises itself: the family was moved, then never moved; entry was attempted, then never attempted. The final interview gives the clearest account, and the note after it says she never existed, which makes her both the most honest voice and the least real one. The attic can be read as the shape of a family's buried anger, and the article never tells you whether that reading is right.",
-  "related": [
-    {
-      "slug": "scp-166",
-      "note": "Another file whose real subject is a broken bond between parent and child."
-    },
-    {
-      "slug": "scp-5002",
-      "note": "A mystery told through interviews in which everyone is holding something back."
-    }
-  ],
+  "thingsToNotice": "Every interview circles the eldest daughter, Olivia, who left at seventeen, and each parent tells that story with gaps. The mother's account ends with her climbing into the attic one night after hearing her daughter's voice, and admitting only that what she found up there was not Olivia. After each log the record revises itself: the family was moved to Site-81, then never moved; charges, drones and even demolition were tried, then never tried. Olivia, now living as Rebecca Feldman, gives the clearest account: a drunk father, parents walking into her room at night, a knife she kept under her pillow and pointed at them, and the first sound of something moving overhead before she ran. Right after that, she is detained and the file concludes Olivia Lee does not and never did exist, so the most honest voice is also the one the record erases. The attic reads as the shape of a family's buried anger, and the article never confirms or denies that reading.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

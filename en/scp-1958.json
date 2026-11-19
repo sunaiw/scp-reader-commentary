@@ -2,18 +2,9 @@
   "slug": "scp-1958",
   "lang": "en",
   "hook": "A 1950s Volkswagen bus drifting near the orbit of Mars sounds like a joke, and the opening reads a little like one. The real substance is the inventory and the diary that follows it. Take your time with the list of objects before you reach the diary entries.",
-  "whyItMatters": "It touches the Fifthist thread through the diarist's falling-out with the Fifth Church, but you need no background to follow it. It shows how a simple Safe object can carry an entire tragedy through found documents, with the containment section almost an afterthought.",
-  "thingsToNotice": "The inventory works as foreshadowing: the books, the instruments, the seed bank and the lone syringe sketch the crew's dream and its weak points before the diary begins. The diarist's voice slides from beat-era swagger to short, plain entries as the bus empties.\n\nNotice the gulf between the crew's estimate of weeks and the Foundation's calculation of the real journey. The scurvy footnote calmly names what the narrator cannot. The final entry is one line, and its calm is the saddest part of the file.",
-  "related": [
-    {
-      "slug": "scp-3519",
-      "note": "Another file touched by the Fifth Church, on a far larger and darker scale."
-    },
-    {
-      "slug": "scp-7034",
-      "note": "Another doomed road trip told through one traveler's own messages."
-    }
-  ],
+  "whyItMatters": "The diarist mentions being thrown out by the Fifthists, and the background section lists the First Fifth Church of San Francisco among his religious dabblings, but you need no background to follow it. It shows how a simple Safe object can carry an entire tragedy through found documents, with the containment section almost an afterthought.",
+  "thingsToNotice": "The inventory works as foreshadowing: a single skeleton, four bedrolls, a pregnant cat's bones, the seed bank and the lone heroin syringe sketch the crew's dream and its weak points before the diary begins. The diarist's voice slides from beat-era swagger to short, plain entries as the bus empties.\n\nJerry, the only one who understood the engine and the star charts, loses his grip during a spacewalk and drifts off to die; days later his fiancée Susan is found dead with a needle in her arm, and they put her out the airlock to Amazing Grace. Jerry had promised a three-week trip, yet two months in, the Moon is still outside the window, while the Foundation puts the true arrival at about 37 million years. William hides that from Sam, who is losing teeth to what the footnote identifies as scurvy, promises him they land tomorrow, reads him Dylan Thomas as he dies, and pushes his body out too. The final entry is a single line about the stars, written by the man whose skeleton is the one the survey team found.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

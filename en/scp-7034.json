@@ -1,19 +1,10 @@
 {
   "slug": "scp-7034",
   "lang": "en",
-  "hook": "This is a long read built almost entirely from one researcher's voice messages, sent from a traffic jam that never ends. It opens with ordinary commuter irritation, and that ordinariness matters later. Be aware that it grows very dark as it goes, so give it an unhurried sitting.",
-  "whyItMatters": "It belongs to the ABCs of Death anthology, with links to neighboring entries at the bottom, yet it stands fully on its own. As the opening notice admits, everything comes from a single witness, so the reader never gets a neutral view of the space, and the format itself becomes part of the trap.",
-  "thingsToNotice": "Track how the messages end: early on he repeats his name, department and exit number, and later those lines give way to words meant for his family. The stretch where drivers step out and cooperate is the emotional high point, and the article deliberately lets it come apart.\n\nThe climb into the clouds plays with the reader's hope as much as the narrator's, and the payoff is a reversal rather than an escape. The closing figure about disappearances recasts the whole account as one case among a great many.",
-  "related": [
-    {
-      "slug": "scp-3008",
-      "note": "Another endless space where trapped people try to build some kind of order."
-    },
-    {
-      "slug": "scp-1958",
-      "note": "A smaller vehicle tragedy told through one traveler's diary."
-    }
-  ],
+  "hook": "This is a long read built almost entirely from one researcher's voice messages, sent from a traffic jam that never ends. It opens with ordinary commuter irritation, and that ordinariness matters later. Be aware that it grows very dark, with suicide, corpses on the road and cannibalism, so give it an unhurried sitting.",
+  "whyItMatters": "It is tagged as part of the ABCs of Death anthology, with links to neighboring entries at the bottom, yet it stands fully on its own. As the opening notice admits, everything comes from a single witness, so the reader never gets a neutral view of the space, and the format itself becomes part of the trap.",
+  "thingsToNotice": "Track how the messages end: early on Battaglia repeats his name, department and exit number, and later those lines give way to words for his son Shaun and his wife Bree. The stretch where whole rows of drivers step out, barricade their cars and share a truck's supplies is the emotional high point, and the article lets it fall apart once a rope lowered over the railing finds only fog and heat, and a motorcycle run back finds no exit.\n\nThe four who press on lose Euliana when she runs from the car and leaps over the railing, then lose her sister Valentina in the smog. From there Battaglia's decline is spelled out: he leaves a stranded man behind, shoots out a rival's tyre, takes fuel at gunpoint, stops trusting Micheal, dumps a dead family of five out of an SUV to take it, may run someone over, and passes people eating the dead. The climb up through the clouds is pure false hope; at the top the road narrows to one lane packed with cars, all pushed bumper to bumper into a dark tunnel. His last message is a goodbye to Shaun, to the unborn sister, and to Bree, and a week later twenty transmissions arrive that are nothing but horns, distortion and screaming. The closing count of 83,000 linked disappearances makes his account one among tens of thousands.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

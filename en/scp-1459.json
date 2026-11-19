@@ -1,19 +1,15 @@
 {
   "slug": "scp-1459",
   "lang": "en",
-  "hook": "Fair warning: this is pitch-black comedy built on harm to animals, presented as deadpan test logs. A claw machine asks each player to name a method, then carries it out with absurd literalism and pays out a cookie. If that premise is not for you, skip it; if it is, the jokes live in how each request gets interpreted.",
+  "hook": "Fair warning: this is pitch-black comedy about killing puppies, presented as deadpan test logs. A claw machine drops a puppy into its chamber, asks the player to name a way for it to die, carries that out with absurd literalism, and pays out a cookie. If that premise is not for you, skip it; if it is, the jokes live in how each request gets interpreted.",
   "whyItMatters": "It is a strong example of the cursed-wish test log, where the comedy comes from a machine taking every word literally and escalating far past what anyone meant. The cleanup routine and the recorded quip after each game give it a mocking personality without a single line of description. The procedures also hint at an ugly institutional decision, since testing must continue by executive order and the file never says why.",
-  "thingsToNotice": "Track the cookies: their flavour, their number and whether they appear at all work as the machine's scoring system and its commentary. The woman in the red gown recurs across unrelated requests, giving the absurd logs a strange through-line. The switch to the maintenance technician changes the mood, since her requests grow gentler and the machine still finds a way to punish them. Her last logged plea gets the bleakest answer of all, and the note about offering her amnestics between sessions suddenly reads as compassion.",
+  "thingsToNotice": "Track the cookies: their flavour, their number and whether they appear at all work as the machine's scoring system and its commentary, from the fifteen raisin cookies after a puppy courtroom is hanged to the flood of 368 after a D-class is killed mid-way through asking for a nuclear blast. The woman in the red gown recurs across unrelated requests, strangling one puppy, eating another baked into cookies, and smothering a third with five hours of kissing. The switch to Maintenance Technician Valera changes the mood: she was picked because her requests were unlikely to end the world, and her answers keep getting softer. When she finally just begs it not to kill the dog, the puppy gets a pillow and a pat, and then the machine brings out a kitten and kills it with a sledgehammer, paying her a salted cracker instead of a cookie. The maker's mark on the back is an acronym that matches the machine's recorded jibe about going to hell.",
   "related": [
     {
-      "slug": "scp-2599",
-      "note": "Another test log where the exact wording of an instruction decides the outcome."
-    },
-    {
-      "slug": "scp-527",
-      "note": "Another anomaly packaged as a consumer product, in a far gentler register."
+      "slug": "scp-081",
+      "note": "Experiment 0238 compares what happens to the puppy to a sped-up case of SCP-081."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }
