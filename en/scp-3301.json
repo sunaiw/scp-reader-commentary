@@ -3,17 +3,13 @@
   "lang": "en",
   "hook": "SCP-3301 is a rulebook dressed as a containment file: a board game from Dr. Wondertainment that turns a large area into a playable arena. A big share of its length is rules and card lists, and you can skim the mechanics, but don't skip the cards, because most of the jokes live there. Some familiarity with the wider wiki's cast helps, since many cards are in-jokes.",
   "whyItMatters": "Its tone is affectionate, pulling groups of interest, well-known anomalies and staff characters into one playful package. The cover letter casts the toymaker as an admirer of the Foundation, flipping the usual adversarial relationship. Difficulty settings named after object classes and win conditions named after Foundation-style goals gently tease the site's own vocabulary.",
-  "thingsToNotice": "The memo near the end gives the comedy real stakes: the playtesting clause in the letter becomes leverage, and the Foundation's answer is to turn testing into an employee perk. The sample game log plays out like sports commentary with staff trash talk, showing how the rules behave in practice. Footnotes carry several of the best gags, including a surprise victory condition and a visibly uneasy Librarian. The card list doubles as a tour of the canon, so expect to recognize many names.",
+  "thingsToNotice": "The letter's cheerful postscript is the trap: if the Foundation stops playtesting for more than a few days, the game goes on sale. Sure enough, a week after a lapse, a truckload of copies is caught heading for a toy store in Wisconsin, and a note of thanks arrives through the board when they start playing again. Director Moose's memo answers by downgrading the game to Safe and making playtesting an official employee perk, while insisting this changes nothing about Foundation policy.\n\nThe sample game shows what the rules mean in practice: Quinn and Bridge take the Eschatology victory by summoning three supreme divine beings, including Mary Nakayama, who wipes out an agent mid-sentence, and the prize is a $1,750 gold bar. The footnotes hide the best gags, such as an agent who claims a secret Lament victory when his insult about a rival's mother sends that rival charging off a cliff. The Librarian's puzzled remark that a Thresher condition may have replaced the Foundation's win conditions, and the redacted card that would summon something real but does not, are where the joke briefly turns uneasy.",
   "related": [
     {
-      "slug": "scp-111",
-      "note": "A much smaller Wondertainment product with an equally cheerful instruction sheet."
-    },
-    {
       "slug": "scp-173",
-      "note": "Shows up here as a card wearing a sombrero, so it helps to know the original."
+      "note": "Appears here as a dancing card wearing a sombrero."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

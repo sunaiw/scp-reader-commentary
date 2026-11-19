@@ -1,19 +1,23 @@
 {
   "slug": "scp-1025",
   "lang": "en",
-  "hook": "A medical encyclopedia that gives you whatever you read about sounds like a doomsday object, and the article starts by treating it that way. Pay attention to the object class line and the very first revision, because they hint at where things are going. It reads like a lab report that slowly loses its composure.",
-  "whyItMatters": "It is a sharp example of an article whose real subject is the Foundation's own paranoia rather than the anomaly. Instead of escalating the threat, it escalates the staff's reactions, and the payoff comes from an administrator looking back at the whole effort. Its nods to other infectious SCPs also make it a playful commentary on how readers and researchers alike imagine the worst.",
-  "thingsToNotice": "Watch the research notes change tone across the test log. They start clinical, then turn anxious and speculative, and the redacted summary in the middle quietly tells you how many subjects the project used. The mid-sentence corrections, such as numbers swapped out for vaguer wording, show the writers' certainty slipping.\n\nThe twist reframes every symptom you have read as possibly imagined, which makes the earlier vivisection entries look grimly wasteful. The final memo is both the punchline and a judgment on the institution, and the downgraded class at the top was telling you this from the start.",
+  "hook": "A medical encyclopedia that gives you whatever you read about sounds like a doomsday object, and the article starts by treating it that way. Pay attention to the object class line and the very first revision, because they hint at where things are going. It reads like a lab report that slowly loses its composure, and the test log includes D-class subjects being killed and vivisected.",
+  "whyItMatters": "It is a sharp example of an article whose real subject is the Foundation's own paranoia rather than the anomaly. Instead of escalating the threat, it escalates the staff's reactions, and the payoff comes from an administrator looking back at the whole effort. The panicked name-dropping of other disease anomalies makes it a small satire of how researchers, and readers, jump to the worst case.",
+  "thingsToNotice": "Watch the notes change across the test log. Subjects who read about lung cancer are executed, autopsied, and in one case cut open alive until he dies of shock, yet no tumor is ever found; the corrections struck through mid-sentence show the writers' certainty slipping. By the time a researcher who never read the book starts coughing and looks slightly taller, the note-taker is convinced he has turned into an escaped plague carrier.\n\nThe recovery team finds the isolated site wrecked by fear alone: two researchers in biohazard suits who used up nearly all the air tanks, an agent creeping through the ducts with a gun drawn, the suspected carrier barricaded with a homemade flamethrower, and another agent dead inside a closet he had taped airtight. The O5 memo then states that no unusual pathogen was found anywhere, labels the whole thing hypochondria by proxy, and orders the book locked away, which is exactly what the downgraded class at the top was telling you.",
   "related": [
     {
+      "slug": "scp-016",
+      "note": "The infection the panicking researcher believes his colleague's growth spurt points to."
+    },
+    {
       "slug": "scp-008",
-      "note": "One of the infectious threats the panicking researchers fear they have caught."
+      "note": "One of the outbreaks named in the same frantic note."
     },
     {
       "slug": "scp-217",
-      "note": "Another disease anomaly name-checked during the facility's breakdown."
+      "note": "The one the note-taker begs not to be dealing with."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

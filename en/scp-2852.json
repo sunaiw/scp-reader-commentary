@@ -1,19 +1,15 @@
 {
   "slug": "scp-2852",
   "lang": "en",
-  "hook": "A friendly, slightly crude relative who turns up at every baptism, wedding, and funeral sounds like a family joke, and that is exactly the disguise this article uses. Be warned that it is one of the heavier reads in this list: its rituals and aftermath are disturbing, and it deals with harm to families and children. Go in expecting religious and folk horror rather than a monster chase.",
+  "hook": "A friendly, slightly crude relative who turns up at every baptism, wedding, and funeral sounds like a family joke, and that is exactly the disguise this article uses. Content note: it describes self-mutilation, suicide, the deaths of children and infants, and cannibalism in clinical detail. Go in expecting religious and folk horror rather than a monster chase.",
   "whyItMatters": "It takes the most familiar social rituals, the ones that mark birth, marriage, and death, and treats them as the vector of an anomaly. Instead of a creature that attacks, it is one that is welcomed, and that warm acceptance is what makes it so unsettling. It is a strong example of horror built from the gap between how an event feels to its participants and what the record shows.",
-  "thingsToNotice": "The three event levels are named by color, and the article walks through them in life order, so the structure itself mirrors a family history. Each ceremony keeps its outward shape while something wrong happens inside it, and the guests' fondness for the visitor never wavers.\n\nThe cicada imagery threads through every stage, from the entity's body to the sounds people make, and hints at cycles and long dormancy. The long-term statistics hit harder than the rituals themselves, because they show the damage spreading quietly for years. The final reference to another file suggests this is part of something larger, without explaining it.",
+  "thingsToNotice": "The article walks through the three ceremonies in life order. At a baptism, \"Cousin Johnny\" stands in as an extra godparent; when the baby goes under the water its outer skin peels off whole, and the godparents share it as food. At a wedding, the attendants pull out their own teeth for the couple to swallow, the groom shrieks a cicada call loud enough to deafen the bride, and the gift box holds hair, dead cicadas, and teeth. At a funeral, the closest mourner opens the casket and draws a knife, every mourner bleeds into it (adults help the small children), Johnny vomits blood, wood pulp and insects on top, and at the gathering afterward he undresses, lies down on a table, and the family eats him while making friendly conversation with him.\n\nThe aftermath statistics are the real horror: babies dying or growing up to harm animals and children, a couple who tore their newborn triplets apart, parents drowning themselves, teenagers bleeding out by pulling teeth or biting their wrists, and murderous cannibal domestic violence. Note how bureaucratic the Foundation's answer is, from passing survivors' names to police as terror suspects to quietly arranging hysterectomies through outside doctors. The last lines estimate that roughly one in three D-class personnel from those two churches went through a funeral like this, then point you to SCP-3004.",
   "related": [
     {
       "slug": "scp-3004",
-      "note": "The file this article points to at the very end for related phenomena."
-    },
-    {
-      "slug": "scp-303",
-      "note": "Another humanoid intruder in everyday spaces, told mostly through incident records."
+      "note": "The entry this report sends you to for related phenomena in its final line."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

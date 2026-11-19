@@ -3,7 +3,7 @@
   "lang": "en",
   "hook": "SCP-7777 starts as a puzzle about random number generators and turns into an institutional thriller. The access warning at the very top is worth keeping in mind as you go. Pay attention to which names keep showing up in the instance log; this is an article that rewards close reading.",
   "whyItMatters": "It casts the Ethics Committee, RAISA, the Overseers and the Chaos Insurgency as players in a single power struggle, which is why its tag list is so crowded with staff and organization names. The core device, an anomaly that exposes wrongdoing, lets the article ask who inside the Foundation actually holds anyone to account. Footnotes point to other numbered files, so it feels embedded in the wider wiki rather than standalone.",
-  "thingsToNotice": "The early instances play like a case-of-the-week format, which lowers your guard. Small recurring details, such as one technician repeatedly being the one who finds the messages, and footnotes about altered records, quietly build a second story under the first. The closing memo reframes the whole anomaly and then pivots again, so no faction comes out looking clean. Note that the final speaker treats the file itself as a tool, which leaves the reader feeling recruited into the next scheme.",
+  "thingsToNotice": "The early instances play like a case-of-the-week format: a site director who poisoned a colleague to hide his embezzlement, a senior researcher who sexually assaulted a coworker at a party while nobody reported it, a director who abused SCP-4051 for years, a director who kicked a baby into a wall and an Ethics member who covered it up by declaring the child an anomaly. Meanwhile technician Davis Silverstein keeps being the one who finds the messages, always routed through liaison Flora Marinos.\n\nDuring a raid, a Chaos Insurgency gunman asks everyone's name and empties a magazine into Silverstein alone; the shooter's DNA matches serving Alpha-1 agents, and the instance on Silverstein's laptop says O5-6 planned his murder. RAISA and the Ethics Committee then send Omega-1 to storm an O5 meeting, seven Overseers are captured, and the Ethics Committee takes over the Foundation. The RAISA memo flips everything: SCP-7777 never existed, it was a whistleblowing system built by Silverstein, Marinos and others, and RAISA's director Maria Jones suspects the Ethics Committee's own record is too convenient. She ends by calling the fake anomaly a loaded seven-sided die and inviting the reader into RAISA's counter-conspiracy.",
   "related": [
     {
       "slug": "scp-1214",
@@ -11,9 +11,9 @@
     },
     {
       "slug": "scp-4051",
-      "note": "The young anomaly whose containment chamber figures in one of the logged instances."
+      "note": "The teenage anomaly whose chamber a site director vandalized in one logged instance."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

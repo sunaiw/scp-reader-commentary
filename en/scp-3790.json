@@ -3,17 +3,8 @@
   "lang": "en",
   "hook": "SCP-3790 is a walk through a sealed basement, told almost entirely as a room-by-room inventory. Nothing happens in the present tense; the pleasure is in peering through each viewport alongside the report. Take it slowly and let each placard name sit for a second before you read what is behind the door.",
   "whyItMatters": "The header credits Croquembouche and djkaktus as co-authors. Its premise, a Foundation department the file says left no record anywhere, suggests an organization that has forgotten parts of itself. Rather than explaining any single anomaly, it works as a catalogue of sealed story hooks, each placard pointing at something the reader never gets to see in full.",
-  "thingsToNotice": "The file opens by claiming an Overseer lock has been overridden, so reading on feels a little like trespassing. Placard names mix myth, scripture, history and folklore, but the blank or scratched-off doors are often the most unsettling. One room holds a box with Wondertainment's purple W, a small nod to a familiar toymaker in a very unfriendly setting. The clipboard's locked and unlocked list invites guesses without confirming any, and the last level stays visible but unreachable, keeping the deepest point out of reach on purpose.",
-  "related": [
-    {
-      "slug": "scp-087",
-      "note": "Another descending structure whose bottom stays tantalizingly out of reach."
-    },
-    {
-      "slug": "scp-3301",
-      "note": "Wondertainment's purple W again, this time in a cheerful and chaotic setting."
-    }
-  ],
+  "thingsToNotice": "The file announces that an O5 lock has been overridden, so reading on feels like trespassing, and nothing is ever explained: the article is just six floors of welded doors and what can be glimpsed through them. Some rooms are named after myth, scripture or history, such as a rusted sword behind a warm door, a still-beating heart hanging on a wire, and a box marked with a purple W, while others are blank, scratched off, or simply say \"hello\" where the plate was pried away. The most unnerving details point the wrong way, like gashes and bone fragments in an empty cell, an empty pedestal with fresh finger marks in the dust, and claw marks on the outside of a door, as if something wanted in. The clipboard note reads like someone about to leave for good who still has other sites to seal, and in the numbered list under it VII, VIII and X remain marked unlocked. The seventh level can be seen through the elevator floor but the lift has been altered so it cannot go there, and the file closes on a reference that is itself locked.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

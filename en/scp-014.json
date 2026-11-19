@@ -2,18 +2,9 @@
   "slug": "scp-014",
   "lang": "en",
   "hook": "SCP-014 is a very short entry about a man sitting in a chair. There is no danger and no breach, so read it as a character sketch. The small requests in the containment section, a window and old music, tell you a lot about him before the description even starts.",
-  "whyItMatters": "It shows how little an entry needs when the central idea is strong: a belief that has, somehow, come true. The Safe class and gentle procedures make it the opposite of a threat report, closer to notes on someone's long-term care. Pieces like this are a reminder that the format can carry quiet melancholy as easily as horror.",
-  "thingsToNotice": "The cutoff year for the music matches the year his asylum closed, so the procedures seem designed to keep the world as he last knew it. The description builds the image of stone through a list of things he no longer does rather than by describing concrete at all. The closing note pins everything on one idea, the mind shaping the body, and ends with a one-word shrug admitting nobody knows how.",
-  "related": [
-    {
-      "slug": "scp-015",
-      "note": "Another compact low-numbered entry that rests on a single image and leaves the rest to you."
-    },
-    {
-      "slug": "scp-3004",
-      "note": "A far darker, far longer look at belief giving something its shape."
-    }
-  ],
+  "whyItMatters": "It shows how little an entry needs when the central idea is strong. The Safe class and gentle procedures make it the opposite of a threat report, closer to notes on someone's long-term care. Pieces like this are a reminder that the format can carry quiet melancholy as easily as horror.",
+  "thingsToNotice": "The man is Robert Chetford, committed to an asylum in 1915 because he insisted he was cursed with eternal life and was gradually becoming concrete. Decades later he has not aged, does not eat or sweat, and moves nothing but his eyes and voice, so his supposed delusion turns out to be exactly what happened. The 1937 cutoff for his music is the year that asylum shut down, which makes the procedures read as an effort to keep the world as he last knew it. The description never shows any actual stone; the image of concrete comes entirely from the list of things his body has stopped doing. The doctor's closing note credits the mind with reshaping the body, then ends on a single-word shrug admitting nobody knows how.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

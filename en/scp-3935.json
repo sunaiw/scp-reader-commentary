@@ -1,19 +1,10 @@
 {
   "slug": "scp-3935",
   "lang": "en",
-  "hook": "A small Indiana town, a high school, and one strange week in 1976: this is a long, slow-burn haunting told through several kinds of documents. It is genuinely creepy, with recurring apparitions and a descent into a place that should not exist. Give it time, because the last interview is where the pieces come together.",
+  "hook": "A small Indiana town, a high school, and one strange week in 1976: this is a long, slow-burn haunting told through several kinds of documents. It is genuinely creepy, with recurring apparitions and a descent into a place that should not exist, and it touches on hanging, suicide and a child dying. Give it time, because the last interview is where the pieces come together.",
   "whyItMatters": "It mixes several Foundation storytelling modes in one file: a rival agency's field report, an expedition log, scattered field sightings, and a late interview. The UIU report gives it a period feel, and the borrowing of that outside perspective makes the town's events seem older and more buried than the Foundation's own records. It shows how a location-based anomaly can carry a hidden human story underneath the paranormal imagery.",
-  "thingsToNotice": "Count things as you read. Nine figures, a single repeated greeting, and gaps of radio silence measured in nines keep returning, and the arch's short verse sets the tone before anything happens. Small details, like a student no one can describe or a classmate missing from the census, are planted early.\n\nThe expedition log is the scariest section, but the interview is the most important. A teacher with damaged memory keeps drifting off topic, and those drifts are exactly where the clues are. Her final remark about the count reframes the apparitions, and suggests that the town's own silence about a young woman lies at the root of what happened.",
-  "related": [
-    {
-      "slug": "scp-087",
-      "note": "Another descent into darkness that seems to have no bottom."
-    },
-    {
-      "slug": "scp-303",
-      "note": "Another haunting confined to one building and its strange apparitions."
-    }
-  ],
+  "thingsToNotice": "Count as you read: nine hanging women, one word of greeting repeated by a small black figure, and radio silences of eighty-one, then nine minutes; meanwhile the UIU timeline keeps showing the town not reacting, from a boy sinking into the gym floor while nobody helps to the principal keeping the school open in ankle-deep water. The expedition log ends with all three agents lost below, one choking in water, one falling forever, and Haskel babbling about a tenth one waiting under the nine.\n\nThe 2002 interview with former teacher Valerie Fletcher, whose memory was wrecked by the UIU's toxic amnestic, is where the real story leaks through her drifting. She half-remembers a pregnant unwed girl the churchgoing town was scandalized by, a cheerleader found hanged in the woods and called a suicide with a note showing a strange building and one smeared word, a vanished child last seen at the pool, and a boy she watched suffocate inside a wall without it troubling her. Shown the photo of the nine figures, she goes pale and names them as the cheerleaders, then adds that there were ten. That last line, set beside the procedures saying the original townspeople cannot have children, points to what Salvation did to one girl and how the town is still paying for it.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }
