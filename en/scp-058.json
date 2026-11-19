@@ -1,19 +1,15 @@
 {
   "slug": "scp-058",
   "lang": "en",
-  "hook": "SCP-058 is a short monster file about something shaped like a cow's heart with legs and tentacles, and its most unusual weapon is its voice. Read the interview at the end slowly, because the strangest part of the article is what the creature says rather than what it does.",
-  "whyItMatters": "It is a classic early-series hostile Keter: blunt containment figures, a nuclear fallback and a long casualty count. What lifts it above many creature files is the contrast between a brutal physical description and an endless, dreamlike monologue delivered in a calm voice. The addendum linking its breaches to reactions in other contained items also shows the early habit of quietly connecting files.",
-  "thingsToNotice": "The rule limiting how long staff may listen to it is the first hint that the voice matters, long before the transcript arrives. The file insists its speech has no connection to anything around it, yet the lines are crowded with images of hearts, children and decay, tempting readers to hunt for a meaning the report says is absent. An elderly gentleman's tone attached to a fast, hunting organ is a deliberately jarring pairing. Near the end of the log a sudden loss is only implied, and the gap does the frightening.",
+  "hook": "SCP-058 is a short creature file about a cow's heart that walks on insect legs, lashes spined tentacles and carries a stinger. Its most unusual feature is not a weapon at all but its voice, so give the interview at the end your full attention.",
+  "whyItMatters": "The file stacks up hard numbers: a cube cell with metres of steel and concrete, a live cow every three days, on-site nuclear weapons as the fallback, and a body count of 149 D-class plus 14 agents at its current site alone. Against that brutal tally it sets a calm old British man's voice that never stops talking. That clash between a hunting organ and a soft, rambling narrator is what makes the creature stick.",
+  "thingsToNotice": "The thirty-minute listening limit in the procedures quietly warns you that the voice is a hazard before the transcript ever appears. The report says the speech has no link to what is happening around it, yet the lines are thick with hearts, blood, children and flaying, so you keep hunting for sense the file says is not there. In the log, D-067 starts to joke about how creepy it is, breaks off into screaming, and the screaming simply stops while the creature's sentence rolls on at the same pace and Dr. Johnston's plea to let him go is ignored. The breach history is equally blunt: it burns most of a nearby town with sprayed stinger fluid, is stopped once by collapsing masonry and again by an agent driving an M1 tank over it.",
   "related": [
     {
       "slug": "scp-1175",
-      "note": "Named in the addendum as reacting during SCP-058's breaches."
-    },
-    {
-      "slug": "scp-682",
-      "note": "Another famously hostile early Keter creature."
+      "note": "The addendum says its containment team saw SCP-1175-2 grow agitated on dates matching SCP-058's long breaches."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

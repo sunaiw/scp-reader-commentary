@@ -1,19 +1,10 @@
 {
   "slug": "scp-513",
   "lang": "en",
-  "hook": "The object here is about as plain as anomalies get: a rusted old cowbell. The article is brief, and most of its weight sits in the containment procedures, so do not skim them. It is the kind of piece that works best read late at night, then thought about the next time you pass a mirror.",
-  "whyItMatters": "It shows how much dread a short Euclid file can generate from a mundane item and a single rule about hearing it. Rather than a monster you can study, it gives you something that only exists in glimpses for the people affected. That focus on exhaustion and paranoia instead of spectacle is what keeps it effective.",
-  "thingsToNotice": "Look at how strict the procedures are compared with how small the bell is: gelatin, deafened handlers, a rule against letting anyone sleep. Each odd requirement is a clue, and the description later explains them one by one.\n\nThe entity is never described with confidence, because the only witnesses are worn down by it, and that unreliability is part of the horror. The duct tape on the clapper and the recovered note hint that someone met this bell before the Foundation did, and the note's three short lines reframe everything as an escalating sequence you do not want to complete.",
-  "related": [
-    {
-      "slug": "scp-4975",
-      "note": "Another stalker announced by a sound that only its target can sense."
-    },
-    {
-      "slug": "scp-173",
-      "note": "A different take on what happens when you look away or blink at the wrong moment."
-    }
-  ],
+  "hook": "The object here is as plain as anomalies get: a rusted cowbell that nobody can clean. The article is short and most of its weight sits in the containment procedures, so read those slowly. It may change how you feel about glancing into a mirror late at night.",
+  "whyItMatters": "The file builds real dread from one ordinary item and one rule about hearing it. Instead of a monster that can be studied in a cell, it offers something that exists only in the corner of an affected person's eye. Its focus on sleeplessness and slow mental collapse, rather than spectacle, is what keeps it effective.",
+  "thingsToNotice": "Every strange procedure is explained later: the bell sits in gelatin and is handled by surgically deafened D-class because anyone who hears it starts seeing SCP-513-1, a tall, starved-looking figure with huge hands that flees whenever it is spotted and reappears every few minutes to few hours. Victims are never allowed to sleep or be sedated because sleepers are physically attacked by it, and anyone who passes out is to be killed at once. The result is exhaustion, paranoia and depression, and every test subject but one ended by killing themselves; D-class are executed at the first sign of decline, and other victims may ask to be. The duct-taped clapper and the note found with it show someone met the bell before the Foundation, and the note lays out a ladder of contact in which seeing it lets him hear you, touching it lets him see you, and hearing it ring lets him touch you.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

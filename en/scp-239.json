@@ -1,19 +1,23 @@
 {
   "slug": "scp-239",
   "lang": "en",
-  "hook": "SCP-239 is the file on an eight-year-old girl whose wishes come true, and it is short enough to read in one sitting. Go in knowing that the most important document is not the description but the staff report attached at the end.",
-  "whyItMatters": "It is one of the early series' reality-bender files, and it puts a child at the center of a classic Foundation dilemma: how do you contain someone whose only limit is what she believes? The idea of keeping her in check by telling her she is a witch with a list of approved spells is a memorable piece of containment. Doctor Clef's closing report (the article carries his tag) is a large part of what readers take away from it.",
-  "thingsToNotice": "Notice how the file swings between whimsy and severity: a staff note grumbling about Santa Claus sits right beside an order that she must never be woken. The witch story is clever, but it also means her whole sense of self was built by the Foundation, which colors everything else. Clef's report reframes the article by proposing to end her life while she sleeps and volunteering to do it himself, since a shift in her perception would not sway him. The redacted reason for his immunity is left as a tease, so read it as character work rather than an answer.",
+  "hook": "SCP-239 is the file on an eight-year-old girl, raised by the Foundation since birth, who can make anything she truly wants come true within sight. It is short enough for one sitting, but the document that matters most is the staff report pinned to the end.",
+  "whyItMatters": "The article poses a hard containment question through a child: how do you hold someone whose only real limit is what she believes she can do? The Foundation's answer is to tell her she is a witch who may only cast spells from an approved list, a lie that works because she trusts the people raising her. The closing report signed by Dr. Clef (the page carries his tag) turns that question from how to contain her into whether she should be allowed to live.",
+  "thingsToNotice": "The opening procedures already reveal the outcome: she is now kept in a drug-induced coma on a pentobarbital drip, and anyone who tries to wake her is to be killed on the spot. Her history explains why: the hospital she was born in exploded hours after her birth with her as the only survivor, and she once wished away a D-class who hurt her, bringing him back only after being made to feel guilty. A staff note about someone telling her Santa Claus is real and then admitting it was a story shows the danger in miniature, since the Foundation now apparently has a magical Santa it cannot catch. Clef then proposes stabbing her with a needle made of SCP-148, the one material that can pierce her skin, while she sleeps, with SCP-668 on hand in case she wakes, and volunteers to do it himself because a redacted detail in his file should keep him unaffected if she decides he is a good person.",
   "related": [
     {
       "slug": "scp-148",
-      "note": "The telekill alloy used in her containment."
+      "note": "The telekill material lining her cell, worn by her guards, and named as the only thing that can pierce her skin."
     },
     {
       "slug": "scp-953",
-      "note": "Cited by Clef as a warning about trying to control reality-altering anomalies."
+      "note": "Clef cites it as a warning against overrating the Foundation's control of reality-altering anomalies."
+    },
+    {
+      "slug": "scp-668",
+      "note": "Clef recommends the operative carry it during the termination in case she wakes."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

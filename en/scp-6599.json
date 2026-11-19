@@ -1,19 +1,15 @@
 {
   "slug": "scp-6599",
   "lang": "en",
-  "hook": "This is a loud, profane comedy article about an all-caps internet troll who can show up at your door. Expect a lot of crude language, cartoon violence, and pages styled like real forums and subreddits. If you can take the swearing in stride, it is one of the more purely fun reads in the 6000s.",
-  "whyItMatters": "It turns a very familiar online type, the aggressive reply guy who picks fights in hobby communities, into a literal anomaly with consequences. The joke is that the Foundation treats a cartoonish bully with full procedural seriousness, complete with tracking software and failed containment tests. It also builds on another Foundation asset from a separate file, showing how a crossover can be used for an over-the-top showdown.",
-  "thingsToNotice": "The early incidents are basically escalating sketches, each set on a niche hobby board, and much of the humor comes from how specific and petty each argument is. The mock forum layouts do real work here, since the format sells the setting before the punchline lands.\n\nThe fight log is staged like a wrestling match, and it pivots from absurd violence to an odd mutual respect between two loudmouths. The final addenda then quietly turn the article into a redemption story, as the troll starts seeking advice and help instead of fights. The closing email and its changed signature are the payoff for the whole arc.",
+  "hook": "This is a loud comedy article about HOGSLICE, an all-caps forum troll who, if you argue back, may physically show up at your house looking like wrestler Scott Steiner and put you in the hospital. Expect constant profanity, crude sexual insults and slapstick beatings with broken bones, all laid out in mock forum threads and subreddit pages. If the swearing does not bother you, the escalation is a lot of fun.",
+  "whyItMatters": "It takes a very familiar online figure, the aggressive reply guy who picks fights on hobby boards, and gives him a literal body with consequences. The joke is that the Foundation answers a cartoon bully with full procedure: tracking software, Veil cover-ups, and a containment log of failed traps. It also brings in Agent Woodcock and his haunted knife SCP-5175, set up through a crosslinked file, for a staged showdown.",
+  "thingsToNotice": "The early incidents are escalating sketches matched to each board: a cryptid fan who prefers the crying Squonk gets his skull and femurs broken, a Muppet collector is clubbed unconscious with a banjo while HOGSLICE sings an insulting Rainbow Connection, and a Japanese bug-fighting moderator is buried under his own insects and elbow-dropped. Tranquilizers and an electrified room both fail, so Woodcock fights him in the dark like a wrestling match, and the two keep stopping to bond over tattoos, the Joker and how cool the knife's skeletal spirit is. When Woodcock finally stabs him, HOGSLICE praises him as the first opponent who kept up, drives the blade deeper himself to be finished properly, and vanishes in purple mist while Woodcock tears up. The twist is that he survives: the accounts return the next day posting only on therapy and self-help boards, asking how to grow grass, how to calm down, and saying he wants a friend and a therapist, then go silent. Two years later an email arrives saying he quit the internet, joined a biker gang on a Harley, and would get a beer with the knife guy, now signed HOGNICE.",
   "related": [
     {
       "slug": "scp-5175",
-      "note": "The knife-wielding agent's own file, which this article draws on for its big fight."
-    },
-    {
-      "slug": "scp-447",
-      "note": "A very different kind of SCP comedy, built on deadpan repetition instead of volume."
+      "note": "The knife Agent Woodcock wields in the showdown; this file points to it for how the two became bound."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

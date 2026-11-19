@@ -1,19 +1,10 @@
 {
   "slug": "scp-6999",
   "lang": "en",
-  "hook": "This is a very short, quiet article about a piece of music the Foundation made on purpose. There is almost no danger on the page, and that restraint is the point. Read the header details and the email at the top carefully, then read it to the end in one sitting; it takes only a few minutes.",
-  "whyItMatters": "The page credits it as a SCP-6000 Contest entry, and it stands out by doing the opposite of what a big-number contest piece might be expected to do. Instead of spectacle, it offers a gentle, Foundation-made cognitohazard whose only effect is to calm people down. It is a good example of an article where a single framing line recontextualizes everything before it.",
-  "thingsToNotice": "The three test subjects form a small anthology: a parent, an estranged daughter, and an eccentric researcher, each nudged toward a conversation they had been avoiding. The Mann entry is the emotional peak, because someone defined by isolation ends up sharing a table.\n\nThe final briefing is short, and its wording about who gets access and when is what changes the tone. Once you know why the video exists, the hymn's title, the secondary class, and the broadcast towers in the procedures all read differently. The tenderness of the test results becomes bittersweet rather than simply warm.",
-  "related": [
-    {
-      "slug": "scp-513",
-      "note": "A sound-based anomaly that does the reverse, filling listeners with dread."
-    },
-    {
-      "slug": "scp-999",
-      "note": "Another anomaly whose main effect is making people feel better."
-    }
-  ],
+  "hook": "This is a very short, quiet article about a three-minute performance video the Foundation built on purpose. There is almost no danger on the page, and that restraint is the point. Pay attention to the email and the clearance header at the top, then read straight to the end; it takes only a few minutes.",
+  "whyItMatters": "The page says it was written for the SCP-6000 Contest, and it chooses calm over spectacle: a Foundation-made cognitohazard approved by the Ethics Committee whose whole effect is to switch off panic and lower stress hormones. Its tests read less like experiments than like small scenes of people finally reaching out to someone. A single closing paragraph then changes what every earlier line means.",
+  "thingsToNotice": "The three subjects form a tiny anthology: Dr. Ferguson finally talks with his husband about being an absent father, Agent Cortez calls the mother who opposed her emigration and hears her apologize, and the isolated Dr. Mann sits at a cliff edge saying everyone can ascend, then joins a crowded cafeteria table the next day to talk about rat biology. The briefing reveals the purpose: Project AISA exists to soothe humanity ahead of a single, predictable, publicly announced end-of-the-world event, and its files open to all personnel only once that end is imminent. That makes the framing chilling, because the file is normally Level 5 only, yet the header reads level 0, an O5 is mailing it to the general staff list, and the procedures say the towers are already broadcasting it worldwide. Read that way, the end has arrived, and the gentle results you just read are the comfort being handed out as it comes.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

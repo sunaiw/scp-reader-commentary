@@ -1,19 +1,10 @@
 {
   "slug": "scp-4975",
   "lang": "en",
-  "hook": "This is a short read built around a sound: a steady, rhythmic clicking that you will start to imagine yourself by the end. It is a creature file in the old folk-tale mold, a bird-like thing from German forests. Read it straight through, and save the closing nursery rhyme for last.",
-  "whyItMatters": "Its tags place it in the 2019 cliché-themed batch, and it leans into a familiar setup on purpose: a stalking predator safely locked in a cell. What makes it stand out is how it uses that comfortable premise to set a trap for the reader. It is a good example of a familiar monster story made fresh through one well-chosen rule.",
-  "thingsToNotice": "The containment section quietly tells you the whole problem in advance: personnel are told to wait it out alone rather than told how to fight. The note that sightings keep coming in despite the entity sitting in its cell is the hinge, and the struck-through investigation line shows the Foundation giving up in real time.\n\nThe bodycam log works because it is silent and split across two places at once, the forest and the cell, joined only by timestamps. The rhyme then turns the clicking into a cuckoo clock and a heartbeat, so the moment it stops becomes the scariest beat in the piece.",
-  "related": [
-    {
-      "slug": "scp-513",
-      "note": "Another stalker that only its chosen target can perceive, triggered by a sound."
-    },
-    {
-      "slug": "scp-096",
-      "note": "A pursuer that will reach its target no matter how far away they are."
-    }
-  ],
+  "hook": "This is a short creature file built around a sound: a steady clicking made by a beaked, bird-like thing from German folklore as it turns its neck bones one by one. It is fairly graphic about how the creature kills and eats people. Read it straight through and leave the closing nursery rhyme for last.",
+  "whyItMatters": "On paper this is the most comfortable kind of monster story, a stalking predator already locked in a steel cell, and the article sets up that comfort on purpose. Its containment advice is strangely passive, telling staff who keep hearing the clicking to shut themselves away and wait rather than fight. The piece shows how much dread one simple rule about a sound can carry.",
+  "thingsToNotice": "The real problem is that the cell does not contain it at all: the creature never leaves, yet it keeps hunting in Germany, which is why the investigation line is struck out and a Keter reclassification is pending. The silent bodycam log proves it. A Freiburg man who has heard clicking for four months points at an empty tree, is thrown down and beaten by something nobody can see, and a wound opens in his belly that tears wider when an operative tries to drag him free, so the operative on the radio shoots him in the head. Strips of flesh then peel off the corpse one by one and vanish, while the camera in the cell shows the unfed creature, which had stopped turning its neck and was staring into a corner, now eating. The rhyme folds the clicking into a cuckoo clock and a heartbeat and ends by telling a child that when the ticking stops, its time is up.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }
