@@ -1,0 +1,19 @@
+{
+  "slug": "scp-6747",
+  "lang": "en",
+  "hook": "SCP-6747 is presented as Episode II of a series called ADMONITION, subtitled Chaos Theory, and it is a long, dense metafiction about the Foundation trying to bring a dead director back by writing him into a story. Expect a lot of invented pataphysics, narrative dimensions and particles named after plot beats, before the experiment even begins. You do not need to master the theory; treat it as the rulebook for a game that is about to go badly wrong.",
+  "whyItMatters": "The article turns literary theory into mock physics: our reality is half fiction, authors live in higher narrative dimensions, and an eight-step story cycle maps onto eight kinds of imaginon particle. That frame lets it poke at the Foundation as a piece of fiction, from a deadlocked O5 vote broken by a lesser council to senior staff from King's career reappearing as exaggerated caricatures. It names other anomalies directly, with SCP-5875 described as a fictional document created inside one of the test universes and SCP-3812 as the only known being able to manipulate other realities.",
+  "thingsToNotice": "The plan: Director King, who handled over 800 anomalies at once with an augmented brain, dies in a medical accident, and the Pataphysics Department removes his brain and nervous system to run KING, a machine that builds pocket universes, hoping to pull a fictional King back out of one. The tests escalate nicely, an apple that suddenly matters to every story around it, Asheworth's dead dog returning as a cliched heroic movie dog, an invented technician who ends up actually hired, until the King narrative breaks: he reacts to something nobody else can see, a fractal heptagonal spiral opens at his back, and the retrieval team flees.\n\nThe corrupted King, SCP-6747-C, rules the collapsing universe from a throne with caricatures of Bright, Kondraki and Clef, who complain that they are stuck in a triple-nested story falling apart from sheer stupidity, while he insists the chaos is a plan to break into our reality. The fix grows out of Vemhoff's angry remark that rewriting reality is no joke: PHMD decides to make it one, feeding the universe comedic, exaggerated stories until it is real enough to shut King out, and it is renamed the LOL Foundation. A later update hints at damage to a higher narrative universe, and the page closes by announcing that the fourth wall is broken and that the fun never ends.",
+  "related": [
+    {
+      "slug": "scp-5875",
+      "note": "Named in the description as a fictionalized document used to seed one of the test universes."
+    },
+    {
+      "slug": "scp-3812",
+      "note": "Brought up at the second summit as the only known being that could reach into other reality-spaces."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "scp-1780",
+  "lang": "en",
+  "hook": "SCP-1780 begins with an office nameplate for a department the Foundation has never heard of, and opens a door onto a room where time does not behave. It reads as a time-travel mystery assembled from incident summaries, recovered objects and cryptic handwritten notes. Keep track of names and dates as you read; the article rewards noticing when they come back.",
+  "whyItMatters": "Instead of explaining its time mechanics, the article lets you infer them from evidence: wristwatches that always show the right time, bodies recovered before the people died, a pistol that can only be identified years later. That puts the reader in the same seat as the researchers, piecing together some future version of the Foundation from its debris. The final interview adds a real argument about whether the Foundation should ever act on knowledge from the future.",
+  "thingsToNotice": "The neatest trick is the pair of Incidents 1780-01 and 1780-12. Sergeant Hadley is cut off when the door swings shut in 1990 and a Corporal Thompson emerges; sixteen years later Thompson is cut off the same way and Hadley walks out, and both end up in indefinite containment. The footnotes work the same way: two starved bodies found in 1993 prove to be agents who disappeared after meeting SCP-1780-2a in 2006, and a gun found in 1989 is only recognised as a Px4 Storm in 2006.\n\nSCP-1780-2a appears to be the nameplate's own doctor, running a time team called RCT-Δt, firing blanks at researchers and leaving notes asking the Foundation to stop taking his welcome letters, the document that makes anyone who reads all of it disappear. Agent B████, who read it, returns fourteen years later having lived only about three, and argues that the Foundation sabotages itself by refusing to act on a predicted disaster that would kill a million people. The article only records that nothing of that scale happened in the next 90 days, right after he tells Schrader the decision was never hers to make.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "scp-7450",
+  "lang": "en",
+  "hook": "SCP-7450, titled L is for Lamentations, is set after the end of the world: its containment procedures open by admitting the Foundation can no longer contain it. It is bleak, and the second half is a survivor's private journal that includes self-harm and a slow slide into despair. Read the two public addresses closely before the journal, because the journal answers a question they leave hanging.",
+  "whyItMatters": "The page belongs to an anthology whose navigation runs from K is for Keystone to M is for Moonlight, and it opens with a verse from the Book of Lamentations that sets its tone. Its sharpest idea is a new class, Megiddo, for anomalies that have already ended the world rather than ones that inevitably will. The journal also ties the catastrophe to the Foundation's own history, naming earlier anomalies such as 239 and 2000 as part of how things got here.",
+  "thingsToNotice": "The four entities were girls, buried in 1996 at four DEEPWELL sites as a fallback against the end of the world, fitted with wombs meant to run for a thousand years, and then more or less forgotten. When AJAX wrecked 2000 the plan was revived, and once the Overseer's farewell broadcast told the planet about the four last mothers of humanity, eight billion terrified people begging for a saviour turned four thirteen-year-olds into gods. Troy's journal says they shattered AJAX on reflex, then, frightened and needing worshippers, tore through every cognitohazard defence in seconds. Anyone who sees or hears them follows them around the globe forever, no longer aging, feet worn down to the ankles, slowly coming to look like the sister they trail.\n\nThe journal tracks Troy's isolation: a colleague, Henderson, kept bound and gagged in a cell until Troy lets him go to join the procession, sites answering update requests dropping from eight to three to none, letters from Sophia that stop coming. In his last entry he has burned out his own eardrums and taken out his own eyes so he can cross the surface with Pallas nearby, and he signs off cursing Alto, whose daily face photos kept him going for two years and turned out to be a cardboard cutout.",
+  "related": [
+    {
+      "slug": "scp-239",
+      "note": "Named in the journal as the close call that first pushed the Foundation to plan for the end of the world."
+    },
+    {
+      "slug": "scp-2000",
+      "note": "Named in the journal as the discovery that made the earlier contingency look unnecessary."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

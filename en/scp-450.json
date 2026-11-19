@@ -1,0 +1,10 @@
+{
+  "slug": "scp-450",
+  "lang": "en",
+  "hook": "SCP-450 is barely a page long, and nearly all of it is a list of conditions for walking down one hallway. The place is the execution wing of an abandoned federal prison, something hostile lives there, and nobody knows for sure which of the rules is the one that matters. Read it slowly and do the arithmetic as you go; the numbers carry most of the dread.",
+  "whyItMatters": "It shows how much the Foundation format can do while describing almost nothing about the threat itself. We never learn what the spectral presence looks like or how it kills, only that getting its notice is fatal, so all the fear is pushed onto the procedure. The closing lines also play with haunted-house clichés by treating bleeding walls and ghostly voices as routine background for the staff.",
+  "thingsToNotice": "The figures interlock. A 166.5-metre corridor at the 0.25 m/s speed limit takes 666 seconds, the roughly eleven minutes the article mentions, and two of those trips plus three minutes of work land just under the 25-minute ceiling, so there is no slack at all. What is being maintained is a pattern on the wall behind the electric chair, drawn in human blood, which means keeping the haunting in check depends on someone regularly refreshing it with blood; the article never says whose.\n\nAnyone who goes in outside the monthly visit is written off as lost, with no rescue. The last paragraph flips the usual logic: voices, bleeding walls and poltergeist activity are expected, and it is their absence that should worry the team. Staff are also told not to look into any bodies or rotting remains they pass, a quiet hint that such things are there to be found.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}
