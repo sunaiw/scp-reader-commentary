@@ -2,18 +2,9 @@
   "slug": "scp-2950",
   "lang": "en",
   "hook": "SCP-2950 opens as about the dullest file imaginable: a very comfortable folding chair. Read it straight through without scrolling ahead, because the change of voice partway down is the whole point. It is short and works best in one sitting.",
-  "whyItMatters": "The page credits weizhong, and the meta tag fits: its second half comments on how Foundation files are written and read and why some anomalies are described as blandly as possible. It also drags the Serpent's Hand into an uneasy arrangement with the Overseers, which gives a short entry a surprisingly large backstory.",
-  "thingsToNotice": "The deliberately boring first half turns into evidence once the letter explains why it exists: the dullness is itself the containment. That reframes the reader, too, since everyone who takes the chair at face value is quietly helping. The letter reads like a departing boss handing over a secret, ending on congratulations, which makes the burden feel personal. The unanswered question of where the books came from leaves a thread hanging for the next person to worry about.",
-  "related": [
-    {
-      "slug": "scp-055",
-      "note": "Another anomaly whose defense depends on what people know, or fail to know, about it."
-    },
-    {
-      "slug": "scp-3790",
-      "note": "Another file that hints at layers of the Foundation hidden from most of its own staff."
-    }
-  ],
+  "whyItMatters": "The page credits weizhong and carries the meta tag, and it earns it: the second half turns to how Foundation files are written and who is actually allowed to read them. The tag list also includes the Serpent's Hand and a K-class scenario, a hint that a few paragraphs about a chair sit on top of much higher stakes than they let on.",
+  "thingsToNotice": "The second half is a private letter from the outgoing O5-6 to their successor, visible only to someone given a special anti-cognitohazard treatment. It reveals that SCP-2950 is an undefinable Keter-class entity that takes on whatever form most people believe it has, so the bland chair report exists purely to keep everyone believing in a chair. That reframes the reader too: by taking the first half at face value, you have been helping to contain it. The backstory explains the stakes, since a book once described the thing as an XK-class monster, the Foundation acted on that belief, and it became exactly that until a secret meeting with the Serpent's Hand and a joint memory wipe undid it. Each side now keeps one person who remembers, and the letter passes on the unsolved question of where those books came from, closing with congratulations on a promotion that is really a burden.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

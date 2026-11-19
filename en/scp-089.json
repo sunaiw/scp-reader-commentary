@@ -1,19 +1,10 @@
 {
   "slug": "scp-089",
   "lang": "en",
-  "hook": "SCP-089 is short, and most of its weight sits in the containment procedures, so read them slowly instead of skimming ahead to the description. Go in knowing that this is horror about an impossible choice rather than about a monster. The flat, clinical phrasing is doing deliberate work.",
+  "hook": "SCP-089 is short, and most of its weight sits in the containment procedures, so read them slowly instead of skipping ahead to the description. Be warned that the procedures centre on a young child being burned alive. Go in knowing this is horror about an impossible choice rather than about a monster; the flat, clinical phrasing is doing deliberate work.",
   "whyItMatters": "The file presents the Foundation as an institution that has to deal with something ancient on that thing's own terms. Its religious-fiction and mythological tags fit: the statue draws on old sacrificial imagery rather than inventing a new creature. What makes it stick is the protocol's insistence on consent, since the Foundation can arrange everything except the one decision that matters.",
-  "thingsToNotice": "The procedures are framed as a polite list of assistance, with the hardest detail folded into a single clause. The ban on coercion or drugs moves the horror away from the loss itself and onto the requirement that it be chosen freely. The table of past events lets numbers argue the case, setting a response measured in hours against delays measured in years. Dr. Patel's suggestion that the statue may only foresee disasters, not cause them, leaves an uneasy question about what is really being paid for.",
-  "related": [
-    {
-      "slug": "scp-231",
-      "note": "Another file where the Foundation accepts a terrible ongoing cost to hold back something worse."
-    },
-    {
-      "slug": "scp-140",
-      "note": "A ruthless ancient civilization reaching into the present through an artifact."
-    }
-  ],
+  "thingsToNotice": "Protocol M8 is laid out as a polite list of support services, but what it supports is a mother placing her own healthy child, aged between eight months and six years, conscious inside the statue's hollow chest and setting the fuel around it alight. The child takes two to five hours to burn, and the suggestion to sound horns and drums to cover the child's cries is the coldest line on the page. Because coercion, drugs or proceeding without her invalidate the rite and make the disaster worse, the horror shifts from the death itself to the demand that the mother choose it, while staff are told to restrain her afterwards but never sedate her. The table of past events argues in numbers: acting within 31 hours in 1951 meant no deaths, while waiting 1,363 days in 1850 meant casualties in the millions. The last entry is still open, and Dr. Patel's idea that the statue may only foresee disasters leaves it unclear what these children are really being burned for.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

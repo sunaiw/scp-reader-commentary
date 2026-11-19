@@ -1,19 +1,10 @@
 {
   "slug": "scp-082",
   "lang": "en",
-  "hook": "SCP-082 is a character study more than a creature feature. The containment procedures set up an elaborate piece of theatre, so read them first and then watch the description keep pulling against that cheerful arrangement. The tone is darkly comic, and its violence is stated briefly rather than dwelt on.",
+  "hook": "SCP-082 is a character study more than a creature feature. The containment procedures set up an elaborate piece of theatre, so read them first and then watch the description keep pulling against that cheerful arrangement. Expect cannibalism, described in the same breezy tone as the dinner invitations.",
   "whyItMatters": "It is a good example of a humanoid entry whose danger comes from personality as much as physical strength. The containment method is not walls or weapons but a shared fiction that every staff member has to maintain. Managing an entity by managing what it believes gives the article a flavour quite unlike a straightforward physical-threat file.",
-  "thingsToNotice": "The description alternates charm and menace almost line by line: dinner invitations, songs, a large wardrobe, then a sudden reminder of what the subject does. Its inability to separate fiction from reality is ironic, since the Foundation's whole method depends on feeding it a fiction. The list of claimed identities mixes historical figures with cartoon and storybook characters, and the closing excuse turns the clenched-teeth detail into a pun. It is worth asking who is really playing along with whom.",
-  "related": [
-    {
-      "slug": "scp-049",
-      "note": "Another courteous, articulate humanoid whose manners sit right beside real danger."
-    },
-    {
-      "slug": "scp-1193",
-      "note": "Here too, staff go along with a subject's mistaken idea of where it is."
-    }
-  ],
+  "thingsToNotice": "The description alternates charm and menace almost line by line: dinner invitations, Victorian bar songs and a wardrobe that runs from uniforms to clown outfits, then the warning that Fernand may at any moment bite into a visitor's head and eat it, and that he seems to relish skulls. Hunger has nothing to do with it, and what he apologises for is interrupting the conversation, not the killing, which is where the dark comedy bites hardest. The X-rays full of bullets and blades explain why the Foundation settled for telling him he is King of France living in a palace. His inability to tell fiction from reality, down to longing to meet Hannibal Lecter, is ironic given that his whole containment rests on a fiction. The list of claimed identities mixes conquerors with Big Bird and Captain Hook, and the closing excuse turns the clenched-teeth detail into a pun.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

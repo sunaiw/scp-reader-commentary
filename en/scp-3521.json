@@ -3,17 +3,8 @@
   "lang": "en",
   "hook": "SCP-3521 is a comedy, and it helps to know that up front, because it borrows the deadpan tone of a serious incident report. The joke grows out of a scrap of trivia pushed far beyond any sensible limit. Keep an eye on the footnotes; a lot of the humour lives there.",
   "whyItMatters": "The page is tagged with its author's name, dado, who also turns up inside the story as a character sending clipped text messages. It shows the wiki playing absurdity completely straight: the procedures are grim, the losses are real within the fiction, and the premise stays ridiculous. That contrast is what drives the piece.",
-  "thingsToNotice": "The structure holds the explanation back: you see the result and the ruined site before the messages reveal the thinking behind it. The exchange plays like a two-person routine, one side growing more doubtful and the other entirely unbothered. Notice that the scheme misses its own stated goal, since the harm it was designed around is not what actually happens. The footnote about what the site was used for is a dry punchline placed right after the heaviest paragraph.",
-  "related": [
-    {
-      "slug": "scp-3213",
-      "note": "Another comedy that keeps a straight face from start to finish."
-    },
-    {
-      "slug": "scp-1193",
-      "note": "Dry clinical language meeting an absurd situation, with an uneasy edge."
-    }
-  ],
+  "thingsToNotice": "The order is reversed on purpose. First comes the result: a D-class given one pill complains of stomach pain about thirty minutes later, swells and disappears under a growing heap of bananas, the lower levels of Site-92 are crushed within minutes, and 84 staff die; only afterwards do the text messages explain the plan. Those messages play like a two-person routine, a nervous client asking sensible questions while dado, in clipped text-speak, insists bananas beat plutonium because nobody can trace them. The punchline is that the radiation the pills were designed around barely matters, since victims die of blood loss, suffocation or, most often, being crushed by about 9.15 million kg of fruit inside their own stomach. The radioactivity only becomes a problem later, when the pulped bananas turn into a hot slurry that trips a reactor-style alarm at another site, and the footnote calling it lucky that the site stored only objects lands as a deadpan aside right after the death toll.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

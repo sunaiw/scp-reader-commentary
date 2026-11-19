@@ -1,19 +1,10 @@
 {
   "slug": "scp-3740",
   "lang": "en",
-  "hook": "SCP-3740, titled \"God is Dumb\", is a comedy entry about an ancient sky god and the staff who keep him content. The humor is bawdy in places, so expect some crude jokes. Don't skim the containment section; its list of grand pseudonyms is the setup for half the gags.",
-  "whyItMatters": "It turns the usual reality-bender setup inside out: the entity is powerful enough to earn Keter, yet containment rests on staff staying in character. A protocol built on theatre, costumes and props pokes fun at how much machinery the Foundation normally throws at threats of this size. Nods to other parts of the wiki's mythology are scattered through the feast stories for readers who catch them.",
-  "thingsToNotice": "The list of feats that convinced him, from a card trick to a light switch, is the joke structure in miniature, escalating by getting smaller. Footnotes reveal that several of the grandest titles were earned in very petty ways. The final transcript brings in a second god who sees through everything and treats the staff as babysitters, and the closing line turns the hero's gullibility around in a neat reversal.",
-  "related": [
-    {
-      "slug": "scp-3301",
-      "note": "Shares several mythological in-jokes and an equally playful view of the canon's gods."
-    },
-    {
-      "slug": "scp-3004",
-      "note": "A grim, serious take on a god and what people believe about it."
-    }
-  ],
+  "hook": "SCP-3740, titled \"God is Dumb\", is a comedy about an ancient Assyrian sky god and the Site-81 staff who keep him content by playing along. Expect crude humour: propositions for sex, a running penis joke and plenty of swearing turn up in the transcripts. Don't skim the containment section; its list of grand pseudonyms is the setup for half the gags.",
+  "whyItMatters": "It turns the usual reality-bender setup inside out: the entity is powerful enough to earn Keter, yet containment rests on staff staying in character with costumes and props. A protocol built on theatre pokes fun at how much machinery the Foundation normally throws at threats of this size. One researcher's tall tale at a feast even name-drops other corners of the wiki's setting.",
+  "thingsToNotice": "The interview shows the protocol at its silliest: Ashur keeps asking Dr. Leads for sex, and she fends him off by claiming a goblin stole her genitals and left her smooth down there, which he mourns with gales and curses. The list of feats accepted as proof of godhood, from a laser pointer and a cat to flipping a light switch, escalates by getting smaller, and the footnotes add that grand titles came from a drunken sabre bout and a lost game of checkers. In the final transcript Suen, god of the Moon, drops in, grasps the setup and is openly relieved, because the gods have been babysitting Ashur in shifts, with Nergal always busy and a Nazarene drinker skipping his turn for two thousand years. The closing line flips the joke: Ashur, who has just hailed a man licking his own elbow as a mighty lord, laughs that Suen only thinks he is a god.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }
