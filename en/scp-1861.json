@@ -1,19 +1,15 @@
 {
   "slug": "scp-1861",
   "lang": "en",
-  "hook": "SCP-1861 is a strange storm with a submarine attached: when it hits, an old naval vessel surfaces in whatever water is nearby, and its suited crew comes ashore to recruit. The article is tagged as a rewrite and leans on two long interviews rather than a lot of procedure. It relies on atmosphere more than shock, but expect some disturbing imagery in the second half.",
+  "hook": "SCP-1861 is a storm with a submarine attached: when its rain falls, an old naval vessel surfaces in whatever water is nearby, and its diving-suited crew comes ashore urging people to get aboard. The article is tagged as a rewrite and leans on two long interviews rather than a lot of procedure. It builds on atmosphere, but the rain itself is made of blood and spinal fluid, and the second half has mutilated bodies and a grim final image.",
   "whyItMatters": "It is a good example of horror built on an ambiguous rescue. The crew insist they are saving people, and the article never lets you settle whether that is true, which keeps the entities more interesting than a plain abductor would be. The First World War submarine, the rain and the diving suits give it a distinct, memorable atmosphere.",
-  "thingsToNotice": "The two interviews are set up as a pair: the first is a desperate plea from outside, the second a report from someone who went in, and together they show both sides of the same promise. Notice how the second subject's account of the other side resists clear description, and how the interviewer's flippant tone grates against what he is hearing.\n\nThe vessel's captain gets only a few lines, but his vocabulary of an ark and a new world hints at a whole mythology the article chooses not to explain. The closing statement answers the question the second interview keeps circling, and it does so in a single dry paragraph.",
+  "thingsToNotice": "The two interviews are a pair: first a crewman begging a D-Class to come aboard before the rain stops, then a man who did go in, reporting back as one of the suits. His account is the heart of it: an endless passage packed with townsfolk and pets, the hull flooding until everyone pulls on diving suits, then a copy of the same lake where everything, ground and trees included, is liquid. People who take their helmets off dissolve into the water, and the dead float in place with their eyes gone, blood pumping endlessly from the sockets, and the whole mouth bitten away; he even finds the body of the friend now interviewing him. The original captain, Hershel Guthrie, calls the boat his ark and says a watcher of eyes and a biter of teeth judged the dead worthy.\n\nThe interviewer's jokes and his push to take the suit off for science grind against Sal's real fear that none of them are human any more. The closing statement settles it: the helmet comes off, seawater pours out, and the suit holds nothing but two eyes from an eight-year-old girl and the teeth of a red deer, which also explains the crewmen who bark and cry like animals and infants.",
   "related": [
     {
       "slug": "scp-3300",
-      "note": "Cited in a footnote for a similar rain-related phenomenon."
-    },
-    {
-      "slug": "scp-354",
-      "note": "Another body of red liquid that sends things out into our world."
+      "note": "Named in a footnote as showing a similar phenomenon, though the file says no causal link has been found."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

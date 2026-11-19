@@ -3,17 +3,8 @@
   "lang": "en",
   "hook": "SCP-113 is a small red stone that permanently changes the biological sex of whoever touches it. The premise sounds like a one-line gag, but the article handles it as a careful, almost dry biology report. Expect timed stages and exceptions rather than a story.",
   "whyItMatters": "The page carries a rewrite tag, and the current text reads like an effort to treat its premise with care: it separates bodily change from gender identity and states that people's emotional reactions are natural rather than anomalous. That framing makes it a good example of a simple transformation object grounded in real biology instead of shock value. It also shows the Foundation voice at its most methodical.",
-  "thingsToNotice": "The effect is laid out as a sequence with precise durations, which makes the stone feel like a machine running a fixed program. The animal tests are the quiet highlight, using species with unusual sex-determination systems to probe what the object is really keying on and where its logic breaks down.\n\nThe closing paragraphs turn from curiosity to warning: repeated contact is risky, the outcomes are summarized briefly, and then the record is expunged. That cut-off ending hints that the stone is more than a simple switch.",
-  "related": [
-    {
-      "slug": "scp-217",
-      "note": "Another bodily transformation anomaly, this one turning living tissue into clockwork."
-    },
-    {
-      "slug": "scp-500",
-      "note": "A small, harmless-looking item whose effect on the body is purely beneficial, for contrast."
-    }
-  ],
+  "thingsToNotice": "The effect is laid out as four timed stages, from a burn-like bond in a fifth of a second to a full minute in which the body's cells are briefly remade and every sensory nerve fires at once, painful enough that frail subjects can die of shock. That precision makes the stone feel like a machine running a fixed program. The animal tests probe where the program breaks: Komodo dragons pushed to WW chromosomes all die, male nematodes become hermaphrodites, and earthworms simply stop it at stage two.\n\nThe closing paragraphs turn from curiosity to warning. Touching it again soon after carries roughly a one-in-four chance of a botched change, with crushed bones, ruined organs and genitals partly or wholly destroyed, usually ending in death from internal bleeding. Subjects who survive repeated contact are changed into something the record cuts off, and the last line says new anomalous traits keep appearing the more often it is used, so the stone is clearly more than a simple switch.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

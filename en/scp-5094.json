@@ -2,18 +2,9 @@
   "slug": "scp-5094",
   "lang": "en",
   "hook": "SCP-5094 lives inside a forgotten piece of late-90s educational software, the kind of CD-ROM that came with a cheery cartoon host. If you remember those programs, the setting alone will land. Despite the Safe class and friendly subject, this is less about danger than about what an anomaly can mean to the people it touches.",
-  "whyItMatters": "It is a good example of the gentle, character-driven SCP, where the anomaly is kind and the weight comes from human stories around it. The article also uses the Foundation's usual tools, test logs and an interview, to build feeling rather than fear. The 'abandonware' angle gives it a specific nostalgia: software that outlived its company and its hardware but not its users' memories.",
-  "thingsToNotice": "The test logs set up a pattern of extraordinary results paired with one quiet detail each time: how the subject reacts when the lesson ends. Notice how that small note does more emotional work than the impressive academic outcomes.\n\nThe discovery addendum plants a name early that pays off in the interview, where the clinical frame visibly slips and a researcher talks to a childhood teacher. The advertising paragraph about busy parents also comes back, reframed, in what is said near the end. The closing statement then snaps back to dry procedure, which makes the conversation before it hit harder.",
-  "related": [
-    {
-      "slug": "scp-079",
-      "note": "Another intelligence living in old computer hardware, with a very different attitude toward people."
-    },
-    {
-      "slug": "scp-2295",
-      "note": "Another warm-hearted anomaly whose purpose is caring for children."
-    }
-  ],
+  "whyItMatters": "It is a gentle, character-driven SCP, where the anomaly is kind and the weight comes from the human stories around it. The article uses the Foundation's usual tools, test logs and an interview, to build feeling rather than fear. The abandonware angle gives it a specific nostalgia: software that outlived its company and its hardware but not its users' memories.",
+  "thingsToNotice": "The test logs pair remarkable results (a shy third-grader learning cat biology at a professional level, a defiant second-grader mastering rail engineering, a D-Class passing a mock bar exam) with one quiet detail each time: how the student reacts when the lesson stops. The boy has to be carried out of the room, and the adult calls her the best teacher he ever had; that small note does more work than the academic outcomes.\n\nThe discovery addendum mentions in passing that Junior Researcher Xenia Chau found a copy at home, and the interview pays it off. Miss J recognises Xenia instantly, slips into Swahili to check she has kept up her lessons, and the two remember an afternoon when Xenia's father, for once, came home on time; she admits it was just the two of them back then, and the program quietly says she seemed lonely. That reframes the early advert promising to keep children busy while parents work: Xenia was exactly that child. The closing statement then notes, in flat procedure, that this was a different copy from Xenia's, so every instance must share one mind, meaning the teacher she remembered really was the one talking to her.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

@@ -1,9 +1,9 @@
 {
   "slug": "scp-3922",
   "lang": "en",
-  "hook": "SCP-3922 is a small engraved disc that rewrites any fictional video played near it, and the file shows its work through a table of real, well-known films. The premise has a dark comic streak, but the results escalate quickly with each film's rating, and some rows draw on very disturbing source material. Go in knowing the joke has a sharp edge.",
+  "hook": "SCP-3922 is a small engraved disc that rewrites any fictional video played near it, and the file shows its work through a table of real films. The premise has a dark comic streak, but the results escalate sharply with each film's rating. Content note: the later rows start from scenes of rape and torture in the source films and answer them with drawn-out executions, cannibalism and prolonged suffering.",
   "whyItMatters": "The article is tagged metafiction and three-moons-initiative, and it links itself to other files through a shared triple-crescent insignia: both the description and the closing note point to SCP-2578 and SCP-2922. Using real films as test material gives readers a familiar story to measure the object's logic against. The idea of a 'morality filter' taken literally drives the whole piece.",
-  "thingsToNotice": "The central rule is that the intervention scales with the film's rating, so the table works like a ladder: each row raises the stakes, and the response moves further from justice and closer to sheer force. The early rows, with their officious charges against fairy-tale characters, invite you to laugh, which makes the later rows hit harder. In the most extreme case even the end card changes, and that small edit says more about the soldiers than any description does.\n\nRead the closing note as a pivot. It turns the file from a novelty object into a glimpse of a faction with its own base, its own technology and its own idea of what protection means.",
+  "thingsToNotice": "The intervention scales with the rating, so the table reads like a ladder. At G, Pinocchio gets a rescue with a TACTICAL UNDONKIFICATION ORDINANCE, a vaporised Coachman and the Blue Fairy arrested over plant reanimation; at PG-13 the Joker is decapitated by drones and Gotham is put under military occupation. At R the soldiers break up the rape scene in A Clockwork Orange, then spend about three hours machine-gunning Alex's gang one by one long past death and making Alex eat what is left of his friends before shooting him too, which is no longer justice so much as an unbounded show of force.\n\nThe Salò notes are the pivot. The masters are sniped and their captives freed, then the film shows the guardians' own staging base under a stone triple-moon monument, where the prisoners are sealed into gel tanks marked OUBLIETTE and filmed in agony for some eight hours. The usual end card of being watched, protected and loved gives way to a red YOU HAVE BEEN WARNED, and the researcher's closing call to compare SCP-2578 and SCP-2922 turns a novelty object into a glimpse of a faction with its own idea of protection.",
   "related": [
     {
       "slug": "scp-2578",
@@ -15,5 +15,5 @@
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

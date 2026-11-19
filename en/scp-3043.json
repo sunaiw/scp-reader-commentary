@@ -1,19 +1,10 @@
 {
   "slug": "scp-3043",
   "lang": "en",
-  "hook": "Most of SCP-3043 is not written as a report at all but as a hardboiled detective screenplay, complete with scene headings, a gravel-voiced narrator and a fedora-wearing gumshoe. A short email from a baffled site director frames it, so you know from the start that something odd took over the documentation. Settle in and enjoy the pastiche; the actual file entry comes late.",
-  "whyItMatters": "It is a showcase for the metafiction side of the site, where the format of the document itself becomes part of the anomaly. The piece introduces Murphy Law, a character the framing email immediately flags as an anomaly in his own right, and the credits tease a return. It also shows how far the wiki will let a genre parody go while still landing a real containment story underneath.",
-  "thingsToNotice": "Watch the side characters slowly notice that they are inside a genre story, and how the narrator's overwrought similes smooth over every gap in logic. The comedy turns on a clash of authors: one presence trying to rewrite events quietly, another forcing everything into the shape of a noir plot, and the noir plot wins on genre rules alone.\n\nThe brief proper entry, placed after the screenplay, recasts the opening email and explains the bullets and the missing hours in dry Foundation language. The epilogue and closing credits then go back to pure pastiche, letting the joke have the final word.",
-  "related": [
-    {
-      "slug": "scp-2614",
-      "note": "Another playful trip through the conventions of screen fiction."
-    },
-    {
-      "slug": "scp-173",
-      "note": "The narrator's opening monologue nods to it in passing."
-    }
-  ],
+  "hook": "Most of SCP-3043 is not written as a report at all but as a hardboiled detective screenplay, complete with scene headings, a gravel-voiced narrator and a trilby-wearing private eye. A short email from a baffled site director frames it, so you know from the start that something odd took over the documentation. Settle in and enjoy the pastiche; the actual file entry comes late.",
+  "whyItMatters": "It is a metafiction piece where the format of the document itself becomes part of the anomaly. The framing email treats Murphy Law, the detective, as an unknown anomaly in his own right that nobody remembers meeting, and the closing credits tease a return. Under the genre parody it still tells a complete containment story.",
+  "thingsToNotice": "The case is really a fight between two authors. SCP-3043 turns out to be Dr. Lewis's 1937 typewriter, quietly sapient and able to rewrite any document near it and even the stories in people's heads; it was erasing Lewis as she tried to reclassify it as Keter, and it made August insist that Murphy himself was SCP-3043. Murphy wins purely on genre rules, and the typewriter's all-caps rage at being dragged into Bogart fanfic is the funniest part of the page.\n\nThe ending is darker than the jokes suggest. The machine offers to erase itself and seal the lab, goading Murphy to act like a hero; he answers that he isn't one, puts two .44 rounds into it, and the paper is left reading THE END. The dry entry afterwards then accounts for the screenplay's damage, three bullets in August's desk, two hurt guards and three lost hours, and the epilogue has O5-5 let him walk with a Chinatown line, so the Foundation's own leadership chooses not to contain him.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

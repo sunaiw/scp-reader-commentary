@@ -3,17 +3,8 @@
   "lang": "en",
   "hook": "The object here is a llama suit built for two wearers, and the article plays that premise completely straight. It carries both comedy and horror tags and lives right on the line between them: the cheerful mascot voice never cracks, even when it really should. Expect a short read that turns out funnier and bleaker than its size suggests.",
   "whyItMatters": "It is a compact example of black comedy done in the clinical format, where the absurdity of a llama in rain boots gets the same dry treatment as any dangerous artifact. The threat is not a monster but total commitment to a role, which turns a party prop into something unsettling. Pieces like this show how far the Foundation's deadpan voice can stretch before the joke curdles.",
-  "thingsToNotice": "The discovery paragraph tells you the worst outcome before the interviews start, so the logs read as a slow countdown rather than a surprise. Compare the two transcripts: the first subject still talks as himself while defending \"the illusion\", while the second has vanished into Larry entirely and explains away what has happened to his partner.\n\nThe costume is described as docile, and that is the real horror. Nothing traps the wearers by force; they simply never want to leave, and they remember the experience as perfectly normal.",
-  "related": [
-    {
-      "slug": "scp-035",
-      "note": "Another wearable that slowly overrides the person using it, played far more grimly."
-    },
-    {
-      "slug": "scp-2006",
-      "note": "A different anomaly fixated on performing for people, this time trying to scare them."
-    }
-  ],
+  "thingsToNotice": "The discovery paragraph gives away the worst outcome before the interviews start: a couple found dead of dehydration in an abandoned house, the rear wearer bruised all over from being hauled around the rooms for a day after she died. The footnote adds infection from soiled clothing as the other usual cause of death, so the cheerful dancing is also people slowly fouling themselves to death inside a costume.\n\nCompare the two transcripts. After three hours, D-5362 still talks as himself while defending the act; after two days, D-5483 insists he is not James but Larry, calls the men inside him his helpers, and says his partner, dead for two hours and being dragged behind him, is only napping. The costume never holds anyone by force and the wearers come out remembering it all as ordinary, which is the real horror.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

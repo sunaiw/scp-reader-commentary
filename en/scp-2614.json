@@ -1,19 +1,10 @@
 {
   "slug": "scp-2614",
   "lang": "en",
-  "hook": "SCP-2614 is a scratched DVD of a real TV drama that lets the viewer steer the camera beyond the edges of the script. You do not need to have seen the show; the article tells you what matters. Most of the page is a list of short exploration logs, so it reads quickly and rewards following the chain from one screen to the next.",
-  "whyItMatters": "It sits in the metafiction corner of the site, where the real subject is less an object than the nature of fiction itself. The idea that every fictional world holds further fictions, each with its own rules and blind spots, is worked out through the specific grammar of television: scene cuts, commercials, cartoon physics. The log format turns that idea into a kind of travelogue.",
-  "thingsToNotice": "The early entries are gentle and even funny, showing unaired moments behind the drama and the quirks of different genres. As the chain moves further from the starting show, the worlds grow emptier and stranger, and the mood slides from curiosity to dread without any single entry announcing the turn.\n\nWatch the handwritten notes found inside the fictions; they read like messages from somewhere past the camera. The terse final lines, with a classification label and a ban on repeating the procedure, suggest the researchers reached a layer they were not meant to see.",
-  "related": [
-    {
-      "slug": "scp-1230",
-      "note": "Another route into stories, through a book that lets its reader live an adventure."
-    },
-    {
-      "slug": "scp-3999",
-      "note": "A far more aggressive metafiction about the relationship between a story and its writer."
-    }
-  ],
+  "hook": "SCP-2614 is a scratched DVD of the fifth season of The Sopranos that, under one specific trigger, lets the viewer steer the camera beyond the edges of the script. You do not need to have seen the show; the article tells you what matters. Most of the page is a list of short exploration logs, so it reads quickly and rewards following the chain from one screen to the next.",
+  "whyItMatters": "The real subject is less an object than the nature of fiction itself, which fits its metafiction framing. The idea that every fictional world holds further fictions, each with its own rules and blind spots, is worked out through the specific grammar of television: scene cuts, commercials, cartoon physics. The log format turns that idea into a kind of travelogue.",
+  "thingsToNotice": "The early Sopranos entries are small and human, Tony crying in the shower or raging over missing orange juice, and the hops into other films are playful, like Snow White's hidden sequel plot or a commercial world whose 24-second runtime leaves a white wall eating the city. The real descent starts with Sandman, a show that exists only inside The Sopranos: a note by an addict's mattress says there was no God there and that the writer could not die, which the researchers first take as set dressing.\n\nFrom there each layer is a fiction inside a fiction no one has ever seen, and each is worse: Caroline, Caroline is an empty world, in Snakebite every character turns to stare straight into the camera and follow it, and in an unnamed romance the lights go red under a starless black sky. Every screen there shows static, and going through it leads to a bright hallway the camera can only move forward along before the record is expunged. Read that way, the first note on the Sopranos bookshelf calling God the grandfather of art, the Last Temptation entry that ends before a glowing female figure, and the closing DMRG line with its ban on repeating the procedure all suggest the chain was heading toward something like a creator.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }
