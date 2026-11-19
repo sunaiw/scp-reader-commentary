@@ -1,19 +1,10 @@
 {
   "slug": "scp-2256",
   "lang": "en",
-  "hook": "Pay as much attention to the document as to the creature it describes. It is by qntm, an author well known on the wiki for antimemetic stories, and the loss of memory and information is again at its centre. The later paragraphs get harder to read; do not skim them.",
-  "whyItMatters": "SCP-2256 is a compact demonstration of antimemetics: something that resists being perceived or remembered. Where many antimemetic entries frame the idea as a threat, this one turns it into an ecological tragedy and a question about the ethics of research.\n\nIt shows that the format can carry grief just as well as fear.",
-  "thingsToNotice": "The black bars here are not routine redaction. Watch them spread through the History section until whole sentences break apart. The procedures warned that detailed records decay fastest, so the entry you are reading is itself rotting in front of you.\n\nMeanwhile the central dilemma, that watching the species may be what doomed it, is raised and never settled, which works as a quiet indictment. The islanders' myth, in which the creatures guard the horizon, is a small touch that makes the loss feel larger.",
-  "related": [
-    {
-      "slug": "scp-2747",
-      "note": "Another file that seems eaten away by the phenomenon it documents."
-    },
-    {
-      "slug": "scp-055",
-      "note": "A classic antimeme, about what cannot be known rather than what is lost."
-    }
-  ],
+  "hook": "Pay as much attention to the document as to the creature it describes. The byline credits qntm, and the loss of memory and information is at the centre of the piece. The later paragraphs get harder to read; do not skim them.",
+  "whyItMatters": "SCP-2256 is a compact demonstration of antimemetics: something that resists being perceived or remembered. Instead of framing the idea as a threat, it turns it into an ecological tragedy and a question about the ethics of research.\n\nIt shows that the format can carry grief just as well as fear.",
+  "thingsToNotice": "The black bars here are not routine redaction. They multiply through the History section until whole sentences break apart, because the procedures already told you that detailed records rot fastest, and this entry is one of those records.\n\nThe story they eat is grim. The species, kilometre-tall walkers on the sea that only islanders on a mild psychedelic could see, starts dying soon after the Foundation begins watching it; the one close-up photograph kills the animal it captures, and the team comes to suspect that their observation alone is driving the extinction. Someone even floats wiping out the creatures to save the data, or wiping the data to save the creatures, and nothing is decided before the last one dies near Tokelau in 2006. The final paragraphs admit that the paper archive is now going too, with full loss expected within a few years, so the animal is gone and the memory of it is following.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }

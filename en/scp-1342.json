@@ -2,18 +2,9 @@
   "slug": "scp-1342",
   "lang": "en",
   "hook": "A quiet science-fiction piece built around a real object: the Voyager probe and the golden record it carried. It helps to remember what the original record held, music, spoken greetings and pictures of life on Earth, because the article answers that gesture directly. Take it slowly; most of its weight sits in the last document.",
-  "whyItMatters": "SCP-1342 shows that an article needs no threat and no breach to hit hard. Its high rating for an entry with essentially zero danger says a lot about how readers took it.\n\nIt belongs to the Project Heimdall cluster and to the science-fiction side of the wiki, where the anomaly is less a monster than a message.",
-  "thingsToNotice": "The first half is deliberately cold: dimensions, recovery details, a catalogue of images. That restraint is what makes the switch into a first-person letter feel like a door opening.\n\nThe letter recasts the probe as a reply sent backward through time, and it never says exactly who did the harm, which leaves you holding an uncomfortable thought about humanity's future. Notice the choice of music on the record, and how the closing line turns what could have been a warning into something closer to thanks.",
-  "related": [
-    {
-      "slug": "scp-2256",
-      "note": "Another story where people end up behind the decline of a gentle species."
-    },
-    {
-      "slug": "scp-1609",
-      "note": "Also asks you to see events from the side of whoever was hurt."
-    }
-  ],
+  "whyItMatters": "SCP-1342 shows that an article needs no attack and no breach to hit hard; the only real danger is folded into a single line about a contingency project. The anomaly is less a monster than a message, and the file is built so that reading the message is the whole experience. It is a good example of the science-fiction side of the format, where the catalogue voice frames something closer to a letter.",
+  "thingsToNotice": "The first half is deliberately cold: dimensions, recovery details, a catalogue of images that slowly reveals a three-armed species, its music and farms, and a home world wrecked by storms with its orbital stations in ruins. That restraint is what makes the switch into a first-person letter feel like a door opening.\n\nThe letter explains everything. The probe was built in 42,412 AD by a community of about 300,000 on a planet of Gliese 445, who learned science from humanity's broadcasts, shared technology with Earth's governments in secret, and were then struck from the sky by blue flashes from Earth for reasons they never learned. Some of them wanted to send relativistic destruction back in time and burn Earth as it formed. Instead they sent Voyager back, hoping humanity can still change who it becomes, and the letter's last line simply tells us we are beautiful. The Beethoven excerpt on the record and the bowed string instrument in the images quietly make the same point: the gift they are returning is music.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }

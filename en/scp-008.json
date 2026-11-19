@@ -1,19 +1,15 @@
 {
   "slug": "scp-008",
   "lang": "en",
-  "hook": "A short, clinical file behind a heavy clearance banner. There are no interviews or incident logs, only a list of properties and contingencies, and most of the tension lives in what the procedures are prepared to sacrifice. It reads in a couple of minutes, so slow down on each line of the procedures.",
-  "whyItMatters": "SCP-008 is the Foundation's version of the zombie outbreak, one of horror's most familiar premises, recast in the dry voice of a biohazard report. Because the idea is so recognisable, it shows neatly how the SCP format can change a genre staple through tone alone.\n\nIt also sits in the early numbering block, and its addendum links it to another early item, a small glimpse of the first articles starting to reference one another.",
-  "thingsToNotice": "The symptoms are laid out as calm bullet points, and the unease comes from how ordinary that format is next to what it describes. Look at what the procedures leave out: there is deliberately no evacuation plan, and the response to a breach is to sterilise the facility whole.\n\nThe line about Soviet cooperation and a sample whose fate is unknown opens a much larger story in one sentence and then walks away. The final addendum about a cure can be read as relief, or as a reminder that the Foundation keeps some answers close.",
+  "hook": "A short, clinical file behind a heavy clearance banner. There are no interviews or incident logs, only a list of properties and contingencies, and most of the tension lives in what the procedures are prepared to sacrifice. It takes a couple of minutes to read, so slow down on each line of the procedures.",
+  "whyItMatters": "Strip away the lab language and the premise is one of horror's most familiar ones, told entirely through the dry voice of a biohazard report. Because the idea is so recognisable, the article shows neatly how the SCP format can change a genre staple through tone alone. Its closing addendum also points to another numbered item, so it is worth noticing how the file leans on the wider catalogue.",
+  "thingsToNotice": "Read the symptom list as a timeline and it describes a zombie: fever and dementia, coma within about a day, which the file simply counts as death, then a body with thick slow blood that barely bleeds from gunshots, can go a decade without food, and is drawn toward anything that looks, sounds or smells like a living person. If it gets hold of one, it tries to eat them, and the only stated way to stop it is serious damage to the head. The bullet-point format is where the horror sits, since nothing in the phrasing acknowledges what it is listing.\n\nThe procedures are just as blunt: no evacuation plan exists by policy, and a breach, a power cut or eight hours of silence means burning and irradiating the whole site with everyone still in it. The last paragraphs suggest the prion did not come from Earth and that the Soviet Union, after a brief joint effort in 1959, may still hold samples nobody can account for. The addendum then reveals that SCP-500 cures even advanced cases, which makes the scorched-earth plan read either as overkill or as a sign that the cure is not something the Foundation means to spend freely.",
   "related": [
     {
       "slug": "scp-500",
-      "note": "Named in the addendum as a complete cure, so the two pair naturally."
-    },
-    {
-      "slug": "scp-610",
-      "note": "Another contagion entry, far less tidy in how it spreads."
+      "note": "The addendum names it as a full cure for this infection."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }

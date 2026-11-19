@@ -2,18 +2,9 @@
   "slug": "scp-2602",
   "lang": "en",
   "hook": "The joke is in the title, and the article commits to it harder than you'd expect. Read it as a document losing a fight with its own anomaly: the effect is happening to the text in front of you. It's short, so go slowly enough to enjoy how the sentences bend.",
-  "whyItMatters": "2602 is a standard example of the wiki's meta humor, where the anomaly is not an object in the file but something done to the file. Instead of describing an effect, it performs one, so you experience the cognitohazard rather than being told about it. Its swapped-out class header also shows how freely later articles play with the familiar template.",
-  "thingsToNotice": "Watch the compulsion escalate: early sections tuck the reference in politely, while the survey summary and conclusions slide toward pure nonsense. The invented technical terms and the footnote run on the same reflex of explaining everything through the building's past. Underneath the comedy sits a real gap, since nobody can describe the years between the closure and 2004, and the fire damage and odd fixtures hint that something dark happened there. The gag doubles as a cover-up.",
-  "related": [
-    {
-      "slug": "scp-1893",
-      "note": "Another anomaly that rewrites the document reporting on it, used for a sadder effect."
-    },
-    {
-      "slug": "scp-055",
-      "note": "The opposite problem: something that resists being known instead of forcing one fact on you."
-    }
-  ],
+  "whyItMatters": "This is meta humor in its purest form: the anomaly is not an object in the file but something done to the file. Instead of describing an effect, it performs one, so you experience the cognitohazard rather than being told about it. Even the class header has been bent to fit the gag, which shows how far the familiar template can be pushed.",
+  "thingsToNotice": "Watch the compulsion escalate: the procedures and description slip the reference in fairly politely, but the survey summary turns into a parade of invented library hazards, from Dewey radiation given off by damaged patrons to restraints for people with overdue books. It gets darker than it first seems, because Agent Casey is fatally wounded by something in the building's hazardous waste pit, and the report can only explain it by pointing out, again, what the building used to be. The conclusions then collapse into a loop that says the same fact five ways and nothing else.\n\nThe real twist sits underneath the comedy. Nobody can describe what the building was used for between 1988 and 2004, the fire broke out the day the effect began, and the compulsion is exactly what keeps anyone from saying more, so the gag is also the cover-up.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }

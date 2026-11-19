@@ -1,19 +1,10 @@
 {
   "slug": "scp-015",
   "lang": "en",
-  "hook": "SCP-015 is a warehouse packed with plumbing, written up in only a few paragraphs. Read the containment rules carefully before you reach the description; the things staff are forbidden to do hint at what the pipes dislike well before the text says so. It works best as a mood piece, something to picture rather than follow.",
-  "whyItMatters": "It comes from the early stretch of the numbered series, when entries were short, clinical and built around one strong image. There are no interviews and no story arc, just a premise sharp enough to stick. A building that keeps growing its own pipes and quietly reaches toward the neighbors is the kind of urban unease that many later structure articles explore at much greater length.",
-  "thingsToNotice": "The list of pipe materials does a lot of work, and the absence of anything a plumber would recognize is creepier than the strange entries. The ban on repairs is a neat inversion: fixing old pipes is the obvious instinct, yet here even good intentions count as hostility. The last paragraph keeps its numbers plain and lets the missing staff and the noises from inside carry the dread with no explanation at all.",
-  "related": [
-    {
-      "slug": "scp-871",
-      "note": "Another self-copying object where the safe response runs against ordinary instinct."
-    },
-    {
-      "slug": "scp-087",
-      "note": "A different tersely documented structure that leaves its worst parts to the imagination."
-    }
-  ],
+  "hook": "SCP-015 is a warehouse stuffed with plumbing, and the whole report fits in a handful of paragraphs. Read the containment rules slowly before you get to the description; the list of things staff may not do tells you what the pipes object to well before the text spells it out. It works best as a single image to picture rather than a plot to follow.",
+  "whyItMatters": "The article has no interviews, logs or arc, only a premise and a few hard numbers, and it still lands. A building that quietly grows new pipes and tries to hook itself into the neighbors' sewers turns ordinary infrastructure into something with appetite. It is a clean example of how much a short, flat report can do when every rule in it points at the same threat.",
+  "thingsToNotice": "The pipe materials are the first shock: bone, wood, pressed ash, glass, granite and human flesh, while lead, copper or PVC never turn up at all. When provoked, the bursting pipes spray their victim with things like mercury, rats, ground glass, entrails or molten iron, and they keep bursting until that person dies or backs off. The ban on repairs is the neat twist, since even trying to fix a leak counts as aggression here. The final paragraph just gives the count, 11 staff killed and 20 still missing after the thing was cut back from 11 neighboring buildings, then mentions banging and screaming heard from inside, which leaves you to work out where the missing people are.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }

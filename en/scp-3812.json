@@ -1,19 +1,23 @@
 {
   "slug": "scp-3812",
   "lang": "en",
-  "hook": "SCP-3812 is long and builds slowly through an interview, memos, logs and an essay, so give it a proper sitting. It leans on the idea that realities can be stacked like stories inside stories, but the article explains what it needs as it goes. Keep its subtitle, A Voice Behind Me, in mind the whole way through.",
-  "whyItMatters": "It is one of the major works in the wiki's metafiction thread, concerned with authors, characters and the layers between them. It builds on established Foundation lore such as Dr. Scranton's reality anchors and the Hume scale, then pushes those ideas to their limit.\n\nIts event log also links outward to other articles, so it doubles as a node connecting several corners of the canon.",
-  "thingsToNotice": "The file moves from a frightened, apologetic man in the first interview to something almost beyond description, and it is built so that your sympathy survives the change. A message signed with a single initial recasts everything as a creator's mistake, and the Scranton essay supplies the logic of a being compelled to outrank even itself.\n\nThe climax is a conversation between two voices of the same entity, and it ends not in destruction but in a decision to leave, with a final look down at the person writing it. Read the log entries for cross-links too; one of them explains where a much shorter article came from.",
+  "hook": "SCP-3812 is long and builds slowly through an interview, memos, an event log and an essay, so give it a proper sitting. It leans on the idea that realities can be stacked like stories inside stories, but the article explains what it needs as it goes. Keep its subtitle, A Voice Behind Me, in mind the whole way through.",
+  "whyItMatters": "The article is about authors, characters and the layers between them, and it turns that question into a containment problem. It builds on Foundation concepts that the memos explain on the spot, such as Dr. Scranton's reality anchors and the Hume as a measure of reality, then pushes them past the point where measurement means anything. Its event log also ties the entity to several other numbered items, so the file reaches well beyond its own pages.",
+  "thingsToNotice": "The file starts with a man, Sam Howell, who died in 1996 and climbed out of his grave, and in the 1999 interview he is frightened and apologetic, seeing more voices every day and saying that in the story the doctor does not try to help. The log then charts the damage of a mind that can no longer tell real from imagined: cars annihilated, an island and later Mongolia briefly erased, the whole world hearing him scream for help, and a concept, maybe an emotion, that has quietly ceased to exist. The Paraguay addendum, where tungsten rods, a sinkhole and a naked singularity all fail to touch him, reads as someone above the Foundation trying to delete a character.\n\nThe twist arrives in a note signed only B: the author of this universe built something that must supersede whatever supersedes it, and so it supersedes itself, now climbing past its own creator. Scranton's essay supplies the logic for that, and the climax delivers it. During an XK-class end of the world, with seas boiling away and SCP-610 and SCP-2932 breaking loose, two voices of the same entity argue, one seeking revenge on the writer named Ben, the other urging it to let go. They choose to leave, look down at a man at a keyboard waiting to see what they do, and the world is rewritten back as if nothing happened, which is where the subtitle finally pays off.",
   "related": [
     {
       "slug": "scp-2719",
-      "note": "The event log names where this strange, terse object turned up."
+      "note": "The event log says it was found in the crater left after a failed 2009 containment attempt."
     },
     {
-      "slug": "scp-2747",
-      "note": "Another meta piece where nested stories have real consequences."
+      "slug": "scp-239",
+      "note": "The log reports that the remains of an anchor-like entity used against SCP-3812 were reclassified under this number."
+    },
+    {
+      "slug": "scp-2000",
+      "note": "A vanished record says SCP-3812 badly damaged it after its activation."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }

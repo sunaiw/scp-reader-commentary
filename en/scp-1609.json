@@ -1,19 +1,10 @@
 {
   "slug": "scp-1609",
   "lang": "en",
-  "hook": "The containment procedures here include some of the oddest orders staff ever receive: look after a flowerbed and compliment the mulch. Treat them as a puzzle. Why would a heap of wood scraps need praise, plain clothing and silence? The answer comes out gradually, and it is worth not skipping ahead for.",
-  "whyItMatters": "SCP-1609 is one of the clearest arguments for why the Foundation contains rather than destroys, and it makes that case through the Global Occult Coalition, the rival group that leans toward elimination. Instead of an abstract policy debate, the whole point is carried by a single object and what happened to it.\n\nIt is a good entry point if you want to understand how the canon frames the difference between the two organisations.",
-  "thingsToNotice": "The original shape of the object is held back until late, so you first meet it as a hazard and only afterwards learn what it used to be. That reversal turns the earlier rules (no uniforms, no motors, no Coalition jargon) into a list of reminders of how it was hurt.\n\nThe closing memo states the moral outright, which is unusually direct for a file like this; decide for yourself whether the bluntness helps. Notice also that the Foundation's care is framed as practical reassurance, giving the object a job so it stays calm, rather than as simple kindness.",
-  "related": [
-    {
-      "slug": "scp-6820",
-      "note": "A far larger story about the Foundation choosing destruction over containment."
-    },
-    {
-      "slug": "scp-131",
-      "note": "Another anomaly whose behaviour depends on how people treat it."
-    }
-  ],
+  "hook": "The containment procedures here include some of the oddest orders staff could receive: look after a flowerbed and compliment the mulch. Treat them as a puzzle. Why would a heap of wood scraps need praise, plain clothing and silence? The answer comes out gradually, and it is worth not skipping ahead for.",
+  "whyItMatters": "The article makes the case for containing rather than destroying through one object and its history, with the Global Occult Coalition cast as the group that reached for destruction first. Instead of an abstract policy debate, the whole argument rests on what happened to a single thing. It also ends with a staff memo that spells out the Foundation's side, so you get both the case study and the lesson its author draws from it.",
+  "thingsToNotice": "The object's original form is held back until late, so you first meet it as a lethal hazard. When it is provoked, it teleports pieces of itself into the lungs of people nearby, shredding them from inside and choking them to death. Only afterwards do you learn it was once a harmless oak and leather chair, carved as a resting woman, that simply appeared next to anyone who needed somewhere to sit.\n\nThen the twist: GOC operatives fed it through a woodchipper, at least three of them later died in ways investigators tie to it, and it teleported itself into an empty Foundation cell. Read that way, the earlier rules (no uniforms, no motors, no Coalition phrases like 'threat entity') are a list of the things that remind it of being shredded, and the mulch job is a way of keeping a frightened thing busy. Dr. Sievert's closing memo says outright that it came looking for protection; decide for yourself whether that bluntness helps the piece or flattens it.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }

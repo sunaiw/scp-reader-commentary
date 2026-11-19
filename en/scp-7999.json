@@ -2,18 +2,9 @@
   "slug": "scp-7999",
   "lang": "en",
   "hook": "SCP-7999 is mostly a first-contact story told by a Foundation agent acting as tour guide. It's long but easy going, warm and often funny. Keep an eye on the short unattributed conversations between sections and on the distance figure that keeps shrinking; they run on a different clock from the main narrative.",
-  "whyItMatters": "It belongs to the Site-120 stories about the integration program, where the Foundation is slowly lifting the Veil instead of guarding it, which gives the article a hopeful tone that is rare on the wiki. That makes it a friendly entry point to Dr. Asheworth's corner of the setting. It also shows how far the format can stretch: the containment section is brief and the rest is close to a travelogue.",
-  "thingsToNotice": "Once you work out who is talking in the interludes, the cheerful sightseeing reads very differently. Carteckan treats ordinary things, a leaf, a quick portrait, the brevity of a human life, as marvels, and that shift of perspective is the article's real argument. Notice the small flinch at the mention of war, which pays off on Nest. In the last addendum the narration changes hands without warning, so check who is speaking and who is now called it. The closing line turns the distance counter into a farewell.",
-  "related": [
-    {
-      "slug": "scp-4999",
-      "note": "Another quiet, bittersweet article about not being alone at the end."
-    },
-    {
-      "slug": "scp-2000",
-      "note": "A very different take on what a civilization leaves behind when it ends."
-    }
-  ],
+  "whyItMatters": "The containment section points straight to Site-120's integration work, where the Foundation is starting to lift the Veil instead of guarding it, and that premise sets a hopeful tone for the whole piece. Rather than locking the anomaly away, the file becomes a record of what two species choose to show each other. It also shows how far the format can stretch: the procedures are brief and the rest reads close to a travelogue.",
+  "thingsToNotice": "The interludes are the Keradids talking among themselves, and the shrinking distance is not the trip to Earth but the two planets drifting together, because the portal was opened between the two worlds' orbital paths. Read with that in mind, Carteckan's wonder at a leaf, a quick portrait and the shortness of a human life sits next to a deadline it is keeping from Sias. Its small flinch at the word war pays off on Nest: a near-empty city, only eight Keradids left after a conflict Carteckan won't describe, and 345 eggs that have refused to hatch for over a thousand years. At 1,743, Carteckan is the youngest of its kind, the species has accepted extinction, and its one goal was simply to meet another thinking mind before the end.\n\nThe portal must close or Nest will be torn apart, and the last person who knew how to set new coordinates is long dead, so this contact can never happen again. In the final addendum the narration quietly passes to Carteckan, which now calls Sias it, paints the two of them on the nursery wall, and hears something crack in the distance. The counter then jumps to 32 billion light years, and the opening line returns as the last message.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }
