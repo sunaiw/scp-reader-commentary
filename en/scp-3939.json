@@ -3,17 +3,8 @@
   "lang": "en",
   "hook": "This is an interactive article: you play a recently demoted researcher given three days to classify a forgotten object, and the page asks you what to do next. Your choices change what you see. Take your time, try more than one route, and pay attention to anything that feels slightly off.",
   "whyItMatters": "The choose-your-path format is doing more than novelty here: the second-person voice puts you inside the researcher's pride, stress and procrastination. Its author is listed as Croquembouche. It pairs slice-of-life office detail with a mystery about memory, an unusual mix for something presented as a containment file.",
-  "thingsToNotice": "Small inconsistencies are the real content: a name that takes a moment to recall, a colleague who stops answering, hours that slip by, a site director with no record of the object. Many choices boil down to putting the work off or rushing it, so the game quietly comments on how the protagonist works.\n\nNotice how the draft document itself changes as you go, and how often the narration insists everything is fine. Objects that keep reappearing, like the canister left on the desk, deserve a second look.",
-  "related": [
-    {
-      "slug": "scp-055",
-      "note": "The archive's classic antimeme, the explanation this narrator keeps waving away."
-    },
-    {
-      "slug": "scp-6500",
-      "note": "Another interactive entry, on a far larger scale."
-    }
-  ],
+  "thingsToNotice": "The object turns out to be an old gramophone whose record spins with no power and shows no wear after thirteen years, yet the Site Director's database claims there is no SCP-3939 anywhere. The cracks then pile up around the narrator: it takes a beat to remember who Carlos even is, Carlos stops coming in, a nap swallows hours, and a draft that should take a day appears suspiciously fast.\n\nMany choices boil down to putting the work off or rushing it, so the game quietly comments on how the protagonist works. Watch the borrowed office too: it belonged to an amnestics chemist who is no longer around, and his canister of Class B amnestics sits on the desk while the narration keeps saying it would be a bad idea to use it. When you type the word antimemetic into the draft, the narrator scoffs that a real antimeme could not be written down, which is exactly the kind of reassurance the page wants you to doubt.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }

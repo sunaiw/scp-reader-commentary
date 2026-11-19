@@ -3,17 +3,17 @@
   "lang": "en",
   "hook": "This is a very long, multi-part article that unfolds as a set of separate missions, each in its own format and style, and several are full prose stories. Everything starts from one premise: magic and the anomalous are dying out. Set aside real time for it and expect a tour through many corners of the setting; you don't need to know them all to follow along.",
   "whyItMatters": "Its tag list reads like an index of the shared setting: Alagadda, the Wanderers' Library, Three Portlands, the Global Occult Coalition, Deer College and more. It flips the Foundation's usual goal by asking what happens when the normalcy it guards arrives on its own, and casts the organization as fighting to keep wonder alive. A co-authored, interactive piece, it works almost as a celebration of the wiki's many subcultures.",
-  "thingsToNotice": "The opening document drops its clinical voice to argue a moral case, a signal that this Foundation has changed its priorities. Each path reads like a different genre: a quest that knows it is a story, a small-town tale, a folklore-flavored confrontation, and a mission through a door into somewhere else.\n\nCharacters keep talking about narrative itself, and the plot acknowledges storytelling rules before bending them. The post-mission reports, in dry procedural language, recast the adventures you just read and are worth comparing with the stories they summarize.",
+  "thingsToNotice": "The O5-1 letter drops the clinical voice to call letting magic die a form of genocide, and the four paths each chase one artifact in a different genre. The Warrior path is a self-aware quest: Ibanez must formally refuse the call before setting out, and Okorie walls herself in with the freed Hanged King in Alagadda so the others can escape, which Ibanez angrily insists is a sequel hook rather than a sacrifice. In the Mage path a Coalition agent shoots Sinclair and her husband at Deer College and walks off with the Codex, the Cleric path has a monk learn that his oni-slaying power was the staff's all along, and the Thief path is body horror in SCP-106's empty cell, where D-Class Tony learns he is a recycled clone and comes back as a rotting mass carrying the heart of Decay.\n\nThe debriefing pages are the payoff. In flat report language they reveal what the stories left open: Ibanez handed the sword on and vanished into the Tower of London, the shot couple survived and turned the Codex against its thief, and the heart now sits in containment beating once every few minutes while strange things pile up around it. The final Overseer password and whatever lies behind it are not part of the text available here.",
   "related": [
     {
       "slug": "scp-5923",
-      "note": "The lonely town whose call sets one of the quests in motion."
+      "note": "The lonely Turkish city whose visions send Ibanez after the sword."
     },
     {
-      "slug": "scp-6140",
-      "note": "Shares the Daevite tag; 6500's opening also reaches into Daevite history."
+      "slug": "scp-106",
+      "note": "Its abandoned cell and the Old Man's remains are the stage for the Thief path."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }

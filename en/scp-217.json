@@ -1,9 +1,9 @@
 {
   "slug": "scp-217",
   "lang": "en",
-  "hook": "A classic early Keter about an illness that slowly turns living bodies into clockwork. It is short and clinical, and the unease builds from the calm medical tone rather than from any single scene. A few passages about the disease's progress are uncomfortable, though nothing is dwelt on.",
-  "whyItMatters": "It is one of the clearer early links to the clockwork imagery tied to the Broken God tag, presenting that theme as something contagious rather than built. The idea of a body becoming a machine while the person grows duller and more repetitive is a strong, simple picture of losing yourself. Its cross-references to other numbers hint at a larger web without explaining it.",
-  "thingsToNotice": "The symptom notes are the most effective part: a faint ticking that recording equipment cannot pick up is creepier than any late-stage change.\n\nNotice how often the file returns to how long an infection can stay hidden, especially in mammals, which change on the inside first. That shifts the article from body horror toward a fear of crowded offices and malls. The remark that converted parts can be swapped for ordinary metal or wood without harm is both practical and quietly disturbing.",
+  "hook": "A short Keter about a virus that slowly turns living bodies into clockwork. It is clinical in tone, and the unease builds from the calm medical voice rather than from any single scene. Expect plain descriptions of organs being replaced by gears and of the tearing pain that comes with it.",
+  "whyItMatters": "Filed under the Broken God and clockwork tags, it presents that machine imagery as something contagious rather than built. The idea of a body becoming a machine while the person grows duller and more repetitive is a strong, simple picture of losing yourself. Its cross-references to other numbers hint at a larger web without explaining it.",
+  "thingsToNotice": "The symptom notes are the most effective part: a fluttering under the skin and a faint ticking that recording equipment cannot pick up are creepier than the late stages, where hearts become gears and tubes, joints become gear trains, and eyes turn into something like crank-operated cameras. The conversion itself is described as new clockwork organs ripping through tissue before settling in, with pain likened to a knife wound that can last for days.\n\nNotice how often the file returns to how long an infection can stay hidden, especially in mammals, which change on the inside first and can be fully converted before anything shows. That shifts the article from body horror toward a fear of crowded offices and malls, and a whole metropolitan outbreak sits behind a redaction. The remark that converted parts can be swapped for ordinary steel or wood with no ill effect is both practical and quietly disturbing, as is the expunged result of studying a fully converted brain.",
   "related": [
     {
       "slug": "scp-882",
@@ -15,5 +15,5 @@
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }

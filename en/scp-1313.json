@@ -2,18 +2,9 @@
   "slug": "scp-1313",
   "lang": "en",
   "hook": "An uncontained Keter that is, technically, a math problem. The file is short and dry, and it asks you to keep a straight face about grizzly bears behaving like numbers. Read it slowly, because the best jokes hide in the footnote and the set notation.",
-  "whyItMatters": "It sits under the absurdism tag and shows the Foundation voice doing comedy: nothing in the procedures winks at you, which is exactly why it is funny. The idea that understanding something is itself the hazard is a familiar Foundation theme, and here it is pushed into pure deadpan. The author listed for it is MaliceAforethought.",
-  "thingsToNotice": "Notice the inverted containment logic: staff may keep copies of the problem but must never fully grasp it, and solving it is a disciplinary matter. The list of findings treats bears as mathematical objects with total seriousness, down to roots and primality, so the escalation happens in concepts rather than events.\n\nThe closing notice turns the reader into a possible case, an old trick for a short file that still works. Meanwhile the casualty figures are left as bare numbers, which keeps the darker side in the margins.",
-  "related": [
-    {
-      "slug": "scp-055",
-      "note": "A very different file about a subject that resists being thought about."
-    },
-    {
-      "slug": "scp-4444",
-      "note": "Another comedy that runs entirely on the Foundation's straight face."
-    }
-  ],
+  "whyItMatters": "It sits under the absurdism tag and shows the Foundation voice doing comedy: nothing in the procedures winks at you, which is exactly why it is funny. The premise that simply understanding something can be the hazard is played here with total deadpan. The author listed for it is MaliceAforethought.",
+  "thingsToNotice": "Notice the inverted containment logic: staff may keep copies of the problem but must never fully grasp it, anyone caught solving it gets disciplined or even terminated once the bear is caught, and spare bears end up released or fed to other anomalies. The list of findings treats bears as mathematical objects with total seriousness, down to the square root of a grizzly being a prime and squared bears that are too hostile and unstable to survive long, so the escalation happens in concepts rather than events.\n\nThe body count is real, though. Since a 1967 attack at an English high school the file logs over seventeen hundred school bear attacks, roughly 1,600 dead, and a fifth of the bears still loose, all delivered as bare statistics. The closing notice then turns the reader into a possible case, sending anyone who has worked out part of the problem to amnestics and then animal control.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }

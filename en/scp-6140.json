@@ -2,18 +2,22 @@
   "slug": "scp-6140",
   "lang": "en",
   "hook": "Read SCP-140 first if you can; this file is built on it and assumes you know what that book does. It opens with the Foundation bracing for a catastrophic war with a resurrected empire, complete with threat tables and an all-staff bulletin. Don't stop after the first section.",
-  "whyItMatters": "It takes on the Daevite Empire, a long-standing piece of Foundation worldbuilding rooted in SCP-140, and asks who wrote that history and why. Credited to stormbreath and aismallard, it uses the anomaly to talk about Orientalism and how an outsider's account can overwrite a people. It is a strong example of a later article revising an older one rather than simply extending it.",
-  "thingsToNotice": "The two parts mirror each other: one is written from inside the old assumptions, the other from after they collapse. The comparison table is the hinge, so read each row as a correction to something earlier files took for granted. Footnotes about matriarchy and translation do quiet but important work.\n\nThe closing testimony moves the voice from the Foundation to the people it had been describing, and ends on a plea aimed squarely at the Foundation's own habits.",
+  "whyItMatters": "It takes the Daevite Empire as SCP-140 describes it and asks who wrote that history and why. Credited to stormbreath and aismallard, it uses the anomaly to talk about Orientalism and how an outsider's account can overwrite a people. It is a strong example of a later article revising an older one rather than simply extending it.",
+  "thingsToNotice": "The two parts mirror each other: the first is pure war footing, with nuclear-armed Daevites and a Scarlet King pact, but what appears at the equinox is the Republic of Daevastan, a UN-recognized, non-anomalous country that only the Foundation's anchored sites fail to remember.\n\nThe comparison table is the hinge. The Scarlet King turns out to be a fabrication covering up the matriarchal Seven Mothers, Ab-Leshal and Qayin were ordinary rebels, and the slave society really existed but was overthrown and slavery banned for good. The book's author is unmasked as Thomas Bruce, Earl of Elgin, writing under a fake Daevite name, and his own 1788 ritual is what erased the real nation in the first place.\n\nIn the closing testimony Dr. Jad-Leshal Prattan refuses the briefing he was asked for and argues instead that his people deserve to exist. His story of a prince who ate an enslaved child and was hanged by the uprising that followed shows exactly the moment Bruce froze into eternity, and his final plea is aimed squarely at the Foundation's own habits.",
   "related": [
     {
       "slug": "scp-140",
-      "note": "The book this file is built on; read it first."
+      "note": "The Daevite chronicle whose destruction sets this file in motion; read it first."
     },
     {
       "slug": "scp-076",
-      "note": "Able, one of the older files tied into Daevite lore."
+      "note": "Listed in the comparison table as one of the figures the old account got wrong."
+    },
+    {
+      "slug": "scp-073",
+      "note": "Named in the same table row as SCP-076's supposed brother."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }
