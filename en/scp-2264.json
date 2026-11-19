@@ -1,19 +1,15 @@
 {
   "slug": "scp-2264",
   "lang": "en",
-  "hook": "A hidden door beneath a famous London landmark, an alchemist's notes, and a city of masks on the far side. The first half reads like a wry, curious travelogue. Be warned that the later interview turns very dark; it aims to disturb rather than merely set a mood.",
-  "whyItMatters": "SCP-2264 is a key file for Alagadda, the masked city tied to the Hanged King, and its tags place it where that setting meets the Sarkic cults and the Wandsmen. By introducing the Wandsman of Kul-Manas and the four Masked Lords, it lays out much of the vocabulary other stories in this corner of the wiki use. Its framing letter also links the setting to real historical figures from Elizabethan England.",
-  "thingsToNotice": "Pay attention to the narrator's voice. Dr. Narváez writes with opinions and asides, and the Foundation's note asking him to sound more professional is a small joke that also shows how far the city has gotten under his skin. His conversation with the Wandsman is the lighter, scholarly centre of the article.\n\nThe second expedition reverses that tone. The survivor's interview moves from dreamlike confusion to total helplessness, kept largely abstract, and ends with a vision of the King delivered as images rather than facts. The closing letter then reveals that the gate's own builder regretted it, and points toward a play elsewhere in the archive.",
+  "hook": "A hidden iron door beneath Martin Tower in the Tower of London, an Elizabethan alchemist's notes, and a city of masks on the far side. The first half reads like a wry, curious travelogue. Content note: the city is openly orgiastic, and the later interview describes a squad mutilating itself, with gore and the survivor's suicidal despair spelled out.",
+  "whyItMatters": "This is the file that names the masked city Alagadda and sets out who rules it: the Hanged King, his faceless Ambassador and four Masked Lords, with the Wandsman of Kul-Manas as a guide. Its tags tie it to the Sarkic cults and the Wandsmen, and the hints about Adytum and its Karcists point outward to that material.\n\nIts frame is unusual too, pinning the door's origin on Henry Percy, the Wizard Earl, and his circle, including John Dee and Christopher Marlowe.",
+  "thingsToNotice": "Dr. Narváez's report is full of opinions and asides, from his refusal to join the masked orgy to his remark that people given control of a dream mostly choose sex, and the Foundation's request for a more professional tone is a small joke about how far the city has got under his skin. His talk with the bird-like Wandsman in the endless library is the calm, scholarly centre of the piece.\n\nThe Psi-9 expedition reverses that tone. Twelve agents go in; the faceless, black-skinned Ambassador finds them in a grey, ruined double of the palace, laughs, and makes them break their own bones and tear open their own bodies for its amusement while they cannot even scream. Papadopoulos is kept alive as a witness, dragged before a shackled, corpse-like King tended by imps, and sees under its veil 'a god shaped hole'; afterwards his limbs are amputated, he is on life support, he keeps trying to die and refuses food. The closing letter, dated the day of Marlowe's murder, shows Percy begging Marlowe to burn his play and disown his patron, regretting the Janus Gate, and a footnote identifies that play as SCP-701.",
   "related": [
     {
       "slug": "scp-701",
-      "note": "The play the closing letter warns about; the file itself suggests reading it."
-    },
-    {
-      "slug": "scp-2317",
-      "note": "Another sealed door that needs a ritual, with something vast beyond it."
+      "note": "A footnote names it as the play the closing letter begs Marlowe to burn."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }

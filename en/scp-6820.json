@@ -1,23 +1,23 @@
 {
   "slug": "scp-6820",
   "lang": "en",
-  "hook": "A long, heavily styled piece presented as files received from another timeline, and it plays with what you think you know about the canon. Knowing a few of the site's most famous entries pays off, but the less you know about this one going in, the better. There is an accessibility mode if the visual effects get in the way, and some later scenes are intense.",
-  "whyItMatters": "SCP-6820 is the first episode of a series called Admonition, and its tags connect it to a wide web of established lore: groups of interest, old AIs, antimemetics and the noosphere. It is a co-authored, illustrated work that treats the wiki's shared history as raw material, reusing well-known items as tools inside its plot.\n\nIts unusual esoteric object class signals early that it will not follow the standard format.",
-  "thingsToNotice": "The opening puzzle, a weapon built to erase something nobody can recall and a lingering hatred with no target, drives the whole piece, and the clues (reptilian traits, acid, adaptation) let you solve it before the staff do. Watch the small fragments tacked onto the ends of sections; together they form a second voice running under the document.\n\nThe termination attempts double as a tour of other articles, including the terse pointer from SCP-2719. The ending flips the format completely, collapsing into an obsessive, warped rewrite of a very familiar containment file, which makes the erased subject's return its final blow.",
+  "hook": "A long, heavily formatted piece presented as files sent over from an alternate timeline where something went irreparably wrong. It is labelled as the first episode of something called Admonition and leans on a lot of established Foundation material, so knowing a few well-known entries helps, but the less you know about this one beforehand, the better. An accessibility mode is offered if the visual effects get in the way. Content note: the later sections include mutilated staff, impalement and a death by acid.",
+  "whyItMatters": "Its tag list is enormous, touching old AIs, antimemetics, the noosphere, the Broken God and several religious groups, and the breadth is deliberate: other files become raw material for the plot, with well-known numbered items brought in as tools.\n\nThe document also changes shape as it goes, with notes and stray words creeping into the text, so it is as much about a record being corrupted as about the thing it records.",
+  "thingsToNotice": "The opening mystery is a weapon built to erase something nobody can remember, leaving only a shared, unexplained hatred, and the clues let you get ahead of the staff: a genetic map that is mostly reptile, hydrochloric acid, 'adaptiveness', a thing that was neither alive nor dead. The answer is that SCP-6820-A was a hate-centred concept embodied as an all but unkillable reptilian creature, and once the weapon grew a mind bigger than human thought, it caught the very idea it was built to delete. The single words tacked onto passages, like suffer, anguish and despair, are that idea's voice leaking into the record.\n\nEvery termination attempt backfires: the SCP-2140 insignia shows the weapon has always held the seat of O5-8, SCP-2719 turns the node inside out, SCP-079's algorithm gets the chamber rebuilt, SCP-217 sparks a clockwork holy war, and the SCP-001-KATE file vanishes after burying everything except the core. In the emergency meeting, smiling technicians with their fingers gone rewire the Sinks, two Overseers are impaled, and the concept turns out to have absorbed elements of SCP-3125. The last attempt with SCP-055 fails, the creature's poem announces that its form is whole again, and the file collapses into a twisted containment document for the restored ███-███, class 'Perfect', which ends with Genevieve screaming as her chamber fills with acid.",
   "related": [
     {
-      "slug": "scp-682",
-      "note": "Knowing this classic is close to essential for the reveal."
-    },
-    {
       "slug": "scp-2719",
-      "note": "Its concept pointer reappears here as one of the attempted tools."
+      "note": "Used here as a concept pointer to push the infection out, with strange results."
     },
     {
       "slug": "scp-055",
-      "note": "Brought in near the end as an antimemetic countermeasure."
+      "note": "The antimeme the Overseers turn to for the final attempt."
+    },
+    {
+      "slug": "scp-079",
+      "note": "Consulted for help, since salvaged data tie it to the erased subject."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }

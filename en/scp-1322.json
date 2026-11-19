@@ -1,19 +1,10 @@
 {
   "slug": "scp-1322",
   "lang": "en",
-  "hook": "Most of this article is a dated log spanning decades, with a line or two per entry. Go in without expecting monsters; the early stretch is about curiosity and friendship through a very small hole. Read the gaps between dates as carefully as the events themselves.",
-  "whyItMatters": "SCP-1322 is a strong example of the timeline format: the story is carried almost entirely by terse entries, and the reader fills in what happened between them. It also flips the usual Foundation dynamic, showing humanity as the dangerous unknown from someone else's point of view.",
-  "thingsToNotice": "The early entries are warm and specific: exchanged poetry and mathematics, a telegraph line threaded through a gap a couple of centimetres wide. There are early warning signs, like the falsified astronomy data the other side spots within hours, which says something about honesty and about who is ahead technologically.\n\nThe turn grows out of a well-meant act, and the log never comments on it; it simply records the consequences month by month. Afterwards the entries change texture completely, becoming a sparse list of ever more inventive attacks and repairs. Notice that the containment procedures at the top only make full sense once you have finished the log.",
-  "related": [
-    {
-      "slug": "scp-1342",
-      "note": "A gentler story about reaching out to whoever might be listening."
-    },
-    {
-      "slug": "scp-1000",
-      "note": "Another file about humans and a different civilisation, told mostly through records."
-    }
-  ],
+  "hook": "Most of this article is a dated log spanning decades, with a line or two per entry. Go in without expecting monsters; the early stretch is about curiosity and friendship through a hole about two and a half centimetres wide. Read the gaps between dates as carefully as the events themselves.",
+  "whyItMatters": "SCP-1322 is a clear example of the timeline format: the story is carried almost entirely by terse entries, and the reader fills in what happened between them. It also turns the usual Foundation dynamic around, letting humanity be the dangerous unknown from someone else's point of view.",
+  "thingsToNotice": "The early entries are warm and specific: messages in metal cylinders, a shared blend of glyphs and English, an interest in poetry and mathematics but none in medicine, and a telegraph cable threaded through the gap. The first crack is the falsified astronomy data the other side catches within nine hours, along with the detail that their science is ahead of ours everywhere except biology.\n\nThe turn comes out of a kindness. When a flu outbreak hits their world, the Foundation studies a sample, judges it harmless, and sends a vaccine recipe; after eight million deaths it ends the outbreak, and then it turns out to wreck fertility across the whole inoculated world. Births collapse to under a thousand worldwide in 72 days, the offer of more help gets \"YOU HAVE DONE ENOUGH\", and the final message is a vow of revenge from the last generation. From then on the log is a cold list of decades of attacks through the hole: pathogens, particle beams, nanobots, iron rods at 200 km/s, a 108-day energy beam and miniature thermonuclear bombs. The containment procedures at the top, from the vacuum to the radiation, only make full sense once you have read that list.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }

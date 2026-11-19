@@ -1,19 +1,10 @@
 {
   "slug": "scp-2295",
   "lang": "en",
-  "hook": "A short, gentle file about a patchwork teddy bear. The format is the familiar one, procedures then description then a test log, but the temperature shifts quietly as you go. Read it to the very last line; the small document at the end changes how everything above it reads.",
-  "whyItMatters": "Among the wiki's many unsettling toys, SCP-2295 stands out for being purely kind. It is a good example of how the clinical report voice can carry warmth as well as dread: the Foundation's flat language makes the bear's care feel more sincere, not less.",
-  "thingsToNotice": "The test log is built as an escalation: damaged lungs, then a heart, then whole layers of skin, each handled with more confidence. The fourth case breaks the pattern. The bear meets an injury it cannot stitch, and the record shows its reaction purely through what it does, never through any stated feeling.\n\nThe card in the addendum supplies a name and the person the bear was originally for, and its short inscription comments quietly on the bear's limits. Notice also the rule that it always chooses the youngest patient; it makes sense once you know who it was a gift to.",
-  "related": [
-    {
-      "slug": "scp-999",
-      "note": "Another anomaly remembered mostly for being kind to whoever it meets."
-    },
-    {
-      "slug": "scp-500",
-      "note": "A very different, much drier take on an anomalous cure."
-    }
-  ],
+  "hook": "A short, gentle file about a patchwork teddy bear that sews replacement organs. The format is the familiar one, procedures then description then a test log, but the temperature shifts quietly as you go. Read it to the very last line; the small document at the end changes how everything above it reads.",
+  "whyItMatters": "Nothing in this file is a threat; the bear only ever heals, and every recorded subject recovers fully. That makes it a clean example of how the clinical report voice can carry warmth as well as dread: the flat, procedural language makes the bear's care feel more sincere, not less.",
+  "thingsToNotice": "The test log escalates on purpose: smoker's lungs patched from two swatches, a crocheted heart that beats before it vanishes, then whole layers of new skin over a burn victim, each handled with more confidence. The fourth subject, an eighteen-year-old, has a brain hemorrhage, and the bear cannot make anything for it. It scrabbles at the materials in distress for a minute, produces a king-size chocolate bar to offer instead, and spends the rest of the test clinging to the subject's leg with saline running from its eyes.\n\nThe addendum explains the bear: it was found taped to a red get-well card in a crashed mail truck, named Kairos the Bear and addressed to Tommy from his Grammy, saying only time can mend every wound. A present meant for a grandchild who was hurt or sick is why it always picks the youngest patient, and the card's line quietly admits the limit the fourth test just showed.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }

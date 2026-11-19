@@ -2,18 +2,18 @@
   "slug": "scp-3309",
   "lang": "en",
   "hook": "This one opens before the report does: a warning screen and a short, melancholy passage you are asked to get through first. Read everything on the page, including the parts that don't look like they belong to the article. The file is about things vanishing, and it uses the page itself to make that feel personal.",
-  "whyItMatters": "SCP-3309 sits in the wiki's metafiction tradition, where both the joke and the horror depend on the reader knowing the Foundation is a collaborative writing site. Its central idea is pointed: anomalies disappear when their files read like weak, overwritten drafts, so the community's own quality standards become a physical force. An Ethics Committee vote then turns that force into the hinge of the story.",
-  "thingsToNotice": "Look closely at the list of criteria: overbuilt titanium cells, apocalyptic stakes with no real detail, sloppy formatting. It is a checklist of complaints anyone who has read many rejected drafts will recognise, and the Foundation turns it into a weapon after winning approval by a single vote. The test on the Arizona anomaly is staged as a deliberately bad rewrite, a neat bit of self-parody.\n\nThen the narration starts losing people. Smalls' note drifts from routine to dread, colleagues stop remembering he existed, and the final section becomes a mock discussion thread where staff dismiss his pleas as forum roleplay and open a deletion vote. Those fake comments are the actual ending, so don't skip them.",
+  "whyItMatters": "SCP-3309 is metafiction: both its joke and its horror depend on the file being a page on a wiki, with a discussion forum, staff warnings and deletion votes. Its central idea is pointed: anomalies vanish when their files read like weak, overwritten drafts, so the site's own quality standards become a physical force. An Ethics Committee vote then turns that force into the hinge of the story.",
+  "thingsToNotice": "Look closely at the list of criteria: overbuilt titanium cells, end-of-the-world stakes with only partial detail, sloppy formatting. It reads like a checklist of complaints about rejected drafts, and the Foundation turns it into a weapon after the tribunal approves it 21 to 20. The test on the Arizona flooding anomaly is staged as a deliberately bad rewrite, complete with an unrelated picture of a wave, and it works.\n\nThen the people start going. Smalls' note drifts from a white hair to locking himself in his office, a colleague is told no Researcher Smalls ever existed, and the colleague's own account is deleted mid-exchange. The ending is a fake discussion thread where Smalls, posting from a place with nothing in it, recalls 3309 erasing staff, task forces, Sites and finally the very concept of an organization, realizes he is one of the erased, and gets warned by an admin for roleplaying while a deletion vote opens. The closing line turns the question on you, the reader, so don't skip those comments.",
   "related": [
     {
       "slug": "scp-2747",
-      "note": "Named in this file's footnote as a fellow narrative-level hazard."
+      "note": "Named in this file's footnote as another narrativohazard."
     },
     {
       "slug": "scp-5309",
-      "note": "Also cited in that footnote, for more anomalies that act on the text itself."
+      "note": "Listed in the same footnote under the same category."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }

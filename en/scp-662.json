@@ -1,19 +1,10 @@
 {
   "slug": "scp-662",
   "lang": "en",
-  "hook": "A tiny silver bell, and an extremely polite butler who shows up whenever someone rings it. Most of the file reads like a comedy of manners, a running tally of what he will and won't do. Watch how the article builds your expectations, because it is not quite as cosy as it first appears.",
-  "whyItMatters": "SCP-662 is a classic of the useful-anomaly type: an object the Foundation treats less as a threat than as a tool it is a little too pleased to own. It also shows how much personality an early-numbered entry can draw from a simple list format, with the butler's courtesy and his limits doing nearly all the characterisation.",
-  "thingsToNotice": "The addendum is the heart of the piece. Its rhythm of request and result, often a polite refusal, sets up jokes about board games and one doctor who keeps abusing the privilege, then slips a couple of far darker entries into the same cheerful register. That tonal whiplash is deliberate: the bell grants things without weighing the character of whoever rings it, within whatever rules the butler privately keeps.\n\nNotice also the out-of-sight rule. Nobody ever catches him arriving or leaving, and the acquisition story makes clear that the bell, not the man, is what binds him, while the engraving inside hints at a previous owner the file never explains.",
-  "related": [
-    {
-      "slug": "scp-294",
-      "note": "Another ask-for-anything object whose limits are half the fun."
-    },
-    {
-      "slug": "scp-914",
-      "note": "Another item the Foundation keeps feeding odd requests just to map its rules."
-    }
-  ],
+  "hook": "A tiny silver bell with no clapper, and an extremely polite butler named Mr. Deeds who steps out from around a corner whenever someone shakes it. Most of the file reads like a comedy of manners, a running tally of what he will and won't do. Watch how the article builds your expectations, because it is not quite as cosy as it first appears.",
+  "whyItMatters": "The Foundation here treats the anomaly less as a threat than as a convenience it is a little too pleased to own, and the file's own procedures note that its value depends entirely on how it is used. Almost all of the characterisation comes from a plain list of requests and outcomes, with the butler's courtesy and his limits doing the work.",
+  "thingsToNotice": "The request list is where the tone turns: human flesh for a sandwich and human blood to drink are politely refused, but pig blood arrives at once, still warm; he hands over a working military grenade, wins at Monopoly, and washes, launders and badly trims hair for one Dr. Mirth until an O5 has to forbid any more of that. Then, in the same breezy format, an assassination of bin Laden is declined as too difficult, and a D-class in the next room is killed with a buck knife to the throat; the bell never weighs who is ringing it.\n\nThe acquisition story adds a darker frame: a grave robber dug the bell out of a grave, a pawn shop clerk shot Mr. Deeds dead with a sawed-off shotgun the first time he appeared, and his body vanished from the morgue only for him to return, unhurt, when a sergeant picked up the bell. It is the bell, not the man, that holds him, and the 'Forever Mine' engraving points to an owner the file never names.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }

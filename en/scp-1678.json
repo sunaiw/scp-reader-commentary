@@ -1,19 +1,10 @@
 {
   "slug": "scp-1678",
   "lang": "en",
-  "hook": "Expect exploration and slow dread rather than a single creature: a whole buried city, barely mapped, with a recorded voice that greets anyone who walks in. The list of public announcements is the heart of the piece, so do not skim it. It also helps to know that 'Bobby' is old British slang for a police officer.",
-  "whyItMatters": "SCP-1678 is the Foundation's take on the end-of-the-world shelter, filtered through Victorian London and a deeply authoritarian idea of what survival should look like. Its tags place it in the UnLondon setting, and its broadcasts nod to other threats by name, such as the Pattern Screamer.\n\nIt is a strong example of building a place and a whole society almost entirely out of artefacts: posters, recordings and vending machines.",
-  "thingsToNotice": "The welcome speech promises a refuge but ends by announcing a new order under one flag, and the cheerful hourly messages turn cold once you ask who they actually serve. The building flaws multiply with distance from Parliament, neat environmental storytelling about a single mind at the centre.\n\nEvery comfort on offer, food, charity and policing, turns out to be a tool of control. The builder is never identified, so the speaker on the tapes remains the real mystery, and the beggar figures, condemned as traitors in one broadcast, hint at a history of dissent the file never explains.",
-  "related": [
-    {
-      "slug": "scp-2000",
-      "note": "The Foundation's own plan for after the end, a very different vision."
-    },
-    {
-      "slug": "scp-3008",
-      "note": "Another enclosed world where uncanny staff enforce rules on visitors."
-    }
-  ],
+  "hook": "This reads less like a creature file than a field report from a place: a Victorian copy of London a kilometre under the real one, only partly explored and held at gunpoint by the Foundation. Expect some body horror, since the file describes its patrolling constructs in anatomical terms. Take the list of loudspeaker messages slowly, because much of the story is told through them. The file itself notes that 'Bobby' is old British slang for a policeman.",
+  "whyItMatters": "Its tags place it in the UnLondon setting and file it as a K-class scenario piece: a refuge built for whoever survives the end of the world. What makes it stand out is that the refuge comes with a very specific vision of the society that should survive, and that vision is written into every poster, broadcast and vending machine.\n\nVery little happens in the usual narrative sense, yet a whole political order comes through from objects alone.",
+  "thingsToNotice": "The Bobbies are human corpses cut apart at the head, wrists, elbows and knees and bolted back together with hinges and screws, their heads bandaged, wearing police uniforms over prison-style jumpsuits that trace them to Bryson's Home for the Poor. Set that beside the cheerful ad inviting the struggling to that same Home and the broadcast warning that society's tormentors will end up as its defenders, and the charity looks like the place where the poor and the criminal are turned into police.\n\nDr. Goody's Wonderfood is the same trick in edible form: a porridge-like gel that keeps you alive briefly but leaves you dangerously thin and at risk of scurvy after six weeks, while chemically making you obedient, calm, less violent and less interested in sex, with headaches and depression if you quit. The ragged Wretches weep and vanish in black smoke when fed, and the voice calls them traitors who must be damned forever. The construction gets more broken the further you go from Parliament, where the Foundation thinks the builder lives, and the welcome speech ends with that builder promising a new order under the Union Flag across the whole world.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }

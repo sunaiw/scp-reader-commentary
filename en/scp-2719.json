@@ -1,23 +1,15 @@
 {
   "slug": "scp-2719",
   "lang": "en",
-  "hook": "One of the shortest Keter files you will come across: a one-line procedure, a two-sentence description, then a table. There is nothing to explain in advance. Read the table slowly, row by row, and let it build.",
-  "whyItMatters": "SCP-2719 shows how far minimalism can be pushed on the wiki: an odd pair of verbs carries the entire article. Its tags tie it to the hard-to-destroy reptile and to Dr. Reynders.\n\nThe pointer also turns up as a tool in later articles, which says something about how memorable the concept is.",
-  "thingsToNotice": "The table has a rhythm, and the comedy lives in the moments that break it: a parenthetical shrug, a result of Outside, an evacuation that actually works. Watch who is being pointed at as the list climbs, from test subjects to towns to a famous reptile and finally the Overseers themselves.\n\nThe repeated tries on an abstract idea near the end suggest someone aiming at something far bigger than containment, and the last rows imply that the effort has quietly stalled or finished. The one-line procedure only becomes a joke once you reach the bottom.",
+  "hook": "One of the shortest Keter files you will find: a one-line procedure, a two-sentence description, then a table. There is nothing to explain in advance. Read the table slowly, row by row, and let it build.",
+  "whyItMatters": "The whole article runs on one strange pair of verbs, going inside and becoming inside, and never explains either. Its tags tie it to the hard-to-destroy reptile and to Dr. Reynders, both of whom appear in the table.\n\nIt is a clean example of how far a file can get on pattern and implication alone, with almost no prose.",
+  "thingsToNotice": "The rows start small, with a car that already was inside and a run of D-class, then a containment unit where the inside dies. From there the targets escalate: a Finnish city becomes inside while its people going inside turns out to be a working evacuation, and SCP-682 is pointed at again and again until the result is simply Outside.\n\nThen someone turns it on the Foundation itself: the O5s, Punishment, Dr. Reynders, and a hopeful try at Chronology with a 'worth a shot' shrug. The last stretch alternates Transcendence with O5-1, O5-2, O5-3 and O5-4, as if each Overseer is being spent on making it work, and it ends with Transcendence coming back Outside three times in a row. The procedure telling you to keep the thing inside only lands as a joke once you have seen all of this.",
   "related": [
     {
       "slug": "scp-682",
-      "note": "The famous reptile that the table tries again and again."
-    },
-    {
-      "slug": "scp-3812",
-      "note": "One line of its event log explains where this object was found."
-    },
-    {
-      "slug": "scp-6820",
-      "note": "Reuses this pointer as a termination tool."
+      "note": "The reptile the table points at again and again."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }

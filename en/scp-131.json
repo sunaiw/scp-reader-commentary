@@ -1,19 +1,19 @@
 {
   "slug": "scp-131",
   "lang": "en",
-  "hook": "A short, light entry about two small, curious creatures who roll around the site. It works best if you already know SCP-173, the very first article, because the addendum leans on that connection. Expect charm rather than danger.",
-  "whyItMatters": "The Eye Pods are among the site's well-loved friendly anomalies, a counterweight to the horror that fills most of the early numbers. The staff nickname recorded in the file itself tells you how the Foundation's people feel about them.\n\nThey show that the clinical report format can carry warmth as easily as menace.",
-  "thingsToNotice": "The fact that they never blink is dropped casually in the description and only pays off in the addendum, a tidy piece of setup. The procedures mostly protect the creatures and the staff's focus, not people from the creatures, which flips the usual direction of an SCP file.\n\nThe proposal to use them as wardens is both sweet and practical, and it suggests that even a harmless anomaly can find a job inside containment.",
+  "hook": "A short, gentle entry about two small one-eyed creatures who zip around Site-19 on wheels and have no brakes. It pays off best if you already know how SCP-173 behaves, since the addendum leans on that. Expect charm rather than danger.",
+  "whyItMatters": "The file records that staff call the pair the \"Eye Pods\" with affection, and the procedures even threaten a harsh reprimand for anyone who mistreats them. That tone is the point: the clinical report format is used here to describe something closer to a pair of pets than a threat.\n\nIt shows how the same dry template can carry warmth as easily as menace.",
+  "thingsToNotice": "The detail that they never blink, not even across eighteen hours of video, is slipped into the description and then becomes the whole payoff. In the addendum they follow a cleaner into SCP-173's chamber, plant themselves in front of the statue and stare at it the entire time, then roll out backwards without once looking away. Their unbroken gaze is exactly what keeps 173 frozen, and the file ends with the Foundation weighing them as permanent wardens for it and for SCP-689.\n\nMost of the procedures protect the creatures and the staff's concentration rather than people from the creatures, which reverses the usual direction of an SCP file. Their habit of panicking around a bonded person's feet near Euclid and Keter objects is both sweet and a real hazard during delicate work.",
   "related": [
     {
       "slug": "scp-173",
-      "note": "The addendum's key moment depends on this first article's rules."
+      "note": "The addendum's key scene only works because of how this statue moves."
     },
     {
       "slug": "scp-689",
-      "note": "Named in the addendum as another object needing constant watching."
+      "note": "Mentioned at the end as another object that must be watched constantly."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }
