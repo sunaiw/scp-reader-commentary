@@ -1,0 +1,10 @@
+{
+  "slug": "scp-372",
+  "lang": "en",
+  "hook": "SCP-372 is a long, many-legged creature that survives by never being where you are looking. It reads the electrical activity in nearby brains and slips into blind spots and the instants when the eyes jump, so the only sign of it is a flicker at the edge of vision. One of the D-class tests ends in a death and a maiming.",
+  "whyItMatters": "The premise borrows two real quirks of human sight, the blind spot and the saccade, and the article names both. That makes the threat feel like something your own eyes could be hiding from you right now.\n\nThe file is also short and structured as an escalating trio of tests, each adding observers. It is a compact example of a creature defined less by what it does than by the fact that no one can confirm seeing it.",
+  "thingsToNotice": "The discovery story sets the tone: the creature followed a psychiatric patient around and let only him see it, staying out of everyone else's view until he believed he was hallucinating a monster. By the time it was caught he had genuinely broken down under the stress, and the rest is expunged.\n\nThe tests climb in a clear pattern. One watcher in the middle sees nothing and the other glimpses a few flashes; two watchers in opposite corners each spot it fifteen times at the very same moments, because it has to dart between the zones where their blind spots overlap. With four people covering the corners, D-3 collapses after about a second and a half bleeding from a redacted wound and dies, D-4 loses an unnamed body part while hammering on the locked door, and none of the survivors ever saw it.\n\nThe doctor's note admits this is the first time it has hurt anyone apart from the patient, and wonders if it was simply hungry. The closing O5 addendum, banning staff from pretending to spot it to scare jumpy coworkers, shows how far the unease has spread.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-20"
+}

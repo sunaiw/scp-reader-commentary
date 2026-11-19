@@ -1,0 +1,15 @@
+{
+  "slug": "scp-247",
+  "lang": "en",
+  "hook": "SCP-247 is a full-grown tiger that every observer, and every camera, sees as a small striped kitten. Most of the file is a run of animal experiments, each one paired with a real kitten and a real tiger as controls, so you can compare three reactions side by side. Animals and people are killed and eaten in these pages, described without softening.",
+  "whyItMatters": "The anomaly is a perception trick bolted onto an ordinary predator, and the article never lets you forget which part is real. Weight, water displacement and bite moulds prove the tiger, while nobody has ever managed to see anything but the kitten.\n\nThe control-test format does a lot of quiet work. Because the dog, the deer and the chimpanzee each meet a true kitten and a true tiger first, their reaction to 247 tells you exactly which illusion is fooling them and which instinct is not.",
+  "thingsToNotice": "The procedures hide their worst detail in plain sight: footage from anyone who breaks the access rule is kept to train the next cleaning crew. The description then states that people pet it for seven minutes or more before it disembowels and eats them, and the researcher later notes that it toys with humans the way a cat plays with a mouse and kills every one it can reach, hungry or not.\n\nThe kitten test is the eeriest log. On camera it carries the tabby in a mouth far bigger than it should be, and in the repeat run it growls and the kitten flees as if from the real tiger, suggesting it chooses what others see. The chimpanzee grooms it for over an hour before being eaten, and in the grizzly test the Foundation halts the trial to protect 247, sedates the bear, and then watches 247 kill it.\n\nThe last entry pairs it with a male tiger; the result is expunged, Researcher S████ is pulled from the project and is injured badly enough that no further discipline is needed, and the offspring becomes SCP-247-1. Assuming 247 has also bred in the wild, the O5 forms MTF Iota-5, nicknamed \"Tiger Bait\", to track down every hybrid.",
+  "related": [
+    {
+      "slug": "scp-148",
+      "note": "The containment enclosure is lined with it to block 247's psychic field, though not its visual illusion."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-20"
+}
