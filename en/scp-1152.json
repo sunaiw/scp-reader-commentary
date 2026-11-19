@@ -1,0 +1,10 @@
+{
+  "slug": "scp-1152",
+  "lang": "en",
+  "hook": "SCP-1152 looks like an ordinary raccoon, except that it weighs about 75 kg, is clinically depressed, and is missing a digit on one front paw. The file is very short and reads like a routine animal report. Don't skip the footnotes; they carry as much as the main text.",
+  "whyItMatters": "This is a story told almost entirely through implication. The article never states outright what the creature is or how it came to be; it places a handful of lab results and incident notes side by side and leaves the conclusion to you. That restraint is what gives a Safe-class animal file its weight.",
+  "thingsToNotice": "Its genome is not a raccoon's but a near-perfect human match, sharing 99.87% with the late Agent ████, who went missing for thirteen months and whose body was never recovered. It turned up in Site-98's personnel wing already knowing the layout, opens doors, picks simple locks, catches human diseases and receives venlafaxine with its feed. Every meat-eating animal placed with it, even other raccoons, turns hostile.\n\nThe escape log is brisk until its final note. The creature attacked an agent, stole his keycard, and was later found with a phone that had called the missing agent's wife; the five-minute call was nothing but whining and barking. The report attributes the dialing to presumably random button presses, and that single hedge is left for the reader to weigh.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

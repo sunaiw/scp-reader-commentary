@@ -1,0 +1,10 @@
+{
+  "slug": "scp-4780",
+  "lang": "en",
+  "hook": "SCP-4780 carries the Apollyon object class, and it takes well under a minute to read. Go in knowing nothing else. The format of the page is doing most of the work.",
+  "whyItMatters": "It is a meta joke that only lands if you know what a standard SCP file looks like and what an Apollyon rating is supposed to mean. Instead of describing an object, the article turns the submission form itself into the scene of the story. It shows how much a single deliberately broken template can carry.",
+  "thingsToNotice": "The containment section is a typo-riddled plea from Thomas Burter, a level 4 researcher who was writing up a shrink ray when a power surge made it hit him. He admits the Apollyon class was only there to get attention, and he typed the message by jumping on the keys all night while still shrinking, with hungry rats loose in the building.\n\nHis instructions are specific: he is on the desk in room 401 of an advanced research complex, the ray still has power, and someone needs to flip the lever to reverse and fire it at the desk. The description field then fails to upload and the system refuses the entry because it is blank, and the article never says whether anyone came.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

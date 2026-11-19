@@ -1,0 +1,23 @@
+{
+  "slug": "scp-6996",
+  "lang": "en",
+  "hook": "SCP-6996 is the color red. The first half reads like a research dossier, linking red to a long list of existing files, old occult texts and a classified table of deaths; the second half is the log of a single agent sent to find where it comes from. Some of those table entries are brief but violent, and the expedition log is long, so give it time.",
+  "whyItMatters": "Much of the article's pull comes from reusing the wider canon. It sorts familiar anomalies into a taxonomy of Violence, Blood and Power, notes an investigation into links with the Scarlet King, and brings in figures like Dr. Scranton and Administrator Oleander, so readers who know those files will see red in places they had not noticed it. The rest is a slow, personal journey that asks you to sit with one person's memories.",
+  "thingsToNotice": "The corridor shows Agent Cervantes her own life, and strawberries tie it together: the picnic on her brother's second birthday, her father offering a bowl of them after a funeral, and finally one in her palm. The memories don't always match hers; the person waving her off at school is a tearful woman, not her father, and later scenes show missions she never went on, including one where a red Ford Anglia runs her down.\n\nThe entity at the end, a dripping red orb that becomes a bird, an arthropod, a fish and a musical symbol, flips the whole dossier. It says red was present at those deaths without causing them, then shows weddings, wine, an umbilical cord being cut and hands meeting in a popcorn box, arguing that red is love, joy and above all passion, and that the Foundation saw only pain. Its role is to archive everything that happened and everything that could have, which explains the contradictory scenes.\n\nIt also tells her plainly that she will not return home, and she lowers her weapon, accepts that she will stay and watch, and finishes its line about the journey mattering more than the destination; the last transmitted image is a strawberry in her hand before the signal is lost. Looking back, a taxonomy built only from Violence, Blood and Power shows exactly the bias the orb describes.",
+  "related": [
+    {
+      "slug": "scp-939",
+      "note": "Listed under Violence here, with an account of how its present form appeared."
+    },
+    {
+      "slug": "scp-012",
+      "note": "Filed under Blood; this article adds how synesthetic listeners experience it."
+    },
+    {
+      "slug": "scp-3001",
+      "note": "Where Dr. Scranton's control panel came from, mentioned in the classified table."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}
