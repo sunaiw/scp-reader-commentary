@@ -1,0 +1,19 @@
+{
+  "slug": "scp-3484",
+  "lang": "en",
+  "hook": "SCP-3484 starts as a strange but tidy file: an old German anatomy book that teaches you how to take a living body apart by hand and put it back together. Treat the early sections as setup; the real article is the meeting transcript near the end, where the people at the very top argue about what the book actually proves. The body horror is matter-of-fact rather than gory, down to a researcher calmly describing how he slid a bone out of his own arm.",
+  "whyItMatters": "Most files ask what an anomaly does; this one asks whether it is an anomaly at all, and the odd class line, Safe Pending Explained, signals that from the first lines. The argument reaches past the book to the Foundation's own memory: its amnestics, its record keeping, and its confidence that it would notice if something had been erased. Its discovery in a Marshall, Carter & Dark workshop dealing in memory-related chemistry ties it to that company's corner of the setting.",
+  "thingsToNotice": "The early updates quietly undercut the memetic-hazard label: one D-class learns the technique from another without ever seeing the book, and nobody who studied it shows any physical change. The O5 debate turns that into a radical idea, that this is ordinary knowledge humanity once had and then lost, the same way real populations have lost skills before.\n\nThe clue is page 87, where the margin note \"REMOVED???\" sits beside instructions for detaching an extra lobe behind the eyes that no living brain has. The meeting ends on the suggestion that someone other than the Foundation may have dosed the whole world, so the book stays Safe, nothing is added to SCP-001, and the Red Right Hand is put on LETHE alert. Notice too how the December update dissolves into garbage characters mid-sentence, a small visual echo of knowledge being cut off.",
+  "related": [
+    {
+      "slug": "scp-291",
+      "note": "Named in the O5 debate as an anomaly that might also turn out to be a forgotten technique."
+    },
+    {
+      "slug": "scp-418",
+      "note": "Cited alongside 291 when the council asks what else the forgetting theory would explain away."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

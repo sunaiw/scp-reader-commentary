@@ -1,0 +1,10 @@
+{
+  "slug": "scp-411",
+  "lang": "en",
+  "hook": "SCP-411 is a very old man who is ageing backwards and remembers the future instead of the past. The article is short and mostly procedures, but those procedures form a small puzzle: read the interview guidelines slowly and work out what each one means from his side.",
+  "whyItMatters": "It is a compact take on a life lived in reverse, and the Foundation treats him as an early-warning system, with a ranked list of situations, from mandatory to merely suggested, that justify acting on his memories. It also plays with information that comes from nowhere, since most of what the Foundation knows about him traces back to a researcher it has not hired yet.",
+  "thingsToNotice": "Because his memory runs backward, your first meeting is his last one with you, which is why visible distress is not a cause for concern; he also answers questions before they are asked, and staff must still ask the questions he has already answered. Even the language note is a joke on time, recommending Spanish, Mandarin or Cantonese, a redacted item and Haskell as preparation for his English.\n\nThe central paradox is Dr. Lyetacker: the information came from him, via 411's memories of work Lyetacker has not done yet, so the Foundation will not look for him and plans to stage a data breach and wipe everything on 411 once he joins. That means the file is scheduled for its own erasure, and everything you just read is meant to vanish. Small touches, like his being unable to recall tonight's dinner, keep him human.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

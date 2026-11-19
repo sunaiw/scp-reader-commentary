@@ -1,0 +1,15 @@
+{
+  "slug": "scp-5243",
+  "lang": "en",
+  "hook": "SCP-5243 opens with a timetable: every 8 September, Site-43 staff must hit their marks to the second, say particular lines, and let certain people die. Read the schedule closely before the incident report, because every odd entry in it pays off later. The deaths are concrete and often surreal, with people turned inside out, melted into droplets, or transformed into a tree or a pile of fruit.",
+  "whyItMatters": "The page is styled as a Site-43 document with a sizable named cast, and its footer places it in a sequence titled Words of Power and Poison. Its central idea, containment as a yearly re-performance of a disaster, turns the Special Containment Procedures themselves into the drama. It also shows how a time-loop premise can carry moral weight instead of being only a puzzle.",
+  "thingsToNotice": "The 2002 report maps neatly onto the timetable: the director stepping out to the washroom becomes an order that he \"must fail to answer\", and Blank's remark, the collision with Wettle and Nascimbeni sealing three agents inside all turn out to be required. The reprises are not re-enactments but the original event happening again; if someone who should die survives, a new timeline forms, and only the seven surviving responders keep their memories and must set things right a year later.\n\nThe containment-loss table tells its own story: five failures, a climbing percentage, then a flat line after the task force restores and recaptures the entity behind it all in 2019. The hardest thread is Dougall Deering, whose heart attack was thought unrelated but who keeps dying on cue until 2013, when he lives and Ibanez is ordered to execute him; she protests, leaves her post, and his death becomes a scheduled lethal injection. Dr. Zlatá's 2015 death by a scheduling error, ending as pink-skinned half-lemons, shows the loop absorbing new victims with a grim comic edge.",
+  "related": [
+    {
+      "slug": "scp-5109",
+      "note": "Linked as the preceding entry in this article's Words of Power and Poison navigation."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}
