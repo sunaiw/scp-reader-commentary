@@ -1,0 +1,15 @@
+{
+  "slug": "scp-3009",
+  "lang": "en",
+  "hook": "SCP-3009 is about a Snapchat account that insists it is the teenage girl who created it, while that girl is also in Foundation custody insisting exactly the same thing. Much of it plays out in chat logs and selfie captions, so the tone is often light and jokey. It grows heavy later, dealing with depression and ending on a note about suicide risk.",
+  "whyItMatters": "The premise is an identity puzzle that biology can't settle: both claimants share the same memories, while only one has the body. The article hands that philosophical question to a junior researcher and two versions of a fifteen-year-old instead of turning it into a lecture, and its ethics-committee tag hints at where the real weight sits. It also asks what the Foundation's mandate means when the subject might just be a frightened kid.",
+  "thingsToNotice": "The two opening interviews mirror each other almost line for line, down to the same gap in remembering a passport number, and the later tests keep coming out close, with the account usually a little ahead. The joint session is the centre of the file: the account is breezy and teasing, tells the girl she is bad at staying in character, and suggests she might only believe she is Stacey. Her journal afterwards is the emotional core, describing the account as a happier past self preserved like an insect in amber and admitting that she now thinks of herself as 3009-C. The evaluation concludes she is probably harmless but must be held indefinitely anyway, and the last update places her on suicide watch, which makes Dr. Coles's earlier musing about whether the account would outlive its body much darker.",
+  "related": [
+    {
+      "slug": "scp-2232",
+      "note": "Appears in one of this file's experiments as a crosstest partner."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

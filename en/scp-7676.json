@@ -1,0 +1,15 @@
+{
+  "slug": "scp-7676",
+  "lang": "en",
+  "hook": "SCP-7676 is long and framed as a gated document: you read it as a particular researcher, and between sections the page reports a scan of your eye movements. Expect a second voice to creep into the text, sometimes replacing a line outright. The file opens with its own content warning, and it includes facial mutilation, the deaths of children and infants, and a self-inflicted shooting.",
+  "whyItMatters": "The anomaly weaponises nostalgia: the infohazard spreads through fond memories of school life, so the safest staff are the ones with the least ordinary childhoods. The file links itself to a wider background by naming the group Syncope Symphony and a piece called On Mount Golgotha, and its tags (class-of-76, on-mount-golgotha) mark those threads. The scan readouts are not decoration; they are how the story eventually turns toward the reader.",
+  "thingsToNotice": "The big reveal is where the music comes from: the auditorium choir is reproducing SCP-012, and the ten-note melody is only the overture to a larger piece. The intrusions grow steadily more personal, addressing Julia by name and bringing up Amalie, and the late letter explains why: in 1975 Locke lost a premature daughter after twenty-three days, and she now resolves to walk back into the school and sing with the chorus, calling it the Foundation's duty to protect. The final scan flags her as compromised, the system fails its own checks, and the voice tells the reader they are not Julia at all before announcing that the concert is starting. In hindsight the early clues are everywhere, from the number twenty-three slipped into the Abrams interview to the note that only staff who were home-schooled stayed uninfected.",
+  "related": [
+    {
+      "slug": "scp-012",
+      "note": "Named in the file's research into the music coming from the auditorium."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

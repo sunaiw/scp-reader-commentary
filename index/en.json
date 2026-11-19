@@ -634,6 +634,10 @@
       "status": "reviewed"
     },
     {
+      "slug": "scp-1884",
+      "status": "reviewed"
+    },
+    {
       "slug": "scp-1893",
       "status": "reviewed"
     },
@@ -699,6 +703,10 @@
     },
     {
       "slug": "scp-2020",
+      "status": "reviewed"
+    },
+    {
+      "slug": "scp-2021",
       "status": "reviewed"
     },
     {
@@ -946,6 +954,10 @@
       "status": "reviewed"
     },
     {
+      "slug": "scp-2790",
+      "status": "reviewed"
+    },
+    {
       "slug": "scp-2800",
       "status": "reviewed"
     },
@@ -1031,6 +1043,14 @@
     },
     {
       "slug": "scp-3008",
+      "status": "reviewed"
+    },
+    {
+      "slug": "scp-3009",
+      "status": "reviewed"
+    },
+    {
+      "slug": "scp-3017",
       "status": "reviewed"
     },
     {
@@ -1271,6 +1291,10 @@
     },
     {
       "slug": "scp-3942",
+      "status": "reviewed"
+    },
+    {
+      "slug": "scp-3949",
       "status": "reviewed"
     },
     {
@@ -1818,6 +1842,10 @@
       "status": "reviewed"
     },
     {
+      "slug": "scp-7676",
+      "status": "reviewed"
+    },
+    {
       "slug": "scp-7777",
       "status": "reviewed"
     },
@@ -1863,6 +1891,10 @@
     },
     {
       "slug": "scp-835",
+      "status": "reviewed"
+    },
+    {
+      "slug": "scp-8411",
       "status": "reviewed"
     },
     {
