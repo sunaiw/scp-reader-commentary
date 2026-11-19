@@ -1,0 +1,10 @@
+{
+  "slug": "scp-3312",
+  "lang": "en",
+  "hook": "SCP-3312 is a memetic website disguised as a fan page that draws people into the furry fandom and keeps drawing them deeper. At first it reads like a joke at the fandom's expense, interleaved with chat logs from the small online group that built it. Later stages involve deaths, attempted bestiality, suicides and cannibalism, all recorded in the same clinical voice.",
+  "whyItMatters": "The file is built as a staged infection, alternating stage descriptions with the creators' chat logs, each dated by how many days the site has been live. The group behind it is described as amateur entrepreneurs who have run the same play on other fanbases before, so the threat is a business model as much as an anomaly. That alternation lets the gap between flippant chat and catastrophic case notes widen with every section.",
+  "thingsToNotice": "The first log sets up the cast: MPerry openly despises furries and resents needing mind control to sell olliefox's merch, and Dylan99 insists he is into anime instead. The stages climb from interest in mascots to obsession, childlike speech, hoarder-level squalor, believing oneself to be one's character, and finally full regression to the character's animal instincts, with predators killing anyone. By day 60 Dylan has a red panda fursona, MPerry is shouting that someone ate a baby, and olliefox says he only knows how to start the effect, not how to end it. In the day-234 log MPerry lists everything he has lost, says the only thing keeping him from suicide is a fursuit in the mail, and signs off with an emote. The task force bodycam from his filthy Oklahoma house finds him lisping for help like a child before he lunges at November; the lens cracks and the audio keeps only giggling and wet squelching.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}
