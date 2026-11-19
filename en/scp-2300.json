@@ -1,0 +1,19 @@
+{
+  "slug": "scp-2300",
+  "lang": "en",
+  "hook": "SCP-2300 is a short, dry file about 98 tiny figures, each one made of a single chemical element. It gets much more fun if you stop reading it as a hazard report and start reading it as a description of a society. Watch how a periodic table quietly turns into a kingdom, a monastery and an art scene within a few paragraphs.",
+  "whyItMatters": "The article takes a chart everyone remembers from school and builds a culture on top of it, with rank tied to which period a figure sits in. The danger level barely matters; the appeal is how much worldbuilding fits into a page.\n\nThe gallery passage is the most human part of it. Nothing is screened before it goes up, the veterans dislike a good share of what they see, and a piece can stay on the wall simply because enough newcomers like it.",
+  "thingsToNotice": "The hierarchy is oddly precise: the figures numbered 2, 10, 18, 36, 54 and 86 are treated as nobles over their periods, yet the top noble, -2, regularly defers to -1, the cleverest of them all with a Foundation-measured IQ of 132. Numbers 87 through 98 reject the monarchy entirely and form a monastic order taught directly by -1, and while they meditate they simply stop decaying. Their bodies double as raw material: they carve themselves into tools for a task, sometimes becoming a tool from head to toe, and the others then have to force-feed them so they can regrow. If the mouth itself is wrecked, a new figure is assembled from the leftovers with no memory of what it was, and the group has to teach it its own culture from scratch. The containment section also slips in a rule the description never explains, that these figures must never be kept at the same facility as SCP-2046.",
+  "related": [
+    {
+      "slug": "scp-148",
+      "note": "The file ends on a pending proposal to use the figures to extract anomalous elements from it."
+    },
+    {
+      "slug": "scp-2046",
+      "note": "Named in the containment rules as something that must never share a facility with SCP-2300."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-20"
+}

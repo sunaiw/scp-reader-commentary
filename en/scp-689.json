@@ -1,0 +1,19 @@
+{
+  "slug": "scp-689",
+  "lang": "en",
+  "hook": "SCP-689 is a small green soapstone statue with a simple rule: it stays where it is only while a human being is watching it. The statue itself is barely described; what makes the file frightening is the containment section, which states plainly what the Foundation will do to its own staff the moment anyone looks away.",
+  "whyItMatters": "The watching rule is easy to grasp, but the file gives it a nasty twist. The danger falls not only on whoever looks away but on everyone who has ever laid eyes on the statue, so every viewing quietly widens the pool of people at risk.\n\nThe procedures are ruthless in a very administrative way. Remote kill devices are suggested for the observers, and execution of witnesses is written in as routine policy rather than a last resort.",
+  "thingsToNotice": "The staffing rules set the tone: two Class D must keep it in sight at all times, the operator outside must be blind or wear a visor that blocks all sight, and if the lights fail or observation lapses, every living person who has seen the statue is to be killed at once. Once unwatched it vanishes, and within 15 to 20 seconds someone who once saw it dies, from anything between a heart attack and every organ rupturing, with the statue reappearing on top of the body. Victims in crowds seem to be preferred, apparently because more people will then see it, while images on a recording do not mark the viewer. Document 689-B suggests turning it on SCP-682, and the staff response is as cold as the procedures: kill every other viewer first, and ideally all Class D before the attempt.",
+  "related": [
+    {
+      "slug": "scp-682",
+      "note": "Document 689-B proposes deliberately exposing it to this statue."
+    },
+    {
+      "slug": "scp-6871",
+      "note": "Another file in which the Foundation tries to get rid of SCP-682 by turning a different anomaly on it."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-20"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "scp-6871",
+  "lang": "en",
+  "hook": "SCP-6871 is a ritual that erases its target from the timeline, and nearly the whole file is a single test log, so the story unfolds one row at a time. It opens with something as small as a dollar bill; pay attention to who is running each test as the targets grow. The final lines change how everything above them reads, so take it straight through without skipping ahead.",
+  "whyItMatters": "The article pulls in a large slice of the setting's wider cast, from well-known objects to rival organizations and the Foundation's own leadership, and uses each removal to show how those pieces hold the world together. The log format does the storytelling on its own: the results column becomes a chain of cause and effect that the reader has to put together.\n\nIts Thaumiel class matters here. The ritual is meant to be a tool for the Foundation, and the log shows what follows as the people with access to it climb higher.",
+  "thingsToNotice": "The early tests are almost gentle: erasing a dollar bill a researcher named Brenda once spent on coffee leaves her more tired that day, while erasing her lets her rival Williams rise, and erasing him costs the Foundation seven SCP discoveries, with D-class removals used to roll everything back. Elias Shaw shows the ritual's limits, since his 126 hosts are simply replaced until SCP-963 itself is removed, and the Administrator's attempt to erase SCP-6871 is blocked to avoid a paradox. Then O5-12 goes off the books, SCP-682 comes back seconds later with a one-word verdict, Pathetic, and erasing SCP-1000 leaves humanity in charge of a world full of gods and technology, so O5-12 is erased to undo it. Later O5s remove Alpha-1, then D.C. al Fine, then Grand Karcist Ion, and each fix makes things worse, ending with humanity stuck in the bronze age for millennia and the whole O5 Council gone. Test 18 belongs to the Administrator with no target listed, the result is only an apology, and the closing note has the Coalition finding this file in ruins at least 2,000 years old, with no trace that any SCP Foundation ever existed.",
+  "related": [
+    {
+      "slug": "scp-682",
+      "note": "One of the targets in the test log, chosen by a member of the O5 Council."
+    },
+    {
+      "slug": "scp-1000",
+      "note": "Also appears as a test target; its entry shows how much rests on a single species."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-20"
+}
