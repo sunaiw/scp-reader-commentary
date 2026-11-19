@@ -1,0 +1,15 @@
+{
+  "slug": "scp-1472",
+  "lang": "en",
+  "hook": "SCP-1472 is a strip club in East St. Louis that only opens between 2:00 and 3:30 on Saturday mornings, and nearly the whole article is one night in its audience. It plays like a variety bill where each act is stranger than the last, mixing nudity, absurd gags and real bodily harm. Expect explicit nudity, a decaying headless performer and a graphic on-stage death.",
+  "whyItMatters": "It is a comedy-horror entry whose humour comes from deadpan Foundation reporting of things that make no sense, with the cover charge, the tipping and the house rules treated as seriously as the casualties. The structure, a posted schedule followed by act-by-act notes, puts the reader in the same seat as the test subjects, reading the programme and dreading what each cryptic title means. It also pulls another Foundation object into its finale, a reminder that entries in the series can borrow from each other for effect.",
+  "thingsToNotice": "Tipping is the running joke: every act reacts to money in some ridiculous way, from Helen Keller breaking off her striptease to recite poetry, to the headless dancer pushing a five-dollar bill into her exposed trachea, to an old Gateway PC that asks for cash in its floppy drive. The raptors in maid costumes simply shake down two subjects for everything they have, and the gelatinous elders tip nothing back but migraines and tinnitus.\n\nThe last slot, listed only as illegible cuneiform, turns out to be a copy of SCP-1093 in a mawashi that knocks D-3432 out and removes his organs onstage from largest to smallest, while SCP-1472-1 stops the rescue attempt because the dancers may not be touched. The note that the real 1093 never left its cell suggests the club books impossible duplicates rather than stealing real acts. The closing image, the doorman calmly smoking a cigar as two irradiated survivors stagger out and the body is never found, is the article's driest joke.",
+  "related": [
+    {
+      "slug": "scp-1093",
+      "note": "Referenced by number in the test log."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

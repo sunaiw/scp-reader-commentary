@@ -1,0 +1,15 @@
+{
+  "slug": "scp-5370",
+  "lang": "en",
+  "hook": "SCP-5370 is a game of chess on an infinite board, with 128 pieces a side and ten years allowed per move, and the Foundation is winning comfortably. That lead is the problem, and the file takes its time explaining why. The ritual in the middle involves hooks, harvested human material and an eyeball being eaten, and it is described bluntly.",
+  "whyItMatters": "The Thaumiel class tells you the game is a tool, and the article slowly reveals what it is used for and what it costs. It is arranged as a series of addenda that each answer the question the previous one raised, ending with the original proposal instead of opening with it. Its real subject is institutional memory, the cost of losing experienced people, and it gives that bureaucratic worry a genuinely eerie answer.",
+  "thingsToNotice": "The strategy addendum is the first jolt: BLUE TEAM plans to play as badly as it can, because the Ethics Committee found that ending the game would be unacceptable for RED TEAM given the nature of their confinement. The sample log then shows what a conversation costs, with 37 volunteers stripped of qualities like divorcee, former alcoholic and father of two, the Master of Ceremonies outed by a Hand tattoo before supplying the betrayal needed to reach a traitor, and the new ethics liaison forced to eat an eyeball and call out the move.\n\nThe final proposal recasts everything: a 'blackroom' that captures every staff member who dies in the line of duty, built as a morally neutral space so nobody is shut out by what they did on the job, and reached through chess so infohazards can be filtered out automatically. It never names RED TEAM outright, but it leaves little doubt about who is sitting across the board. The traitor's reply, with its tip about foster homes and its jab at O5-11's husband, lands differently once you know that.",
+  "related": [
+    {
+      "slug": "scp-2508",
+      "note": "Also about knowledge passed from Foundation staff to whoever comes after them."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "scp-3480",
+  "lang": "en",
+  "hook": "SCP-3480 is the summit of Mount Olympus, where reality is thinner than anywhere else the Foundation has measured, and every so often an unconscious person appears there wrapped in white light. The procedures read like a military operation, and the article keeps circling the question of where these people come from. Keep an eye out for a second item number further down the page.",
+  "whyItMatters": "It ties a classical setting to the Foundation's machinery of Hume levels, reality anchors and K-class scenarios, and names like Protocol Kronos, Paris's Arrows and Achilles Heels keep that link in view. Its incident table is an efficient way to show escalation, letting a few lines per entry stand in for whole disasters. It also points to SCP-2096 for how the most powerful captives are held.",
+  "thingsToNotice": "The longer the light lasts, the stronger the person who falls out of it, and the table charts the climb from a disoriented one-armed man to a Class Four who erases a Greek city and an island from human memory, then an expunged Class Five that ends Omega-11. Dr. Arthur Shu's interview is the hinge: he remembers a Ganymede Protocol alert, then an underground hell crowded with the dead and the screaming, and finally recognises the mountains under a blood-red sky as Yellowstone, where he used to take his daughter.\n\nSCP-3480-Ω then shows the Foundation's answer. Omega-12 is made of captured instances who are clones of Foundation staff from Universe ALEPH, volunteers with kill switches in their skulls, kept at Area-13 to catch whoever appears next. The director's note admits how risky it is to use anomalies against the very anomaly they came from, and the addendum for an event past 500 hours, ordering immediate termination to head off a Deific Subjugation scenario, shows what the Foundation fears most.",
+  "related": [
+    {
+      "slug": "scp-2096",
+      "note": "Cited in a footnote for the Palmer Protocol."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

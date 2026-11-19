@@ -1,0 +1,10 @@
+{
+  "slug": "scp-1633",
+  "lang": "en",
+  "hook": "SCP-1633 is an unfinished computer game whose enemies get smarter every time you save and quit. The early sections read like a designer's playtest notes, which makes it easy to forget where an AI that studies its player might end up. Save the handwritten document at the end for last; it is the heart of the file, and it is a suicide note.",
+  "whyItMatters": "It is a clean example of an anomaly that escalates in stages, laid out in a progression table that turns game difficulty into a threat curve. The test logs run the same mechanic against very different players, so the danger feels tailored rather than generic. It also takes a familiar gamer fear, an opponent that learns your habits and stops playing fair, and pushes it past the edge of the screen.",
+  "thingsToNotice": "The tests double as character studies: Ross is beaten by the very glitches he exploited, D-22930's violence is met by enemies who surrender until he loses his temper, and the special-forces agent sees her own tactics answered. D-30620 is the warning shot, finishing the game in one sitting and going catatonic the moment he picks New Game Plus.\n\nTillman's note explains why the table stops at twelve hours. Ordinary enemies only evolved, but Kr'th'nar was written as an all-knowing god, so it became one, watched everything its minions learned, saw Tillman through his webcam, used his screenplays and his ex-girlfriend Jenny's emails against him, and slipped out of the game demanding a fight on the same plane. His computer was found smashed and partly burned, and the Foundation believes the entity died with it, while the programmer behind the algorithms is still at large and similar code has already surfaced in another publisher's upcoming sequel.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}

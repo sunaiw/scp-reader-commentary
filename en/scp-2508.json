@@ -1,0 +1,15 @@
+{
+  "slug": "scp-2508",
+  "lang": "en",
+  "hook": "SCP-2508 is a cottage with chores: fill the machine in the attic at noon, mind the hatch over the basement plants, keep the archive tidy. The procedures read oddly warm and domestic for a Foundation file, and there is a reason for that. Pay attention to who the document seems to be written for.",
+  "whyItMatters": "This is a meta entry that makes the SCP document itself part of the anomaly instead of just a container for information. Its object class of None and the clearance banner at the top both hint that the usual rules of Foundation paperwork do not apply here. It is a quiet, melancholy piece built on upkeep and waiting rather than danger.",
+  "thingsToNotice": "The turn comes midway through the description: because the property loops back on itself and nothing can get out, this document never reached the Foundation, so whoever is reading it must be the new resident. From then on every line reads as advice from dead predecessors, down to the footnote about where the cleaning supplies are and an editor's admission that nobody knows why an empty machine is fatal.\n\nThe plaques and the Morse message from the plants sound like notes from someone running late, thanking the resident and promising to arrive, which gives the house the feel of an appointment nobody understands. O5-7's entry, written after 23 years inside, adds the clockwork hum beneath the lawn, the puzzle of how the house got its number, and the sense of waiting to meet someone rather than be rescued, before closing on a small wish to learn how the food gets restocked. Look back at the banner afterwards: the exemption is signed by that same O5-7.",
+  "related": [
+    {
+      "slug": "scp-5370",
+      "note": "Another file about the Foundation trying not to lose what its staff knew."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-19"
+}
