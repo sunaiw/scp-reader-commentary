@@ -1,0 +1,15 @@
+{
+  "slug": "scp-6059",
+  "lang": "en",
+  "hook": "SCP-6059 is a toddler-sized blob of plastic, vomit, pizza sauce and a little worse, living in a ball pit taken over from a Chuck E. Cheese, with two balls stuck on top for eyes. It calls itself a god, and children under ten who spend about twenty minutes near it start bowing in a ring and throwing pizza into the pit. The file is mostly four short interviews told in shouted capitals, and it is much sweeter than that description suggests.",
+  "whyItMatters": "This is a light, comic entry that treats an anomaly the way a patient adult treats a difficult kid. The Foundation's answer to bad behaviour is literally a time-out, called a Pause, and the researcher comes from a department devoted to improving communication with anomalies.\n\nIt shows that a standard containment file can end on friendship rather than on a threat, without dropping the format along the way.",
+  "thingsToNotice": "The very first Pause turns its demands into a quiet plea for the doctor to return, an early hint that more than wounded pride is going on. Under gentle questioning it admits it can't leave the pit, that it simply woke up there, and that it feels kinship with the children; it then notices Rosemary brings offerings and writes down its words without being under its influence, and wonders whether he has become a follower.\n\nThe fourth interview flips the header, with the entity listed as interviewer, because it is the one who asked to talk. It describes a feeling that goes away when he visits and comes back when he leaves, he explains what a friend is, and it accepts by bouncing a ball off the spot between his eyes, the same throw that once earned it a time-out. The file closes on a drawing the two made together.",
+  "related": [
+    {
+      "slug": "scp-4338",
+      "note": "Another self-styled god fed by Foundation offerings, a volcano whose cravings turn to junk food."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-20"
+}

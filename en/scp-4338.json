@@ -1,0 +1,15 @@
+{
+  "slug": "scp-4338",
+  "lang": "en",
+  "hook": "SCP-4338 is a sapient sphere of volcanic rock under a Pacific island, an old god of the burning ocean that the Foundation keeps calm with a monthly food offering. The article is told across three versions of the file, each marked outdated with a link to the next update, so read them in order and compare the offering lists at the top of each one. It starts with deaths and a corpse-puppet speaking for the god, then turns into something much funnier.",
+  "whyItMatters": "It is a strong example of the updated-document format, where the changes between versions tell the story as much as the logs do. The containment procedures alone, going from island staples to tonnes of junk food to cheap bulk supplies, sketch the whole arc.\n\nIt also plays with worship and power. The god only talks to the group's leader through a duplicate of the last leader it killed, and the human sacrifice option sits in a footnote, forbidden by the Ethics Committee.",
+  "thingsToNotice": "The breach comes from a bored junior geologist who tossed his junk food into a lava flow, and the god, through Director Rowell's duplicate, starts demanding Cadbury and then crispy golden triangles, black fizzing juice and candy shaped like little animals. Thornborrow, openly defiant at first, ends up playing the devoted servant while barely hiding her sarcasm.\n\nIn the second version the sphere has swollen from 2.3 to 4.6 cubic kilometres and can no longer climb out of its crater; its earthquakes weaken, and when she proposes cutting the offerings and staff, its tantrum ends with it slumped on the floor saying yes. By the last version it has grown to 7.3 cubic kilometres, the duplicate is mostly stone, the menu is cheap bulk food, and the Foundation is considering using it for slaughterhouse and industrial waste.\n\nIn the final interview the god realises it was poisoned in its ambition rather than its body, remembers attacking wooden ships under white sails, and admits it took the Foundation's offerings as worship. Thornborrow's closing bow and her reply as its servant make the irony complete.",
+  "related": [
+    {
+      "slug": "scp-6059",
+      "note": "Another self-proclaimed god that the Foundation keeps fed with offerings, this time pizza thrown into a ball pit."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-20"
+}

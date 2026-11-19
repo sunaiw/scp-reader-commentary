@@ -1,0 +1,15 @@
+{
+  "slug": "scp-2203",
+  "lang": "en",
+  "hook": "SCP-2203 is an old wooden arcade love tester that does one thing a normal machine can't: after flashing your score, it prints a card naming a real person who will genuinely click with you, plus a line of advice. Most of the article is an experiment log, and each entry works as a tiny character sketch, so read the score, the card and the result as a set. The tone is mostly warm, but one thread ends with an intruder arrested at a woman's home and another subject has a history of domestic violence.",
+  "whyItMatters": "This is a low-stakes anomaly whose danger lies entirely in what people choose to do with its advice. The file makes a point of saying the bond it predicts is ordinary and can be broken like any other, so the machine only picks a match and leaves the rest to the humans.\n\nIt is also a good example of containment rules that tell a story on their own. The ban on using the machine for hiring, vacation and transfer decisions is added right after one of the log's incidents, so the procedures double as a record of what went wrong.",
+  "thingsToNotice": "The log starts sweetly, with a married researcher and his wife each receiving the other's name. Then Agent Towson scores Uncontrollable and is told to be patient; months later he goes AWOL, and on Christmas Day police in West Yorkshire arrest an intruder at his match's home, names withheld, after which the hiring and vacation ban appears. Mr. Hamilton, picked three times for nearly identical women, simply declines because he loves his fiancée, and Dr. Ohta, who is asexual and aromantic, gets a best friend whose art she supports rather than a romance.\n\nThe last entry is a D-class with a domestic violence record, tested on request. His score is Uncontrollable again, and the card has no name and no address at all, just a single line telling him he should have waited, which recalls the advice Towson ignored.",
+  "related": [
+    {
+      "slug": "scp-2236",
+      "note": "The containment procedures note approved testing of this machine's cards with SCP-2236."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-20"
+}
