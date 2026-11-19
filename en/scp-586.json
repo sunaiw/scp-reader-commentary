@@ -2,18 +2,9 @@
   "slug": "scp-586",
   "lang": "en",
   "hook": "This is a joke article, and the joke is the text. Read slowly, because almost every sentence hides a deliberate slip, starting before the procedures even begin. It is short enough to read twice, and a second pass is worth it.",
-  "whyItMatters": "It shows the playful side of the site: an anomaly that exists only in how its own document is written, with even the object class caught in the effect. Format and content are the same thing here, which makes it a tidy example of a meta piece. Translations face a special challenge, since each wrong word has to be rebuilt in another language rather than copied.",
-  "thingsToNotice": "The errors are not random typos but real words dropped into the wrong place, so each one lands as a small punchline. The tests escalate the gag: a control sentence written right next to the object stays clean, while any try at describing it goes astray.\n\nThe closing reprimand is the best part, a researcher insisting the effect does not spread while every line of the complaint is visibly sabotaged. Try reconstructing what each sentence meant to say; that is half the fun.",
-  "related": [
-    {
-      "slug": "scp-2521",
-      "note": "Another anomaly that reacts to how it is written about, played for dread instead of laughs."
-    },
-    {
-      "slug": "scp-055",
-      "note": "A serious cousin: an object that resists being described or remembered."
-    }
-  ],
+  "whyItMatters": "It shows the playful side of the site: an anomaly that exists only in how its own document is written, with even the object class caught in the effect. Format and content are the same thing here, which makes it a tidy example of a meta piece. The comedy depends entirely on the reader doing the work of correction.",
+  "thingsToNotice": "The errors are not random typos but real words dropped into the wrong place: Safe becomes Scarf, the site becomes Salty-04, a photograph becomes a phonograph, German becomes Gelatin. From the slips you can piece together that the object is a pale green length of metal, which one subject calls a piece of garden horse.\n\nThe tests escalate the gag. A pangram written a metre from the object comes out clean, so the effect has no range, but ten people asked to write the two words it is about the object produce everything from Illinois and Ibis to Titties, and even the redaction tags turn into DATA PLUNGED and DATA EXPANDED.\n\nThe closing reprimand is the best part: a researcher insists there is no bleed effect and that sloppy staff should stop blaming the object, while his own memo, which is of course about the object, is riddled with orifice, effete and Kegel. Try reconstructing what each sentence meant to say; that is half the fun.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }

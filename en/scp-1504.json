@@ -1,19 +1,10 @@
 {
   "slug": "scp-1504",
   "lang": "en",
-  "hook": "Read this one top to bottom and avoid skipping ahead. It starts as a modest recovered record about a man who cannot be hurt, and the way the document is assembled matters more than it first seems. Small, slightly awkward moments in the interview are worth noticing.",
+  "hook": "Read this one top to bottom and avoid skipping ahead. It starts as a modest recovered record about a man who cannot be hurt, and the way the document is assembled matters more than it first seems. Small, slightly awkward moments in the interview are worth noticing. Expect strong language and a threat of rape and murder later on.",
   "whyItMatters": "It is a compact showcase for the meta tag: the anomaly lives in the record as much as in the man, so the reader ends up among the people being misled. A Keter, uncontained file that begins by describing something almost dull makes a strong contrast. It shows how much a short article can achieve by revising its own evidence partway through.",
-  "thingsToNotice": "The structure is a before and after. The same interview appears twice, and the second copy restores what was filtered out, while Dr. Loyd's lines stay word for word the same; his polite replies turn chilling once you see what they were answering.\n\nThe handwritten note in the middle shows the effect from inside, a staff that gradually stopped questioning its own losses. The subject's despair adds a second layer, since being overlooked is a torment for him as well. Details like the ban on automated systems in the new containment area quietly confirm how far his influence reaches.",
-  "related": [
-    {
-      "slug": "scp-055",
-      "note": "Another anomaly defined by what people fail to register about it."
-    },
-    {
-      "slug": "scp-2521",
-      "note": "Pairs well for its play with how the document itself is written."
-    }
-  ],
+  "thingsToNotice": "The trick is that nobody can perceive what SCP-1504 really does; whatever he does registers as normal, so the first interview, with its vague Joe-something and a sudden nosebleed blamed on the weather, is the distorted version. The restored copy shows him refusing to answer, punching Dr. Loyd in the face, and then swearing he could rape and kill Loyd's wife without anyone noticing, while Loyd's lines stay word for word the same and he politely thanks him for the year.\n\nLoyd's bloodstained handwritten note shows the effect from inside: the computers keep glitching, a Keter gets loose, half the staff die and the survivors never question it, and headquarters ignores every request for help. Loyd, badly hurt, sets off the site's nuke and asks someone to tell his wife he is sorry, and the man the note was about is simply listed as missing afterwards.\n\nThe second layer is the subject's own despair: he weeps, says he cannot die, and wants to shoot himself just to prove that nothing will happen. The new procedures, with no automated systems and staff chosen for resistance to perception shifts, quietly admit how far his influence reaches.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }

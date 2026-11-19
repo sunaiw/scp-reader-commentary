@@ -2,18 +2,14 @@
   "slug": "scp-2399",
   "lang": "en",
   "hook": "A space-opera premise filed as a Keter: an enormous machine lodged in Jupiter's atmosphere. Expect a mix of procedures, an astronomer's old journal and a long memo from the project's director. The final log carries the punch, so resist peeking at it first.",
-  "whyItMatters": "It is a strong example of the science-fiction tag in the main series, stretching a K-class threat across interplanetary distances while keeping the Foundation's usual tone. Tying the anomaly to a famous feature of Jupiter makes it feel like a secret hidden in plain sight. It also shows the Foundation at its limits, where containment means jamming, delay and hope rather than walls.",
-  "thingsToNotice": "The 1665 journal entries are a slow reveal from someone who cannot know what he is watching, which makes the later explanation hit harder.\n\nDirector McAllan's memo is the emotional center, built around the image of stepping out of the path of a swerving bus; it turns a cold file into an appeal. The communications log then does the real storytelling in a few terse lines, as the orders move from repair to a destination and finally to dropping repairs altogether. That last entry quietly suggests the memo's estimate of the time left may be too generous.",
+  "whyItMatters": "It sits squarely under the science-fiction tag, stretching a K-class threat across interplanetary distances while keeping the Foundation's usual tone. Tying the anomaly to the Great Red Spot makes it feel like a secret hidden in plain sight. It also shows the Foundation at its limits, where containment means jamming, delay and hope rather than walls.",
+  "thingsToNotice": "The reveal is that the Great Red Spot is a wound: a war machine from the Triangulum Galaxy flew in in 1665, clipped Io, fell into Jupiter and fired the weapons meant for its real target, so the planet took the doomsday instead. Cassini's journal shows that arrival through the eyes of someone who cannot know what he is watching, a falling star followed by a new red spot and bursts of light.\n\nThe machine is now 59% rebuilt and repairing faster each year, and nothing humans have thrown at it works: a Foundation satellite that fired on a drone saw its shot intercepted, went dark and had to be destroyed by its own neighbours, and the outcome of a nuclear and EMP barrage from 45 nations is expunged. Director McAllan's memo, built around the image of stepping out of the path of a swerving bus, admits that the planned answer, one colossal pulse and a nuclear volley, may never be built and may not work.\n\nThe communications log does the real storytelling in five lines. The orders go from repair, to holding position, to heading for the third planet of a redacted system, and in 2015 to giving up on repairs because the target comes first. That last entry suggests the memo's estimate of 25 years may be far too generous.",
   "related": [
     {
       "slug": "scp-1396",
-      "note": "Mentioned in a footnote as a proposed answer to the threat."
-    },
-    {
-      "slug": "scp-1548",
-      "note": "Another hostile presence out in space that dwarfs anything humans can build."
+      "note": "A footnote raises repairing this object as a way to deal with SCP-2399, then rules it out for now."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }

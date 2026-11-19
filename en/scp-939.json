@@ -3,17 +3,8 @@
   "lang": "en",
   "hook": "A pack of eyeless predators with one memorable trick for luring prey. The file is dense with procedure and biology, and the most frightening parts tend to hide in the small rules. Read it somewhere quiet and pay attention to what staff are instructed to ignore.",
   "whyItMatters": "SCP-939 is a co-authored Keter creature entry whose central idea, a predator that speaks with borrowed voices, is easy to state and hard to forget. Its layered document keeps pointing outward to further logs and reports, so the article feels like the visible tip of a larger record. It is also a good model of the clinical style, conveying horror through procedure instead of description.",
-  "thingsToNotice": "Look at the pulse-monitor rule in the containment section. It quietly tells you what must have gone wrong before, and what personnel are expected to do when a familiar voice calls for help. The amnestic the creatures exhale adds a second layer, since it explains why survivors cannot be trusted to remember.\n\nThe addenda read as a slow institutional mistake. The Foundation starts treating that amnestic as a useful product, then the dates move toward a breach and an abrupt suspension, with key passages redacted. Much of the story lives in the gaps between those notes and in the documents they link to.",
-  "related": [
-    {
-      "slug": "scp-096",
-      "note": "Another famous predator built around a single sense, sight instead of hearing."
-    },
-    {
-      "slug": "scp-3199",
-      "note": "Another Keter species entry that delivers its fear mostly through procedures and incident notes."
-    }
-  ],
+  "thingsToNotice": "The pulse-monitor rule is the article's sharpest line: if a staff member's monitors go flat, everyone is told to ignore anything that person says afterwards, because a 939 will soon be speaking in their voice and calling for help. They can even copy victims they never heard, and one specimen, SCP-939-101, is kept cut into pieces across a row of freezer tanks, and its warmed tissue still babbles and begs to be let go.\n\nThe biology is deliberately wrong: no brain case, no nervous, circulatory or digestive system, yet they kill with a bite to the head or neck, store what they swallow in their lungs and cough it back up. Their breath carries an amnestic that wipes memory of the encounter, which is why survivors are unreliable witnesses.\n\nThe addenda trace an institutional mistake. The Foundation approves that breath as a Class C amnestic and plans to farm litres of it from tissue cultures, then nine specimens escape from the very site researching it, a redacted note on reproduction bans contact during a set month each year, and in 1992 use of the drug is suspended without explanation. The full answers sit in linked documents.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }

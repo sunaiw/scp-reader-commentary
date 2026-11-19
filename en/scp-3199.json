@@ -1,19 +1,10 @@
 {
   "slug": "scp-3199",
   "lang": "en",
-  "hook": "This is an unapologetic horror file that commits fully to its premise. Expect a creature article built around reproduction, fragmentary evidence about where it came from, and a shaken soldier's interview. If body horror is not for you, this is one to skip; if it is, notice how controlled the structure is.",
-  "whyItMatters": "SCP-3199 is a modern take on the murder-monster species article, tagged with military fiction and a K-class scenario. What makes it memorable is less the biology than the human material surrounding it: a recovered notebook, a breach protocol, and a director's brief note. That mix of clinical data and personal fallout gives it real weight.",
-  "thingsToNotice": "Notice the containment idea at its core: the creatures are kept dormant by leaving them no empty space, an elegant rule that also explains the odd site-flooding protocol. The experiment logs then show how fast ordinary research curiosity turns dangerous.\n\nThe notebook from the original site hints at a human origin without ever confirming one, and its broken spelling and repetition unsettle more than any physical description. The interview is the emotional centre, and the director's closing request, delivered in very few words, says a lot about how the Foundation handles grief.",
-  "related": [
-    {
-      "slug": "scp-939",
-      "note": "Another Keter predator species, more restrained and procedural in its scares."
-    },
-    {
-      "slug": "scp-610",
-      "note": "Another biological threat where the spread itself is the real horror."
-    }
-  ],
+  "hook": "This is an unapologetic horror file that commits fully to its premise. Expect a creature article built around a grotesque reproductive cycle, kills that dissolve the body, fragmentary evidence about where it came from, and a shaken soldier's interview. If body horror is not for you, this is one to skip; if it is, notice how controlled the structure is.",
+  "whyItMatters": "SCP-3199 is a murder-monster species article tagged with military fiction and a K-class scenario. What makes it memorable is less the biology than the human material surrounding it: a recovered notebook, a breach protocol, and an interview with a survivor. That mix of clinical data and personal fallout gives it real weight.",
+  "thingsToNotice": "The creatures are hairless humanoids whose DNA mixes chicken, chimpanzee, stoat, mussel, adder and human; they kill by liquefying a victim's organs and bones, and they lay eggs by forcing them up the throat and out of the mouth, screaming, followed by a corrosive red fluid. Every one is born with a spare egg already inside it, so killing one never ends the line, and they keep laying until there is no empty space left; that is why the breach plan is to flood the whole site, since liquid seems to count as occupied space.\n\nThe experiment logs show research curiosity turning dangerous fast: a heated egg hatches in nine minutes, the hatchling matures in forty seconds and lays two more. Only freezing, crushing and burning an egg destroys it, and the containment count quietly climbs from four to six.\n\nThe abandoned house points to a human maker without saying so outright: thread and needles, chicken carcasses cut open and bitten by human teeth, a scratched notebook titled as a manifesto with child-like drawings and a misspelled 1973 entry about using human DNA to breed something better. Corporal Duncan's interview is the emotional centre: one recruit's teeth are torn out, and he now sees the creature's scream whenever his baby cries, to the point of frightening himself. The director's answer is a brisk order to give him a Class B amnestic.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }

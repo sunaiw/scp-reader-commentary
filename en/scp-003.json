@@ -2,8 +2,8 @@
   "slug": "scp-003",
   "lang": "en",
   "hook": "This is a dense, technical-feeling file about an ancient piece of circuitry and the stone slab it rests on. The first half is procedures and biology, so be patient; the payoff sits in the later addenda and the testimony that closes the page.",
-  "whyItMatters": "As a very low number it is an early stop for many readers, and the current text carries the rewrite tag, so it reads as a newer treatment of a classic slot. It handles a K-class scenario in an unusual key: the threat is not ruin but a well-meant remaking of the world. Its tags also tie it to Director Moose, who appears here in a pivotal role.",
-  "thingsToNotice": "Return to the containment procedures after finishing. The order to keep skin contact during a power loss only makes sense once you learn that living minds slow the growth and also serve as its templates.\n\nThe two components form a jailer and prisoner story, with the slab's dwindling power running underneath everything. The removal of O5-10 and the unnamed figure acting in their name hint at politics the file never fully explains. Moose's testimony reframes the danger: a paradise is on offer, but shaped for whichever complex mind reaches it first.",
+  "whyItMatters": "The current text carries the rewrite tag, so it reads as a newer treatment of a low-numbered slot. It handles a K-class scenario in an unusual key: the threat is not ruin but a well-meant remaking of the world. Its tags also tie it to Director Moose, who appears here in a pivotal role.",
+  "thingsToNotice": "Return to the containment procedures after finishing: the order to keep skin contact during a power loss only makes sense once you learn that touching a living mind slows SCP-003-1's growth and gives it a template to copy.\n\nThe two parts are jailer and prisoner: the slab was probably built to hold the circuitry, and its power has been failing for centuries. O5-10 orders M03-Gloria to keep testing even as the tests drain that power, and on the second run SCP-003-1 breaks out, wraps nine researchers in fast-growing limbs and rebuilds its core into a three-metre female figure that tries to speak. Someone claiming to act for O5-10 walks in with a squad to talk to it, the record is expunged, and O5-10 is later voted off the Council.\n\nMoose's testimony is the payoff. The entity tore three researchers apart and put them back together unhurt, replayed a man's whole emotional life in minutes, and spoke in their heads. What it wants is to rebuild the world as a paradise for the first sufficiently complex mind that accepts it, which might be humanity or might be a dog or a housefly; hence her insistence that people must reach it first next time.",
   "related": [
     {
       "slug": "scp-1512",
@@ -15,5 +15,5 @@
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }

@@ -1,19 +1,10 @@
 {
   "slug": "scp-4001",
   "lang": "en",
-  "hook": "The file opens behind a mock clearance warning and a fake loading screen, so scroll past the gate and settle in for a long read. Underneath is a library hidden below Alexandria, and the pleasure comes from how gradually the document lets you understand what it shelves. Keep an eye on the footnotes; much of the texture of the place is tucked away in them.",
-  "whyItMatters": "It takes the lost Library of Alexandria, a loss almost everyone has heard of, and turns it into a secret the Foundation inherits instead of a ruin it digs up. A book for every person who has ever lived is a reality-bending idea with nearly unlimited stakes, yet the object is classed Safe. That irony is the engine of the piece: the archive stays calm, and the danger comes from the people holding the pens.",
-  "thingsToNotice": "The test log is the heart of the file. Each edit is a small experiment in cause and effect, and the archive keeps answering with corrections that read less like physics and more like verdicts, most sharply when the researchers slip in an invented person.\n\nTheopoles gives the place a human scale: a keeper who has been buying his life a single day at a time, whose only request is to see the sky. Follow the title of Watcher, which he hands to Koudopolis and which reappears in Abrams' signature on the final note. The ash under the carpet is never explained, leaving room to imagine a library that has burned before.",
-  "related": [
-    {
-      "slug": "scp-140",
-      "note": "Another book whose written words reshape history, with a similar warning about who gets to write."
-    },
-    {
-      "slug": "scp-2000",
-      "note": "A different hidden installation built around safeguarding the human story at its largest scale."
-    }
-  ],
+  "hook": "The file opens behind a mock clearance warning and a fake loading screen, so scroll past the gate and settle in for a long read. Underneath is a library hidden below Alexandria, and the pleasure comes from how gradually the document lets you understand what it shelves. Keep an eye on the footnotes; much of the texture of the place is tucked away in them. The test logs include deaths, a suicide and a sexual assault erased from a victim's life story.",
+  "whyItMatters": "It takes the Library of Alexandria, lost to Roman fire in the article's own telling, and turns it into a secret the Foundation inherits instead of a ruin it digs up. A book for every person who has ever lived is a reality-bending idea with nearly unlimited stakes, yet the object is classed Safe. That irony is the engine of the piece: the archive stays calm, and the danger comes from the people holding the pens.",
+  "thingsToNotice": "The core reveal is that the books are not records but the truth itself: write in one and the person's life changes to match, retroactively, and the test log shows the library answering every edit like a judge. Crossing out the line in which a man with a record of sexual assault stalks and brutalises Maria Hermez erases him, yet she still dies in a car crash three days later; a cancer cure wears off; changing a newborn's sex leaves a man with a woman's body; a dead woman brought back says only that she wants to be sent back and then kills herself. A fictional man slipped onto the shelves appears for a few minutes, vomits blood and dies while his book adds that his death was just.\n\nTheopoles gives the place a human scale: trapped since the Romans burned the library above, he has kept himself alive for some nineteen centuries by writing one more day into his own scroll in his blood, and he asks only to see the sky; he dies shortly after the sunrise he is shown. He calls Koudopolis the Watcher as thanks, and the final note is signed by Abrams with that same title.\n\nThe last addendum, behind a further clearance wall, turns the library's judgement on the staff: Abrams has read Henricks' book and knows the library despises him, and under the carpet lies ash from burned wood and paper, 70,000 to 80,000 years old, covering most of the floor, and nothing explains it.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19"
 }
