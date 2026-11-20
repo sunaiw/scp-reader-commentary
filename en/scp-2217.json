@@ -2,18 +2,14 @@
   "slug": "scp-2217",
   "lang": "en",
   "hook": "This file assumes you have at least heard of the Church of the Broken God, catalogued here as GOI-004: a faith that wants its shattered god put back together. The anomaly itself is a Greek beach where lightning and tides turn out machines and carvings. Its real trick is the layout, which shows you several versions of the containment section in turn, with the object class changing as you go.",
-  "whyItMatters": "It is a good example of a Group of Interest story: the anomaly is a place, but the plot is driven by factions, scripture and shifting alliances, with the Foundation, the Global Occult Coalition and the Horizon Initiative all in play. SCP-610 looms in the background as the larger threat, named from the very first set of procedures. Together with the Thaumiel label, that tells you the stakes are global from the start.",
-  "thingsToNotice": "Follow the object class as it shifts, and notice that each version of the procedures is written by an organization that understands a little more about what it is dealing with. The excerpt from the Book of Rites is worth reading as world-building in its own right, written in a scriptural cadence that contrasts with the report voice. Don't skip the footnotes; the verses they quote give the timeline a pressure the main text never states outright. By the end, the question is less what the beach makes than who the Foundation is prepared to work with.",
+  "whyItMatters": "The anomaly is a place, but the plot is driven by factions, scripture and shifting alliances, with the Foundation, the Global Occult Coalition and the Horizon Initiative all in play. SCP-610 looms in the background as the larger threat, named from the very first set of procedures. Together with the Thaumiel label at the top, that tells you the stakes are global from the start.",
+  "thingsToNotice": "The stacked procedures are a history read in order: Euclid, then a beach under siege, then Uncontained after the Church storms the outpost and every Foundation survivor defects, and finally Thaumiel once the Foundation decides to use the place as a weapon alongside the very people who took it.\n\nThe Book of Rites excerpt is not just flavor: its boy smashed by God's hammer and left carrying a sliver of the divine blueprint is exactly what happens to Foundation staff struck by lightning on the beach, who walk away insisting God must be reassembled.\n\nThe carved miniature city tells the future. In 2014 a quake reveals it being swallowed by lava-like flesh and figures resembling SCP-610's victims, and its landscape matches Lake Baikal, where the flesh does break out in 2019. The Church's fighters arrive in time, and a lightning discharge launched from the beach wipes out every SCP-610 instance within 5 km while sparing everyone else. The footnoted Maxwellian verses supply the clock: the flesh returns five years after Kythera's fall, with the great battle a year after that. The ending is the Foundation agreeing to drop secrecy and risk lifting the Veil, with Project ENNUI quietly preparing the public, because the alternative is losing the world.",
   "related": [
     {
       "slug": "scp-610",
       "note": "The threat the whole file is bracing against; it is named throughout."
-    },
-    {
-      "slug": "scp-6002",
-      "note": "Another k-class-scenario entry where the Foundation's usual secrecy comes under heavy strain."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-18"
+  "updatedAt": "2026-11-20"
 }

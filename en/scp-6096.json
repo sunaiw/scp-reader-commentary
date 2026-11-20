@@ -1,19 +1,10 @@
 {
   "slug": "scp-6096",
   "lang": "en",
-  "hook": "A small figure under a bedsheet, the kind of costume a child might wear, and a containment section that reads as if it was written backwards. The first two paragraphs of procedures are the hook; read them carefully and ask why anyone would write them. Content note: the central log shows a family scene of violence, described plainly but not graphically.",
-  "whyItMatters": "It belongs to a strand of the wiki where the Foundation is not losing a fight so much as being drafted into one. Here the organization's competence is the horror: every skill it has is turned toward helping the thing it is supposed to contain.\n\nThe article also uses a closing letter from a task force commander, a format that lets the bleak premise land as a person's exhaustion rather than as an abstract rule.",
-  "thingsToNotice": "Read the long list of forbidden actions slowly. It keeps closing loopholes one by one, which mirrors the way a reader instinctively starts looking for a way around the rule.\n\nIn the home footage, notice what the parents say rather than what they do; their words show that part of them is still fighting even as their hands obey. The welcome notice then reframes everything you just read through the eyes of the people who do this as a job, and its final sentence is bitter in a way worth sitting with.",
-  "related": [
-    {
-      "slug": "scp-457",
-      "note": "Another entity the Foundation ends up having to keep fed, with a very different tone."
-    },
-    {
-      "slug": "scp-series-7",
-      "note": "The series this file belongs to."
-    }
-  ],
+  "hook": "A small figure under a bedsheet, the kind of thing a neighbor might mistake for a Halloween costume, and a containment section that reads as if it was written backwards. The opening procedures are the hook; read them carefully and ask why anyone would write them. Content note: the central log is security footage of parents pinning down their own teenage son while he screams for over half an hour.",
+  "whyItMatters": "Instead of a Foundation that is losing a fight, this file shows one that has been drafted onto the other side. The organization's competence is the horror: its transport, sedatives and task force all go toward delivering victims to the thing it is supposed to contain.\n\nThe article closes with a letter from a task force commander, a format that lets the bleak premise land as one person's exhaustion rather than as an abstract rule.",
+  "thingsToNotice": "The long list of forbidden actions keeps closing loopholes one by one, from traps and proxies to suicide and lifting the sheet, which mirrors the way a reader instinctively starts hunting for a way around the rule.\n\nIn the Mallion footage, Samuel and Amanda grab Desmond's arms and hold him on the couch as the figure pulls him under the sheet feet first; he thrashes and screams for thirty-six minutes and then is simply gone, while his parents try to scream and cannot. Amanda's frantic reassurances are the tell that part of her is still fighting even as her hands obey, and afterwards the entity sits down to face the television as if it belongs there.\n\nThe commander's welcome notice reveals what the job really is: sedating random strangers ahead of its arrival, holding a maternity ward door open for it, and watching a teammate, Lopez, bleed out after taking a target's bullet meant for the entity. His three escape scenarios all depend on someone harming it by accident, and his last line, about how good the team is at its work, is a bitter admission that their professionalism is exactly what keeps it fed.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-18"
+  "updatedAt": "2026-11-20"
 }

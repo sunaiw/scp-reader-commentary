@@ -2,18 +2,18 @@
   "slug": "scp-3966",
   "lang": "en",
   "hook": "Most people know the sudden jolt of falling just as they drift off. This file takes that ordinary experience and investigates it with lab protocols, protein chemistry, and chat logs between researchers who are getting more tired by the day. You don't need a biology background; the characters explain what matters, and the unease builds through their conversations as much as through the data.",
-  "whyItMatters": "It is a strong example of science-driven horror on the wiki, where the dread comes from a result that refuses to make sense rather than from a creature on the loose. The instant-message format gives the research team distinct personalities quickly, which makes the stakes feel personal. Along the way it pulls in other entries such as SCP-848, so the mystery is assembled from pieces of the wider database.",
-  "thingsToNotice": "Notice how experiment entries and chat logs alternate, so each dry result is followed by people reacting to it, and their sleep gets worse as the data piles up. Small recurring images, such as straws, dyes and color, turn up in scenes that seem unrelated at first. The unexplained mass discrepancies are worth tracking, since the head researcher keeps flagging them. The final experiment is deliberately understated; take a moment to think about what it would mean if its result were possible.",
+  "whyItMatters": "This is science-driven horror: the dread comes from a result that refuses to make sense rather than from a creature on the loose. The instant-message format gives the research team distinct personalities quickly, which makes the stakes feel personal. Along the way it pulls in other entries such as SCP-848, so the mystery is assembled from pieces of the wider database.",
+  "thingsToNotice": "The 'missing' end of the protein and the mass that keeps vanishing from samples are the same clue: the chain continues into a fourth spatial dimension, where something reaches through pores it opens in sleeping people's neurons. The dreams of rainbow spiders sucking up color through web lines and a comic-book killer with a straw are not coincidence; they describe how it feeds.\n\nThe hypnic jerk turns out to be self-defense. A sleeper who twitches pulls the probe loose and is left with harmless SCP-3966-B, while one who cannot move keeps the lethal A form in place, which is why Ellie, who had taken a muscle relaxant and a sleeping pill, is found dead of SUNDS with her neurons riddled with pores. Argent then connects it to his grandfather's unexplained death in his sleep twenty years earlier.\n\nNotice what keeps Argent alive: a night in the SCP-848 chamber, whose silk is the closest genetic match to the protein, with the D-class clinging to him and the webs thicker in the morning. The last experiment simply threads optical fibers into the opened pores, and they produce an image from a place the microscope cannot see, which means the Foundation has just looked back at whatever has been looking at us.",
   "related": [
     {
       "slug": "scp-848",
-      "note": "Brought into the investigation partway through; useful context for one of the file's turns."
+      "note": "Its web silk is the closest genomic match to the protein, and its chamber becomes a refuge."
     },
     {
       "slug": "scp-596",
-      "note": "Mentioned in the testing logs as the source of experimental material."
+      "note": "Neural tissue for two experiments is taken from D-class exposed to it."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-18"
+  "updatedAt": "2026-11-20"
 }

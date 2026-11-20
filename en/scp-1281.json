@@ -1,19 +1,15 @@
 {
   "slug": "scp-1281",
   "lang": "en",
-  "hook": "A damaged probe-creature found drifting at the edge of the solar system tries to talk to the people who found it. There is no threat to contain here, only a conversation that costs the speaker something every time it continues. Give it a quiet few minutes; it is short and reads best in one sitting.",
-  "whyItMatters": "This is one of the wiki's gentler, more hopeful pieces, closer to science fiction about first contact than to horror. It shows that an SCP file can be built around a message rather than a danger.\n\nIt also connects to the Foundation's off-world operations: the object was found while another anomaly was being contained out in the Kuiper belt, which gives a glimpse of how far the organization's reach extends.",
-  "thingsToNotice": "Watch the temperature figures between each exchange. They work as a countdown that nobody in the dialogue mentions directly, and they make every question the doctor asks feel heavier.\n\nThe entity keeps returning to one word for the beings who sent it, and the doctor's answers to that question shift by the end. The final administrative note is deliberately dry, and the contrast with the scene before it is the point.",
+  "hook": "A damaged probe-creature found drifting at the edge of the solar system tries to talk to the people who found it. There is no threat to contain here, only a conversation that costs the speaker something every time it continues. It is short and reads best in one quiet sitting.",
+  "whyItMatters": "The file is closer to first-contact science fiction than to horror, and it shows that an SCP report can be built around a message rather than a danger.\n\nIt also points at the Foundation's off-world work: the object turns up while another anomaly is being contained out in the Kuiper belt, which hints at how far the organization's reach extends.",
+  "thingsToNotice": "The temperature readings between exchanges are a countdown. Each time the probe forces itself to process who these humans are, its dorsal bulge heats further, from 60 to 70 to 85 Kelvin, and its living tissue is damaged along the way.\n\nWhat it is finally carrying is a recorded plea from a species that knew it would be extinct before the probe arrived: speak up against an empty, dying galaxy, find others, and pass the message on if you run out of time yourselves. The twist is that the probe never understood the words it delivered.\n\nIts last question is whether it did well, addressed to the doctor as its master. Bloom, who had denied being its master every time and had been told not to deceive it, accepts the title so he can say yes, and the probe shuts down for good and decays over the following months. The closing note, where he is reprimanded and put on leave for emotional involvement, lands as a cold institutional verdict on the one humane act in the file.",
   "related": [
     {
       "slug": "scp-2362",
       "note": "The containment operation during which this object was found."
-    },
-    {
-      "slug": "scp-series-2",
-      "note": "The series this file belongs to."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-18"
+  "updatedAt": "2026-11-20"
 }

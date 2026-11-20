@@ -1,9 +1,9 @@
 {
   "slug": "scp-038",
   "lang": "en",
-  "hook": "An apple tree that copies whatever touches its bark could easily be a horror premise, but much of this short file reads as office comedy. Keep an eye on the addenda, where a running joke does half the work. Then save some attention for the test log at the end, which pairs the tree with one of the most famous objects on the site.",
-  "whyItMatters": "It is a short Series I Safe entry that finds its humor in staff behavior rather than in the anomaly itself. The exasperated memos from Dr. Klein give the facility a lived-in feel in only a few lines. Its testing log is also a neat example of the crossover test, where one numbered object is used to probe another.",
-  "thingsToNotice": "Notice how the addenda escalate: each request to stop is a little more specific, which lets you picture exactly what the staff have been up to. Beneath the jokes, the description includes a quietly grim detail about what happens to living copies, delivered in the same flat tone as the list of snack foods. The crossover test at the end plays with a rule most readers already know and closes on an observation that is more unsettling than funny.",
+  "hook": "An apple tree that copies whatever touches its bark could easily be a horror premise, but much of this short file reads as office comedy. Keep an eye on the addenda, where a running joke does half the work. Then save some attention for the test log at the end, which pairs the tree with SCP-173.",
+  "whyItMatters": "It is a short Safe entry that finds its humor in staff behavior rather than in the anomaly itself. The exasperated memos from Dr. Klein give the facility a lived-in feel in only a few lines. Its testing log is also a neat example of the crossover test, where one numbered object is used to probe another.",
+  "thingsToNotice": "The addenda escalate from vending-machine snacks to car keys, movies and finally cans of beer, so you can picture exactly what the staff have been up to without anyone saying it. Beneath the jokes sits a grim detail in the same flat tone: cloned people and animals age fast, die in about two weeks, and are found to have started fermenting before death. The SCP-500 note adds another catch, since the copied pills work only 30% of the time.\n\nThe weight-limit test sets up the finale: a copy stops growing at 200 pounds, ending in a stump of bark. Grown from SCP-173, that limit leaves only a head, a right arm and part of the torso, which does nothing when a D-class blinks or the lights go out. Then, in storage, staff notice it has been thrashing violently all along, just extremely slowly and whether or not anyone is watching, so the one rule everyone relies on simply does not apply to the copy.",
   "related": [
     {
       "slug": "scp-173",
@@ -15,5 +15,5 @@
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-18"
+  "updatedAt": "2026-11-20"
 }

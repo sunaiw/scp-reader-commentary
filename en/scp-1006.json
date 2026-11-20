@@ -2,18 +2,9 @@
   "slug": "scp-1006",
   "lang": "en",
   "hook": "A colony of spiders that has read Marx sounds like a pure gag, and for most of its length this file is happy to play it that way. Go in expecting a short, deadpan comedy about protest signs and park policy. Just keep reading to the very end, because the tone of the last paragraph is not the tone of the first.",
-  "whyItMatters": "It belongs to a familiar strand of the wiki: an absurd premise delivered in completely straight clinical language, where the joke comes from the Foundation treating something ridiculous with full bureaucratic seriousness. The containment procedures alone, with their reading list and stationery deliveries, show how much character can be packed into routine logistics. It is also a compact example of a species entry, describing a whole society rather than a single creature.",
-  "thingsToNotice": "Much of the humor is built on mismatched scale: grand revolutionary rhetoric placed right next to a complaint about bug spray, and a self-styled head of state who lives in a tree. Mixed in are quietly unsettling details, like the faces woven into the web and the smell around the site. The closing addendum reframes everything before it without adding a word of commentary; read it slowly and decide for yourself how funny the colony still is.",
-  "related": [
-    {
-      "slug": "scp-848",
-      "note": "Another anomaly built around a spider web, this one catching things from somewhere else."
-    },
-    {
-      "slug": "scp-038",
-      "note": "Another Safe entry that gets its laughs from bureaucratic deadpan."
-    }
-  ],
+  "whyItMatters": "The file runs on an absurd premise delivered in completely straight clinical language, so the joke comes from the Foundation treating something ridiculous with full bureaucratic seriousness. The containment procedures alone, with their audiobook requests and deliveries of ink and poster board, show how much character can be packed into routine logistics. It is also a compact species entry, describing a whole society rather than a single creature.",
+  "thingsToNotice": "Much of the humor is built on mismatched scale: grand revolutionary rhetoric placed right next to a complaint about mosquito spraying, and a self-styled 'Benevolent Leader' who lives in an oak tree. Mixed in are quietly unsettling details, like webs shaped into the faces of passersby and the stench of thousands of dead insects, birds and small animals around the site.\n\nThe addendum then turns the joke. Inside the web lies the skeleton of a man killed decades ago by a blow to the back of the head, identified as a political radical who went missing from a Texas town in 1976. The colony surrounds him with bottle caps, pebbles, pocket watches and scraps of metal like offerings and will not let anyone touch him, which strongly suggests where its politics came from. The file never says who struck the blow, and that silence is what makes the colony hard to laugh at afterwards.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-18"
+  "updatedAt": "2026-11-20"
 }
