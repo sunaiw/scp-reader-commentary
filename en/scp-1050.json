@@ -1,19 +1,10 @@
 {
   "slug": "scp-1050",
   "lang": "en",
-  "hook": "An obsidian obelisk carved with the same warning in dozens of scripts, some from known civilizations and some from no one anybody can identify. The file asks you for a little arithmetic and a little history, but the footnotes do most of the heavy lifting. Read them as you go; they are where the article quietly builds its sense of scale.",
-  "whyItMatters": "It is a fine example of the ancient-warning type of article, using real scripts, myths and historical rulers to give an anomaly an enormous depth of time. The numbers in the message are tied to Earth's deep history step by step, so the payoff feels earned rather than asserted. It closes on a policy question rather than an attack, which leaves a thoughtful aftertaste.",
-  "thingsToNotice": "Notice how the obelisk works like a guest book: each era adds an entry signed in the name of a ruler of the time, and the list of signatures becomes a compressed history of its own. The warning text overlaps with myths and literature that the footnotes point out, so those stories start to read like echoes of a single event. Read the research team's signal-fire analogy alongside the record of how often containment policy has flipped; the back-and-forth shows how unsure the Foundation really is.",
-  "related": [
-    {
-      "slug": "scp-1032",
-      "note": "Another object fixated on endings, counting down to them instead of warning about them."
-    },
-    {
-      "slug": "scp-6002",
-      "note": "Mass extinction approached from a very different, far more personal angle."
-    }
-  ],
+  "hook": "An obsidian obelisk, thirty meters tall and cut with impossible precision, carries one warning repeated in many scripts, some familiar and some that match nothing anyone has seen. The document asks for patience with long strings of numbers and a heavy stack of footnotes. Read the footnotes as you go; they are where most of the payoff is built.",
+  "whyItMatters": "The article borrows real scripts, flood myths and historical rulers to give its anomaly a depth of time far beyond recorded history. Instead of showing a monster, it stays with an artifact and the people trying to interpret it, so the threat is felt only through inference. The scale comes from arithmetic and cross-references rather than from any breach or attack, and that restraint is the whole trick.",
+  "thingsToNotice": "Read as years since the Big Bang, the numbers in the message match Earth's mass extinctions one after another, from the end of the Ediacaran to the Quaternary die-off about fifty thousand years ago, each followed by a second date around fifty thousand years on; the very last figure is footnoted only as a possible date range that O5 Command has expunged, which suggests the next return is already on the calendar. The radio pulse from the apex repeats those figures in octal with sixty more in front, taken to be extinctions nowhere in Earth's record, and the same pulse arrives from other directions in space, so the research team pictures a relay of signal fires between inhabited worlds.\n\nThe obelisk also works like a guest book: each era adds a copy signed by its ruler, from a 'Legatus Maximus Romulus' tens of thousands of years back to Gilgamesh, Hadrian, Victoria and Stalin, and handwritten versions from Victoria and Stalin turn up in state archives with no explanation of how they got there. The footnotes quietly recast Beowulf, Sodom and Gomorrah and the world's flood stories as memories of the Destroyers, with gods such as Osiris and Iapetos listed among their dead.\n\nThe ending is a policy dilemma, not an attack. O5 has ordered the radio shielding on, then off, then on again: silence keeps Earth out of the network and less visible, while broadcasting would honor a duty to warn other planets, and for now the Foundation has chosen to keep quiet.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-18"
+  "updatedAt": "2026-11-20"
 }

@@ -1,19 +1,19 @@
 {
   "slug": "scp-2786",
   "lang": "en",
-  "hook": "Go in knowing that this file does not sit still. It opens with a warning that its contents may shift between readings, and that warning is worth taking at face value: the shape of the page is part of what you are reading. Expect plenty of dark comedy early on, especially in the list of famous horror stories that get quietly 'fixed'.",
-  "whyItMatters": "SCP-2786 sits in the wiki's metafiction tradition, where both the jokes and the unease come from remembering that these are stories somebody wrote. Its anomaly is a character type rather than a creature: the protagonist who wanders in and rescues everyone, whether or not the story asked for it.\n\nTagged meta, metafiction and narrative, it treats the report format itself as a stage, and the footer of the page points readers toward several companion pieces in the same spirit.",
-  "thingsToNotice": "Watch the struck-through edits in the opening sections: the object class and the description revise themselves before your eyes. The table of altered works is played for laughs, but it also sets up the rule the rest of the article leans on, namely that wherever this figure goes, the plot bends around it.\n\nKeep the hero's interview voice in mind (confident, bored, a little rude), because the page later changes register more than once. The long prose passage is deliberately crammed with fantasy cliche, and it is best enjoyed first as straight genre parody.",
+  "hook": "Go in knowing that this file does not sit still. It opens with a warning that its contents may shift between readings, and that warning is worth taking at face value: the shape of the page is part of what you are reading. Expect plenty of dark comedy early on, especially in the list of well-known horror stories that get quietly 'fixed'.",
+  "whyItMatters": "SCP-2786 belongs to the wiki's metafiction strand, where both the jokes and the unease come from remembering that these are stories somebody wrote. Its anomaly is a character type rather than a creature: the protagonist who wanders in and rescues everyone, whether or not the story asked for it. Tagged meta, metafiction and narrative, it treats the report format itself as a stage that can be rewritten and broken.",
+  "thingsToNotice": "The gag list of rescued horror works (Jack Torrence knocked out with his own glass, a Gatherer beaten to death with a pistol butt for forty-seven minutes) sets the rule that plots bend around this figure, and the incident at Site-180 turns that rule on the Foundation: it shows up three days before the monthly D-Class terminations, walks out of its interview, and empties seven of ten D-Class cell blocks plus the humanoid wing. The 'successful containment' is a trap made of story, first a looped copy of Saw IV and then a generated three-act fantasy quest. That long prose section is a parody of chosen-one cliche on purpose; the dragon dies asleep, the amulet is never used, and the hero's growing sense that the world is lying is what crashes the framework.\n\nAfter each crash the page changes hands. In one version SCP-2786 seizes the document, lists its class as Oblique and interviews a researcher while casting the Foundation as murderers and itself as the hero who never loses. That swagger cracks into footnotes screaming that no one can keep it there and then begging to go home. The last version strips its class to None and calls it a harmless fictional character kept for endless torment by spiteful gods, which points the blame past the Foundation toward whoever writes and reads the story, with 'this is eternal' repeating to the bottom of the page.",
   "related": [
     {
       "slug": "scp-3311",
-      "note": "Listed among the reading suggestions on this article's own page."
+      "note": "Named in the reading suggestions printed at the top of this article's page."
     },
     {
-      "slug": "scp-7311",
-      "note": "Another file where the anomaly takes over the document you are reading."
+      "slug": "scp-8888",
+      "note": "Also on the article's own short list of recommended follow-up reads."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-18"
+  "updatedAt": "2026-11-20"
 }

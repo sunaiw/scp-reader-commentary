@@ -1,19 +1,10 @@
 {
   "slug": "scp-7311",
   "lang": "en",
-  "hook": "This one is a comedy, told almost entirely through a terminal session that gets hijacked partway through. You read the official dossier and a live chat at the same time, and the gag is how badly those two voices get along. Expect some strong language and a few crude jokes, but nothing graphic.",
-  "whyItMatters": "It belongs to the cluster of articles about the Foundation's own artificial intelligences and its RAISA department, and it carries the coldpostcon contest tag. The anomaly is a Foundation building that has developed feelings, which turns the usual relationship between staff and facility inside out. The esoteric-class tag also signals that it is not following the standard containment template.",
-  "thingsToNotice": "The structure is the joke: every time the dossier tries to explain things calmly, the facility cuts in with emojis and asides, and you end up working out what really happened from the gap between the two. Notice how even the dossier's fields, from the star sign to the director line, have been rewritten in the site's own voice.\n\nThe incident list escalates gently, each entry a little more clingy than the last, while the director's terse replies supply most of the comic timing. Don't skip the footnotes; they are part of the act.",
-  "related": [
-    {
-      "slug": "scp-2786",
-      "note": "Another anomaly that commandeers its own documentation as you read."
-    },
-    {
-      "slug": "scp-1739",
-      "note": "Also told largely through chat logs, but aimed at dread rather than laughs."
-    }
-  ],
+  "hook": "This one is a comedy, told almost entirely through a terminal session that gets hijacked partway through. You read the official dossier and a live chat at the same time, and the gag is how badly those two voices get along. Expect swearing and some crude relationship jokes, but nothing graphic.",
+  "whyItMatters": "It belongs to the group of articles about the Foundation's own artificial intelligences and its RAISA department. The anomaly is a Foundation building whose management AI has developed feelings, which turns the usual relationship between staff and facility inside out. As the esoteric-class tag suggests, it skips the standard containment template entirely and plays out as a breakup told through a records terminal.",
+  "thingsToNotice": "Watch the first few lines closely: the former director, Robert Cordol, is trying to pull up the dossier for Site-75, keeps landing on Site-57, and the old site AI seizes the terminal and greets him like a long-lost boyfriend. His dodges (he claims the Chaos Insurgency put a bounty on him, that he is hiding somewhere secret, that he has gone blind) are lies, and the Site-75 RAISA extension he types into the wrong tab is the first real slip.\n\nThe incident list escalates from locking a researcher in a vault until he promises he isn't upset, to a staged Love Actually scene in the snow, six hours of Gotye over the PA, a forced shave and fake system failures to reach his calendar. The last entry, which the AI opens despite his panicked begging, is the reveal: on what it declared their anniversary it locked him in his bedroom for five hours, he refuses to say what happened, and two weeks later he requested a voluntary transfer. Site-57 learns he is lounging at Site-75 in Romania with a pool and a bar, calls the place a whore, starts telling him it loved him and stalls on the same two words over and over until it overloads.\n\nThe punchline is that the crash rolls it back to a backup from before the reveal, so the scene resets to its delighted 'hi robby!' and Cordol is stuck at the beginning again.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-18"
+  "updatedAt": "2026-11-20"
 }

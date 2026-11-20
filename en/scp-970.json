@@ -2,18 +2,9 @@
   "slug": "scp-970",
   "lang": "en",
   "hook": "A spatial anomaly with a simple premise: walk through a line of doors and you come out where you started. The early experiments are almost playful, with dry signed remarks from the lead researcher and a running squabble among the staff. It reads quickly and works best if you go in knowing little else.",
-  "whyItMatters": "SCP-970 is a good example of a location anomaly that turns into a story about experimental method. Its real subject is how researchers try to measure something with only one obvious property, and it uses data cards, a scanner and iteration counts to make that idea concrete. The blend of office comedy and slowly building unease is a familiar flavour of the wiki's experiment-log articles.",
-  "thingsToNotice": "Dr. Jung's short signed notes act as a running commentary, and he changes his mind from one experiment to the next. The four values on the test card are chosen to drift at different speeds, a neat way to show distance without a diagram.\n\nResearch Assistant Boston's note about several versions of the same doctor arguing is the comic high point, and also the clearest explanation of how the loop behaves. Keep an eye on the containment procedures, which were revised in light of what the later tests turned up.",
-  "related": [
-    {
-      "slug": "scp-1739",
-      "note": "Also deals with branching versions of one world and the cost of experimenting with them."
-    },
-    {
-      "slug": "scp-3515",
-      "note": "Another log where a camera carries the story somewhere the team cannot follow."
-    }
-  ],
+  "whyItMatters": "SCP-970 is a location anomaly that turns into a story about experimental method. Its real subject is how researchers try to measure something with only one obvious property, and it uses data cards, a scanner and iteration counts to make that idea concrete. The mix of office comedy and slowly building unease is what gives the short log its punch.",
+  "thingsToNotice": "Each lap through the doors does not return you home but drops you into a neighbouring version of the world, and the further you go the earlier that world split from ours. The test card makes this measurable, since a random number drifts at once, a football score after 24 laps, the Dow Jones after 234, and a two-day-old weather forecast never within 371. Then the comedy peaks: one Dr Jung is fetched from the previous loop to fix the scanner, a third walks in complaining about the delay, security has to separate them, and a stranger arrives who turns out to be D-970-296 from a world where someone else drew the assignment, bruised from repeated tackles until Jung hangs a sign around his neck.\n\nThe robot probe sends footage back from much further out, and the tone flips: a red tie, Taylor missing and later returning as a doctor, then the team under attack with Jung shot in the chest, an empty room with walls covered in blood and expunged symbols, and finally the team with something wrong with their faces. Taylor has a breakdown, the others need amnestics, and the armed guards now posted at every entrance make sense once you realise the loops run in both directions. The legislative palace example in the description, where the Foundation was refused access and the matter ended in a violent coup, is a reminder of how badly an unsecured site can end.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-18"
+  "updatedAt": "2026-11-20"
 }

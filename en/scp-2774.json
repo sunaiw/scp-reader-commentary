@@ -1,19 +1,10 @@
 {
   "slug": "scp-2774",
   "lang": "en",
-  "hook": "Content note: this is a bleak file about people trapped inside their own bodies, and the Foundation's response is disturbing in its own right. The anomaly is an image, yet the article's force comes less from the image than from the voices of the people it has affected. Go in expecting a story with no comfortable way out.",
-  "whyItMatters": "SCP-2774 is a memetic Keter that builds its horror from first-person testimony rather than spectacle. Its premise, a figure that becomes more active as the number of victims rises, leaves the Foundation with nothing but grim options. That makes it a clear example of the wiki's interest in containment as a moral problem rather than a purely technical one.",
-  "thingsToNotice": "Small practical details carry a lot of weight here: the colour-vision requirement for researchers, the struck-through edits in the procedures, a clock taken out of an interview room. The brief lucid windows give every interview a ticking-clock pressure, and each transcript feels more fragmented than the one before.\n\nThe figure itself only ever appears through other people's accounts, which keeps it just out of focus. Comparing the opening procedures with the later sections is worth the effort.",
-  "related": [
-    {
-      "slug": "scp-178",
-      "note": "Another anomaly where only some viewers can see a figure watching them."
-    },
-    {
-      "slug": "scp-1192",
-      "note": "A smaller, quieter story about a mind stuck somewhere it does not belong."
-    }
-  ],
+  "hook": "Content note: this is a bleak file about people locked inside their own bodies, and it involves suicide, killings by staff and the deliberate mass killing of patients. The anomaly is an image, yet the article's force comes less from the image than from the voices of the people it has affected. Go in expecting a story with no comfortable way out.",
+  "whyItMatters": "SCP-2774 is a memetic Keter that builds its horror from first-person testimony rather than spectacle. Its premise, a figure that grows stronger as the number of living victims rises, leaves the Foundation with nothing but grim options. That makes it a clear example of containment written as a moral problem rather than a purely technical one.",
+  "thingsToNotice": "The struck-through procedures are a timeline of things getting worse: two hours of shared meals and courtyard time are revoked, subjects are sealed in cells, and anyone found making sloth drawings or figurines is executed. In the first interview David, already shaking after a look at the clock, lunges at a guard on purpose and is shot the moment he touches him, which is why the clock is later taken out of the room. Claire uses her two and a half minutes of lucidity to beg to be killed and says the sloth sits behind Dr. Chung watching; a few hours after the interview, Chung requests her termination and it is approved.\n\nJason explains the rule behind everything: each new arrival at Site-116 lets the sloth do more with their bodies, it has already made them fight one another, and it is growing darker and more solid, until his lucid window snaps shut mid-sentence. The ending is Chung's own memo for Procedure XXJ9, cutting about 6,400 residents down to 200 by lethal injection within a month and ordering field teams to kill anyone newly exposed. Her offer of amnestics to the staff who carry it out, and her insistence that it spares the victims suffering, is the last and coldest line, and the earlier note that sightings dropped after XXJ9 confirms that the cull worked.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-18"
+  "updatedAt": "2026-11-20"
 }

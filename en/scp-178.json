@@ -1,19 +1,10 @@
 {
   "slug": "scp-178",
   "lang": "en",
-  "hook": "A short, early-style file about a pair of cardboard 3-D glasses. The entities you see through them are mostly curious rather than hostile, and the whole article turns on a single rule about what you must not do. A brief note: the recovery story involves the loss of a child, mentioned without detail.",
-  "whyItMatters": "It is a classic one-rule anomaly: a harmless-looking object, an unseen population, and a line that must not be crossed. The article also leans on a document the reader never gets to see, a long-standing wiki device for letting absence do the work. Its brevity makes it an easy entry point for readers new to the format.",
-  "thingsToNotice": "Much of the dread comes from the containment procedures rather than the description: remote monitoring only, nobody but the subject in the room, compulsory reading for senior staff. The entities are given gentle, almost endearing habits, which makes the one exception feel sharper.\n\nThe recovery account centres on an agent who simply chose not to engage, and the article quietly treats that restraint as the reason it ended safely. The closing warning is short, but it says a lot about what the unseen report must contain.",
-  "related": [
-    {
-      "slug": "scp-2774",
-      "note": "Another anomaly where some viewers see a watching figure that others cannot."
-    },
-    {
-      "slug": "scp-3515",
-      "note": "Another unassuming object whose danger rests on one precise condition."
-    }
-  ],
+  "hook": "A short file about a pair of old cardboard 3-D glasses. The entities you see through them are mostly curious rather than hostile, and the whole article turns on a single rule about what you must not do. Content note: the recovery account involves a young girl killed in her bedroom, and the injuries are described in measured detail.",
+  "whyItMatters": "It is a tidy one-rule anomaly: a harmless-looking object, an unseen population, and a line that must not be crossed. It also leans on a document the reader never gets to see, letting an unread incident report do much of the frightening. Its brevity makes it an easy entry point for readers new to the format.",
+  "thingsToNotice": "The rule is spelled out with clinical precision: touch or address one of the tall figures and deep cuts start opening on you, always in sets of three parallel slashes up to about 27 centimeters long, and they keep coming until you are dead, while every instrument in the room records nothing. The recovery story shows what that means in a child's bedroom, a girl torn apart beside a bloodstained Ferris wheel picture, with the glasses flung under the bed as she died.\n\nThe agent who puts them on afterwards turns his head and finds one of the things leaning over his shoulder an inch from his face, looking at the same picture, with others in the room watching the whole recovery team; he survives only because he does nothing. Then read the procedures again. Incident 178-14-Alpha is cited as proof that interaction by anyone, not just the wearer, sets off the attack, which is why everyone except the subject is now barred from the test area, and the fact that Level 4 staff can be disciplined for not reading it tells you how bad it must have been.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-18"
+  "updatedAt": "2026-11-20"
 }

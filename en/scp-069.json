@@ -1,19 +1,10 @@
 {
   "slug": "scp-069",
   "lang": "en",
-  "hook": "This is a quiet, melancholy entry rather than a frightening one. The entity at its center takes the place of people who have just died, and the file cares far more about what that is like than about how it works. Go in expecting a short character study dressed up as a containment report.",
-  "whyItMatters": "A featured Series I entry, it shows that the Foundation format can carry grief and identity as easily as horror. Its subject is technically Safe, yet the procedures read like a careful effort to keep someone stable and protected from their own despair. Rather than a threat to be locked away, the humanoid at its center comes across as someone trapped inside a role.",
-  "thingsToNotice": "Notice the note in the procedures insisting that the entity must not be treated as an employee; the fact that this needs saying is the emotional core of the file. The urge to put a life in order is a beautifully specific detail that turns a supernatural ability into something like a ritual of closure. The origin is told through two fires, and the second one hints at the entity's character without spelling it out. The two addenda then show what happens when the Foundation forgets it is dealing with someone who feels.",
-  "related": [
-    {
-      "slug": "scp-2922",
-      "note": "Another file where the dead, and the families they leave behind, are at the heart of the story."
-    },
-    {
-      "slug": "scp-038",
-      "note": "A lighter take on copies of people, with one darker line about how long they last."
-    }
-  ],
+  "hook": "This is a quiet, melancholy entry rather than a frightening one. The entity at its center takes the place of people who have just died, and the file cares far more about what that is like than about how it works. Expect a short character study dressed up as a containment report, with suicide as one of its subjects.",
+  "whyItMatters": "Carrying the featured tag in Series I, it shows that the Foundation format can hold grief and identity as easily as horror. Its subject is technically Safe, yet the procedures read like a careful effort to keep someone stable and protected from despair. The humanoid comes across less as a threat to lock away than as someone trapped inside a role it never chose.",
+  "thingsToNotice": "The origin hides a double replacement: the real firefighter John died in the first blaze and SCP-069 walked out wearing his life, then three weeks later it went into a smoky room alone and, by every implication, died there and resurfaced as the one civilian who came out almost untouched. It keeps no memory of earlier lives, so each identity feels fully its own, and the urge to settle debts, visit relatives and rewrite wills reads like someone preparing the dead person's family for a loss that has already happened.\n\nIt is now living as a guard who was killed during another object's breach, and it first refused to accept what it was. The Foundation briefly considered handing it more dead staff as future identities, which treats a grieving person as a reusable tool. When a junior researcher let slip that the agent's family had been told he was dead and described how they took it, SCP-069 tried to kill itself. The procedures' cold note that it must not be treated as an employee, and the two-officer sign-off on every request, are what that suicide attempt left behind.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-18"
+  "updatedAt": "2026-11-20"
 }

@@ -1,19 +1,10 @@
 {
   "slug": "scp-1739",
   "lang": "en",
-  "hook": "A short Keter built around an old laptop and three program windows. Most of the story unfolds in chat logs between a researcher and someone who says he is writing from a branched-off timeline. Take the description slowly before reaching the logs; it sets up everything the conversations go on to discuss.",
-  "whyItMatters": "It is a compact example of a cosmic-scale Keter told through dialogue rather than incident reports, and it trusts the reader to stay with clipped, guarded conversation. The time-travel premise is handled with restraint: no paradox diagrams, just two people comparing notes across a gap neither of them fully understands. The ethical weight lands on the Foundation's own experiments, which gives the short page a lingering aftertaste.",
-  "thingsToNotice": "Notice the passphrase that opens each log and how much of the researcher's side is redacted; one half of the conversation is clear while the other is seen through a keyhole. The chat partners are numbered variants of one name, which tells you without comment how many times the procedure has been run.\n\nFollow the shift in tone from log to log, from technical caution toward something closer to confession. The closing addendum is brief, yet it changes how you read the operation named back in the containment procedures.",
-  "related": [
-    {
-      "slug": "scp-970",
-      "note": "Another experiment that keeps producing near-copies of the same people and setting."
-    },
-    {
-      "slug": "scp-7311",
-      "note": "A far lighter article that also lives mostly in chat transcripts."
-    }
-  ],
+  "hook": "A short Keter built around an old laptop and three program windows. Most of the story unfolds in chat logs between a researcher and someone who says he is writing from a branched-off timeline. Take the description slowly before reaching the logs; every detail in it, including the cartoon dog, gets paid off.",
+  "whyItMatters": "It is a compact cosmic-scale Keter told through dialogue rather than incident reports, and it trusts the reader to stay with clipped, guarded conversation. The time-travel premise is handled with restraint: no paradox diagrams, just two people comparing notes across a gap neither fully understands. The ethical weight lands on the Foundation's own experiments, which gives the short page a long aftertaste.",
+  "thingsToNotice": "The cartoon is the answer key. Each time a subject is sent back, a new branch universe splits off, and the 'Isaac' on the other end disconnects because his entire universe is being destroyed; Isaac132 finally sees that the end is a malevolent thing that hunts across time and space, the dog in the animation. SCP-1739 is not a lifeboat but a containment procedure for that dog: each branch is a ball thrown in a game of fetch, a whole universe of people sacrificed so the creature spends its energy somewhere harmless, and the deflated ball it carries back is what is left of them.\n\nThe chat partner knows the researcher's water glasses and daily medication, says he already knows everything the researcher knows, and calls him the worst possible choice for the job, which strongly suggests every Isaac is the researcher's own counterpart in the doomed branch. The researcher admits he is selfish and ends by saying he envies the man about to be erased, then gets moved off the project while Ethics investigates. Look back at the procedures afterwards: the laptop itself appeared on January 1st, 2004, the earliest date it accepts, staff must report anyone appearing out of nowhere, and Operation Smokescreen exists to stop travelers from the future arriving, because this timeline may itself be somebody else's thrown ball.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-18"
+  "updatedAt": "2026-11-20"
 }
