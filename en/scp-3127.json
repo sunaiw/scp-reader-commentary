@@ -1,0 +1,10 @@
+{
+  "slug": "scp-3127",
+  "lang": "en",
+  "hook": "SCP-3127 opens with a warning that you are reading an outdated version, and that is the whole shape of the article: a chain of rewritten entries, each describing what the previous subject turned into. It begins with a nineteen-year-old woman whose touch passes on her mood, which sounds mild. Read every revision in order, including the small administrative notes, because the horror builds out of how calmly each one is filed.",
+  "whyItMatters": "It's a strong example of the revision-log format, where the joke-like premise of a woman giving birth to a talking piglet turns, step by step, into body horror. Each version keeps the same containment boilerplate, the cell size and twice-daily feeding, while the thing inside it becomes less and less human.\n\nThe Unusual Incidents Unit, tagged on the page, appears only in the backstory, where it dismisses her as a hoax before the Foundation steps in.",
+  "thingsToNotice": "Each Moccus Event produces a worse successor: Jessica gives birth to a piglet calling itself a duchess, a brain growth bursts out as a new Jessica full of pig-shaped organs, those organs merge into a giant sow that thinks it is Jessica's corpse, and screaming miniature Jessicas inside it break out until one becomes a pig-woman hybrid. The effects escalate alongside, from borrowed emotions to temporary piglets, fatal organ swaps, a belief that you are dead and, finally, turning hearers into pig corpses with her face.\n\nThe hybrid's handwritten note is the turning point. It is furious and then apologetic, blames the cross-testing the first version waved off as uneventful, and admits she sometimes forgets she is not a pig. The Foundation's answer, moving her to a research facility, turns the facility itself into a vast pig whose screams spell out a few words in Morse code, the last of them simply an oink, while the final line says another event is already underway.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-20"
+}
