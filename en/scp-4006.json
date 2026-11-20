@@ -2,18 +2,18 @@
   "slug": "scp-4006",
   "lang": "en",
   "hook": "SCP-4006 starts from a bold, funny premise about the US state of Massachusetts and follows it through with a completely straight face. It begins as a plain report, then keeps escalating through addenda as the Foundation finds ways to take advantage of the situation. Read to the very end, because the file changes shape partway through.",
-  "whyItMatters": "The entry is a riff on the veil, the idea that the public never learns about the anomalous, and asks why that secrecy works as well as it does. Its first half is an absurdist joke about a state that exists only as a misunderstanding, and its later sections widen the scope considerably. It cites other entries, including SCP-2000 and SCP-3000, as evidence, which ties it into the larger canon.",
-  "thingsToNotice": "The colonial history is a chain of coincidences told deadpan, and the comedy depends on each step being merely improbable rather than impossible. The Foundation's response, building a fake Massachusetts to match what everyone already believes, is itself a joke about cover stories turning into reality. The second document then proposes that the veil itself is SCP-4006, listing the Foundation's own existence as evidence. Its warning against leaning on such luck turns the punchline into a statement about why the Foundation keeps working anyway.",
+  "whyItMatters": "The entry plays with the Foundation's habit of keeping the anomalous hidden from the public, and asks how far luck could be doing that job for it. Its first half is an absurdist joke built from a long chain of coincidences, and its later sections widen the scope considerably. It cites other entries, including SCP-2000 and SCP-3000, which ties it into the larger canon.",
+  "thingsToNotice": "The colonial history is a chain of coincidences told deadpan: Plymouth begins as a British bluff aimed at France, storms push settlers south, and parallel city governments never notice each other, each step merely improbable rather than impossible. The Foundation's response, quietly moving its biggest Sites and the Ethics Committee there and then building a full fake Massachusetts to match what everyone already believes, turns a cover story into a real state. By the 2023 addendum fewer than 20 deluded people are left, ordinary citizens outnumber the staff, and the anomaly has more or less erased itself, with the O5s still voting to keep it Thaumiel.\n\nThen a second, separate document starts over. Here SCP-4006 is only a theory; its evidence list runs from the public's ignorance through SCP-2000, SCP-3000 and the convenient discovery of amnestics to the Foundation's own existence, and the last line names it outright as the veil itself. The warning just before that, to assume it does not exist so that staff do not grow careless and rely on luck to hide their mistakes, turns the punchline into a statement about why the Foundation keeps working anyway.",
   "related": [
     {
       "slug": "scp-2000",
-      "note": "Cited in the closing document as evidence for the theory."
+      "note": "Listed in the closing document as evidence for the theory."
     },
     {
       "slug": "scp-3000",
-      "note": "Also cited as evidence, alongside the suspiciously convenient discovery of amnestics."
+      "note": "Also on that evidence list, alongside the suspiciously well-timed arrival of amnestics."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

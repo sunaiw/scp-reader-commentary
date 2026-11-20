@@ -1,9 +1,9 @@
 {
   "slug": "scp-4231",
   "lang": "en",
-  "hook": "SCP-4231 is a long, multi-part story assembled from reports, interviews, essays and prose chapters, and it opens with an adult-content warning covering abuse and violence. Read it only if you are comfortable with that, because the darkness is central rather than decorative. If you do go in, know that at heart it is about a reality bender who survives an abusive relationship, and about how institutions treat survivors.",
-  "whyItMatters": "The entry weaves together several threads of the setting: the Global Occult Coalition's Ichabod campaign, the Montauk procedure from SCP-231, and Scranton's reality anchors. It takes a critical look at how both the Coalition and the Foundation treat Type Greens, insisting on them as people rather than threats. The gap between cold official documents and raw interior narration is itself the argument the piece is making.",
-  "thingsToNotice": "Notice how the clinical documents and the intimate prose chapters alternate, so each official summary is immediately undercut by what it leaves out. B's absurd responses during the annual questioning, from nail polish to a blank microscope slide, read as protest rather than madness once you know what he is being asked to relive. The essay by the codex's translator quietly reveals that she is B's mother, and the closing scenes show who B became under a new name, recasting a familiar Foundation persona as armor. The final vignette, a reality anchor that remembers a house, hints at an uncomfortable link between Scranton's factory and Cornwall.",
+  "hook": "Content note: SCP-4231 opens behind an adult-content gate warning of explicit sexual assault, child abuse, gore, self-harm, suicide and torture, and it means every item. It is a long, multi-part story assembled from reports, interviews, emails, essays and prose chapters about a reality bender who was abused by his partner for years, and about how the Foundation and the GOC treat him afterward. The darkness is central rather than decorative, so go in only if you are ready for it.",
+  "whyItMatters": "The entry weaves together several threads of the setting: the Global Occult Coalition's Ichabod extermination campaign, the Montauk procedure from SCP-231, SCP-2317, and Scranton's reality anchors. It takes a critical look at how both organizations treat Type Greens, insisting on them as people rather than threats or specimens. The gap between cold official documents and raw interior narration is itself the argument the piece is making.",
+  "thingsToNotice": "B is Francis Wojciechoski, a former Ichabod hunter codenamed Ukulele, and A is Lilly, his childhood friend and girlfriend, who raped, beat and gaslit him for seven years, held six women in the tomb cells for the Montauk procedure and killed 48 townspeople. Francis shot her minutes after their daughter Meri was born, as the lake's boiling flood rose and killed 1,200 people, 200 of them GOC agents, then ran for 80 hours through an endlessly repeating house until he was gassed. The shoreline imprint in the event table, which breaks mid-sentence into his 1995 realization in a Tucson airport bar that what she did to him was rape, shows how his memory keeps invading the clinical format.\n\nHis absurd answers at the annual questioning, from nail polish and false eyelashes to a blank microscope slide, read as refusal once the essay on his case has listed every request for privacy the Foundation denied. That essayist, Lady Agora, later reveals she translated the Erikesh Codex and is Francis's mother, and her notes argue the ritual feeds its god on the fear of everyone who watches it. The penultimate scene shows him thirty years on as Alto Clef, waking from that bathroom nightmare in Siberia, which recasts the familiar flamboyant persona as armor.\n\nThe last thread is the most disturbing: the O5s debate handing A's body to Robert Scranton's anchor team, the Ichabod speaker mentions Type Green bodies still being cut up for a redacted purpose, Scranton's new factory on the North Access site needs ritual supply now that the 1980s stock is running out, and anchor #4,345 in the final scene remembers a house, which implies the anchors are built from reality benders, Lilly among them.",
   "related": [
     {
       "slug": "scp-231",
@@ -11,7 +11,7 @@
     },
     {
       "slug": "scp-2317",
-      "note": "Originally found in the tomb beneath this file's drained lake."
+      "note": "Originally kept in the tomb beneath this file's drained lake."
     },
     {
       "slug": "scp-239",
@@ -19,5 +19,5 @@
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }

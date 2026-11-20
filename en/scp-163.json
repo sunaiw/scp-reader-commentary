@@ -2,18 +2,9 @@
   "slug": "scp-163",
   "lang": "en",
   "hook": "A gentle, slow first-contact story told almost entirely through containment logistics and small experiments. There are no breaches and no villains; the interest lies in how two species try to understand each other without any shared language. Pay attention to the specifications of the enclosure, because they describe the alien as much as the description section does.",
-  "whyItMatters": "It is a good example of the wiki's hard-SF streak: a large part of the file is spent on biochemistry, light wavelengths and atmosphere, worked out carefully enough that the creature feels plausible. It also shows the Foundation in an unusually cooperative mood, with staff helping repair equipment and playing board games with the subject. The result is a Safe-class article whose emotional weight comes from loneliness rather than danger.",
-  "thingsToNotice": "The experiment logs borrow the shape of child-development tests, which quietly casts the researchers as parents trying to read a mind they can't reach. The painting session is the turning point, where a routine test becomes the first genuine exchange and the creature's reaction says more than any data table. Notice how the last addendum moves from scientific caution to hope, and ask what that hope means for the subject itself. Small details, like the limbs it had already lost before being found, hint at a history the file never tells.",
-  "related": [
-    {
-      "slug": "scp-3171",
-      "note": "Another first-contact attempt where the real barrier is what the other side values."
-    },
-    {
-      "slug": "scp-1000",
-      "note": "Another article that asks you to see a non-human species from its own side."
-    }
-  ],
+  "whyItMatters": "A large part of the file is spent on biochemistry, light wavelengths and atmosphere, worked out carefully enough that the creature feels plausible, down to nickel-based green blood and a different genetic code. It also shows the Foundation in an unusually cooperative mood, with staff helping repair equipment and playing board games with the subject. The result is a Safe-class article whose emotional weight comes from loneliness rather than danger.",
+  "thingsToNotice": "The experiment logs borrow the shape of child-development tests, which quietly casts the researchers as parents trying to read a mind they can't reach. The painting session is the turning point: given ultraviolet pigments, SCP-163 paints a landscape full of unknown plants and animals, stares at it for seven minutes, knocks it down and huddles in a corner in distress, yet refuses to let the supplies be taken away and is painting again the next day. It is homesick, and the only thing it can share with its captors is pictures of a world nobody on Earth will see.\n\nThe background fills in why. Its ship crash-landed in the Andes millions of years ago and sat in a stasis field until miners dug it out, after looters had already taken part of its equipment, and it fought the agents who switched the field off. The amputated appendages and mechanically blunted bone spurs hint at a history the file never tells. The last addendum turns from caution to hope that others of its kind still sleep somewhere underground, which is also an admission that, for now, it is entirely alone.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-18"
+  "updatedAt": "2026-11-20"
 }

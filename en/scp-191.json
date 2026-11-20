@@ -1,19 +1,10 @@
 {
   "slug": "scp-191",
   "lang": "en",
-  "hook": "This file is about a child who was recovered from an illegal laboratory after being heavily altered with machine parts. Content note: it deals with abuse of a child through forced surgery, described in clinical rather than graphic terms, with much of it hidden behind redactions. What stays with readers is less the technology than the calm, bureaucratic voice used to describe her.",
-  "whyItMatters": "SCP-191 is a well-known example of the wiki using the report format itself as a source of discomfort. The procedures cover bedding, clothing, bathing and power logs, and the routine tone makes the situation feel heavier than any dramatic scene would.\n\nIt also shows the Foundation at its most morally grey. The rescue, the decision not to attempt a full repair, and the cover story are all presented as sensible choices, and the article leaves it to the reader to decide how sensible they really are.",
-  "thingsToNotice": "Pay attention to the pronoun. The document calls a human child \"it\" throughout, and once you notice that, every procedural line reads differently.\n\nThe numbered list of alterations relies heavily on expunged entries; the gaps do more work than the details that remain. The psychological analysis at the end is worth a slow read: Dr. Glass explains away each sign of distress, and the final sentence about acquaintances is left without comment.",
-  "related": [
-    {
-      "slug": "scp-811",
-      "note": "Another humanoid subject whose daily care routine says as much as its description."
-    },
-    {
-      "slug": "scp-series",
-      "note": "The series this file belongs to."
-    }
-  ],
+  "hook": "This file is about a young girl recovered from an illegal laboratory after a surgeon cut away large parts of her body and replaced them with machinery. Content note: it is a catalogue of surgical abuse of a child, including the removal of her jaw, larynx and reproductive organs, written in flat medical language with the worst parts hidden behind redactions. What stays with readers is less the technology than the calm, bureaucratic voice used to describe her.",
+  "whyItMatters": "SCP-191 uses the report format itself as a source of discomfort. The procedures cover bedding, clothing, baking-soda baths, injected meals and power logs, and the routine tone makes the situation feel heavier than any dramatic scene would.\n\nIt also shows the Foundation at its most morally grey. The rescue, the decision not to attempt a full repair, and the cover story are all presented as sensible choices, and the article leaves it to the reader to decide how sensible they really are.",
+  "thingsToNotice": "Pay attention to the pronoun. The document calls a human child \"it\" throughout, and once you notice that, every procedural line reads differently: she has no voice left and can only show distress by breathing fast, her uterus and ovaries were taken out to free up space, and her mechanical heart and lungs could restart her after death, with a redaction hinting that this may already have happened.\n\nThe Foundation's own choices are just as cold. It keeps her alive partly because she is a source of valuable data, judges full reconstruction impossible, and covers up her disappearance by blaming a local serial killer and arranging his death in prison before trial. Dr. Glass then explains away the fetal curling, the constant melancholy and the refusal to meet anyone's eyes, and the final line, that she has never asked about anyone she knew before her abduction, is left without comment.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-18"
+  "updatedAt": "2026-11-20"
 }

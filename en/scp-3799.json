@@ -1,19 +1,10 @@
 {
   "slug": "scp-3799",
   "lang": "en",
-  "hook": "Read this one as a document that keeps contradicting itself. It opens with a short, strange containment file, then hands you a series of recovered versions of that same file, each drifting a little further from the one before. Take them in order, and keep an eye on dates and numbers that don't quite agree.",
-  "whyItMatters": "It belongs to the group of SCP articles that tell their story through revisions of a single document, letting the format itself show reality slipping out of place. The Daevite tag ties it to that setting, and the later versions build an entire alternate history around one anomaly. It is also an argument about the appeal of purity and order, and about why a plan to remove every anomaly from the world might itself be the horror.",
-  "thingsToNotice": "Track how the object class, the scale of the phenomenon and even the name of the organization shift from one version to the next. The stacked, conflicting dates are clues that the timeline is being edited while you read. One version drops the report format entirely for a calm, sermon-like voice, and the contrast with the furious, profane testament at the end is where the article makes its real case. The line at the very top of the page reads differently once you've finished.",
-  "related": [
-    {
-      "slug": "scp-140",
-      "note": "Another history-rewriting document tied to the same ancient civilization glimpsed here."
-    },
-    {
-      "slug": "scp-2935",
-      "note": "Also pieced together from the records of a world that has already ended."
-    }
-  ],
+  "hook": "Read this one as a document that keeps contradicting itself. It opens with a short, strange containment file about a ball of snow hanging over a Greenland island, then hands you a series of recovered versions of that same file, each drifting a little further from the one before. Take them in order, and keep an eye on dates and numbers that don't quite agree.",
+  "whyItMatters": "It tells its story through revisions of a single document, letting the format itself show reality slipping out of place. The Daevite tag points to one of the strands the later versions pull in, as they build an entire alternate history around one anomaly. It is also an argument about the appeal of purity and order, and about why a plan to make the world quiet and tidy might itself be the horror.",
+  "thingsToNotice": "Track how the object class, the scale of the phenomenon and finally the name of the organization shift, from a snowfall on one island to a blizzard covering more than a quarter of the planet tended by a Snow Containment Foundation that has never heard of the SCP Foundation. The stacked, contradictory dates show the snow reaching back through history while you read. One version drops the report format for a calm sermon praising snow as purity and flesh as filth, signed off with a walk outside into the white, and the opening epigraph turns out to be a line from it.\n\nThe last document explains everything in a furious, profane voice: Dr. Kells's team built the snow, through what the first file calls Project Midwinter, to erase every anomaly that ever existed, and it became an idea devouring past and present. Its writer is SCP-3799-1, the corpse in the first file, who flew into the source and cut his wrists so that blood, the thing the snow hates, would undo it. The sphere, his slit wrists and the papers in his hand all describe a man who succeeded, which is why the Foundation shut the project down the moment it read them.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-18"
+  "updatedAt": "2026-11-20"
 }

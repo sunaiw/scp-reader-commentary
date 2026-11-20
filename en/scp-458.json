@@ -1,19 +1,19 @@
 {
   "slug": "scp-458",
   "lang": "en",
-  "hook": "A light, short entry about an object you would happily keep in your own kitchen. There is no threat anywhere in it; the fun is in the long table of test results, so read it slowly instead of skimming. For each row, think about what the order says about whoever was holding the box.",
-  "whyItMatters": "It is a textbook case of the harmless anomaly put to work: once the Foundation confirms there's no danger, the object simply goes into the staff canteen and morale goes up. The page is tagged as a collaboration, and the reaction table has clearly grown over the years, with rows for much later articles and for entries from the Spanish branch. That turns it into a kind of shared guestbook, where each row gives a one-line character sketch of some other anomaly.",
-  "thingsToNotice": "Read the table as a set of tiny portraits: an order can be funny, ominous or quietly sad depending on who placed it, and some of the most affecting moments hide in the footnotes rather than the rows. The memo threatening compulsory exercise grounds the file in ordinary office life. Notice how the tone shifts when one of the more dangerous subjects takes its turn, which explains why the closing update suddenly asks for supervision.",
+  "hook": "A light, short entry about an object you would happily keep in your own kitchen. The fun is in the long table of test results, so read it slowly instead of skimming. For each row, think about what the order says about whoever was holding the box, because not every row stays cheerful.",
+  "whyItMatters": "It is a clear case of the harmless anomaly put to work: once the Foundation confirms there's no danger, the object simply goes into the staff canteen and morale goes up. The page is tagged as a collaboration, and the reaction table runs from low numbers up past SCP-8000 and into a batch of SCP-ES entries from the Spanish branch. That turns it into a kind of shared guestbook, where each row gives a one-line character sketch of some other anomaly.",
+  "thingsToNotice": "Read the table as a set of tiny portraits: SCP-343 gets nearly every topping there is, SCP-181 is told his favourite was a lucky guess, and Dr. Weppler's pineapple-clam-ranch monstrosity is only his second choice because deep-dish will not fit. Some of the most affecting moments hide in the footnotes, like SCP-4999 sharing its pizza with a dying D-class, the same kind she used to share with her late partner, in the first order too big for the box. The tone breaks completely at SCP-682, whose pizza is covered in twitching animal parts and the screaming face of the lead researcher, who ends up in therapy. That row is why the closing update suddenly demands approval and supervision for further tests, while the memo threatening compulsory exercise keeps the file grounded in ordinary office life.",
   "related": [
     {
       "slug": "scp-4999",
-      "note": "The subject of this file's most touching footnote; its own article shows why."
+      "note": "The subject of this file's most touching footnote."
     },
     {
-      "slug": "scp-343",
-      "note": "Its row in the taste table is a small joke that lands better once you know who it is."
+      "slug": "scp-682",
+      "note": "Its row is the one that turns the table from comedy to horror."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-18"
+  "updatedAt": "2026-11-20"
 }

@@ -1,19 +1,10 @@
 {
   "slug": "scp-1499",
   "lang": "en",
-  "hook": "SCP-1499 is a Soviet gas mask that takes whoever wears it somewhere else: a bleak landscape of black towers and strange, many-eyed inhabitants. Most of the file is a test log followed by one radio-narrated exploration. It is a horror entry with some disturbing imagery, but its real impact is saved for the very end.",
+  "hook": "SCP-1499 is a Soviet gas mask that takes whoever wears it somewhere else: a bleak landscape of black towers and tall, many-eyed, many-mouthed inhabitants. Most of the file is a test log followed by one radio-narrated exploration. There is bloody imagery along the way, but the real impact is saved for the very end.",
   "whyItMatters": "The file uses a classic exploration structure, with each test pushing a little further into the other place than the last. What sets it apart is that the closing addendum forces you to reread everything before it. It shows how much weight a single final document can carry when it follows a log the reader thinks they already understand.",
-  "thingsToNotice": "The final addendum suggests the mask does move the wearer, but into our own world, which it shows in a monstrous guise. Reread the exploration log with that in mind, and the great building, the gathered crowd and the figure on the platform line up with a church service. The agent's sincere belief that he was stopping something terrible is what makes the outcome so bleak. The O5's closing worry about agents seeing their colleagues as monsters turns the danger back toward the Foundation itself.",
-  "related": [
-    {
-      "slug": "scp-2935",
-      "note": "Another entry built from exploration logs into a place on the other side."
-    },
-    {
-      "slug": "scp-2273",
-      "note": "A very different crossing between worlds, told through interviews instead."
-    }
-  ],
+  "thingsToNotice": "The twist: Agent K was never anywhere else. The addendum reports that on the same Sunday morning a masked man in a suit opened fire during a service at Moscow's Cathedral of Christ the Savior, killing six worshippers, then cut out the priest's heart and vanished in front of witnesses. The mask had shown him a cathedral full of people as a horde of monsters, and the heart he comes back holding is the glowing object he thought was keeping a portal open.\n\nReread the exploration log with that in mind: the huge spiked building is the cathedral, the droning crowd is the congregation singing, the figure on the platform is the priest, and the summoning he rushes to stop is a liturgy. He still insists he acted to prevent a catastrophe, which is what makes it so bleak. The O5's closing note, ordering the earlier testers detained and fearing an agent who sees the researchers as monstrosities and starts shooting inside a Foundation site, turns the danger back on the Foundation itself.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-20"
 }
