@@ -1,19 +1,10 @@
 {
   "slug": "scp-1936",
   "lang": "en",
-  "hook": "A whole New England town is the anomaly here, or rather what is left of it after a few days nobody outside could see into. The file is assembled from scraps: expedition radio logs, security footage, diaries, a shopping list and a preacher's notes. Content note: the description of the aftermath is grim and includes self-inflicted deaths and violence, though it is written as a detached inventory.",
-  "whyItMatters": "This is a good example of an entry built like a disaster scrapbook rather than a single report. You never get a clean account of what happened; you reconstruct it from fragments, the way the Foundation has to.\n\nIt is also notable for its tone. Real dread sits right next to deliberate absurdity, from a mural full of oddly specific minor gods to a footnote about a song that should not exist yet. Readers tend to either love that mix or find it jarring, and both reactions are part of the experience.",
-  "thingsToNotice": "Watch the name that keeps appearing in unexpected places, signed under an apology and later burned into stone. It is the closest thing the article has to a hero, and it is never explained.\n\nThe cult's documents move from mundane to unhinged: an errand list with grumbling asides, then a journal that grows less steady, then a speech, then the back cover. Reading them in order shows how the article lets its villain undo himself through his own writing. The expedition log is worth a second look too, because one small footnote about who noticed an inconsistency, and when, quietly sets the rules for the mist.",
-  "related": [
-    {
-      "slug": "scp-1281",
-      "note": "Another file mostly told through recovered transmissions, in a far gentler key."
-    },
-    {
-      "slug": "scp-series-2",
-      "note": "The series this file belongs to."
-    }
-  ],
+  "hook": "A whole New England town is the anomaly here, or rather what is left of it after a few days nobody outside could see into. The file is assembled from scraps: expedition radio logs, security footage, diaries, a shopping list and a preacher's notes. Content note: it lists mutilated and anomalous corpses, mentions mass suicide, shows a decapitation on camera and includes a ritual killing of a child, all in a flat inventory style.",
+  "whyItMatters": "This is a good example of an entry built like a disaster scrapbook rather than a single report. You never get a clean account of what happened; you reconstruct it from fragments, the way the Foundation has to.\n\nIt is also notable for its tone. Real dread sits right next to deliberate absurdity, from a mural full of oddly specific minor gods to a footnote about a song that should not exist yet, and how you take that mix will shape how the whole piece reads.",
+  "thingsToNotice": "The cult's papers explain the disaster. Reverend Hawshore's Victory Society believed only a god can kill a god, so it summoned several into Daleport to fight inside the Shivering Mist until one Victor was left; the errand list grumbles about virgin blood and year-old corpses, and the journal records a child bled for a ritual and a member, James, sacrificed as a heretic for doubting. The back cover shows Hawshore coming apart in mind and body, his throat going somewhere he does not like, and the last footage shows three enormous beings manifesting over the church before the camera cuts out.\n\nAgainst that stands Pangloss, who signs apologies in public toilets and stitches them into the organs of the dead. The town hall footage reveals him as a three-metre, three-way symmetrical creature leading robots and the missing Foundation soldiers to evacuate 97 civilians through a glowing portal, burning a promise of sanctuary into the stone above the door; weeks later 94 of them and nearly all the lost personnel turn up at Area-37 with no memory. Footnote 6 is also worth rereading: nobody noticed until later that one vehicle followed another down a slope it had just said was not there, a sign the mist was already bending what the soldiers saw.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-18"
+  "updatedAt": "2026-11-20"
 }

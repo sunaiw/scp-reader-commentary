@@ -3,17 +3,8 @@
   "lang": "en",
   "hook": "On paper this is the most ordinary object imaginable: a switch knife whose listed anomaly sounds like no anomaly at all. The joke is deliberate, and working out why such a thing would be filed as anomalous is the whole experience. Fair warning that the experiment log is a list of fatal tests, written in flat clinical language.",
   "whyItMatters": "The article is part of the End of Death setting, which the page links at the bottom, and it works as a compact entry point into that idea. Instead of explaining the world, it lets one dull report imply how much has changed.\n\nIt is also a good example of an Ethics Committee memo used as the punchline. The tone shifts from the lab to something tired and personal in the last few lines.",
-  "thingsToNotice": "Read the subject lines in the experiment log closely, especially the ages and the job titles as the numbers go up. The jump from the early tests to the later ones, after the hidden section, tells you who has started volunteering and why the committee is worried.\n\nThe footnote and the discovery date are small clues placed early. The final memo then names the real dilemma without stating the premise outright, and the closing link text asks the reader a question instead of giving an answer.",
-  "related": [
-    {
-      "slug": "scp-427",
-      "note": "Another entry about a power over the body and what it costs the people who use it."
-    },
-    {
-      "slug": "scp-series-5",
-      "note": "The series this file belongs to."
-    }
-  ],
+  "thingsToNotice": "The premise the article never states outright: in this world people have stopped dying, and the knife is anomalous because it can still kill. The footnote pinning death on the end of brain activity, the 2130 discovery date and the subjects' ages (93, 131, then 132 and 149) all point there before the memo confirms it.\n\nThe log reads like a wish list. Early tests use D-class, one of them a 131-year-old in chronic pain from neck surgery, and after the hidden section the subjects are researchers and finally a Site Director, sedated and shot with a bullet made from a sliver of the blade, choked with its handle, or stabbed by a machine. The Ethics Committee's reply admits staff were lining up to die, that it weighed standardizing selection or even offering the knife to the public, and that it chose to leave the deathless status quo alone. Its last unofficial line, sympathetic and bitter at once, is the emotional center of the piece, and the hub link's question about funerals lands as grief for something the world has lost.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-18"
+  "updatedAt": "2026-11-20"
 }

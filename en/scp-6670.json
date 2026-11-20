@@ -1,19 +1,10 @@
 {
   "slug": "scp-6670",
   "lang": "en",
-  "hook": "Most of this article is a young mother's home video tapes, and the anomaly is almost secondary to the story they tell. Content note: it deals with child neglect, confinement and a family history of abuse, and parts of it are distressing even though the worst moments happen off camera. Go in knowing it is a tragedy first and a body-horror entry second.",
-  "whyItMatters": "This is a strong example of a recent style of entry where the Foundation barely acts at all. The containment section is a fence and a cover story, and the real content is a personal record the Foundation simply found and filed.\n\nIt also shows how much horror can come from ordinary circumstances: poverty, fear of losing custody, a family the mother cannot go back to. The anomalous growth is the trigger, but the choices that follow are painfully human.",
-  "thingsToNotice": "Watch the tape titles. The same birthday label repeats across the years, and comparing what changes between them, from the setting to the cake to the measurements in the footnotes, tells the story faster than any narration.\n\nThe early tapes that have nothing to do with the anomaly, such as the job interview and the unsent letter, are there for a reason: they set up why calling for help feels impossible to her. Pay attention to the footnotes as well, since one of them quietly confirms something the tapes only let you hear. The final incident log returns to clinical timestamps, and the last line is placed for maximum weight.",
-  "related": [
-    {
-      "slug": "scp-2571",
-      "note": "Another story told through recordings, where a child's voice carries the horror."
-    },
-    {
-      "slug": "scp-series-7",
-      "note": "The series this file belongs to."
-    }
-  ],
+  "hook": "Most of this article is a young mother's home video tapes, and the anomaly is almost secondary to the story they tell. Content note: it involves a small child trapped and slowly starved, a murder, a parent's past abuse, broken bones and graphic body horror, and much of it is carried by a child's voice crying for help. Go in knowing it is a tragedy first and a body-horror entry second.",
+  "whyItMatters": "This is a strong example of an entry where the Foundation barely acts at all. The containment section is a wall and a cover story, and the real content is a personal record the Foundation simply found and filed.\n\nIt also shows how much horror can come from ordinary circumstances: poverty, fear of losing custody, a family the mother cannot go back to. The anomalous growth is the trigger, but the choices that follow are painfully human.",
+  "thingsToNotice": "The tapes tell a slow crime. At two, already oversized, Jemma crawls into the hollow wall of the bedroom and gets stuck; a neighbour, John Bates, tries to pull her out, and when he insists on fetching the fire department, Melanie, terrified that a broke young mother living alone will lose her daughter, or that the family she fled, belt and all, will be called in, apologizes to him; there is a thud, and she returns half an hour later with blood on her clothes. Footnote 3 confirms what the thud only suggested: his body was later found in an abandoned basement on the same street.\n\nFrom then on the same birthday title repeats while Jemma grows inside the wall, paler and sicker, her height in the footnotes climbing as her head disappears into the hole and her requests shrink to asking to eat. In the unlabeled 2001 tape Melanie sings outside the door while the ceiling gives way and her daughter falls with bones snapping, then cries for four hours. The final log brings that voice back from a mass filling the room: a misshapen face with rotten teeth and blood around its mouth, a clump of black hair stuck to its lip, and a little girl's apology to her mother, whose body has never been found.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-18"
+  "updatedAt": "2026-11-20"
 }

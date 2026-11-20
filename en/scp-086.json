@@ -3,17 +3,8 @@
   "lang": "en",
   "hook": "A set of 1970s office equipment that is, biologically speaking, alive, and that claims to be a former Foundation administrator. The tone is dry and quietly funny. Read the procedures closely, because each odd feeding instruction makes sense once the description explains it.",
   "whyItMatters": "SCP-086 is a good example of the wiki's bureaucratic humor: an anomaly that behaves more like a model employee than a threat. Its object class line, which flips back and forth, sums up the joke before the article even begins. It carries the rewrite tag, so the current text is a reworked version.",
-  "thingsToNotice": "The neat trick here is that the entity raises doubts about itself. It points out that there is no way to prove it really is the man it remembers, which is a more unsettling idea than anything in the anatomy section. The acquisition log then shows it insisting on its own containment.\n\nThe closing notes turn that sincerity into comedy: the object lobbies to be taken more seriously and is politely turned down. Small physical details, like the ringing it finds unpleasant, also help make a desk full of supplies feel like a person.",
-  "related": [
-    {
-      "slug": "scp-079",
-      "note": "Another mind living inside dated hardware, with a much grumpier temperament."
-    },
-    {
-      "slug": "scp-085",
-      "note": "A gentle, talkative entity you mostly get to know through what it asks for."
-    }
-  ],
+  "thingsToNotice": "The neat trick is that the entity raises doubts about itself. It concedes it might be an alien mind doing a perfect impression of the dead doctor, or a planted persona that honestly believes it is him, which is more unsettling than the anatomy section's brain-in-a-telephone and partly human tissue. The acquisition log then has it ringing from an unplugged phone eight days after the doctor's death and ordering staff to strip its own clearance and report it to the O5s.\n\nThe closing notes turn that sincerity into comedy: the object argues it deserves Euclid, and an O5 thanks it for its conscientiousness and keeps it at Safe. The commendation awarded to the doctor after his death, for either turning himself in or nudging whatever copied him to do so, is the same joke told with a straight face.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-18"
+  "updatedAt": "2026-11-20"
 }

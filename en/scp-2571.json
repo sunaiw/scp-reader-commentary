@@ -3,17 +3,8 @@
   "lang": "en",
   "hook": "This one is built from bad dreams that strangers share: a cheerful park full of singing trees that no record says ever existed. It is mostly interviews, and the tension comes from adults who would rather not talk about a place they insist was only a nightmare. Read it slowly and pay attention to who refuses to answer what.",
   "whyItMatters": "It is a strong example of antimemetic horror told almost entirely through testimony rather than through a monster on the page. The containment section is unusually small: a monitoring bot and a task force watching online chatter, which tells you early that the Foundation cannot fence this thing in, only track it.\n\nIt also borrows the look of old cartoons and fairground music and turns them sour. The contrast between bright imagery and frightened children is the engine of the whole piece.",
-  "thingsToNotice": "Look at the list of consistent details in the description and keep it in mind through the interviews; one detail about who is most often affected is quietly doing a lot of work. Each witness adds one small piece, and none of them says the important thing out loud.\n\nThe final video log is staged like found footage, with timestamps, static and two whispering voices. Notice how little is described visually and how much is carried by sound: singing, music and breathing. The last line is a good place to stop and reread the beginning.",
-  "related": [
-    {
-      "slug": "scp-055",
-      "note": "A famous antimemetic entry where what you cannot hold onto is the point."
-    },
-    {
-      "slug": "scp-series-3",
-      "note": "The series this file belongs to, if you want more entries from the same range."
-    }
-  ],
+  "thingsToNotice": "Keep the description's list in mind, especially the line about only children. The interviews never say it outright, but they add up to a clear picture: the kids who boarded the carousel were the subjects' brothers and sisters, who stayed behind and were erased from the world, so the survivors grew up as only children. Rupert's tiny tree wears his own face, Janine sobs over a boy she cannot place who hugged her before riding, and Blair keeps a front bedroom locked in a house where he supposedly grew up alone, then refuses to answer when asked if he was always an only child.\n\nThe video log is the same story seen from inside: an older child coaxes a younger one to smile so the trees stay happy, sends them away from the carousel with an apology, and the younger one later falls in front of a face that looks up and smiles. When the second voice starts singing in the final line, the older sibling has become one of the singing trees.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-18"
+  "updatedAt": "2026-11-20"
 }

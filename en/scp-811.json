@@ -1,19 +1,10 @@
 {
   "slug": "scp-811",
   "lang": "en",
-  "hook": "A swamp-dwelling humanoid predator whose biology is genuinely unpleasant to read about, written up with the care of a zoo keeper's handbook. Expect clinical detail about decay and infection, kept at a medical distance. The surprise is how much the file ends up caring about the subject as a person.",
+  "hook": "A swamp-dwelling humanoid predator whose biology is genuinely unpleasant to read about, written up with the care of a zookeeper's handbook. Expect frank clinical detail about flesh dissolving on contact, infection and how it kills its prey. The surprise is how much the file ends up caring about the subject as a person.",
   "whyItMatters": "This is a good example of the Foundation as caretaker rather than jailer. The containment procedures include an enrichment specialist, a review deadline for requests, and dental work, which sits oddly and memorably next to the warnings about protective suits.\n\nThe article also shows how a creature entry can change tone partway through. The biology section is built to repel you, and the request list and interview are built to pull you back in.",
-  "thingsToNotice": "The request list in the first addendum is where the character comes through: what was denied, what was approved, and the small reasons attached to each. A request about a turtle may be the most telling line in the article.\n\nIn the interview, pay attention to the gap between the subject's limited words and what the researchers take from them. The second addendum hints at an unanswered question with a redaction, and the interview approaches it from another side without spelling it out. The closing note from the doctor shows how routine all of this is to the staff.",
-  "related": [
-    {
-      "slug": "scp-1281",
-      "note": "Another file where a halting conversation turns a specimen into someone you feel for."
-    },
-    {
-      "slug": "scp-series",
-      "note": "The series this file belongs to."
-    }
-  ],
+  "thingsToNotice": "The biology section does not soften anything: mucus on its palms and soles liquefies any organic matter into black fluid that it soaks up through its skin, its blood is that rotting liquid, and it hunts by spitting tar-like waste at a victim's face or wounds, then waiting for them to choke or die of infection days later. Staff who remove part of their suit are threatened with reassignment as amputees, and D-class who go untreated may ask to be terminated.\n\nThen the request list takes over: a synthetic hairbrush, someone to wash her hair, the name Aé, every tooth pulled and replaced with dentures, and a turtle in a hazmat suit that she wanted as a companion rather than food. The redaction in the second addendum asks what she used to be, and the interview answers it: as a small child she had skin like the tall man beside her, something cold was injected into her elbow, she threw up red, was starving and frightened, ate the man, and her skin turned into what it is now. The assistant vomiting in his suit and Trebuchet's annoyed closing note show how differently staff react to learning she was once a human girl.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-18"
+  "updatedAt": "2026-11-20"
 }

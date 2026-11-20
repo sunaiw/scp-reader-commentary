@@ -1,19 +1,19 @@
 {
   "slug": "scp-427",
   "lang": "en",
-  "hook": "A small silver locket that heals almost anything, made by feeding one well-known anomaly into another. The catch is in the word \"total\": the article is really about a cure you have to ration by the clock. It is short, so you can read it in a few minutes.",
-  "whyItMatters": "SCP-427 sits in a cluster of articles connected through SCP-914, the machine that refines whatever is placed inside it, and SCP-500, the cure-all pills. Seeing what the Foundation does with a by-product of those two tells you a lot about how it treats useful anomalies.\n\nIt is also a classic take on the old idea that a perfect remedy can go too far. Healing here does not stop at healthy; it keeps improving the body past the point of being human.",
-  "thingsToNotice": "Note the asterisk on the object class. The locket itself is rated as harmless, while what it can produce gets a far more serious class, and that split says something about how the Foundation labels risk.\n\nThe numbers climb in steps through the description, from minutes of a cold to percentages of resistance and strength. The closing judgment by Oversight lands differently once you have followed that progression, especially given who is expected to keep the logbook.",
+  "hook": "A small silver locket that heals almost anything, made by putting one anomaly through another. The catch is in the word \"total\": the article is really about a cure you have to ration by the clock. It is short, so you can read it in a few minutes.",
+  "whyItMatters": "SCP-427 is a by-product: it came out of SCP-914's Fine setting with a single SCP-500 pill as the input, and it is now used as a partial stand-in for those pills. Seeing what the Foundation does with that kind of spin-off tells you a lot about how it treats useful anomalies.\n\nIt is also a sharp take on the old idea that a perfect remedy can go too far. Healing here does not stop at healthy; it keeps improving the body past the point of being human.",
+  "thingsToNotice": "Note the asterisk on the object class. The locket itself is Safe, while the Flesh Beasts it produces are Keter and must be killed on sight, and that split says something about how the Foundation labels risk.\n\nThe numbers climb in steps: a cold cured in minutes, then disease and toxin resistance multiplied after ten and fifteen minutes, then strength and pain tolerance, until D-class subjects past an hour of total exposure start turning into shapeless masses of flesh. Those masses attack anyone in sight, shrug off most weapons and need extreme heat or shock to stop, and the file suggests a finished one might out-think a human. Read Oversight's \"acceptable risk\" with that in mind, and with the last clause: medical staff keep their own exposure log, and enough mutation gets them terminated.",
   "related": [
     {
       "slug": "scp-914",
-      "note": "The refining machine the locket came out of."
+      "note": "The machine whose Fine setting produced the locket."
     },
     {
       "slug": "scp-500",
-      "note": "The pills that went into the machine, and that the locket partly replaces."
+      "note": "The pill that went in as input, and that the locket now partly replaces."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-18"
+  "updatedAt": "2026-11-20"
 }
