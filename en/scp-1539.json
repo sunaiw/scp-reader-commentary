@@ -3,17 +3,8 @@
   "lang": "en",
   "hook": "This is a quiet, odd file about a basement laundry room where things stop being what they are. Read the item list slowly: each entry uses the flat style of an inventory, and the strangeness lies in what that style is applied to. A short memo closes the article, and it shifts the tone considerably.",
   "whyItMatters": "SCP-1539 is a strong example of a concept-based anomaly that plays with language and categories rather than physical danger. It takes a philosophical puzzle, the gap between what a thing is and what we call it, and runs it through the Foundation's dry, procedural voice. The result is both funny and unsettling, and it shows how far the clinical format can stretch into the abstract.",
-  "thingsToNotice": "Look at how the containment procedures make sense only in hindsight: feeding schedules and movement checks for mere objects seem absurd until you meet the item list. Small touches, like an editor's bracketed query about a substance that cannot exist, suggest the document itself is caught up in the confusion.\n\nThe fourth item is a lovely piece of writing, describing something entirely through what cannot be pinned down. The closing memo then turns from catalog to mourning, and its handling of a lost colleague gives the absurdist premise real weight.",
-  "related": [
-    {
-      "slug": "scp-055",
-      "note": "Another object defined mostly by what cannot be known or described about it."
-    },
-    {
-      "slug": "scp-426",
-      "note": "Plays with identity and language in a similarly unsettling, self-aware way."
-    }
-  ],
+  "thingsToNotice": "The item list is a puzzle you solve against the labels. The 'light fixture' is a yellow wooden cylinder with a graphite core and a rubber tip, in other words a pencil. The 'washer/dryer' moved, made speech-like sounds and had the build of a man in his forties; since then it has been losing mass and starting to smell, and nobody can open it because it has no lid. Read plainly, that is a person wasting away while everyone sees an appliance, which is exactly why the procedures insist on food and water for every recovered object and treat any missed feeding as urgent.\n\nAgent Jim Thayer, meanwhile, is now a wallet with eleven dollars in it, and the anti-memetic treatment is described as if a wallet could recover. The closing memo admits Jim is probably dead, that no one knows which object he actually is, and that a burial is forbidden because someone might look in the coffin and see the truth. So the team's funeral is a row of containment crates in a warehouse foyer, and the absurd premise turns into grief.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-18"
+  "updatedAt": "2026-11-20"
 }

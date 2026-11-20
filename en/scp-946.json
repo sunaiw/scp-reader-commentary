@@ -3,17 +3,13 @@
   "lang": "en",
   "hook": "A plain table, two chairs, and two calm men who turn up to argue politely about almost anything. The file is gentle and talky rather than frightening, so read it the way you would listen in on a good conversation. Keep an eye on the house rules for anyone who wants to join in.",
   "whyItMatters": "SCP-946 turns civil debate into an anomaly, which is a refreshing premise in a wiki full of monsters. Its stakes come from ideas: an argument can carry real-world consequences, so the quality of reasoning becomes a safety issue. Keeping a skilled debater on call is one of those small procedural touches that make the setting feel lived-in.",
-  "thingsToNotice": "Notice how the table enforces good-faith argument, ejecting anyone who resorts to personal attacks or deliberate falsehoods. That rule quietly sets up the tension in the second addendum, where someone from outside has to win on reasoning alone.\n\nThe first addendum is a neat small detail: the lighting rule came out of one of their own debates, hinting that the pair can shape their surroundings when they reach a conclusion. The ending, with a class upgrade still pending, leaves you thinking about how much was riding on that conversation.",
+  "thingsToNotice": "The table enforces good-faith argument: personal attacks or deliberate falsehoods get a warning from Harmon, then the offender's chair simply vanishes. That rule is what makes the second addendum tense, because when the stakes turn cosmic, a human has to win on reasoning alone.\n\nIn that incident Harmon starts arguing, apparently in earnest, that gravity should not exist, while Garcian weighs his points and the pair casually draw on physics beyond modern science and classified Foundation files. A researcher walks in on his own initiative to stop a potential disaster, insists the universe would not survive in its current form, and spends almost two hours against Harmon's claim that whatever came next might be better; Garcian sides with the researcher and Harmon finally gives up in frustration. The lighting rule in the first addendum, born from one of their debates about mood, is the small-scale proof that this was no idle threat, and the pending Keter upgrade is the Foundation catching up.",
   "related": [
     {
       "slug": "scp-536",
-      "note": "Its test logs come up mid-debate, showing how far the pair's knowledge reaches."
-    },
-    {
-      "slug": "scp-343",
-      "note": "Another calm, seemingly all-knowing figure kept in a quiet room."
+      "note": "The pair cite its classified test logs mid-debate, a sign of how much they know."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-18"
+  "updatedAt": "2026-11-20"
 }

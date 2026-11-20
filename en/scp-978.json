@@ -1,19 +1,10 @@
 {
   "slug": "scp-978",
   "lang": "en",
-  "hook": "The idea is instantly graspable: a camera whose photos show what the subject would rather be doing. Most of the article is a test log, so read each entry's setup and try to guess the picture before you see the result. The humor is mostly gentle, though a few entries hint at things better left unprinted.",
-  "whyItMatters": "SCP-978 belongs to the family of simple-object, long-test-log articles that let readers play along with the researchers. Its effect is personal rather than dangerous, so the containment file turns into a series of small, revealing portraits of staff and animals alike. The joking staff notes, including a pointed aside signed by an O5, give the Foundation a human, slightly office-comedy texture.",
-  "thingsToNotice": "The log keeps a rigid format (subject, activity, result), and the comedy comes from the gap between identical neutral poses and wildly different outcomes. Pay attention to what is redacted: the expunged entries are never explained, and the brief follow-up remarks leave your imagination to fill them in.\n\nThe animal round is a nice change of angle. Some results are touching, some are blunt about basic instincts, and one is unexpectedly grand for such a tiny creature. The repeated reminder that a picture of a wish is not a plan also shows how uneasy the device makes the people using it.",
-  "related": [
-    {
-      "slug": "scp-294",
-      "note": "Another everyday machine whose file is mostly a playful test log."
-    },
-    {
-      "slug": "scp-261",
-      "note": "A vending machine article best read as a running list of experiments and outcomes."
-    }
-  ],
+  "hook": "The idea is instantly graspable: a Polaroid camera whose photos show what the subject wanted to be doing instead. Most of the article is a test log, so read each entry's setup and try to guess the picture before you see the result. The humor is mostly gentle, but some results are redacted for good reason and a few animal entries are frank about mating.",
+  "whyItMatters": "SCP-978 is a simple-object, test-log article that invites readers to play along with the researchers. Its effect is personal rather than dangerous, so the file becomes a set of small, revealing portraits of staff and animals alike. The joking staff notes, including a pointed aside from an O5 about misuse, give the Foundation a human, office-comedy texture.",
+  "thingsToNotice": "The first round photographs five staff in the same neutral smile, and the comedy is in the spread of results: an exhausted assistant swigging from a flask, another dressed to head out because she just wants to go home, a doctor whose only wish is a different tie. Two results are expunged outright, one sending an assistant on psychiatric leave and the other leaving a doctor mortified and apologizing, and the file never says what they showed.\n\nThe animal round is blunter and sweeter at once. Mice and the rabbit are shown eating and mating, the finch escapes an open cage, the guard dog and its stiff handler play fetch, the cockroaches want nothing different, and a spider snapped on a whim dreams of a web filling the hallways. The kitten photo is expunged too, with the doctor holding it protesting that she would never do that to a kitten, which suggests the picture caught her desire rather than the cat's. The page points to separate extended logs for more tests, including the mixed-desire effect it mentions but does not show here.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-18"
+  "updatedAt": "2026-11-20"
 }

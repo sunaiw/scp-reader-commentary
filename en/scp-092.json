@@ -1,19 +1,10 @@
 {
   "slug": "scp-092",
   "lang": "en",
-  "hook": "Content note: much of this file is a long list of effects, many of them bodily and unpleasant, though the wording stays clinical. Underneath that list runs a sustained joke about the number five and a vocal group active from the late 1960s. The more of the puns you catch, the better the article's real point lands.",
-  "whyItMatters": "SCP-092 carries the are-we-cool-yet tag, linking it to the wiki's anomalous art scene, and the rewrite tag, marking it as a reworked version of an earlier page. It stands out by turning that art-world framing back on the maker, so the article is as much about creative insecurity as about the discs. The themed-list format, every entry a variation on one idea, shows how far a single pun can be stretched.",
-  "thingsToNotice": "Read the instance table as a series of escalating riffs: chemical elements by atomic number, ages counting down, fifth office-holders and so on, each family wringing one angle dry. The mix of the trivial and the dreadful, hiccups listed beside fatal outcomes, is deliberate and keeps you off balance.\n\nThe footnotes hide small jokes that reward close reading. In the acquisition section, pay attention to how the creator talks about his own work.",
-  "related": [
-    {
-      "slug": "scp-4500",
-      "note": "Another article that builds an anomaly out of an abstract concept."
-    },
-    {
-      "slug": "scp-2774",
-      "note": "Another anomaly spread through ordinary media, here images instead of discs."
-    }
-  ],
+  "hook": "Content note: the effect table includes deaths by poisoning and burns, forced pregnancies that end in miscarriage and death, bodies split into five living pieces, and the file closes on a graphic suicide. The object is a tribute album to The 5th Dimension, and each of its 3,125 copies does something tied to the number five, to dimensions, or to the band's members. Working out the logic behind each entry is half the fun; the other half is what the file finally says about the person who made them.",
+  "whyItMatters": "Its are-we-cool-yet tag places it among the wiki's anomalous-artist pieces, and it uses that framing to put the spotlight on the artist rather than the art. The rewrite tag marks it as a reworked version of an earlier page. It is a clear example of the themed-list format, where one pun is pushed through dozens of variations until the sheer persistence becomes the point.",
+  "thingsToNotice": "The table moves in families: boron, manganese and cesium picked for atomic numbers 5, 25 and 55; listeners regressing to five years, months, weeks, then days old; jaunts through the lives of assorted fifth office-holders; four directions of pentasection. Five sneezes a minute sits right beside the pregnancy disc, where every listener dies and the fetuses turn out to be identical and unrelated to anyone in the room, and the clinical tone never shifts between them. The footnotes slip in dry gags, like the one-eyed D-class who grew four new eyes to reach five.\n\nThe reveal is the maker, SCP-092-B, who walks up to Site-19 and asks to be contained as a failure. Under interrogation he rages that his work is cheap wordplay with no depth, that he squandered miracles better people could have used, that all he wanted was to be cool. Then he tears his own head off. Read with that ending, the 'Wow, that was real cool' every survivor is forced to recite looks less like a gag and more like the praise he craved and never believed he deserved.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-18"
+  "updatedAt": "2026-11-20"
 }

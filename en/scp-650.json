@@ -2,18 +2,9 @@
   "slug": "scp-650",
   "lang": "en",
   "hook": "A smooth, faceless black statue that moves only when nobody is looking may sound familiar, but this one has its own temperament. The file is short, and it helps to picture the containment room as you read, with its watchers placed so they can keep an eye on each other as well as the statue.",
-  "whyItMatters": "SCP-650 reads as a deliberate variation on the statue-that-moves-when-unobserved idea that the very first SCP made famous. Rather than escalating the danger, it keeps the jump scare and drops the violence, which makes the object oddly playful and still unsettling. It shows how a familiar trope can be reinterpreted by changing a single motive.",
-  "thingsToNotice": "Notice how the procedures are designed around watchers watching each other, not just the statue. The description then quietly undercuts the threat: testing found no intent to harm, only to startle, and the report admits nobody plans to dig into why.\n\nThe postures it adopts for staff who have grown used to it are the most interesting detail, since they suggest something that adjusts to its audience. The closing researcher's note brings everything down to earth with a very human outburst about budgets and frayed nerves.",
-  "related": [
-    {
-      "slug": "scp-173",
-      "note": "The original moving statue; comparing the two shows how much one change of motive alters the mood."
-    },
-    {
-      "slug": "scp-096",
-      "note": "Flips the rule again: here the danger comes from seeing, not from looking away."
-    }
-  ],
+  "whyItMatters": "SCP-650 is built entirely around the jump scare: its whole anomaly is the moment you turn around. By keeping the shock and dropping any violence, the report ends up with an object that is oddly playful yet still deeply unnerving to share a room with. It shows how much mood a single choice of motive can set in a very short file.",
+  "thingsToNotice": "The twist is that the statue is harmless. Tests that varied how long sight was broken found it never attacks; it only slips silently into place right behind someone in a menacing pose so they jump when they turn, and the Foundation openly declines to investigate why. That makes the strict three-watcher setup look less like a defense against injury than a defense against being startled.\n\nWith staff who stop flinching, it changes tactics, keeping its distance but lounging on a table, sitting in a chair, or once cowering in a corner as if afraid, and those observers still came away uneasy. The Euclid upgrade came when it crossed to the far side of the site and appeared behind a doctor in his own office, and his note, demanding containment regardless of budget because a face-to-face scare in a dim room costs years of life, is the payoff.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-18"
+  "updatedAt": "2026-11-20"
 }

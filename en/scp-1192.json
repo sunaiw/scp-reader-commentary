@@ -1,19 +1,10 @@
 {
   "slug": "scp-1192",
   "lang": "en",
-  "hook": "A very short file about a cockatoo that writes like a young child. There is nothing violent in it; the weight comes entirely from a few handwritten notes. Read it slowly and pay attention to the spelling, which is preserved on purpose.",
-  "whyItMatters": "SCP-1192 shows how little an SCP article needs in order to affect people: one exchange, one researcher note, and a handful of misspelled lines. It belongs to the wiki's quieter, sadder strand, where the anomaly is someone's situation rather than a threat. Its length makes it easy to recommend to readers who want something that lingers more than it shocks.",
-  "thingsToNotice": "Look at the containment procedures: pencils and paper are listed as a requirement, which tells you how the Foundation has chosen to treat the subject. The researcher keeps a professional distance, yet the closing note slips into a slightly warmer first-person voice.\n\nThe list of drawings and pages is arranged so that each item hits a little harder than the one before. The sign-off from a senior observer leaves it feeling like a case file nobody quite knows how to close.",
-  "related": [
-    {
-      "slug": "scp-2774",
-      "note": "A much darker story about minds unable to act freely."
-    },
-    {
-      "slug": "scp-7311",
-      "note": "A far lighter take on an anomaly defined by its need for attachment."
-    }
-  ],
+  "hook": "A very short file about a young cockatoo that thinks and writes like a six-to-eight-year-old human. There is no violence here; the weight comes from a few scrawled notes whose misspellings the file keeps intact on purpose. Read it slowly, and let the small details in the description register before you reach the log.",
+  "whyItMatters": "SCP-1192 shows how little an SCP article needs in order to land: one short exchange, one researcher note, and a handful of childish lines. The anomaly is not a threat to anyone but a situation someone is trapped in, and the clinical format makes that harder, not easier, to look away from. It is a good pick for readers who want something that lingers rather than shocks.",
+  "thingsToNotice": "The physical details are clues: a bird that will not eat seeds, cannot preen, can barely fly, and has a healed bruise on the back of its head, all consistent with a child who does not know how to live in this body. The bird calls itself Timmi and writes down a Montana address, yet agents find a seven-year-old named Timothy living there with his parents, and nothing about that family seems wrong. The file never explains who or what is in that house, and that unanswered question is the real horror.\n\nThe researcher note then lists the drawings so each one cuts deeper: race cars and monsters, the question of why he is a bird, a child with two adults scratched out and torn, and finally a page covered in 'mom' and 'home'. The detail that he asked for video games he physically cannot play is easy to skim past and hard to forget.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-18"
+  "updatedAt": "2026-11-20"
 }

@@ -3,17 +3,8 @@
   "lang": "en",
   "hook": "This is a very short, lighthearted file about a rabbit the staff call \"Walter\". There is no twist to brace for; the pleasure is in how calmly the report lists the ridiculous things this small animal can do. It takes a couple of minutes to read and works well as a palate cleanser.",
   "whyItMatters": "SCP-524 is a good example of the cozy, almost cartoonish Safe-class object that sits alongside the wiki's horror. Its whole premise fits in one line, an ordinary pet with an appetite that ignores physics, and the report never strains to make it menacing. Entries like this show that the clinical format can carry gentle comedy just as well as dread.",
-  "thingsToNotice": "Notice the gap between the threat level and the paperwork. The procedures mostly protect the facility's equipment from the animal rather than the other way round, and the remark about its diet is a dry joke in itself.\n\nThe paragraph about the rabbit eating itself is the centerpiece: it is told in the same flat, matter-of-fact tone as the rest, which makes the impossibility funnier. The short addendum then mentions, almost in passing, how much trouble one hungry rabbit caused before anyone caught it.",
-  "related": [
-    {
-      "slug": "scp-999",
-      "note": "Another Safe-class creature whose file reads like care instructions for a pet."
-    },
-    {
-      "slug": "scp-131",
-      "note": "Small, harmless critters roaming the site, written for charm rather than fear."
-    }
-  ],
+  "thingsToNotice": "Notice the gap between the threat level and the paperwork. The procedures exist mostly to protect the site's equipment from the rabbit, and the line saying it needs no particular diet is a dry joke, since it can digest steel, glass and kilos of radioactive material without harm.\n\nThe centerpiece is Walter eating himself: he starts at the tail, works forward past his legs, then turns his mouth inside out to swallow his own head and vanishes, only to pop back up intact about half an hour later near the same spot. It is told in the same flat tone as the rest, which is what makes it funny. The addendum then reveals, almost in passing, that he was found during a major August blackout after chewing through several reactors at a power plant, still nibbling on a cable.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-18"
+  "updatedAt": "2026-11-20"
 }
