@@ -1,0 +1,10 @@
+{
+  "slug": "scp-2951",
+  "lang": "en",
+  "hook": "SCP-2951 is a mine story told almost entirely through recovered paperwork: a wartime telegram, a 1998 rescue that went wrong, a team's exploration log, an elderly man's interview and a dead man's letters. The best way in is to read slowly and keep count of how many people are in each scene, because the article makes that harder as it goes. The exploration log is profane and ends in gunfire and fire, but most of the unease comes from small details that don't add up.",
+  "whyItMatters": "It's a location file that gets its horror from documents rather than from a monster description; the entities are barely described in the clinical sections and are mostly glimpsed through the people who ran into them. Background threads, a Global Occult Coalition informant and a mining company the Foundation suspected of being a Group of Interest, add depth without taking over. The final document moves the weight from the anomaly to the people who left the miners behind, which gives the file an unusually human ending.",
+  "thingsToNotice": "In the exploration log a team of four starts hearing replies from T5-5, T5-6 and T5-7, and those extra voices echo things the real members said moments earlier. The elapsed-time readings go from 17 minutes, to 17 again, to 13, and the later evaluation reveals the recorders ran for five and a half hours while only nineteen minutes passed above ground. The three intruders wore copies of the team's uniforms and burst into flame, matching Barnes's account of a smoking, burning thing that climbed out of the hole speaking in someone else's voice and screaming about \"ten thousand years in the fire\". The 1944 telegram is signed GPE, the initials of Gorman P. Ellis, who first tells the Foundation he never worked at Lemon and then admits he was there for the cleanup. His posthumous letter confesses that the twenty-three trapped men could be heard shouting for days while nobody did anything, and ends on the thought that darkness changes people.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-20"
+}

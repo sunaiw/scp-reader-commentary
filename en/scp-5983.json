@@ -1,0 +1,10 @@
+{
+  "slug": "scp-5983",
+  "lang": "en",
+  "hook": "SCP-5983 is a very short Thaumiel entry built on one absurd cause and effect: set off an explosion in a Wyoming county and the New York City Subway runs better that day. Most of the joke sits in the test table and in a single comment at the very end, so it takes only a couple of minutes to read. One table row briefly mentions an employee pulling a suicidal person away from the tracks.",
+  "whyItMatters": "It's a deadpan comedy that turns the Foundation's own formats, a results table and an O5 vote summary, into punchlines. The Thaumiel class fits the premise slyly, since the anomaly is something the Foundation benefits from at a cost nobody seems to question for a long time. Because it is so short, it rewards paying attention to how the numbers escalate.",
+  "thingsToNotice": "The table climbs from an odd drop in complaints, to trains running exactly on time, to trains arriving early, to one that simply starts teleporting between stations as the yields grow. Then it cuts away with a note that hundreds of lines were omitted, and the next addendum reveals that an O5 directive had kept the testing going 297 times since discovery, sometimes more than once a day. The council votes to end it, and the only recorded comment comes from O5-12, who offers a defense based entirely on what it's like to ride the 8:30 to Broadway. That single line is the punchline the whole file has been setting up.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-20"
+}
