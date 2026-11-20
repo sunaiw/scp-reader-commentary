@@ -1,0 +1,15 @@
+{
+  "slug": "scp-579",
+  "lang": "en",
+  "hook": "Almost everything about SCP-579 is redacted, including the entire description. What remains is a ladder of emergency procedures and a numbered timeline, and the article asks you to judge the danger purely from how the Foundation behaves around it.",
+  "whyItMatters": "It is an extreme case of redaction used as horror: you never learn what the object is, only that nothing beyond the listed steps may ever be done to it. Information itself is treated as a hazard, to the point that an outside group merely mentioning it is grounds for sealing the site. Naming SCP-004 as the thing to destroy if containment wavers ties the file into the wider Foundation setting.",
+  "thingsToNotice": "The procedures escalate on a stopwatch: a report seven minutes late seals the site, and seven more minutes without an all-clear means destroying the gateway of Site-62, SCP-004, whoever is still inside. Even if that succeeds, an addendum expects something expunged within a year, and if it fails, the file simply says no further action will be needed, leaving the consequence entirely to the reader. The timeline does the rest: Sites 04, 31 and 26 lost in turn, four failed destruction attempts, four failed attempts to return it to its point of origin ending with the origin itself lost, and a change that containment survived for reasons unrelated to the procedures. The final entry notes that only seven agents who know about it remain, kept on as advisors.",
+  "related": [
+    {
+      "slug": "scp-004",
+      "note": "Named in the procedures as the gateway of Site-62."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-20"
+}

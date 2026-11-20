@@ -1,0 +1,23 @@
+{
+  "slug": "scp-107",
+  "lang": "en",
+  "hook": "A turtle shell that turns whatever liquid you pour into it into rain, plus a test log that makes up half the article. The fun is in the list itself: follow how the choice of liquid gets steadily more questionable and watch what grows as a result.",
+  "whyItMatters": "It is a classic Safe object built on a simple input-and-output rule, the kind of entry where the experiment log is the main event. The lead researcher openly invites colleagues to try reasonably safe liquids and record the results, and the log reads accordingly, with careful controls next to orange juice and superglue. A note also mentions crossover tests with other objects that were proposed and rejected as too risky.",
+  "thingsToNotice": "The rain is just the liquid that went in; what changes is the plants growing inside the zone, shaped by whatever fell. Water speeds growth and orange juice puts an unknown citrus fruit on any fruiting plant, but urine grows pitcher traps that, after a second dose, can digest small rodents, and D-class blood grows flytrap-like organs more than 20 cm across that did something expunged when people approached, then grew back two weeks later. The saliva test, with sacs that squirt at the subject, plays almost as a joke, while the glue test produces a coating that genuinely protects plants from insects. Small details reward attention: solids do nothing, heavy water falls as ordinary water, and mercury is taken in and pushed back out.",
+  "related": [
+    {
+      "slug": "scp-009",
+      "note": "Named in the log as a proposed pairing that was rejected as too dangerous."
+    },
+    {
+      "slug": "scp-447",
+      "note": "Its SCP-447-2 is among the rejected test pairings named in the log."
+    },
+    {
+      "slug": "scp-874",
+      "note": "Also named among the proposed test pairings that were rejected."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-20"
+}

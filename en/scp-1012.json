@@ -1,0 +1,19 @@
+{
+  "slug": "scp-1012",
+  "lang": "en",
+  "hook": "SCP-1012 is a musical chord, and its containment section is far longer and stranger than its description. Keep track of how much of the everyday world the procedures claim to have quietly rewired; the final paragraph explains why it was worth it.",
+  "whyItMatters": "It is a strong example of an uncontained Keter whose horror comes from the scale of the countermeasures rather than from any incident. Speakers, recordings, broadcast media and even the electricity supply are folded into a hidden containment system, so ordinary background noise takes on a new meaning. Even the footnotes do world-building, giving an in-universe reason for the audible tones some fluorescent tubes and CRT televisions make.",
+  "thingsToNotice": "Only all five tones sounding together for more than a few seconds does anything, and that one rule justifies every measure. The two ultrasonic tones are cancelled by antiphase signals from 36 Foundation stations and from design changes slipped into transducers built since 1988, into broadcasts and recordings, and into the mains frequency itself. The infrasonic tone was mostly sung by the Svalbard whale, which the Foundation drove to extinction in 1982, a fact delivered in a single dry sentence. The payoff is the prediction that the chord would break subatomic particles apart and, near a planet, set off a self-sustaining reaction until all the mass is gone, a CK-class scenario. Proposals to aim it at hostile aliens were turned down because testing it could itself be catastrophic.",
+  "related": [
+    {
+      "slug": "scp-1548",
+      "note": "Cited in the article as one of the hostile extraterrestrial threats."
+    },
+    {
+      "slug": "scp-2838",
+      "note": "Also cited in the article as a hostile extraterrestrial threat."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-20"
+}
