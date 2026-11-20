@@ -1,0 +1,15 @@
+{
+  "slug": "scp-5131",
+  "lang": "en",
+  "hook": "SCP-5131 is a short sleep-paralysis story told almost entirely as three interviews with a mental-health AI. Each witness describes the same night visitor in a D-Class jumpsuit, and each tries in their own way to get out of the conversation. The pain they report is described bluntly, so expect some bodily horror.",
+  "whyItMatters": "The file turns a familiar real-world experience, waking up unable to move with something in the room, into a question about how the Foundation treats the people it spends. It never lectures; the point arrives through who gets visited and how they talk about it.\n\nIt also makes good use of sophia.aic as an interviewer. A polite, persistent machine that will not let anyone end the session early is an effective way to pull out details people would rather keep to themselves.",
+  "thingsToNotice": "The three witnesses climb the ladder: a recall technician who insists it is just job stress, a production head who looked up D-13131's file at night and refuses to admit it shook her, and finally O5-5. Each one experiences a different injury, a hand pulling something out of a thigh, bones cracking with a sound like milk poured over cereal, and the O5 says he felt everything from all of them.\n\nThe footnote is the quiet key: the number D-13131 has belonged to at least 129 different people, and O5-5 explains that D-Class numbers are random and reshuffled so no one ties a face to a name. He has watched countless D-Class die and could not pick out their faces, but he admits he remembers the first, and he recognized the figure. The open investigation into the visitor as a person of interest leaves it unresolved.",
+  "related": [
+    {
+      "slug": "scp-106",
+      "note": "The first witness here works as a recall technician on this object."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-20"
+}
