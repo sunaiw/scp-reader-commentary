@@ -1,0 +1,10 @@
+{
+  "slug": "scp-119",
+  "lang": "en",
+  "hook": "SCP-119 is a microwave oven that ages whatever you put inside it instead of heating it. The fun is in how carefully the article works out the rules, from the power levels to a quirk of the one-minute button, so it rewards reading the numbers rather than skipping them. A small backstory about a winery that grew suspiciously old vintages sets the tone.",
+  "whyItMatters": "This is a classic everyday-appliance anomaly, and a good example of an entry that gets its interest from precise, testable mechanics rather than from danger or atmosphere. The worked examples let you follow the scaling yourself, which makes the jump to the top setting feel enormous.\n\nIt also shows how containment procedures can grow out of research: each rule in the procedures traces back to something the testers found out along the way.",
+  "thingsToNotice": "The scaling is exponential, so the top power level with the maximum 999-second input means a short wait on the outside and over thirty-one million years inside. The winery's fraud makes sense on that scale: it was selling wines dated many years before the company existed, which eventually sank it in lawsuits.\n\nThe addendum quietly turns a kitchen gadget into something grim, because time does not feel faster to whatever is inside; a living thing simply experiences the whole span, needing food and sleep throughout, and starves. That is why tests on living beings now need Level 4 approval, and why the industrial disinfectant was added in case microbes evolve in there. Note as well that the door interlock was disabled during disassembly, revealing that it can run with the door open, and its radiation spreads much like ordinary microwaves would.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-20"
+}
