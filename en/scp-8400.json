@@ -1,0 +1,15 @@
+{
+  "slug": "scp-8400",
+  "lang": "en",
+  "hook": "SCP-8400 is a long, three-part story about a folklorist and a nameless entity of birch bark and deer skull, fought out as a series of games played with chestnuts. It opens as a clinical file but drifts toward fairy tale, and the prose style changes with each encounter. The first manifestation is violent, with civilians and police impaled on branches and crushed in collapsing buildings.",
+  "whyItMatters": "It is a showcase for incident logs that turn into narrative fiction, moving from a bracketed transcript to plain prose to a fable that addresses the reader directly. It ties into the wider setting through Daleport and SCP-1936, and leans on the idea of logomorphs, beings bound to names and words. Underneath the games, it turns a hard eye on the Foundation itself.",
+  "thingsToNotice": "Every game runs the same way: speak a truth about the other, toss the chestnut, and if it cracks the claim was false. Martlet wins the first by goading SCP-8400 into insisting the two are not equals, and a footnote admits her opening bait about knowing where its name was had been a lie. The second, in ruined Daleport, ends when SCP-8400 whispers three words we never hear and the chestnut splits even though Martlet swears they were true. In the third chapter she leads him through a dreamed version of a Foundation facility to rows of empty cradles labeled with names and a trunk of sleeping infant heads, and the reveal lands: the Foundation tore Names from his kind, raised the few it did not kill to help contain the vengeful remnants, and Martlet is one of those Names, his own other half. Her last chestnut, that they can become one again, shatters, so he wins, eats one of the orphaned Names to become Beithe, and the two walk off together as she plans to break her branch away from the Foundation.",
+  "related": [
+    {
+      "slug": "scp-1936",
+      "note": "Cited directly as the site of the Battle of Daleport, where the second encounter takes place."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-20"
+}

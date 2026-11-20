@@ -1,0 +1,10 @@
+{
+  "slug": "scp-034",
+  "lang": "en",
+  "hook": "SCP-034 is an ancient obsidian knife that lets you wear someone else's body, provided you cut a piece of them first. Much of the article is a methodical run of lab tests probing its rules, so it rewards readers who enjoy working out an anomaly's logic. It describes flaying plainly, including a victim found with most of his arm skinned.",
+  "whyItMatters": "It is a classic rules-and-tests file: one simple mechanic, then a list of experiments that each push a different edge. The skin-wearing rites described in its backstory tie the object to a gruesome tradition, while the infiltration incident turns it into a spy story with an unseen backer.",
+  "thingsToNotice": "The tests map the rules neatly: a corpse gives nothing, a donor in a coma works, a brain-dead donor knocks the wearer out until it expires, and injuries and even a fatal genetic illness are copied, to the point that D-452 dies alongside the terminal patient before reverting. Animal samples barely do anything, and the lone test on an anomalous humanoid ends in an expunged disaster that halts such testing for good. Because the wearer keeps their own mind and memories, the rule that anyone handling the knife be watched until their identity is confirmed makes sense. The interrogation report leaves the bigger question open: the impostor knew the Foundation and rival groups well, got the knife from an unknown benefactor with orders to stay put, carried enough of the doctor's skin to last for days, and died under questioning, so whoever sent him is never found.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-20"
+}

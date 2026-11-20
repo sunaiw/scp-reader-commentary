@@ -1,0 +1,10 @@
+{
+  "slug": "scp-5149",
+  "lang": "en",
+  "hook": "SCP-5149 is a very short file built entirely around a decoding problem: a repeating signal from outside the Solar System and the team trying to read it. Pay attention to the comments in the attempt log, which carry the whole story in a handful of lines. It ends on a single profane line.",
+  "whyItMatters": "It is a compact joke that works through structure, squeezing hundreds of omitted attempts into a few telling entries and inviting the reader to try the puzzle alongside the cryptographers. The payoff depends on a room full of experts overlooking something obvious, a classic setup for this kind of short piece.",
+  "thingsToNotice": "The clues are there from the start: 44 dots in a pattern with gaps, sent as text, and a team that tries ancient dot languages, flips, rotations and even connect-the-dots without ever thinking of a script read by touch. On attempt 249 the greenhorn they mock suggests a nonverbal-language screener, which identifies Braille in half a second. The message is a cry for help from someone who cannot see, and the joke turns grim once you picture a blind sender reaching across interstellar space while the experts burned through hundreds of attempts. The team is reassigned pending demotion, and the hunt for the source just carries on.",
+  "related": [],
+  "status": "reviewed",
+  "updatedAt": "2026-11-20"
+}

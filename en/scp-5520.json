@@ -1,0 +1,15 @@
+{
+  "slug": "scp-5520",
+  "lang": "en",
+  "hook": "SCP-5520 is a long, document-heavy file about a Foundation researcher who has become something the Foundation would rather use than contain. Most of it is correspondence printed out from somewhere deep underground, and its emotional center is the friendship between two old colleagues. Per the navigation at its foot it sits in the Words of Power and Poison sequence, but it reads fine on its own. It deals with cognitive decline and with who gets to decide when a person has stopped being themselves.",
+  "whyItMatters": "It turns the familiar reality-bender premise into a story about memory loss and caregiving, with the anomaly's growing confusion played as tragedy rather than threat. The containment section, with its floodgates and expanding foam, reads very differently once you learn where that plan came from. It also gives Site-43's institutional history a human face through the long partnership of Rydderech and Scout.",
+  "thingsToNotice": "Rydderech's first letter blames comic books: like the scientist heroes he loved, accidental exposure gave him powers, and the 43 staff of his department turn out to be phantoms he imagined, a number picked so he would not lose count. The investigation logs make the condition physical, with a duplicate of AAF-A as it looked in the forties, the Cardiff lab rebuilt with fluorescent lights it never had, and an agent who vanishes the instant he touches a shaking pipe. Over decades the printouts decay from jokes and enzyme designs nobody has invented yet into paranoid accusations, a question about whether chirality exists, and a cure for cancer he can no longer recall. Scout finally tries to trigger SUNDOWN, the flood Wynn himself seeded into the walls, and reads O5-8 the letter in which Wynn made clear where he drew the line between living and no longer being himself; the Council refuses, Scout resigns and dies a year later, and Wynn writes that he looks forward to seeing him 'yesterday'. The closing memo repackages him as a quantum supercomputer, DR-RHETORIC, staffed by rotated and amnesticized handlers, and its P.S. admits the printouts still keep addressing Vivian.",
+  "related": [
+    {
+      "slug": "scp-5494",
+      "note": "Linked as the preceding entry in the Words of Power and Poison navigation at the end of the article."
+    }
+  ],
+  "status": "reviewed",
+  "updatedAt": "2026-11-20"
+}
