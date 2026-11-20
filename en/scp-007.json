@@ -2,18 +2,9 @@
   "slug": "scp-007",
   "lang": "en",
   "hook": "A man with a small living planet where his stomach should be, and he is mostly fine with it. The file is short and calm, closer to a curiosity than a horror story. Read it for the small details about the man himself, because that is where the real questions come from.",
-  "whyItMatters": "SCP-007 is one of the low-numbered early entries and a good example of a premise carried by one striking image rather than by danger. It shows the early habit of pairing a cosmic idea with a very ordinary, cooperative human subject. Its quiet tone also makes it a nice palate cleanser between heavier files.",
-  "thingsToNotice": "The Earth-like sphere gets an almost geological description, but the strangest lines concern the man's paperwork: identification numbers that turn out never to have been issued. That one detail opens up questions about where, or when, he might come from, and the article leaves them open.\n\nAlso notice the human texture: the weekly chess games, the comfortable room, and a request for an internet connection that keeps getting turned down. The procedures treat him kindly but firmly, and the routine check on the tiny civilizations hints that the planet itself keeps changing over time.",
-  "related": [
-    {
-      "slug": "scp-085",
-      "note": "Another friendly, cooperative subject whose requests show what the Foundation will and will not allow."
-    },
-    {
-      "slug": "scp-140",
-      "note": "Another object where a civilization's history keeps moving forward while the Foundation watches."
-    }
-  ],
+  "whyItMatters": "SCP-007 is a low-numbered entry carried by one striking image rather than by danger. It pairs a cosmic idea, a whole inhabited world, with a very ordinary and cooperative human host, and most of its effect comes from that mismatch in scale. Its quiet tone makes it a nice palate cleanser between heavier files.",
+  "thingsToNotice": "The sphere gets an almost geological description: its own weather, continents that match no arrangement from Earth's past, and two intelligent species whose technology has reached roughly the 15th century and has to be checked every week. The strangest lines, though, concern the man: no record of his name exists, he needs no food or water, and the Social Security and driver's license numbers he gives turn out never to have been issued yet. That last word opens up the possibility that he comes from somewhere later in time, and the article never answers it.\n\nAlso notice the human texture: the weekly chess games used as psychological checkups, the comfortable room, his shrug that he simply woke up one day with it, and a request for an internet connection that keeps getting turned down.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-18"
+  "updatedAt": "2026-11-20"
 }

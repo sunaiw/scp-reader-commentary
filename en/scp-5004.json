@@ -1,19 +1,19 @@
 {
   "slug": "scp-5004",
   "lang": "en",
-  "hook": "This is broad political satire, not horror. It recasts real US politicians and judges as wizards, demons and Foundation pawns, with plenty of crude jokes, so go in expecting a comedy that is loud on purpose. Remembering the headlines of the late 2010s helps, but the absurdity mostly carries itself.",
-  "whyItMatters": "The author's note at the top presents it as a descendant of SCP-4444, and that lineage is the right frame: these are alternate-history farces that use Foundation bureaucracy to lampoon real events. It is also a big ensemble piece that pulls in a long roster of familiar staff characters, such as Light, Cairns, Pathos Crow and Glass. Because it mocks living public figures by name, how well it lands will depend a great deal on the individual reader.",
-  "thingsToNotice": "The central joke is structural: a huge covert operation is launched to tip an election, and the planners keep discovering that somebody has already done each job before them. That running gag lets the article poke at the Foundation's self-importance and at the real-world chaos it is parodying at the same time. Notice how often the format switches, from commission reports and old journals to voicemails, memos and a nearly unreadable phone tip, each giving a different comic voice room to work. The finale drops any pretense of restraint, so read it as the payoff of a farce rather than a containment resolution.",
+  "hook": "This is broad political satire, not horror. It recasts real US politicians and Supreme Court justices as wizards, demons and Foundation pawns, and it is packed with crude jokes about bodily functions, so treat it as a comedy that is loud on purpose. The article leans on news events from 2015 to 2019 that it names directly, but the absurdity mostly carries itself.",
+  "whyItMatters": "The author's note at the top places it in a line running back to SCP-4444, calling it the oversized offspring of that article's successor, so it is meant to be read as part of a family of alternate-history farces. It is also a big ensemble piece, with Light, Cairns, Pathos Crow, Glass, Gears and other named staff all getting a scene. Because it mocks living public figures by name, how well it lands will depend a great deal on the individual reader.",
+  "thingsToNotice": "The premise is that Charles Evans Hughes summoned a foul-mouthed imp called Old Gorman in 1916, buried it under the Capitol steps out of spite, and a century of Washington's chaos fattened it into an archdemon; the only fix is a powerful reality sink in the Oval Office, and the only adult candidate who qualifies (Clef is vetoed instantly) is Donald Trump. The running gag of Project Whirlwind is that its 160 agents keep arriving to find someone else already doing their dirty work, from Flynn naked with the Russian ambassador to Roger Stone and the hacking, and Light finally admits the result would have happened without them.\n\nThe second half flips into damage control once Mueller is appointed, including the staff visiting the Trump family disguised as Russians (Cairns in an old woman's body, Crow as their dog) and Merlo dodging FBI questions by claiming to be a performance artist who urinates on people. The climax reveals Tiffany Trump as a would-be demonic sorceress who fuses Ivanka, Donald Jr. and Eric with Gorman into a three-headed monster, and Ruth Bader Ginsburg, built up all along as a self-proclaimed Grand Arcanist, finally gets her fight and seals the demon by ordering it to eat her ass. The resolution is just as flippant: the siblings are saved, Tiffany is destroyed and replaced by a body double on the grounds that hardly anyone knew her face, and Gorman is set to fade out on inauguration day 2021.",
   "related": [
     {
       "slug": "scp-4444",
-      "note": "Named in the author's note as this article's predecessor; another election farce."
+      "note": "The author's note traces this article's lineage back to it."
     },
     {
       "slug": "scp-2317",
-      "note": "Cited in a footnote here as an example of a place outside our own plane."
+      "note": "Named in a footnote as an example of a location outside the baseline universe."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-18"
+  "updatedAt": "2026-11-20"
 }

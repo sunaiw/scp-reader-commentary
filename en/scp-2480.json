@@ -1,19 +1,19 @@
 {
   "slug": "scp-2480",
   "lang": "en",
-  "hook": "SCP-2480 is a long, multi-part horror piece set in a foggy Massachusetts town, and it is one of the bleaker files around: expect intense violence and disturbing references to a cult's crimes. If you go in, read it in order. It starts as an unremarkable Safe-class file and turns into field logs, experiments and finally a very different kind of document.",
-  "whyItMatters": "Its tags tie it to the Sarkic material, the Global Occult Coalition and Dr. Judith Low, so it reads as part of a larger setting rather than a standalone monster file. The object class line, with its crossed-out entries, tells the story of a threat the Foundation badly misjudged. It is also a showcase for the idea of the Foundation and the GOC being forced to work side by side.",
-  "thingsToNotice": "Watch how perception structures the whole piece. The undercover agents only sense that something is wrong, the drug-assisted test logs describe what the town might really be, and the assistant's running commentary on the same scenes provides a chilling counterpoint. That split between two observers looking at one street is the article's main horror device.\n\nThe documents also change voice as they go: dry procedures, terse personal logs, a scientist's report, then a recruitment speech. Pay attention to the quiet loose ends near the start, such as an overdue report and two agents who never check in; they matter more than they seem.",
+  "hook": "SCP-2480 is a long, multi-part horror piece set in a foggy Massachusetts coastal town. Content note: it describes graphic body horror and violent deaths, and its backstory states outright that a cult committed rape, pedophilia, human sacrifice and cannibalism. If you go in, read it in order, because it starts as an unremarkable Safe-class file and turns into field logs, experiments and finally a very different kind of document.",
+  "whyItMatters": "Its tags and footnotes tie it to the Sarkic material, the Global Occult Coalition and Dr. Judith Low, so it reads as part of a larger setting rather than a standalone monster file. The object class line, with its crossed-out entries, compresses the story of a threat the Foundation badly misjudged into a single row. It is also built around the Foundation and the GOC, who start out blaming each other, being forced to fight side by side.",
+  "thingsToNotice": "The overdue report and the two agents who never check in are the first clue: Site Director Simon Oswalt, the colorless bureaucrat put in charge of a 'Safe' site, has become SCP-2480-1, Karcist Karvas, remade by Ion and secretly running the town. The agents' logs only register wrongness, from a man slamming his head against a peephole to children eating a flayed dog, while Grayson is reduced to slurry by something invisible and Giuseppe vanishes from a locked house.\n\nNarváez's DMT tests are the main horror device, because the hidden town is narrated alongside Dr. Wu's live feed of the same street: hooded figures walking pale needle-toothed creatures on intestine leashes and tearing apart their runt, while Wu sees a teacher on a field trip and kids bullying a classmate. The second test goes through a false wall into flesh tunnels and out onto farmland near the estate, where a four-meter Behemoth disembowels Goldstein and red tendrils drag Lightbody into a hole while she screams and her bones break.\n\nThe last tab flips into a Project Sitra Achra recruitment briefing from O5-4: the enemy is 'mostly human', MTF Psi-9 has about a 55 percent first-month survival rate, and twelve years of night fighting were needed to retake the estate. Oswalt's interrogation supplies the nastiest reveal, that the town's breeding families and missing people are livestock he keeps alive for meat, before he tears off his own arms trying to reach the interviewer, and a final line about similar anomalies in Romania undercuts the 'presumed neutralized' status.",
   "related": [
     {
       "slug": "scp-2075",
-      "note": "Named in this file's own footnotes as a possibly connected anomaly."
+      "note": "Pointed to in a footnote here as a presumably related anomaly."
     },
     {
       "slug": "scp-2095",
-      "note": "Also cited in the footnotes as a likely related anomaly."
+      "note": "Cited in the same footnote alongside SCP-2075 as presumably related."
     }
   ],
   "status": "reviewed",
-  "updatedAt": "2026-11-18"
+  "updatedAt": "2026-11-20"
 }

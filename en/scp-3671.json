@@ -2,18 +2,9 @@
   "slug": "scp-3671",
   "lang": "en",
   "hook": "A cereal box in the Site-19 break room that refills itself every morning sounds like the friendliest object imaginable, and for a while it is. Almost the whole article is a dated log of labels and contents, so read the entries in order and keep an eye on the packaging. It is short, funny and a little nasty, roughly in that order.",
-  "whyItMatters": "SCP-3671 belongs to a well-loved strain of the wiki: the everyday household object with a personality and a grudge. It carries the featured tag, and its rating suggests the joke landed with a lot of readers. The format does most of the work, turning a dry containment log into a running conversation with the staff.",
-  "thingsToNotice": "The first few entries are deliberately boring, just flavors and tasting notes, so the shift in tone hits harder when it arrives. From then on the labels carry the story: the object speaks only through its own packaging, and the contents work as punchlines that grow steadily more alarming. Its voice swings between sulking, bad puns and fake peace offerings, which makes it feel like a petty coworker rather than a monster.\n\nAlso look back at the procedures. The update paragraph quietly records the whole move from shared snack to locked storage before you even reach the log.",
-  "related": [
-    {
-      "slug": "scp-458",
-      "note": "Another food-dispensing object whose fun is in reading the test table row by row."
-    },
-    {
-      "slug": "scp-294",
-      "note": "A drink machine with a test log that starts playful and does not always stay that way."
-    }
-  ],
+  "whyItMatters": "It is a clean example of the everyday household object with a personality and a grudge, and it carries the featured tag. The format does most of the work: a dry daily log of labels and contents turns, without any change in tone from the Foundation side, into a one-sided conversation with the staff. That contrast between flat record-keeping and an increasingly unhinged box is the whole engine of the piece.",
+  "thingsToNotice": "Everything turns on the March 12 note: Dr. Frank Wright accidentally tears the box while pulling out the bag, and the next morning the label swears at him and the contents are razor blades. From there the packaging becomes the object's only voice and the contents its punchlines, escalating through push pins, bullets under a 'cereal killer' pun, a friendly offer to make up that hides cyanide-laced corn flakes, and plastic explosive with a sulky note that it hoped they would fall for it.\n\nThe last entry drops the jokes entirely, naming Frank and promising to slit his throat in his sleep, and the box holds human teeth that match Wright's own in shape and DNA. The closing note that the object is not believed able to act on its threats sits awkwardly next to that detail, which is the final chill. Look back at the procedures too, where the update paragraph has already recorded the move from shared snack to locked storage before you reach the log.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-18"
+  "updatedAt": "2026-11-20"
 }

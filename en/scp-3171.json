@@ -1,19 +1,10 @@
 {
   "slug": "scp-3171",
   "lang": "en",
-  "hook": "A comic first-contact story about talking plants, written in the voice of a dry field report. The early sections set up a serious linguistics project, and the payoff depends on a cultural misunderstanding you're better off not looking up in advance. Expect frank, crude humor rather than horror.",
-  "whyItMatters": "It plays with a classic science-fiction idea: that an alien culture's taboos might attach to something humans find completely ordinary. It is also a story about art and value, since the plants care deeply about their own poetry and wave off everything humans offer, including work by acclaimed poets. The closing memos turn the joke back on the Foundation, showing how fast an institution can convert a misunderstanding into a steady supply.",
-  "thingsToNotice": "Notice how the transcripts escalate: an unauthorized poem, a formal greeting, a recited classic, and finally an accidental late-night ramble, each failing or succeeding for reasons nobody anticipated. The footnotes carry much of the comedy, especially the linguistics lead's worries about what the translation software might be flattening. The punchline is less about the plants than about the people who learn to perform for them. Read the last two memos side by side; the refusal says as much as the complaint.",
-  "related": [
-    {
-      "slug": "scp-163",
-      "note": "A quieter, more hopeful attempt to talk with a mind that shares no language with us."
-    },
-    {
-      "slug": "scp-458",
-      "note": "Another Safe file where the Foundation finds a very practical everyday use for an anomaly."
-    }
-  ],
+  "hook": "A comic first-contact story about a field of talking plants, told in the voice of a dry research report. The early sections play it straight as a linguistics project, so the joke lands harder if you go in cold. The article is tagged sexual, and the humor is frank and crude rather than frightening.",
+  "whyItMatters": "It runs on a classic science-fiction idea: an alien culture's taboos might attach to something humans consider completely harmless. Underneath the comedy it is also a story about art and value, since the plants take their own verse very seriously and are unmoved by what humans think of as great poetry. The Foundation's role is played for satire, with an institution that cares less about understanding a new mind than about what it can extract from one.",
+  "thingsToNotice": "The twist is that for these plants, sharing food or water with family is the equivalent of incest, which the earlier detail about refusing to feed their own sprouting offspring sets up. So a drunk junior researcher rambling at 3:30 AM about splitting ice cream with his mom gets jeered as a whore in public, while about a hundred plants privately message the team for more.\n\nThe botany head turns this into a business: his session with SCP-3171-213 is a haggle over how many fluid sacs a story about sharing a milkshake with his sister is worth, ending with the plant releasing spores in what reads as climax. Those sacs feed amnestic production, and by 2015 the Foundation has 87 staff telling such stories on a schedule, after Green's poem, Wang's Browning recital and a team of celebrated poets all failed.\n\nIn the closing memos Wang calls the arrangement an affront to human and plant dignity, and an O5 answers that it does not make the top hundred things keeping them awake. The reply is addressed to Alice, the name Williams feared would be angry about his broadcast, which quietly suggests Wang was the boss he was dodging.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-18"
+  "updatedAt": "2026-11-20"
 }

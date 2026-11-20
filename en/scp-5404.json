@@ -2,18 +2,9 @@
   "slug": "scp-5404",
   "lang": "en",
   "hook": "This one is written in a deliberately odd, childlike English, and the strangeness is not there just for laughs. Give the phrasing a few lines to settle and you will start to see why the file has to talk this way. It is short, so read it twice: once for the joke, once for the implications.",
-  "whyItMatters": "SCP-5404 carries the jam-con2020 tag, and it is a strong example of an article whose form is its anomaly. Many files describe a dangerous idea; this one has to avoid naming what it is about, and the whole document bends around that restriction. It sits comfortably beside the wiki's other language and infohazard pieces while being much funnier than most of them.",
-  "thingsToNotice": "Look at the test table, where ordinary words, misspellings and playground-code variants are tried one at a time. It works as a gag, but it also lets you reverse-engineer the rules from the inside. The footnotes are where the researchers' unease leaks through, and the last one is worth a second look.\n\nThe later section hints that the problem is getting worse and that someone else is behind it. Notice how little is explained there; the closing lines lean on names and phrases the reader is left to puzzle over.",
-  "related": [
-    {
-      "slug": "scp-055",
-      "note": "Another file built around something it cannot properly put into words."
-    },
-    {
-      "slug": "scp-3125",
-      "note": "A different take on an idea that is dangerous to know, with a page that makes the reader work."
-    }
-  ],
+  "whyItMatters": "SCP-5404 carries the jam-con2020 tag, and it is a clear example of an article whose form is its anomaly. Plenty of files describe a dangerous idea; this one cannot safely name what it is about, so the whole document bends around that restriction. The comedy and the threat come from the same place, which is what keeps it from being a one-note gag.",
+  "thingsToNotice": "The reason for the baby talk is that any words used to discuss the anomaly itself can detonate when spoken or written, so the Foundation has to describe it in clumsy stand-ins like 'boom-boom words', and even the standard phrase for containment procedures is on the forbidden list. The test table shows the rules are about meaning rather than spelling: spacing, leetspeak and Pig Latin versions all blow up, a lazy abbreviation survives, and the second footnote wonders whether intent is what counts.\n\nNotice the drift inside the table too. Plain 'word' passes early and fails at the bottom, and 'be careful' is unsafe while 'be making safe' is fine, which quietly proves the procedures' warning that safe things stop being safe. The final section reveals the explosive words are being manufactured by a hostile group, raises the fear that ordinary speech could start detonating and end the world, and is signed only as 'Big In-Charge Group #08', with cryptic lines about Tiamat and Eshu that the article never explains.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-18"
+  "updatedAt": "2026-11-20"
 }

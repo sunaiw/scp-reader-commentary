@@ -2,18 +2,9 @@
   "slug": "scp-1055",
   "lang": "en",
   "hook": "SCP-1055 opens by warning that the document itself is risky to read, and it means it. The procedures describe a carefully furnished home, a teddy bear that must never leave someone's arms, and staff who are deliberately kept misinformed. Pay close attention to who is being described in each paragraph.",
-  "whyItMatters": "It is a good example of a Keter whose threat scales with attention, which turns the usual logic of an infohazard into a containment problem with no clean answer. The file ends with notes from three O5 members, a quick way to watch the Council split over ethics and cost. Its k-class-scenario tag makes clear that the stakes are far larger than the cozy procedures suggest.",
-  "thingsToNotice": "Notice the gap between the gentle tone of the care instructions and the severity of the description that follows. The meals, the books and the playroom are written with real warmth, and the article sets that warmth right beside catastrophic language. The whole arrangement rests on one person's kindness, and the document never lets you forget how fragile that is.\n\nThe closing O5 comments are worth reading as three distinct voices. One objects on moral grounds, one is coldly practical, and one treats the matter as a budget question; together they show the Foundation weighing a human being against a disaster. The file deliberately leaves that disagreement unresolved.",
-  "related": [
-    {
-      "slug": "scp-096",
-      "note": "Another entity whose danger is set off simply by being perceived."
-    },
-    {
-      "slug": "scp-3125",
-      "note": "Another file where knowing about the subject is part of the danger."
-    }
-  ],
+  "whyItMatters": "It is a Keter whose containment problem has no clean answer, because the usual tools of documentation and staffing are part of the hazard. The file ends with notes from three O5 members, a compact way to watch the Council split over ethics and cost. Its k-class-scenario tag makes clear that the stakes are far larger than the cozy procedures suggest.",
+  "thingsToNotice": "The twist is that SCP-1055 is not Mikey but Bugsy, the teddy bear he is never allowed to put down. The real anomaly is a grizzly-like mass that grows with every person aware of it, faster when they are afraid, without any known upper limit, and only shrinks if most of those people die. Mikey, a man with Down syndrome and autism, is the caretaker D-1055, and the procedures and description are written so that on-site staff believe he is the anomaly and Bugsy is just a creepy, badly sewn toy.\n\nThe backstory explains why this works: after the twelfth breach and the bombing of Site-76, he was found alone in the rubble hugging the shredded creature, and his purely protective affection does not feed it. The document also tells you, the reader, that you are now one of the people who would have to die to eliminate it. The O5 notes then sharpen the ethics: O5-10 refuses to let the world rest on a disabled man's hugs, O5-5 mockingly suggests delivering the news in person so one fewer person knows, and O5-7 reveals that more intellectually disabled people are already being recruited and groomed as replacements.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-18"
+  "updatedAt": "2026-11-20"
 }

@@ -3,17 +3,8 @@
   "lang": "en",
   "hook": "SCP-148 is a metal that blocks psychic and mind-affecting effects, which sounds like the most useful thing the Foundation could own. The first half reads like a materials data sheet. Keep track of the numbers, especially anything to do with weight.",
   "whyItMatters": "The alloy is presented less as a threat than as a containment tool, a way of using one anomaly to hold back others. It was recovered from the ruined base facility of Prometheus Labs, which gives the file a wider backstory of commercial plans and missing stock. It carries the rewrite tag, so the text you read is a reworked version.",
-  "thingsToNotice": "Notice how the addenda escalate. The first sounds promising, the second introduces a cost paid by staff who merely cleaned the storeroom, and the later ones turn on a mass that keeps rising when it should not. Even the struck-through figures in the description quietly show numbers being revised upward.\n\nThe incident report is the hinge: a single test shows that the metal does not simply cancel an effect, and the strict procedures at the top of the page make far more sense afterward. The janitors' loss of language is easy to skim past, but it is the most human cost in the file.",
-  "related": [
-    {
-      "slug": "scp-500",
-      "note": "Another short file that reads like an inventory, where the count is worth watching."
-    },
-    {
-      "slug": "scp-140",
-      "note": "Another case where the procedures exist mainly to keep one thing away from something else."
-    }
-  ],
+  "thingsToNotice": "Notice how the addenda escalate. The first sounds promising, the second reveals that janitors who merely swept the storeroom lost the ability to read tone, body language and emotion, shrinking vocabularies until, after about eight weeks, exposed people go completely mute while otherwise thinking normally. The third records a 0.1-tonne gain in mass with no change in volume, which the struck-through density and total-mass figures in the description already quietly reflect.\n\nThe incident report is the reveal: the metal does not cancel psychic effects, it soaks them up as mass. A 0.9 kg sample near another anomaly swelled to 1.4 kg, then dropped to 0.8 kg in two seconds and released the stored effect at twelve times its normal range. That explains every strict rule at the top, from the three-week staff rotation to remote detonation on contact, and the final addendum's note that the total mass keeps climbing leaves the outcome of a large-scale discharge redacted.",
+  "related": [],
   "status": "reviewed",
-  "updatedAt": "2026-11-18"
+  "updatedAt": "2026-11-20"
 }
